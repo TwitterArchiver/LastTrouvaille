@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1885892991963021765",
+    "created_at": "2025-02-02T09:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T10:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885983359983292806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1840391415165308928",
+          "start": 0,
+          "username": "Oobserver4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885983359983292806",
+    "in_reply_to_user_id": "1840391415165308928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885900314127335747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oobserver4 比较小众的原因（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1885892991963021765",
+        "created_at": "2025-02-02T09:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T10:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885983359983292806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1840391415165308928",
+              "start": 0,
+              "username": "Oobserver4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885983359983292806",
+        "in_reply_to_user_id": "1840391415165308928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885900314127335747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oobserver4 比较小众的原因（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840391415165308928",
+        "conversation_id": "1885892991963021765",
+        "created_at": "2025-02-02T03:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T04:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885900314127335747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885900314127335747",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885892991963021765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 玩碧蓝幻想需要在推特发救援码😐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 2464,
+          "like_count": 12089,
+          "listed_count": 6,
+          "media_count": 222,
+          "tweet_count": 2924
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-29T14:01:53.000Z",
+        "description": "02年，男，特长：废，寝，忘，食。",
+        "id": "1840391415165308928",
+        "name": "Observer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844654123578425345/uxdnTFGJ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 40,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "Oobserver4",
+        "verified": false
+      }
+    ]
+  }
+}

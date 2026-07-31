@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1976923015188537797",
+    "created_at": "2025-10-11T13:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T14:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977010648946295262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977010648946295262",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976923015188537797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar 宝宝你好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1976923008452509699",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29xAIMbwAMDmEj.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1976923015188537797",
+        "created_at": "2025-10-11T13:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T14:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977010648946295262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977010648946295262",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976923015188537797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 宝宝你好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976923008452509699"
+          ]
+        },
+        "author_id": "1868205822511288320",
+        "conversation_id": "1976923015188537797",
+        "created_at": "2025-10-11T08:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T09:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976923015188537797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5fRTKPxsXj",
+              "end": 23,
+              "expanded_url": "https://x.com/vicoOci_Olvidar/status/1976923015188537797/photo/1",
+              "media_key": "3_1976923008452509699",
+              "start": 0,
+              "url": "https://t.co/5fRTKPxsXj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976923015188537797",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5fRTKPxsXj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3376,
+          "following_count": 2691,
+          "like_count": 31519,
+          "listed_count": 12,
+          "media_count": 698,
+          "tweet_count": 7302
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "18岁 女 没少骂人 intp/中文/🚪100、288、520 /BS/飞机杯@ohyeahcomeonnow 🐻❤️～@Lmao_Quien /🐖@tanbara_ririka🎸@D_D_ovO_ /@ninarich1991 @mantou0618 @sanitf1 @iTZQing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "ohyeahcomeonnow"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "Lmao_Quien"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "tanbara_ririka"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "ninarich1991"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "mantou0618"
+              },
+              {
+                "end": 135,
+                "start": 127,
+                "username": "sanitf1"
+              },
+              {
+                "end": 144,
+                "start": 136,
+                "username": "iTZQing"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "idk",
+        "name": "惹谁了",
+        "pinned_tweet_id": "1974751195156939092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943523513643732995/2kx3p2bv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4537,
+          "following_count": 284,
+          "like_count": 21687,
+          "listed_count": 13,
+          "media_count": 746,
+          "tweet_count": 11620
+        },
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912439995412914177"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1907395461151154318",
+    "created_at": "2025-04-16T09:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T10:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912440000257417687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845031423440531456",
+          "start": 0,
+          "username": "WZRY_QiDong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m98MQkvZkv",
+          "end": 65,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1912440000257417687/photo/1",
+          "media_key": "3_1912439995412914177",
+          "start": 42,
+          "url": "https://t.co/m98MQkvZkv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912440000257417687",
+    "in_reply_to_user_id": "1845031423440531456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907395461151154318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WZRY_QiDong 我也拍了！！\n感觉短暂的回游就是为了给tgc那98（小声 https://t.co/m98MQkvZkv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1260,
+        "media_key": "3_1912439995412914177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GopaCxTWIAEq892.jpg",
+        "width": 2240
+      },
+      {
+        "height": 720,
+        "media_key": "3_1907395457766293504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnhuECJagAAiGH6.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912439995412914177"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1907395461151154318",
+        "created_at": "2025-04-16T09:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T10:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912440000257417687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1845031423440531456",
+              "start": 0,
+              "username": "WZRY_QiDong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m98MQkvZkv",
+              "end": 65,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1912440000257417687/photo/1",
+              "media_key": "3_1912439995412914177",
+              "start": 42,
+              "url": "https://t.co/m98MQkvZkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912440000257417687",
+        "in_reply_to_user_id": "1845031423440531456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907395461151154318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WZRY_QiDong 我也拍了！！\n感觉短暂的回游就是为了给tgc那98（小声 https://t.co/m98MQkvZkv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907395457766293504"
+          ]
+        },
+        "author_id": "1845031423440531456",
+        "conversation_id": "1907395461151154318",
+        "created_at": "2025-04-02T11:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T12:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907395461151154318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zqqbp1DZtj",
+              "end": 26,
+              "expanded_url": "https://x.com/WZRY_QiDong/status/1907395461151154318/photo/1",
+              "media_key": "3_1907395457766293504",
+              "start": 3,
+              "url": "https://t.co/zqqbp1DZtj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907395461151154318",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泥嚎 https://t.co/zqqbp1DZtj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2453,
+          "following_count": 2402,
+          "like_count": 20062,
+          "listed_count": 13,
+          "media_count": 423,
+          "tweet_count": 4890
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T09:19:30.000Z",
+        "description": "你好这里小宝石｜顺性别女｜学前教育专业目前大三｜家庭原因半工半读ing｜王者荣耀启动｜喜欢你就会回关你",
+        "id": "1845031423440531456",
+        "location": "🚪88/188",
+        "name": "学识宝石",
+        "pinned_tweet_id": "1912417296905302049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866756192468602883/NMWHbRlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 47,
+          "like_count": 1415,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 1524
+        },
+        "username": "WZRY_QiDong",
+        "verified": false
+      }
+    ]
+  }
+}

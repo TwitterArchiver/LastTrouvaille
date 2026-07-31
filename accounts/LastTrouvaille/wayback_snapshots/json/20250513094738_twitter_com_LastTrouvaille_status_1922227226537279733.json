@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1922155880499359907",
+    "created_at": "2025-05-13T09:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T10:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922227226537279733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1547020655740080128",
+          "start": 0,
+          "username": "H_galgame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922227226537279733",
+    "in_reply_to_user_id": "1547020655740080128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922221966620016812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H_galgame 是体质问题啦\n而且还没有涂润肤露😣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1922155880499359907",
+        "created_at": "2025-05-13T09:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T10:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922227226537279733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1547020655740080128",
+              "start": 0,
+              "username": "H_galgame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922227226537279733",
+        "in_reply_to_user_id": "1547020655740080128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922221966620016812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H_galgame 是体质问题啦\n而且还没有涂润肤露😣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547020655740080128",
+        "conversation_id": "1922155880499359907",
+        "created_at": "2025-05-13T09:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T10:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922221966620016812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922221966620016812",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922155880499359907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 手好干，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2798,
+          "following_count": 2562,
+          "like_count": 23984,
+          "listed_count": 12,
+          "media_count": 508,
+          "tweet_count": 5739
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T00:50:57.000Z",
+        "description": "想要交到好朋友，有时候笨笨的，因为一些原因可能有些麻木。\n……是男的()\n有时候好像会把过去的东西都忘光…希望大家不要忘掉我，我也会好好记住大家的……\n希望大家都能找到属于自己的真爱呢。\n爱人:@Pragevich2    \n问答箱https://t.co/qFhVEYT5L7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "Pragevich2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hy3129342449",
+                "end": 139,
+                "expanded_url": "https://ngl.link/hy3129342449",
+                "start": 116,
+                "url": "https://t.co/qFhVEYT5L7"
+              }
+            ]
+          }
+        },
+        "id": "1547020655740080128",
+        "location": "哈尔滨",
+        "name": "輝子",
+        "pinned_tweet_id": "1788435902139945017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897169606940483584/D0wUggrC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 657,
+          "like_count": 15678,
+          "listed_count": 2,
+          "media_count": 3704,
+          "tweet_count": 7672
+        },
+        "username": "H_galgame",
+        "verified": false
+      }
+    ]
+  }
+}

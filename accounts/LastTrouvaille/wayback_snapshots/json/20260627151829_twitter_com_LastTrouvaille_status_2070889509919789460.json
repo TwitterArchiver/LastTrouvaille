@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070889507688534016"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "2070889509919789460",
+    "created_at": "2026-06-27T15:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070889509919789460"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HLScoi8Hg8",
+          "end": 137,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2070889509919789460/photo/1",
+          "media_key": "3_2070889507688534016",
+          "start": 114,
+          "url": "https://t.co/HLScoi8Hg8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070889509919789460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "平行线其实并不悲哀\n没有了相交，也就没有了羁绊\n令人悲伤的其实是相交线\n相交时迸发出令人羡慕的光芒\n然而即使希望自己一直都能在对方眼中\n最后却依旧分开越走越远\n如果说痛苦是那一刻相遇的铺垫\n可以时光倒流的话\n宁愿把相交改作平行 https://t.co/HLScoi8Hg8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 342,
+        "media_key": "3_2070889507688534016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1HCQLb0AAF1X6.jpg",
+        "width": 266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070889507688534016"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2070889509919789460",
+        "created_at": "2026-06-27T15:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070889509919789460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLScoi8Hg8",
+              "end": 137,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2070889509919789460/photo/1",
+              "media_key": "3_2070889507688534016",
+              "start": 114,
+              "url": "https://t.co/HLScoi8Hg8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070889509919789460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "平行线其实并不悲哀\n没有了相交，也就没有了羁绊\n令人悲伤的其实是相交线\n相交时迸发出令人羡慕的光芒\n然而即使希望自己一直都能在对方眼中\n最后却依旧分开越走越远\n如果说痛苦是那一刻相遇的铺垫\n可以时光倒流的话\n宁愿把相交改作平行 https://t.co/HLScoi8Hg8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】叫CC就好‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4523,
+          "following_count": 2931,
+          "like_count": 48711,
+          "listed_count": 14,
+          "media_count": 1008,
+          "tweet_count": 9348
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

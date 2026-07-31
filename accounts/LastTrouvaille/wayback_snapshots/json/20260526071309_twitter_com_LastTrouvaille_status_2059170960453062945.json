@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2059139678952194551",
+    "created_at": "2026-05-26T07:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059170960453062945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1838030304227028992",
+          "start": 0,
+          "username": "1967SavingUs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059170960453062945",
+    "in_reply_to_user_id": "1838030304227028992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059164145463804047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1967SavingUs 不叽道诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2059139678952194551",
+        "created_at": "2026-05-26T07:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059170960453062945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1838030304227028992",
+              "start": 0,
+              "username": "1967SavingUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059170960453062945",
+        "in_reply_to_user_id": "1838030304227028992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059164145463804047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1967SavingUs 不叽道诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838030304227028992",
+        "conversation_id": "2059139678952194551",
+        "created_at": "2026-05-26T06:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059164145463804047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059164145463804047",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059139678952194551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 脱毛用什么比较好呀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦，叫妈妈姐姐也行（不是）‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖不许键政🚫‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4276,
+          "following_count": 2871,
+          "like_count": 46739,
+          "listed_count": 14,
+          "media_count": 963,
+          "tweet_count": 9079
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-23T01:39:26.000Z",
+        "description": "很高兴认识您，我的意思是能见到您真是太好了。",
+        "id": "1838030304227028992",
+        "location": "橙子",
+        "name": "Akira",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006275028606935041/2LrlZcuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 321,
+          "like_count": 2136,
+          "listed_count": 1,
+          "media_count": 392,
+          "tweet_count": 1370
+        },
+        "username": "1967SavingUs",
+        "verified": false
+      }
+    ]
+  }
+}

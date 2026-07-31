@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1949530936250618128",
+    "created_at": "2025-07-28T03:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T04:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949666326890639509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1938916576461496320",
+          "start": 0,
+          "username": "tianyvxingyv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949666326890639509",
+    "in_reply_to_user_id": "1938916576461496320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949540691274862905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianyvxingyv 抱抱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1949530936250618128",
+        "created_at": "2025-07-28T03:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T04:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949666326890639509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1938916576461496320",
+              "start": 0,
+              "username": "tianyvxingyv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949666326890639509",
+        "in_reply_to_user_id": "1938916576461496320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949540691274862905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianyvxingyv 抱抱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938916576461496320",
+        "conversation_id": "1949530936250618128",
+        "created_at": "2025-07-27T18:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T19:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949540691274862905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949540691274862905",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949530936250618128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 抱抱！实际上姐姐只是想要一个温柔的人陪！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3212,
+          "following_count": 2694,
+          "like_count": 29482,
+          "listed_count": 12,
+          "media_count": 620,
+          "tweet_count": 6800
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T11:06:36.000Z",
+        "description": "",
+        "id": "1938916576461496320",
+        "name": "天羽星雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944949493000003584/lt_-B_1S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 188,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "tianyvxingyv",
+        "verified": false
+      }
+    ]
+  }
+}

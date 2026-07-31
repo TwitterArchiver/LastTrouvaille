@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893253517395312640"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1893253520884637782",
+    "created_at": "2025-02-22T10:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T11:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893253520884637782"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yk2vG1FAyK",
+          "end": 47,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1893253520884637782/photo/1",
+          "media_key": "3_1893253517395312640",
+          "start": 24,
+          "url": "https://t.co/Yk2vG1FAyK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893253520884637782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "超级可爱的雷电影只花了35就到手了！35！！！ https://t.co/Yk2vG1FAyK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1893253520884637782].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1893253520884637782",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1893253520884637782"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3064,
+        "media_key": "3_1893253517395312640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkYwCw4bQAAp0Mw.jpg",
+        "width": 2143
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ 这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2005,
+          "following_count": 2186,
+          "like_count": 14247,
+          "listed_count": 7,
+          "media_count": 269,
+          "tweet_count": 3489
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

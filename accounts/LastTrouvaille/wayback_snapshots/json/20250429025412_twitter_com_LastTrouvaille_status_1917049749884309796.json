@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1916493598658560505",
+    "created_at": "2025-04-29T02:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T03:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917049749884309796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1722958276801744897",
+          "start": 0,
+          "username": "JIANZHANGdada"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917049749884309796",
+    "in_reply_to_user_id": "1722958276801744897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917029941256065411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JIANZHANGdada 捏捏w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 220,
+        "media_key": "16_1917029930254356480",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GpqokJCaUAAtcCi.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GpqokJCaUAAtcCi.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1916493598658560505",
+        "created_at": "2025-04-29T02:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T03:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917049749884309796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1722958276801744897",
+              "start": 0,
+              "username": "JIANZHANGdada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917049749884309796",
+        "in_reply_to_user_id": "1722958276801744897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917029941256065411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JIANZHANGdada 捏捏w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1917029930254356480"
+          ]
+        },
+        "author_id": "1722958276801744897",
+        "conversation_id": "1916493598658560505",
+        "created_at": "2025-04-29T01:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T02:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917029941256065411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DNCQeLrRDj",
+              "end": 56,
+              "expanded_url": "https://x.com/JIANZHANGdada/status/1917029941256065411/photo/1",
+              "media_key": "16_1917029930254356480",
+              "start": 33,
+              "url": "https://t.co/DNCQeLrRDj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917029941256065411",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916493598658560505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 一把抱走🥰(⁠〃ﾟ⁠3ﾟ⁠〃⁠) https://t.co/DNCQeLrRDj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2527,
+          "following_count": 2584,
+          "like_count": 21526,
+          "listed_count": 14,
+          "media_count": 461,
+          "tweet_count": 5187
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T12:44:30.000Z",
+        "description": "一切皆为徒劳。无论逃至何处，万事皆虚空。（Vanitas vanitatum, et omnia vanitas.）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "s.team/p/grbp-prqb/rw…",
+                "end": 23,
+                "expanded_url": "https://s.team/p/grbp-prqb/rwmdmqwp",
+                "start": 0,
+                "url": "https://t.co/KIA1LwpGP3"
+              }
+            ]
+          }
+        },
+        "id": "1722958276801744897",
+        "location": "Paradise😇😇😇",
+        "name": "舰长大大",
+        "pinned_tweet_id": "1912783090805797357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898200407341461504/OtBcW-WU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 146,
+          "like_count": 2059,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 740
+        },
+        "url": "https://t.co/KIA1LwpGP3",
+        "username": "JIANZHANGdada",
+        "verified": false
+      }
+    ]
+  }
+}

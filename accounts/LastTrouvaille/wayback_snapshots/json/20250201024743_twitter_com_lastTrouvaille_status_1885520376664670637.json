@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1885378314728333698",
+    "created_at": "2025-02-01T02:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T03:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885520376664670637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1814278258189533184",
+          "start": 0,
+          "username": "Asphyxia_v_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885520376664670637",
+    "in_reply_to_user_id": "1814278258189533184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885378314728333698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asphyxia_v_ 好诶\n千fo恭喜！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1885378314728333698",
+        "created_at": "2025-02-01T02:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T03:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885520376664670637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1814278258189533184",
+              "start": 0,
+              "username": "Asphyxia_v_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885520376664670637",
+        "in_reply_to_user_id": "1814278258189533184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885378314728333698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asphyxia_v_ 好诶\n千fo恭喜！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885378305026908165"
+          ]
+        },
+        "author_id": "1814278258189533184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1885378314728333698",
+        "created_at": "2025-01-31T17:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T18:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885378314728333698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jHWwSHifAL",
+              "end": 119,
+              "expanded_url": "https://x.com/Asphyxia_v_/status/1885378314728333698/photo/1",
+              "media_key": "3_1885378305026908165",
+              "start": 96,
+              "url": "https://t.co/jHWwSHifAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885378314728333698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6823,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "芜湖！1000fo了🥳🥳🥳\n搞个抽奖吧\n抽十个珍珠奶茶如何，就是那个蜜雪冰城中杯的奶茶（这个天还是喝热的吧凉的肚子疼）\n然后抽奖的话在评论区评论且给主播关注哦\n🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳 https://t.co/jHWwSHifAL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 2441,
+          "like_count": 11950,
+          "listed_count": 6,
+          "media_count": 220,
+          "tweet_count": 2883
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T12:37:12.000Z",
+        "description": "🚪？我家大🚪常打开～ 聊天直接私信就好了但是我会提前看看你成分，网易云的话同名，偶尔搁b站播一播，目前也就玩粥和塔科夫，可以叫我一起坐牢",
+        "id": "1814278258189533184",
+        "location": "诺文斯克经济开发区",
+        "name": "废熊Asphyxia",
+        "pinned_tweet_id": "1857696719087218795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880768493429444608/e_3TLluG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 308,
+          "like_count": 39677,
+          "listed_count": 5,
+          "media_count": 2484,
+          "tweet_count": 25558
+        },
+        "username": "Asphyxia_v_",
+        "verified": false
+      }
+    ]
+  }
+}

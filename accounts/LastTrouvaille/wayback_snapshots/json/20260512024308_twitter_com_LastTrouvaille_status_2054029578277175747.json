@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054029576104546304"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "2054029578277175747",
+    "created_at": "2026-05-12T02:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T03:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054029578277175747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vU8ifyLRPt",
+          "end": 54,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2054029578277175747/photo/1",
+          "media_key": "3_2054029576104546304",
+          "start": 31,
+          "url": "https://t.co/vU8ifyLRPt"
+        },
+        {
+          "display_url": "x.com/LastTrouvaille…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/LastTrouvaille/status/2053999609681437100",
+          "start": 55,
+          "url": "https://t.co/STJqZEErjq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054029578277175747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053999609681437100",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "等等，瞎搞一通然后就..好了..？（？）\n现在又能用app了 https://t.co/vU8ifyLRPt https://t.co/STJqZEErjq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 795,
+        "media_key": "3_2054029576104546304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFhBEnbkAAEdxT.jpg",
+        "width": 645
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054029576104546304"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2054029578277175747",
+        "created_at": "2026-05-12T02:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T03:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054029578277175747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vU8ifyLRPt",
+              "end": 54,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2054029578277175747/photo/1",
+              "media_key": "3_2054029576104546304",
+              "start": 31,
+              "url": "https://t.co/vU8ifyLRPt"
+            },
+            {
+              "display_url": "x.com/LastTrouvaille…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/LastTrouvaille/status/2053999609681437100",
+              "start": 55,
+              "url": "https://t.co/STJqZEErjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054029578277175747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053999609681437100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "等等，瞎搞一通然后就..好了..？（？）\n现在又能用app了 https://t.co/vU8ifyLRPt https://t.co/STJqZEErjq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2053999609681437100",
+        "created_at": "2026-05-12T00:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T01:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053999609681437100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053999609681437100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推更新到新版本之后一打开就提示要谷歌play了，不然就闪退\n但是查了下手机有谷歌play呀qvq\n这要怎么办呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦‖INFP-T‖轻抑‖今天也有变得更温柔可爱一点‖中粤英日‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4070,
+          "following_count": 2850,
+          "like_count": 45657,
+          "listed_count": 14,
+          "media_count": 945,
+          "tweet_count": 8903
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

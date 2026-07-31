@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1888220327135924392",
+    "created_at": "2025-02-08T14:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T15:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888232864346783764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1248637653001494529",
+          "start": 0,
+          "username": "Fomalhautawa"
+        },
+        {
+          "end": 22,
+          "id": "1257468016020750336",
+          "start": 14,
+          "username": "RX7_8_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888232864346783764",
+    "in_reply_to_user_id": "1248637653001494529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888228927157797065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fomalhautawa @RX7_8_2 等等，原来CC才是不正常的那个吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1888220327135924392",
+        "created_at": "2025-02-08T14:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T15:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888232864346783764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Fomalhautawa"
+            },
+            {
+              "end": 22,
+              "id": "1257468016020750336",
+              "start": 14,
+              "username": "RX7_8_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888232864346783764",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888228927157797065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fomalhautawa @RX7_8_2 等等，原来CC才是不正常的那个吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248637653001494529",
+        "conversation_id": "1888220327135924392",
+        "created_at": "2025-02-08T14:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T15:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888228927157797065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1257468016020750336",
+              "start": 0,
+              "username": "RX7_8_2"
+            },
+            {
+              "end": 24,
+              "id": "1691242509815754754",
+              "start": 9,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888228927157797065",
+        "in_reply_to_user_id": "1257468016020750336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888228186439451038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RX7_8_2 @lastTrouvaille 缪斯也太正常了（誒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 2053,
+          "like_count": 12505,
+          "listed_count": 7,
+          "media_count": 239,
+          "tweet_count": 3216
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "你好哦亲爱的，我姓师然后怎么称呼都行，把我当成中性就行（点头），现居上海。/发些日常，食物或者抽象，也有高P自拍（划掉），偶尔会说点怪话口牙。/私信评论都会互动哦，我很温和的，请随意。/经常会清理一些推文，望见谅。/愿你喜乐安康。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shisw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shisw",
+                "start": 0,
+                "url": "https://t.co/mrwuVdttUu"
+              }
+            ]
+          }
+        },
+        "id": "1248637653001494529",
+        "location": "萱华轩",
+        "name": "S𝔥𝔦𝔰𝔴",
+        "pinned_tweet_id": "1888225944906977429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883561348619218944/wfuWIRmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 145,
+          "like_count": 49203,
+          "listed_count": 5,
+          "media_count": 25,
+          "tweet_count": 11100
+        },
+        "url": "https://t.co/mrwuVdttUu",
+        "username": "Fomalhautawa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-05T00:32:06.000Z",
+        "description": "［ENTP/声控］［诺丁汉森林队迷］\n［喜欢初音未来］［情绪积极］［不社恐呀］［友跨喵］［社会自由主义］［灰无性恋］\n亲爱的 @_Shu_official_  挚爱的 @eyizhirenxu\n“想互fo请私信我呀”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "_Shu_official_"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "eyizhirenxu"
+              }
+            ]
+          }
+        },
+        "id": "1257468016020750336",
+        "location": "马孔多",
+        "name": "缪斯",
+        "pinned_tweet_id": "1859690763271184780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858232826036162560/NkhzmiQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 223,
+          "like_count": 1954,
+          "listed_count": 4,
+          "media_count": 37,
+          "tweet_count": 768
+        },
+        "username": "RX7_8_2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1974124156758421924",
+    "created_at": "2025-10-03T17:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T18:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974165604925100053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1641983374133960704",
+          "start": 0,
+          "username": "kaguya___love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974165604925100053",
+    "in_reply_to_user_id": "1641983374133960704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974135474915848443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaguya___love 对吧对吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1974124156758421924",
+        "created_at": "2025-10-03T17:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T18:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974165604925100053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1641983374133960704",
+              "start": 0,
+              "username": "kaguya___love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974165604925100053",
+        "in_reply_to_user_id": "1641983374133960704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974135474915848443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaguya___love 对吧对吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641983374133960704",
+        "conversation_id": "1974124156758421924",
+        "created_at": "2025-10-03T15:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974135474915848443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974135474915848443",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974124156758421924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 确实无敌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3351,
+          "following_count": 2693,
+          "like_count": 30985,
+          "listed_count": 12,
+          "media_count": 692,
+          "tweet_count": 7256
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:58:48.000Z",
+        "description": "已经变成推推空间了（摆烂）\n窝棚 \n1053392267\noopz \nhttps://t.co/tYRXnOxEcl\nkook\nhttps://t.co/KzpIjZSljz\nwows asia konpakuyuyuko",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "oopz.cn/i/mCIQSn",
+                "end": 58,
+                "expanded_url": "https://oopz.cn/i/mCIQSn",
+                "start": 35,
+                "url": "https://t.co/tYRXnOxEcl"
+              },
+              {
+                "display_url": "kook.vip/ZclG17",
+                "end": 87,
+                "expanded_url": "https://kook.vip/ZclG17",
+                "start": 64,
+                "url": "https://t.co/KzpIjZSljz"
+              }
+            ]
+          }
+        },
+        "id": "1641983374133960704",
+        "location": "龙结晶之地，一个任何奇面族都没有发现的地方",
+        "name": "卡古亚",
+        "pinned_tweet_id": "1942266696502579234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957781289710546945/qbRJoW5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 1988,
+          "like_count": 3963,
+          "listed_count": 1,
+          "media_count": 322,
+          "tweet_count": 1056
+        },
+        "username": "kaguya___love",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1875927218494562712",
+    "created_at": "2025-01-05T15:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T16:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1875927218494562712"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KoJikaXiaoLu_/…",
+          "end": 156,
+          "expanded_url": "https://twitter.com/KoJikaXiaoLu_/status/1875654775980880060",
+          "start": 133,
+          "url": "https://t.co/ykXODLNDWU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875927218494562712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875654775980880060",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想起来一些事情（\n当初是CC和初恋表白，但是最后被初恋甩了。后来对方说还是想做朋友，所以咱第一次原谅了她，紧接着又是因为一次吵架没有了往来，又是她提出想要和好，咱第二次原谅了她，最后第三次还是她的恶劣最终绝交\n容忍不是因为忘记，记住不是因为愤恨，可惜对方只有她自己 https://t.co/ykXODLNDWU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1875927218494562712",
+        "created_at": "2025-01-05T15:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T16:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875927218494562712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KoJikaXiaoLu_/…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/KoJikaXiaoLu_/status/1875654775980880060",
+              "start": 133,
+              "url": "https://t.co/ykXODLNDWU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875927218494562712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875654775980880060",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起来一些事情（\n当初是CC和初恋表白，但是最后被初恋甩了。后来对方说还是想做朋友，所以咱第一次原谅了她，紧接着又是因为一次吵架没有了往来，又是她提出想要和好，咱第二次原谅了她，最后第三次还是她的恶劣最终绝交\n容忍不是因为忘记，记住不是因为愤恨，可惜对方只有她自己 https://t.co/ykXODLNDWU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822910760873537536",
+        "conversation_id": "1875654775980880060",
+        "created_at": "2025-01-04T21:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T22:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875654775980880060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875654775980880060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 700,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "即使当初分别的时候你那样绝情 但是你来找我道歉时 我依旧会放下恩怨选择和你重归于好 但你却表现出一副什么都没发生过的样子 我想知道 我的原谅对你来说 意味着什么…（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 1920,
+          "like_count": 9054,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 2195
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T08:19:35.000Z",
+        "description": "你好哇~ 我叫小鹿吖！ 🇨🇳｜欢迎互fo交朋友（成分置顶）｜永远是MyGO!!!!!和YOASOBI的粉丝🥰｜表达能力较差（非常抱歉）｜偶尔抽象｜萌新鼓手进化中…｜中度抑郁+焦虑｜里推：@XiaoLuStayalive（脸熟给过）｜关注可爱宝宝谢谢喵：@wu_tong6460と@morrrrrrrling",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 93,
+                "username": "XiaoLuStayalive"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "wu_tong6460"
+              },
+              {
+                "end": 153,
+                "start": 139,
+                "username": "morrrrrrrling"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ImSB.com",
+                "end": 23,
+                "expanded_url": "http://ImSB.com",
+                "start": 0,
+                "url": "https://t.co/5bFJcS4l59"
+              }
+            ]
+          }
+        },
+        "id": "1822910760873537536",
+        "location": "二人今夜に駆けるしていく",
+        "name": "-小鹿小鹿-🦌",
+        "pinned_tweet_id": "1874142597717123119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871255203539984384/qtXDtbi7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 887,
+          "like_count": 12221,
+          "listed_count": 5,
+          "media_count": 273,
+          "tweet_count": 4496
+        },
+        "url": "https://t.co/5bFJcS4l59",
+        "username": "KoJikaXiaoLu_",
+        "verified": false
+      }
+    ]
+  }
+}

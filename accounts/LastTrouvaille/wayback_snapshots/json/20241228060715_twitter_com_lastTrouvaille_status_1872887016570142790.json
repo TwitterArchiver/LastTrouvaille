@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1872863007371608544",
+    "created_at": "2024-12-28T06:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T07:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872887016570142790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1759847001351393280",
+          "start": 0,
+          "username": "kewenly12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872887016570142790",
+    "in_reply_to_user_id": "1759847001351393280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872863007371608544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kewenly12 我懂😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1872863007371608544",
+        "created_at": "2024-12-28T06:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T07:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872887016570142790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1759847001351393280",
+              "start": 0,
+              "username": "kewenly12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872887016570142790",
+        "in_reply_to_user_id": "1759847001351393280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872863007371608544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kewenly12 我懂😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872863004670521345"
+          ]
+        },
+        "author_id": "1759847001351393280",
+        "conversation_id": "1872863007371608544",
+        "created_at": "2024-12-28T04:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T05:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872863007371608544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ObUl74f8i",
+              "end": 66,
+              "expanded_url": "https://x.com/kewenly12/status/1872863007371608544/photo/1",
+              "media_key": "3_1872863004670521345",
+              "start": 43,
+              "url": "https://t.co/8ObUl74f8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872863007371608544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我发觉认认真真用翻译器聊了一晚上的“日本网友”是个机器人时我的状态be like： https://t.co/8ObUl74f8i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1871369957063483612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 1733,
+          "like_count": 7556,
+          "listed_count": 4,
+          "media_count": 158,
+          "tweet_count": 1892
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T07:46:52.000Z",
+        "description": "大家的互联网朋友，可以叫我墨水喵或者墨墨/mtx/友一切/互fo/超级内向社恐人类🥺/06/涉猎广泛捏/不键政对政治什么的不感兴趣嗯嗯/权当pyq发/做的不好的话对不起呜呜/blue sky↓↓↓每日更新吃货墨墨的日常😋，欢迎灌注喵～↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/inkwen…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/inkwenly12.bsky.social",
+                "start": 0,
+                "url": "https://t.co/EvkxqUc2Dq"
+              }
+            ]
+          }
+        },
+        "id": "1759847001351393280",
+        "name": "inkwenly🍤🍛🍇🍼🌮🍥",
+        "pinned_tweet_id": "1851652958989209872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836618631251382272/1gtyaij0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 517,
+          "like_count": 15570,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1248
+        },
+        "url": "https://t.co/EvkxqUc2Dq",
+        "username": "kewenly12",
+        "verified": false
+      }
+    ]
+  }
+}

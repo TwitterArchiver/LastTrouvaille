@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1886631405926670723",
+    "created_at": "2025-02-04T05:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T06:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886652457247510676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1796757328416407552",
+          "start": 0,
+          "username": "Rinnnnneo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886652457247510676",
+    "in_reply_to_user_id": "1796757328416407552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886650962175201593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinnnnneo ww蹭蹭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1886631405926670723",
+        "created_at": "2025-02-04T05:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T06:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886652457247510676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1796757328416407552",
+              "start": 0,
+              "username": "Rinnnnneo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886652457247510676",
+        "in_reply_to_user_id": "1796757328416407552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886650962175201593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinnnnneo ww蹭蹭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796757328416407552",
+        "conversation_id": "1886631405926670723",
+        "created_at": "2025-02-04T05:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T06:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886650962175201593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886650962175201593",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886631405926670723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 乖，摸摸头🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 2482,
+          "like_count": 12375,
+          "listed_count": 6,
+          "media_count": 227,
+          "tweet_count": 2994
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T04:15:41.000Z",
+        "description": "透き通る夢を見ていた， 柔らかい永遠｜随笔+欢迎互fo｜可爱猫猫@amsrntk3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "amsrntk3"
+              }
+            ]
+          }
+        },
+        "id": "1796757328416407552",
+        "location": "云之彼端",
+        "name": "Rin",
+        "pinned_tweet_id": "1874650543693725741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865332247357997056/uQeo6KWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 686,
+          "like_count": 1537,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 323
+        },
+        "username": "Rinnnnneo",
+        "verified": false
+      }
+    ]
+  }
+}

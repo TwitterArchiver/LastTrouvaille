@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1886408273429147695",
+    "created_at": "2025-02-05T02:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T03:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886966177383243799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "982573829250727937",
+          "start": 0,
+          "username": "Nothing_poi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886966177383243799",
+    "in_reply_to_user_id": "982573829250727937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886961389287432608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nothing_poi8 有时候感觉，哎算了吧，自己一个人也挺好的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1886408273429147695",
+        "created_at": "2025-02-05T02:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T03:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886966177383243799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "982573829250727937",
+              "start": 0,
+              "username": "Nothing_poi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886966177383243799",
+        "in_reply_to_user_id": "982573829250727937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886961389287432608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nothing_poi8 有时候感觉，哎算了吧，自己一个人也挺好的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "982573829250727937",
+        "conversation_id": "1886408273429147695",
+        "created_at": "2025-02-05T02:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T03:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886961389287432608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886961389287432608",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886408273429147695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 我感觉上班上学都没有人找我玩，现在是更明显而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 2299,
+          "like_count": 12567,
+          "listed_count": 6,
+          "media_count": 228,
+          "tweet_count": 3042
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-07T11:00:31.000Z",
+        "description": "计算机/手机 软硬件/ 网络工程在读\n原神/VOCALOID/没有找好设定的FURRY\n喜欢的🎶风格：JPOP/J-JAZZ/LOFI/ACGN\nnative language in chinese,other maybe use translate,thanks\n常用中文，其他需翻译",
+        "id": "982573829250727937",
+        "location": "Yokosuka-shi, Kanagawa",
+        "name": "Poi",
+        "pinned_tweet_id": "1870784047674487059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768536123079561216/lWktbw2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 587,
+          "like_count": 6548,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 3423
+        },
+        "username": "Nothing_poi8",
+        "verified": false
+      }
+    ]
+  }
+}

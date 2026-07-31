@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1983757352424894469",
+    "created_at": "2025-10-31T00:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T01:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984058847431110840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1103119472464846849",
+          "start": 0,
+          "username": "xiaoyucc0318"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984058847431110840",
+    "in_reply_to_user_id": "1103119472464846849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983883469987181060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyucc0318 还是不要了吧（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1983757352424894469",
+        "created_at": "2025-10-31T00:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T01:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984058847431110840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1103119472464846849",
+              "start": 0,
+              "username": "xiaoyucc0318"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984058847431110840",
+        "in_reply_to_user_id": "1103119472464846849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983883469987181060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyucc0318 还是不要了吧（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103119472464846849",
+        "conversation_id": "1983757352424894469",
+        "created_at": "2025-10-30T13:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T14:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983883469987181060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983883469987181060",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983757352424894469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 让我来 我直接扛走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，年初和年中驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3479,
+          "following_count": 2727,
+          "like_count": 32779,
+          "listed_count": 12,
+          "media_count": 718,
+          "tweet_count": 7460
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-06T02:25:51.000Z",
+        "description": "聊天交友",
+        "id": "1103119472464846849",
+        "name": "mio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911285932797349889/4mt4MtUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 250,
+          "like_count": 18,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 146
+        },
+        "username": "xiaoyucc0318",
+        "verified": false
+      }
+    ]
+  }
+}

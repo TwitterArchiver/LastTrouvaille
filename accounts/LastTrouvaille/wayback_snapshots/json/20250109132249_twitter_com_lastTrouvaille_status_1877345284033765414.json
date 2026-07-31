@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1873030514250268931",
+    "created_at": "2025-01-09T13:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T14:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877345284033765414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1790702582018777088",
+          "start": 0,
+          "username": "wi9511465880"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877345284033765414",
+    "in_reply_to_user_id": "1790702582018777088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877344659279601892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wi9511465880 夸夸喵w\n中学的学习生活也很累嘞\n好棒好棒，辛苦啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1873030514250268931",
+        "created_at": "2025-01-09T13:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T14:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877345284033765414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1790702582018777088",
+              "start": 0,
+              "username": "wi9511465880"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877345284033765414",
+        "in_reply_to_user_id": "1790702582018777088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877344659279601892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wi9511465880 夸夸喵w\n中学的学习生活也很累嘞\n好棒好棒，辛苦啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790702582018777088",
+        "conversation_id": "1873030514250268931",
+        "created_at": "2025-01-09T13:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T14:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877344659279601892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877344659279601892",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873030514250268931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 可以夸夸我吗qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 2006,
+          "like_count": 9618,
+          "listed_count": 4,
+          "media_count": 181,
+          "tweet_count": 2327
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T11:15:47.000Z",
+        "description": "现在是个大笨蛋qwq，偶尔可能会鉴证，平常可爱，只是个中学生，住宿，精神方面轻微有些问题，数学和历史、物理不错，会努力平等对待每一个人（支黑就算了罢）",
+        "id": "1790702582018777088",
+        "location": "坎通国😋",
+        "name": "wi95114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867836171063312384/_f_e-tC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 54,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 210
+        },
+        "username": "wi9511465880",
+        "verified": false
+      }
+    ]
+  }
+}

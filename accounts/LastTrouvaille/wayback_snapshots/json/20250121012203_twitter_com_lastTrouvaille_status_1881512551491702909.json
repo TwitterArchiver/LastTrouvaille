@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1881348864831336804",
+    "created_at": "2025-01-21T01:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T02:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881512551491702909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857134346676895744",
+          "start": 0,
+          "username": "chayuxiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881512551491702909",
+    "in_reply_to_user_id": "1857134346676895744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881348864831336804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chayuxiang 李老板赢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1881348864831336804",
+        "created_at": "2025-01-21T01:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T02:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881512551491702909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857134346676895744",
+              "start": 0,
+              "username": "chayuxiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881512551491702909",
+        "in_reply_to_user_id": "1857134346676895744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881348864831336804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chayuxiang 李老板赢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857134346676895744",
+        "conversation_id": "1881348864831336804",
+        "created_at": "2025-01-20T14:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T15:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881348864831336804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881348864831336804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候一直在想，如果喜羊羊打光头强谁会赢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻丨说话爱带括号勿怪)丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 2228,
+          "like_count": 10636,
+          "listed_count": 4,
+          "media_count": 208,
+          "tweet_count": 2662
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T18:52:27.000Z",
+        "description": "茶语香｜碎碎念账号｜普通人类♀｜想和大家交朋友｜防失联📭chayuxiang@outlook.com｜₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chayuxiang1",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@chayuxiang1",
+                "start": 0,
+                "url": "https://t.co/C0Wr8Y3ej2"
+              }
+            ]
+          }
+        },
+        "id": "1857134346676895744",
+        "location": "🌏",
+        "name": "茶语香",
+        "pinned_tweet_id": "1874083452502630549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875477108656611328/UrCy2t0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 192,
+          "like_count": 2649,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 767
+        },
+        "url": "https://t.co/C0Wr8Y3ej2",
+        "username": "chayuxiang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2058039385938141579",
+    "created_at": "2026-05-24T10:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T11:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058489734482321869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1249196140936884224",
+          "start": 0,
+          "username": "sumeng_kelami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058489734482321869",
+    "in_reply_to_user_id": "1249196140936884224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058137375432401189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sumeng_kelami 要小心了w"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2058137375432401189].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2058137375432401189",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2058137375432401189"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2058039385938141579",
+        "created_at": "2026-05-24T10:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058489734482321869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1249196140936884224",
+              "start": 0,
+              "username": "sumeng_kelami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058489734482321869",
+        "in_reply_to_user_id": "1249196140936884224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058137375432401189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sumeng_kelami 要小心了w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦，叫妈妈姐姐也行（不是）‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖不许键政🚫‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4105,
+          "following_count": 2866,
+          "like_count": 46370,
+          "listed_count": 14,
+          "media_count": 955,
+          "tweet_count": 8997
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-12T04:42:35.000Z",
+        "description": "总有人间一两风，填我十万八个梦",
+        "id": "1249196140936884224",
+        "location": "百灶",
+        "name": "熟睡中的小小兰",
+        "pinned_tweet_id": "1970071180213379520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051976415978094592/nti0ZMsY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 196,
+          "like_count": 5700,
+          "listed_count": 1,
+          "media_count": 717,
+          "tweet_count": 3626
+        },
+        "username": "sumeng_kelami",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1941425673048031725",
+    "created_at": "2025-07-09T04:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T05:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942805622531010793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1376745203508211713",
+          "start": 0,
+          "username": "Vj1MgBu4qQJueGM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942805622531010793",
+    "in_reply_to_user_id": "1376745203508211713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941425673048031725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vj1MgBu4qQJueGM 盯---"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1941425673048031725",
+        "created_at": "2025-07-09T04:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T05:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942805622531010793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1376745203508211713",
+              "start": 0,
+              "username": "Vj1MgBu4qQJueGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942805622531010793",
+        "in_reply_to_user_id": "1376745203508211713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941425673048031725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vj1MgBu4qQJueGM 盯---"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1376745203508211713",
+        "conversation_id": "1941425673048031725",
+        "created_at": "2025-07-05T09:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T10:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941425673048031725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Vj1MgBu4qQJueG…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/Vj1MgBu4qQJueGM/status/1939979210694570125",
+              "start": 103,
+              "url": "https://t.co/xT1aXaonmI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941425673048031725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3089,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939979210694570125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不如来点有意思的戒色测试：\n\n今天是7月5日，我会试着在接下来的一个月内，杜绝任何形式的上贡和涩涩行为，直到8月5日为止。\n\n一个没有任何意义的尝试，只是好奇能不能坚持下来~\n也欢迎有想法的推友前来交流. https://t.co/xT1aXaonmI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3142,
+          "following_count": 2695,
+          "like_count": 28777,
+          "listed_count": 12,
+          "media_count": 599,
+          "tweet_count": 6662
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-30T03:57:02.000Z",
+        "description": "世界上只有一种真正的英雄主义，那就是在认清生活的真相后，依然热爱生活。",
+        "id": "1376745203508211713",
+        "location": "广州",
+        "name": "心",
+        "pinned_tweet_id": "1941425673048031725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910351764840423424/30yCSOGw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 681,
+          "like_count": 10178,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 867
+        },
+        "username": "Vj1MgBu4qQJueGM",
+        "verified": false
+      }
+    ]
+  }
+}

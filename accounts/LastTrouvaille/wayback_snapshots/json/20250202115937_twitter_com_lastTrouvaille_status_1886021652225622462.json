@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886021649402834944",
+        "3_1886021649893584896"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1886021652225622462",
+    "created_at": "2025-02-02T11:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T12:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886021652225622462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5G47gfgzPc",
+          "end": 32,
+          "expanded_url": "https://x.com/lastTrouvaille/status/1886021652225622462/photo/1",
+          "media_key": "3_1886021649402834944",
+          "start": 9,
+          "url": "https://t.co/5G47gfgzPc"
+        },
+        {
+          "display_url": "pic.x.com/5G47gfgzPc",
+          "end": 32,
+          "expanded_url": "https://x.com/lastTrouvaille/status/1886021652225622462/photo/1",
+          "media_key": "3_1886021649893584896",
+          "start": 9,
+          "url": "https://t.co/5G47gfgzPc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886021652225622462",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "波奇大酋长寻找中 https://t.co/5G47gfgzPc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1886021652225622462].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1886021652225622462",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1886021652225622462"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 652,
+        "media_key": "3_1886021649402834944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gix-spNaMAAV9r3.jpg",
+        "width": 810
+      },
+      {
+        "height": 698,
+        "media_key": "3_1886021649893584896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gix-srCacAAb6dW.jpg",
+        "width": 702
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 2470,
+          "like_count": 12132,
+          "listed_count": 6,
+          "media_count": 224,
+          "tweet_count": 2942
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

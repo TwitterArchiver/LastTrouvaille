@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052897396343144448"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "2052897398834462818",
+    "created_at": "2026-05-08T23:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T00:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052897398834462818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qhz6rhZfqS",
+          "end": 71,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2052897398834462818/photo/1",
+          "media_key": "3_2052897396343144448",
+          "start": 48,
+          "url": "https://t.co/qhz6rhZfqS"
+        },
+        {
+          "display_url": "x.com/LastTrouvaille…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/LastTrouvaille/status/2052584357349728631",
+          "start": 72,
+          "url": "https://t.co/l0pA0cCkFr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052897398834462818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052584357349728631",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么今天还要上课啊\n看看调休调的哪一天（\n上周二的课的话..\n不对..等等..周二也有早八.. https://t.co/qhz6rhZfqS https://t.co/l0pA0cCkFr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 669,
+        "media_key": "3_2052897396343144448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1bTiVbgAApYq5.jpg",
+        "width": 695
+      },
+      {
+        "height": 590,
+        "media_key": "3_2052584354384412672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHw-mGKbgAA2Km_.jpg",
+        "width": 794
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052897396343144448"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2052897398834462818",
+        "created_at": "2026-05-08T23:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T00:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052897398834462818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qhz6rhZfqS",
+              "end": 71,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2052897398834462818/photo/1",
+              "media_key": "3_2052897396343144448",
+              "start": 48,
+              "url": "https://t.co/qhz6rhZfqS"
+            },
+            {
+              "display_url": "x.com/LastTrouvaille…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/LastTrouvaille/status/2052584357349728631",
+              "start": 72,
+              "url": "https://t.co/l0pA0cCkFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052897398834462818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052584357349728631",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么今天还要上课啊\n看看调休调的哪一天（\n上周二的课的话..\n不对..等等..周二也有早八.. https://t.co/qhz6rhZfqS https://t.co/l0pA0cCkFr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052584354384412672"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2052584357349728631",
+        "created_at": "2026-05-08T03:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052584357349728631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/weqZgZq61G",
+              "end": 41,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2052584357349728631/photo/1",
+              "media_key": "3_2052584354384412672",
+              "start": 18,
+              "url": "https://t.co/weqZgZq61G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052584357349728631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 670,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "累累\n困困\n好想睡觉\n早八我讨厌你 https://t.co/weqZgZq61G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦‖INFP-T‖轻抑‖今天也有变得更温柔可爱一点‖中粤英日‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4079,
+          "following_count": 2855,
+          "like_count": 45509,
+          "listed_count": 14,
+          "media_count": 943,
+          "tweet_count": 8887
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

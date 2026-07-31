@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1932712305026085122",
+    "created_at": "2025-06-11T10:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T11:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932754321982304423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1814941080150024194",
+          "start": 0,
+          "username": "QY947__light"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932754321982304423",
+    "in_reply_to_user_id": "1814941080150024194",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932741121127403919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QY947__light 来fo😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1932712305026085122",
+        "created_at": "2025-06-11T10:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T11:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932754321982304423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1814941080150024194",
+              "start": 0,
+              "username": "QY947__light"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932754321982304423",
+        "in_reply_to_user_id": "1814941080150024194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932741121127403919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QY947__light 来fo😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814941080150024194",
+        "conversation_id": "1932712305026085122",
+        "created_at": "2025-06-11T10:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T11:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932741121127403919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932741121127403919",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932712305026085122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 羡慕呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3011,
+          "following_count": 2659,
+          "like_count": 27350,
+          "listed_count": 13,
+          "media_count": 566,
+          "tweet_count": 6400
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T08:31:00.000Z",
+        "description": "诶嘿，香香软软的小男娘~\n刚刚认识的话会比较礼貌，有点自来熟，熟了之后会发癫（聊天🚪32r哦，偶尔会爆涩照～）",
+        "id": "1814941080150024194",
+        "location": "蒙德城",
+        "name": "神楽坂·柒小鼬～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833932907041173504/Uga2MFTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 390,
+          "like_count": 3170,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1037
+        },
+        "username": "QY947__light",
+        "verified": false
+      }
+    ]
+  }
+}

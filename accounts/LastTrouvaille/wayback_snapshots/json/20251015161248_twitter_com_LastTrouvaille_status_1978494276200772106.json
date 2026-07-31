@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1978491967085613326",
+    "created_at": "2025-10-15T16:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T17:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978494276200772106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597157388330536960",
+          "start": 0,
+          "username": "Praesepe_F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978494276200772106",
+    "in_reply_to_user_id": "1597157388330536960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978491967085613326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Praesepe_F 抱抱阿p\n一切都会好起来的~*.+゜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1978491967085613326",
+        "created_at": "2025-10-15T16:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T17:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978494276200772106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597157388330536960",
+              "start": 0,
+              "username": "Praesepe_F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978494276200772106",
+        "in_reply_to_user_id": "1597157388330536960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978491967085613326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Praesepe_F 抱抱阿p\n一切都会好起来的~*.+゜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597157388330536960",
+        "conversation_id": "1978491967085613326",
+        "created_at": "2025-10-15T16:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T17:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978491967085613326"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978491967085613326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到了最大的善意…谢谢你们，也谢谢小鹿…真的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3381,
+          "following_count": 2710,
+          "like_count": 31846,
+          "listed_count": 12,
+          "media_count": 702,
+          "tweet_count": 7338
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T09:16:20.000Z",
+        "description": "欢迎私信找我聊天 男的 舟批 高p家里蹲这一块 （周日双更） 如果你是皱皮或者想找我扩列，帮我转转推点点赞混混脸熟找我私信就行我蛮好说话的。",
+        "id": "1597157388330536960",
+        "location": "阿戈尔水世界",
+        "name": "椰椰斯卡蒂",
+        "pinned_tweet_id": "1953680922894569957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846204922972590083/C6AcVZ1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6565,
+          "following_count": 577,
+          "like_count": 9864,
+          "listed_count": 20,
+          "media_count": 266,
+          "tweet_count": 3339
+        },
+        "username": "Praesepe_F",
+        "verified": false
+      }
+    ]
+  }
+}

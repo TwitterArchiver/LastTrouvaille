@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1926775532814746004",
+    "created_at": "2025-05-26T01:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T02:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926812715026198940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841801152381558784",
+          "start": 0,
+          "username": "Amemiya_Hasumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926812715026198940",
+    "in_reply_to_user_id": "1841801152381558784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926775532814746004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amemiya_Hasumi 小莲早安"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 620,
+        "media_key": "16_1926775492155166720",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gr1IGgPWUAA5Flu.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gr1IGgPWUAA5Flu.mp4"
+          }
+        ],
+        "width": 386
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1926775532814746004",
+        "created_at": "2025-05-26T01:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T02:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926812715026198940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841801152381558784",
+              "start": 0,
+              "username": "Amemiya_Hasumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926812715026198940",
+        "in_reply_to_user_id": "1841801152381558784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926775532814746004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amemiya_Hasumi 小莲早安"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1926775492155166720"
+          ]
+        },
+        "author_id": "1841801152381558784",
+        "conversation_id": "1926775532814746004",
+        "created_at": "2025-05-25T23:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T00:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926775532814746004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/auldu6gekP",
+              "end": 29,
+              "expanded_url": "https://x.com/Amemiya_Hasumi/status/1926775532814746004/photo/1",
+              "media_key": "16_1926775492155166720",
+              "start": 6,
+              "url": "https://t.co/auldu6gekP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926775532814746004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家早安~ https://t.co/auldu6gekP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2873,
+          "following_count": 2651,
+          "like_count": 25175,
+          "listed_count": 12,
+          "media_count": 530,
+          "tweet_count": 5996
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T11:23:15.000Z",
+        "description": "「Et in Arcadia Ego. 我曾在阿卡迪亚。」\nCoser，直男，偶尔是男娘。\n第二人格@Hasumi_Amemiya。\n往期照片请见亮点，禁敏感政治/No Politics。\n↓更多介绍可戳这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "Hasumi_Amemiya"
+              }
+            ]
+          }
+        },
+        "id": "1841801152381558784",
+        "location": "永恆之地 翁法羅斯",
+        "name": "雨宮 蓮見",
+        "pinned_tweet_id": "1871596096461713573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918165588679245825/T3Da3VAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4251,
+          "following_count": 2313,
+          "like_count": 37100,
+          "listed_count": 7,
+          "media_count": 1145,
+          "tweet_count": 8279
+        },
+        "username": "Amemiya_Hasumi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1886408273429147695",
+    "created_at": "2025-02-03T13:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T14:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886413553894391920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1875932119274541056",
+          "start": 0,
+          "username": "tuanyuehuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886413553894391920",
+    "in_reply_to_user_id": "1875932119274541056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886411788457267417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuanyuehuan CC是上学也闲得慌放假也闲得慌（\n哎，已经是废人了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1886408273429147695",
+        "created_at": "2025-02-03T13:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T14:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886413553894391920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1875932119274541056",
+              "start": 0,
+              "username": "tuanyuehuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886413553894391920",
+        "in_reply_to_user_id": "1875932119274541056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886411788457267417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuanyuehuan CC是上学也闲得慌放假也闲得慌（\n哎，已经是废人了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875932119274541056",
+        "conversation_id": "1886408273429147695",
+        "created_at": "2025-02-03T13:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T14:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886411788457267417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886411788457267417",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886408273429147695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 是这样的呀，放假的时候感觉没事做，上学又觉得太忙太累了，果然是我在犯贱吗("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 2476,
+          "like_count": 12238,
+          "listed_count": 6,
+          "media_count": 225,
+          "tweet_count": 2970
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T15:47:54.000Z",
+        "description": "［說明書］\n\n簡稱：湍月幻\n\n主要成分：電波系/二次元/東方project/ひぐらしのなく頃に/さよならを教えて… comment te dire adieu.../ボーカロイド/化学 (?)\n\n使用方法及注意事項：可以私信闲聊 (什么都行 ! 只要有空)｜偶尔会瑟瑟｜回避依恋｜不加vx｜\n\n(๑╹ヮ╹๑)ﾉ",
+        "id": "1875932119274541056",
+        "location": "幻想鄉×東之国×雛見澤",
+        "name": "=湍月鏡像虛幻天使×",
+        "pinned_tweet_id": "1886212606375211279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877565006734307328/Wm-PnaWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 46,
+          "like_count": 137,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 160
+        },
+        "username": "tuanyuehuan",
+        "verified": false
+      }
+    ]
+  }
+}

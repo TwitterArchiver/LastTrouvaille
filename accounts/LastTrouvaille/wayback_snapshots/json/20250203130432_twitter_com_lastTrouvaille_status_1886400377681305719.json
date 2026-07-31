@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1886345752244604947",
+    "created_at": "2025-02-03T13:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T14:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886400377681305719"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "恭喜",
+          "probability": 0.7313,
+          "start": 11,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1811250754193440768",
+          "start": 0,
+          "username": "kirino_ki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886400377681305719",
+    "in_reply_to_user_id": "1811250754193440768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886345752244604947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirino_ki 恭喜纱纱🥳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1886345752244604947",
+        "created_at": "2025-02-03T13:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T14:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886400377681305719"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "恭喜",
+              "probability": 0.7313,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811250754193440768",
+              "start": 0,
+              "username": "kirino_ki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886400377681305719",
+        "in_reply_to_user_id": "1811250754193440768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886345752244604947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirino_ki 恭喜纱纱🥳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886345744271187968"
+          ]
+        },
+        "author_id": "1811250754193440768",
+        "conversation_id": "1886345752244604947",
+        "created_at": "2025-02-03T09:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T10:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886345752244604947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tMg63wZRem",
+              "end": 170,
+              "expanded_url": "https://x.com/kirino_ki/status/1886345752244604947/photo/1",
+              "media_key": "3_1886345744271187968",
+              "start": 147,
+              "url": "https://t.co/tMg63wZRem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886345752244604947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "1500fo了，真的非常谢谢fo纱纱的大家的说！再抄一次ID吧，我会写一句对你推文的看法或者是祝福的话，只要关注了我并且评论就可以参加哦（上次参加过或者还没关注纱纱现在也很欢迎的请务必来参加一下嘛！我会认真写对每一个人的祝福的）如果社恐不敢评论也可以私信的没关系的喵，眼熟的人点赞了也会写喵喵，截止两天之后吧，之前两天事有点多就拖到乐今天发捏"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1561,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "1500fo了，真的非常谢谢fo纱纱的大家的说！再抄一次ID吧，我会写一句对你推文的看法或者是祝福的话，只要关注了我并且评论就可以参加哦（上次参加过或者还没关注纱纱现在也很欢迎的请务必来参加一下嘛！我会认真写对每一个人的祝福的）如果社恐不敢评论也可以私信的没关系的喵，眼熟的人点赞了也会写喵… https://t.co/tMg63wZRem"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 2474,
+          "like_count": 12214,
+          "listed_count": 6,
+          "media_count": 224,
+          "tweet_count": 2962
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T04:07:02.000Z",
+        "description": "如果在你心中出现一片乌云的时候。 悲伤的诗能给乌云一个小小的拥抱。 然后它就会变换成一道开心的彩虹！",
+        "id": "1811250754193440768",
+        "location": "没回fo私信喵",
+        "name": "Kirino",
+        "pinned_tweet_id": "1884192786699935926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876103345871683584/Y-cKgPel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 950,
+          "like_count": 5861,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 879
+        },
+        "username": "kirino_ki",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1878040513489871111",
+    "created_at": "2025-01-12T04:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T05:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878298121265918168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1860238800544260097",
+          "start": 0,
+          "username": "barbara94066806"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878298121265918168",
+    "in_reply_to_user_id": "1860238800544260097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878040513489871111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@barbara94066806 可爱捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1878040513489871111",
+        "created_at": "2025-01-12T04:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T05:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878298121265918168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1860238800544260097",
+              "start": 0,
+              "username": "barbara94066806"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878298121265918168",
+        "in_reply_to_user_id": "1860238800544260097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878040513489871111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@barbara94066806 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878040504149094400"
+          ]
+        },
+        "author_id": "1860238800544260097",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1878040513489871111",
+        "created_at": "2025-01-11T11:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T12:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878040513489871111"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 10,
+              "tag": "天宮こころ"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "コスプレ"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "白丝"
+            },
+            {
+              "end": 35,
+              "start": 27,
+              "tag": "cosplay"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nk8ukcoEYl",
+              "end": 63,
+              "expanded_url": "https://x.com/barbara94066806/status/1878040513489871111/photo/1",
+              "media_key": "3_1878040504149094400",
+              "start": 40,
+              "url": "https://t.co/Nk8ukcoEYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878040513489871111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1840,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "心里一直是阿喵喵💕\n#天宮こころ #コスプレ\n#白丝 #cosplay #男娘 https://t.co/Nk8ukcoEYl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 2033,
+          "like_count": 9865,
+          "listed_count": 4,
+          "media_count": 188,
+          "tweet_count": 2414
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T08:28:09.000Z",
+        "description": "无药可救/也许可以私信聊天",
+        "id": "1860238800544260097",
+        "name": "barbara",
+        "pinned_tweet_id": "1874249161044021380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861449018519494658/WPEA1pAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 184,
+          "like_count": 760,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 45
+        },
+        "username": "barbara94066806",
+        "verified": false
+      }
+    ]
+  }
+}

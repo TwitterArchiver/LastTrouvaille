@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1898940949369331930",
+    "created_at": "2025-03-10T08:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T09:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899010584353624204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857134346676895744",
+          "start": 0,
+          "username": "chayuxiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899010584353624204",
+    "in_reply_to_user_id": "1857134346676895744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898940949369331930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chayuxiang 大概率是不行的（\n揉揉小茶😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1898940949369331930",
+        "created_at": "2025-03-10T08:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T09:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899010584353624204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857134346676895744",
+              "start": 0,
+              "username": "chayuxiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899010584353624204",
+        "in_reply_to_user_id": "1857134346676895744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898940949369331930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chayuxiang 大概率是不行的（\n揉揉小茶😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857134346676895744",
+        "conversation_id": "1898940949369331930",
+        "created_at": "2025-03-10T03:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T04:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898940949369331930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898940949369331930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 574,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【私事现生相关】\n求助现在正在休学的推友🤔\n我从2024年初第二学期开学时提交休学申请，因精神问题一直休学治疗到现在。\n今年九月份想要回学校继续读，因为遇到新教材改革，由于类似应激的反应，一年磕磕绊绊没有碰过课本，现在学习上遇到了困难🥲\n根据相关政策，可以选择退一级重新读吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链推荐是动画巡礼和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anitabi.cn",
+                "end": 23,
+                "expanded_url": "https://anitabi.cn/",
+                "start": 0,
+                "url": "https://t.co/ASAIm8Wyd2"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2096,
+          "following_count": 2448,
+          "like_count": 16047,
+          "listed_count": 7,
+          "media_count": 313,
+          "tweet_count": 3961
+        },
+        "url": "https://t.co/ASAIm8Wyd2",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T18:52:27.000Z",
+        "description": "茶语香｜唯一日常碎碎念账号｜普通人类｜想和大家交朋友｜₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chayuxiang1",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@chayuxiang1",
+                "start": 0,
+                "url": "https://t.co/C0Wr8Y3ej2"
+              }
+            ]
+          }
+        },
+        "id": "1857134346676895744",
+        "location": "🌏",
+        "name": "茶语香",
+        "pinned_tweet_id": "1898264898263548066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875477108656611328/UrCy2t0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 194,
+          "like_count": 3157,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 1028
+        },
+        "url": "https://t.co/C0Wr8Y3ej2",
+        "username": "chayuxiang",
+        "verified": false
+      }
+    ]
+  }
+}

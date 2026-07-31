@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1892905981656592598",
+    "created_at": "2025-02-21T13:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T14:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892932791777529993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1435832892609937408",
+          "start": 0,
+          "username": "9ncolj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892932791777529993",
+    "in_reply_to_user_id": "1435832892609937408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892932088309162243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9ncolj 谢谢星辉！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1892905981656592598",
+        "created_at": "2025-02-21T13:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T14:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892932791777529993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1435832892609937408",
+              "start": 0,
+              "username": "9ncolj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892932791777529993",
+        "in_reply_to_user_id": "1435832892609937408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892932088309162243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9ncolj 谢谢星辉！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1435832892609937408",
+        "conversation_id": "1892905981656592598",
+        "created_at": "2025-02-21T13:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T14:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892932088309162243"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "恭喜",
+              "probability": 0.4974,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892932088309162243",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892905981656592598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 恭喜🐱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ 这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2001,
+          "following_count": 2185,
+          "like_count": 14186,
+          "listed_count": 7,
+          "media_count": 267,
+          "tweet_count": 3470
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-09T05:10:25.000Z",
+        "description": "我愿以生命为代价，在无垠的宇宙中遨游\n                   宇宙在上，魂归星海",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "drive.google.com/drive/folders/…",
+                "end": 23,
+                "expanded_url": "https://drive.google.com/drive/folders/1-12_jEv6pHJxJ4R6M1-uUKZ6gnJdr-V_",
+                "start": 0,
+                "url": "https://t.co/7LtwER26Ja"
+              }
+            ]
+          }
+        },
+        "id": "1435832892609937408",
+        "location": "月球🌕🌙",
+        "name": "星辉辉喵(^･ω･)✨🌌",
+        "pinned_tweet_id": "1805562403809263862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734967796755525632/56Wf6kbo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3107,
+          "following_count": 710,
+          "like_count": 53414,
+          "listed_count": 14,
+          "media_count": 2294,
+          "tweet_count": 19549
+        },
+        "url": "https://t.co/7LtwER26Ja",
+        "username": "9ncolj",
+        "verified": false
+      }
+    ]
+  }
+}

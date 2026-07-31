@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2072878009795670341",
+    "created_at": "2026-07-03T04:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T05:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072893105553166771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1781064626907811882",
+          "start": 0,
+          "username": "cyan_eggplant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072893105553166771",
+    "in_reply_to_user_id": "1781064626907811882",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072878009795670341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyan_eggplant すごい...！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_2072826203850039296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMQoczmaYAABnWY.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2072878009795670341",
+        "created_at": "2026-07-03T04:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T05:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072893105553166771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1781064626907811882",
+              "start": 0,
+              "username": "cyan_eggplant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072893105553166771",
+        "in_reply_to_user_id": "1781064626907811882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072878009795670341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyan_eggplant すごい...！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072826203850039296"
+          ]
+        },
+        "author_id": "1781064626907811882",
+        "conversation_id": "2072878009795670341",
+        "created_at": "2026-07-03T03:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072878009795670341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uUJV1sNc2w",
+              "end": 23,
+              "expanded_url": "https://x.com/cyan_eggplant/status/2072878009795670341/photo/1",
+              "media_key": "3_2072826203850039296",
+              "start": 0,
+              "url": "https://t.co/uUJV1sNc2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072878009795670341",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 419,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uUJV1sNc2w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4535,
+          "following_count": 2929,
+          "like_count": 49378,
+          "listed_count": 14,
+          "media_count": 1013,
+          "tweet_count": 9365
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T20:58:20.000Z",
+        "description": "不定期AIイラスト🌸 ／ Cute AI girls & whimisical vibes ／ アリ赤(Alice and Red Riding Hood)発祥の地 ／ No artist, just vibes✨ ／ 可愛的AI少女與奇想天開的氛圍 ♡／ ハイライトも見てね",
+        "id": "1781064626907811882",
+        "location": "ネイティブ関西人。投稿開始日：6/19/2024～",
+        "name": "村崎",
+        "pinned_tweet_id": "2063455919480947090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799326184700039168/skGk1Liu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11800,
+          "following_count": 121,
+          "like_count": 14751,
+          "listed_count": 100,
+          "media_count": 2642,
+          "tweet_count": 8128
+        },
+        "url": "",
+        "username": "cyan_eggplant",
+        "verified": true
+      }
+    ]
+  }
+}

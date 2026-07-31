@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1929558757190549834",
+    "created_at": "2025-06-02T15:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T16:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929568177182343374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1897219203821920256",
+          "start": 0,
+          "username": "sakanahate_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929568177182343374",
+    "in_reply_to_user_id": "1897219203821920256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929558757190549834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakanahate_0 一个自己破碎成好多个自己，没个自己都是那样的不同而相同，一闪一闪犹如夜空中的星"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1929558757190549834",
+        "created_at": "2025-06-02T15:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T16:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929568177182343374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1897219203821920256",
+              "start": 0,
+              "username": "sakanahate_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929568177182343374",
+        "in_reply_to_user_id": "1897219203821920256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929558757190549834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakanahate_0 一个自己破碎成好多个自己，没个自己都是那样的不同而相同，一闪一闪犹如夜空中的星"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897219203821920256",
+        "conversation_id": "1929558757190549834",
+        "created_at": "2025-06-02T15:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T16:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929558757190549834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929558757190549834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为镜子碎了，微妙的感觉自己也碎了，到处都是破片，努力拼凑却已经无力回天的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2899,
+          "following_count": 2697,
+          "like_count": 26089,
+          "listed_count": 12,
+          "media_count": 550,
+          "tweet_count": 6196
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T09:35:33.000Z",
+        "description": "我是一條🐟",
+        "id": "1897219203821920256",
+        "name": "魚",
+        "pinned_tweet_id": "1925211483119743297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897221022060777472/nxeDJAM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6674,
+          "following_count": 382,
+          "like_count": 1583,
+          "listed_count": 21,
+          "media_count": 60,
+          "tweet_count": 370
+        },
+        "username": "sakanahate_0",
+        "verified": false
+      }
+    ]
+  }
+}

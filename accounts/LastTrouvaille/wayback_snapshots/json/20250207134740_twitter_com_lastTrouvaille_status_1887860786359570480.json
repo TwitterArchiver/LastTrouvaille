@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887860781506785280",
+        "3_1887860781523628032",
+        "3_1887860781552902144",
+        "3_1887860781951369216"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1887860786359570480",
+    "created_at": "2025-02-07T13:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T14:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887860786359570480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qZPCfI1Nxk",
+          "end": 23,
+          "expanded_url": "https://x.com/lastTrouvaille/status/1887860786359570480/photo/1",
+          "media_key": "3_1887860781506785280",
+          "start": 0,
+          "url": "https://t.co/qZPCfI1Nxk"
+        },
+        {
+          "display_url": "pic.x.com/qZPCfI1Nxk",
+          "end": 23,
+          "expanded_url": "https://x.com/lastTrouvaille/status/1887860786359570480/photo/1",
+          "media_key": "3_1887860781523628032",
+          "start": 0,
+          "url": "https://t.co/qZPCfI1Nxk"
+        },
+        {
+          "display_url": "pic.x.com/qZPCfI1Nxk",
+          "end": 23,
+          "expanded_url": "https://x.com/lastTrouvaille/status/1887860786359570480/photo/1",
+          "media_key": "3_1887860781552902144",
+          "start": 0,
+          "url": "https://t.co/qZPCfI1Nxk"
+        },
+        {
+          "display_url": "pic.x.com/qZPCfI1Nxk",
+          "end": 23,
+          "expanded_url": "https://x.com/lastTrouvaille/status/1887860786359570480/photo/1",
+          "media_key": "3_1887860781951369216",
+          "start": 0,
+          "url": "https://t.co/qZPCfI1Nxk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887860786359570480",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/qZPCfI1Nxk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1887860786359570480].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1887860786359570480",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1887860786359570480"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1887860781506785280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjMHYOMacAAI4lY.jpg",
+        "width": 1340
+      },
+      {
+        "height": 1390,
+        "media_key": "3_1887860781523628032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjMHYOQbcAA7KNY.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1000,
+        "media_key": "3_1887860781552902144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjMHYOXaIAAk3Yn.jpg",
+        "width": 1340
+      },
+      {
+        "height": 1000,
+        "media_key": "3_1887860781951369216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjMHYP2aQAAWw7M.jpg",
+        "width": 1340
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 2046,
+          "like_count": 12434,
+          "listed_count": 7,
+          "media_count": 237,
+          "tweet_count": 3147
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

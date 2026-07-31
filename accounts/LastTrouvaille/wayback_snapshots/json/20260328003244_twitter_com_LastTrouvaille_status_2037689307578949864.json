@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037689280970321920",
+        "3_2037689281502953472"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "2037689307578949864",
+    "created_at": "2026-03-28T00:32:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T01:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037689307578949864"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XaT6tHVtBg",
+          "end": 172,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2037689307578949864/photo/1",
+          "media_key": "3_2037689280970321920",
+          "start": 149,
+          "url": "https://t.co/XaT6tHVtBg"
+        },
+        {
+          "display_url": "pic.x.com/XaT6tHVtBg",
+          "end": 172,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2037689307578949864/photo/1",
+          "media_key": "3_2037689281502953472",
+          "start": 149,
+          "url": "https://t.co/XaT6tHVtBg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037689307578949864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "麦当劳很不高兴为你服务\n什么？\n（坏，不小心说出来了）哎呀我是说：\n吧啦吧吧吧~麦当劳好喜欢你来，请问想吃什么？\n那有什么推荐\n麦当劳！\n我是说有什么吃的\n麦当劳！汉堡~麦当劳汉堡🎶好好好~\n你是来捣乱嘛，叫经理出来\n泥嚎我系经理\n不还是你吗！\n对，是我又怎么样，你忍心投诉我吗\n我那么可爱，喵~ https://t.co/XaT6tHVtBg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2037689280970321920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdTmtrbcAACx-b.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2037689281502953472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdTmvqawAADl4z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037689280970321920",
+            "3_2037689281502953472"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2037689307578949864",
+        "created_at": "2026-03-28T00:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T01:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037689307578949864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XaT6tHVtBg",
+              "end": 172,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2037689307578949864/photo/1",
+              "media_key": "3_2037689280970321920",
+              "start": 149,
+              "url": "https://t.co/XaT6tHVtBg"
+            },
+            {
+              "display_url": "pic.x.com/XaT6tHVtBg",
+              "end": 172,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2037689307578949864/photo/1",
+              "media_key": "3_2037689281502953472",
+              "start": 149,
+              "url": "https://t.co/XaT6tHVtBg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037689307578949864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麦当劳很不高兴为你服务\n什么？\n（坏，不小心说出来了）哎呀我是说：\n吧啦吧吧吧~麦当劳好喜欢你来，请问想吃什么？\n那有什么推荐\n麦当劳！\n我是说有什么吃的\n麦当劳！汉堡~麦当劳汉堡🎶好好好~\n你是来捣乱嘛，叫经理出来\n泥嚎我系经理\n不还是你吗！\n对，是我又怎么样，你忍心投诉我吗\n我那么可爱，喵~ https://t.co/XaT6tHVtBg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，叫CC就好🫶‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)熟的话不时话痨(雾)‖穗&沪‖会内耗emo‖不许键政🚫‖中粤英👌🏻‖很难留住别人的我，也很难被留住‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7RpK"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4080,
+          "following_count": 2850,
+          "like_count": 44204,
+          "listed_count": 15,
+          "media_count": 909,
+          "tweet_count": 8729
+        },
+        "url": "https://t.co/TWu8nv7RpK",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

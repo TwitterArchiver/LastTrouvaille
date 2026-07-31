@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1883009164680773689",
+    "created_at": "2025-01-25T23:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T00:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883298514110976247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1853282364979589120",
+          "start": 0,
+          "username": "BaiXiong137971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883298514110976247",
+    "in_reply_to_user_id": "1853282364979589120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883009164680773689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaiXiong137971 抱抱白熊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1883009164680773689",
+        "created_at": "2025-01-25T23:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T00:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883298514110976247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1853282364979589120",
+              "start": 0,
+              "username": "BaiXiong137971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883298514110976247",
+        "in_reply_to_user_id": "1853282364979589120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883009164680773689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaiXiong137971 抱抱白熊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853282364979589120",
+        "conversation_id": "1883009164680773689",
+        "created_at": "2025-01-25T04:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T05:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883009164680773689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883009164680773689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8210,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 83,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "推友們如果看到這條貼文就回個抱抱\n我想被抱抱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖INFP‖中国人🇨🇳热爱祖国和人民‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 2312,
+          "like_count": 11218,
+          "listed_count": 5,
+          "media_count": 213,
+          "tweet_count": 2766
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T03:45:44.000Z",
+        "description": "高三生（商職）,第二個號了，前個號1600多被封…\n07/07/11，17歲了，是個0s，有對象跟家養小黑\n（里推：@ltm_071www\n喜歡小說、放置類手遊跟吃好吃的😋\n這隻白熊很友善，一般情緒穩定\n⚠️☢️有時候很難受，需要抱抱，聊到一半就會突然說抱抱，別介意\n、時而很色、很願意傾聽跟聊天，歡迎私訊我（禁政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "ltm_071www"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "月亮真圓.com",
+                "end": 23,
+                "expanded_url": "http://xn--3lq97rdzn1up.com",
+                "start": 0,
+                "url": "https://t.co/SWF6DSITvH"
+              }
+            ]
+          }
+        },
+        "id": "1853282364979589120",
+        "location": "小太陽懷裡",
+        "name": "白熊🐻‍❄️polarbear二代目",
+        "pinned_tweet_id": "1862279262935687627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853391379822723072/UYn7WBBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 858,
+          "like_count": 7713,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 2262
+        },
+        "url": "https://t.co/SWF6DSITvH",
+        "username": "BaiXiong137971",
+        "verified": false
+      }
+    ]
+  }
+}

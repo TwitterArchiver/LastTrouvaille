@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1937002859494826362",
+    "created_at": "2025-06-24T12:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T13:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937482822941540735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1431618578478862339",
+          "start": 0,
+          "username": "slyyyds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937482822941540735",
+    "in_reply_to_user_id": "1431618578478862339",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937475470913921160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@slyyyds 好看w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937475459580854272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuNLqlFagAAG6Hx.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1937475459593449472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuNLqlIasAAplxh.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1937002859494826362",
+        "created_at": "2025-06-24T12:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T13:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937482822941540735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1431618578478862339",
+              "start": 0,
+              "username": "slyyyds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937482822941540735",
+        "in_reply_to_user_id": "1431618578478862339",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937475470913921160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@slyyyds 好看w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937475459580854272",
+            "3_1937475459593449472"
+          ]
+        },
+        "author_id": "1431618578478862339",
+        "conversation_id": "1937002859494826362",
+        "created_at": "2025-06-24T11:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T12:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937475470913921160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wL37U1hMm1",
+              "end": 59,
+              "expanded_url": "https://x.com/slyyyds/status/1937475470913921160/photo/1",
+              "media_key": "3_1937475459580854272",
+              "start": 36,
+              "url": "https://t.co/wL37U1hMm1"
+            },
+            {
+              "display_url": "pic.x.com/wL37U1hMm1",
+              "end": 59,
+              "expanded_url": "https://x.com/slyyyds/status/1937475470913921160/photo/1",
+              "media_key": "3_1937475459593449472",
+              "start": 36,
+              "url": "https://t.co/wL37U1hMm1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937475470913921160",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937002859494826362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 姐姐贴贴，这套是我现在在用的锁屏➕壁纸 https://t.co/wL37U1hMm1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3058,
+          "following_count": 2693,
+          "like_count": 28191,
+          "listed_count": 12,
+          "media_count": 582,
+          "tweet_count": 6533
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T14:04:22.000Z",
+        "description": "一個\n熱愛二次元的鹹魚，\nINFP，芳文厨+完美坐牢人+柚子厨QWQ",
+        "id": "1431618578478862339",
+        "name": "巨屑の灵梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744392802061144064/uu2aYJ4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 180,
+          "like_count": 1812,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 4711
+        },
+        "username": "slyyyds",
+        "verified": false
+      }
+    ]
+  }
+}

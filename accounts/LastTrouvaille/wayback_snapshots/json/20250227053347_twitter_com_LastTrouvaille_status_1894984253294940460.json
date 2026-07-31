@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894984239495409665",
+        "3_1894984239453556736"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1894984253294940460",
+    "created_at": "2025-02-27T05:33:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T06:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894984253294940460"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UpN0G3Vqnc",
+          "end": 55,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1894984253294940460/photo/1",
+          "media_key": "3_1894984239495409665",
+          "start": 32,
+          "url": "https://t.co/UpN0G3Vqnc"
+        },
+        {
+          "display_url": "pic.x.com/UpN0G3Vqnc",
+          "end": 55,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1894984253294940460/photo/1",
+          "media_key": "3_1894984239453556736",
+          "start": 32,
+          "url": "https://t.co/UpN0G3Vqnc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894984253294940460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“给你看运动鞋和过膝...呜啊啊啊！！变态！你还想看哪啊！！” https://t.co/UpN0G3Vqnc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1894984253294940460].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1894984253294940460",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1894984253294940460"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2569,
+        "media_key": "3_1894984239495409665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkxWIDIWcAEM07I.jpg",
+        "width": 2822
+      },
+      {
+        "height": 739,
+        "media_key": "3_1894984239453556736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkxWIC-X0AAevFn.jpg",
+        "width": 763
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ here's Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 2215,
+          "like_count": 14769,
+          "listed_count": 7,
+          "media_count": 282,
+          "tweet_count": 3622
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

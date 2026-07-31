@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1887860786359570480",
+    "created_at": "2025-02-07T15:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T16:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887884232795861162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843510989964369920",
+          "start": 0,
+          "username": "mylzhichuanggao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887884232795861162",
+    "in_reply_to_user_id": "1843510989964369920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887862538983063695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mylzhichuanggao 挠挠w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1887860786359570480",
+        "created_at": "2025-02-07T15:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T16:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887884232795861162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843510989964369920",
+              "start": 0,
+              "username": "mylzhichuanggao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887884232795861162",
+        "in_reply_to_user_id": "1843510989964369920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887862538983063695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mylzhichuanggao 挠挠w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843510989964369920",
+        "conversation_id": "1887860786359570480",
+        "created_at": "2025-02-07T13:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T14:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887862538983063695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887862538983063695",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887860786359570480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille cc妈妈挠窝下巴🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 2045,
+          "like_count": 12436,
+          "listed_count": 7,
+          "media_count": 237,
+          "tweet_count": 3162
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T04:37:47.000Z",
+        "description": "含糖mtx，hrt2025.1.11/08职校牲 在新东方学西餐🤓👍/什么都发一点/酒鬼🥂/中强度赛博碎碎念/事一个一个一个绝望的文盲啊啊啊/喝醉了会乱发推耍酒疯🙏🙏/超大号互联网垃圾桶/经常会哈气🥲",
+        "id": "1843510989964369920",
+        "location": "距离你1.14514km",
+        "name": "byd劳朢天天做菜翻大车♿♿🍥",
+        "pinned_tweet_id": "1880067033725038847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854830853115068416/dQAVE-1F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 148,
+          "like_count": 5628,
+          "listed_count": 2,
+          "media_count": 317,
+          "tweet_count": 2295
+        },
+        "username": "mylzhichuanggao",
+        "verified": false
+      }
+    ]
+  }
+}

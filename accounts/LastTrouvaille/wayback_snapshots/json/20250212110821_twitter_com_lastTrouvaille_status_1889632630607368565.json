@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      }
+    ],
+    "conversation_id": "1889632630607368565",
+    "created_at": "2025-02-12T11:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T12:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889632630607368565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "TVB.COM自己錄製剪輯, 视频播放量 698、弹幕量 0、点赞数 29、投硬币枚数 12、收藏人数 23、转发人数 22, 视频作者 朴达铁夫, 作者简介 命裡有時終須有，命裡無時莫強求。 小人新號，隨緣發佈，毋須求檔，有空上傳。，相关视频：【TVB情人節短片】黃庭鋒游嘉欣出演，愛是你我之間的所有 情人節快樂，彭建桦:天气开朗？？？，tvb澳新新聞 專業主播為大家送上新年祝福！2025 廖淑怡 彭建樺 周可茵 陳語翹，【无线电视】《晚间23：35新闻》Opening（1990-11-19），【恒生Prestige x 吳君如 x 陳家樂 連詩雅 x 強尼】新晉定熟手CFO都各有難題 | 助你一步步計劃同實現每個家庭目標 | 恒生銀行，香港特首李家超【霸气回怼】港独议员全记录，明珠台-2025乙巳蛇年包装节目预告+知识新天地开场，明珠台-2025乙巳蛇年包裝版休台+開台過程 2025/2/2，麦玲玲2025年生肖兔运程",
+          "display_url": "b23.tv/hUKkNoY",
+          "end": 23,
+          "expanded_url": "https://b23.tv/hUKkNoY",
+          "start": 0,
+          "status": 200,
+          "title": "[4K]TVB翡翠台 [節日祝福廣告]愛是你我之間的所有，情人節快樂 (ft. 游嘉欣&黃庭鋒) (2025-02-08 01-28-27)_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1RDNTeSEXm/?buvid=XUFF554F6090848B2FB6E801B8052805F5928&from_spmid=default-value&is_story_h5=false&mid=p1fbEJ3TWNsAEeyArhEFEQ%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=f1468a4d-e0b0-4689-8631-1259ae3d646b&share_source=GENERIC&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1739358359&unique_k=hUKkNoY&up_id=291343113",
+          "url": "https://t.co/f1bYeLRPSn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889632630607368565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/f1bYeLRPSn\n一定要看啊啊啊啊！！！\n还以为是哪部电视剧的预告片，没想到是节日庆祝，真的做的超级超级超级的好，非常有感觉呜呜呜呜\n【[4K]TVB翡翠台 [節日祝福廣告]愛是你我之間的所有，情人節快樂 (ft. 游嘉欣&amp;黃庭鋒) (2025-02-08 01-28-27)】"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1889632630607368565].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1889632630607368565",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1889632630607368565"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 2062,
+          "like_count": 12836,
+          "listed_count": 6,
+          "media_count": 244,
+          "tweet_count": 3301
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

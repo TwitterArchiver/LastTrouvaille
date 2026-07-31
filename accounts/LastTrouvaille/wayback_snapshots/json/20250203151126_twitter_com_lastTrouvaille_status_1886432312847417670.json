@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1886408273429147695",
+    "created_at": "2025-02-03T15:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T16:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886432312847417670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1851095833371922432",
+          "start": 0,
+          "username": "Triones0726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886432312847417670",
+    "in_reply_to_user_id": "1851095833371922432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886431696037572899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Triones0726 是这样的（）\n舍友和学校真的不好说（\n还是乖乖在自己家的大床房滚床单发呆吧（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1886408273429147695",
+        "created_at": "2025-02-03T15:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T16:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886432312847417670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1851095833371922432",
+              "start": 0,
+              "username": "Triones0726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886432312847417670",
+        "in_reply_to_user_id": "1851095833371922432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886431696037572899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Triones0726 是这样的（）\n舍友和学校真的不好说（\n还是乖乖在自己家的大床房滚床单发呆吧（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851095833371922432",
+        "conversation_id": "1886408273429147695",
+        "created_at": "2025-02-03T15:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T16:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886431696037572899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886431696037572899",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886408273429147695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 放假无所事事很无聊……但一想到还有半个月就要开学面对恶心的室友和学校……好吧我还是选择在家发霉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 2476,
+          "like_count": 12244,
+          "listed_count": 6,
+          "media_count": 225,
+          "tweet_count": 2974
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T02:57:02.000Z",
+        "description": "如果眼睛会说话，那每个点进我主页的宝宝都会收到我的三千遍“我爱你”💝",
+        "id": "1851095833371922432",
+        "location": "下水道",
+        "name": "Triones",
+        "pinned_tweet_id": "1857127967975199225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859582321201930240/OC63pees_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 145,
+          "like_count": 256,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 555
+        },
+        "username": "Triones0726",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1894877411759824966",
+    "created_at": "2025-02-27T07:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T08:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895020991698657443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1692055372318773250",
+          "start": 0,
+          "username": "yjX1637538"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895020991698657443",
+    "in_reply_to_user_id": "1692055372318773250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894881259920465979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yjX1637538 最近睡眠不是很好qaq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1894877411759824966",
+        "created_at": "2025-02-27T07:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T08:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895020991698657443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1692055372318773250",
+              "start": 0,
+              "username": "yjX1637538"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895020991698657443",
+        "in_reply_to_user_id": "1692055372318773250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894881259920465979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yjX1637538 最近睡眠不是很好qaq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692055372318773250",
+        "conversation_id": "1894877411759824966",
+        "created_at": "2025-02-26T22:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T23:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894881259920465979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894881259920465979",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894877411759824966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 不要熬夜😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ here's Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 2218,
+          "like_count": 14799,
+          "listed_count": 7,
+          "media_count": 282,
+          "tweet_count": 3638
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T06:07:14.000Z",
+        "description": "骂我的折戟把酒诗出声，美蝶美暮美佳人😹😹😹",
+        "id": "1692055372318773250",
+        "location": "距离0.1公里",
+        "name": "0721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824574771281137668/Mwztkqe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 621,
+          "like_count": 61031,
+          "listed_count": 1,
+          "media_count": 339,
+          "tweet_count": 5376
+        },
+        "username": "yjX1637538",
+        "verified": false
+      }
+    ]
+  }
+}

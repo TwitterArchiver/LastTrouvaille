@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2057625551851208933",
+    "created_at": "2026-05-22T07:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T08:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057724559760195819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1530153680544051200",
+          "start": 0,
+          "username": "SenYingno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057724559760195819",
+    "in_reply_to_user_id": "1530153680544051200",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057669829344268349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SenYingno 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2057625551851208933",
+        "created_at": "2026-05-22T07:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T08:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057724559760195819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1530153680544051200",
+              "start": 0,
+              "username": "SenYingno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057724559760195819",
+        "in_reply_to_user_id": "1530153680544051200",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057669829344268349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SenYingno 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530153680544051200",
+        "conversation_id": "2057625551851208933",
+        "created_at": "2026-05-22T03:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057669829344268349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057669829344268349",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057625551851208933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 明明就很細 很香😳❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦，叫妈妈姐姐也行（不是）‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖不许键政🚫‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4091,
+          "following_count": 2854,
+          "like_count": 46253,
+          "listed_count": 13,
+          "media_count": 954,
+          "tweet_count": 8971
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-27T11:47:47.000Z",
+        "description": "座標：？？？ 性別：生理男🤌   \n頭像繪師：墨魚 @muyula_\n橫幅繪師：晞西爾 @seashell0915\nYT：https://t.co/BNOc3xuBlj\n(不可食用）這很重要",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "muyula_"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "seashell0915"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@O.M.formosanus",
+                "end": 84,
+                "expanded_url": "https://www.youtube.com/@O.M.formosanus",
+                "start": 61,
+                "url": "https://t.co/BNOc3xuBlj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/quu123…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/quu123555.bsky.social",
+                "start": 0,
+                "url": "https://t.co/wnikyMwspu"
+              }
+            ]
+          }
+        },
+        "id": "1530153680544051200",
+        "location": "比天更高的地方",
+        "name": "桜の森(鮭魚蓋飯",
+        "pinned_tweet_id": "2030317621359579246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057255037508935680/dGHunvy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 6385,
+          "like_count": 15853,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 17038
+        },
+        "url": "https://t.co/wnikyMwspu",
+        "username": "SenYingno",
+        "verified": false
+      }
+    ]
+  }
+}

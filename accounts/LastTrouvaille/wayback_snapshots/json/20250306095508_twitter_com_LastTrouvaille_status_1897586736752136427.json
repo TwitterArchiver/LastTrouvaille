@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1897209910582267904"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1897586736752136427",
+    "created_at": "2025-03-06T09:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T10:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897586736752136427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1650134867424976896",
+          "start": 3,
+          "username": "_Tojita_Sekai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897586736752136427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897209933223092344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Tojita_Sekai: 大家是通过什么方式接触的音游"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 10080,
+        "end_datetime": "2025-03-12T08:57:45.000Z",
+        "id": "1897209910582267904",
+        "options": [
+          {
+            "label": "朋友介绍",
+            "position": 1,
+            "votes": 71
+          },
+          {
+            "label": "游戏社区",
+            "position": 2,
+            "votes": 36
+          },
+          {
+            "label": "线下活动",
+            "position": 3,
+            "votes": 12
+          },
+          {
+            "label": "仇人陷害",
+            "position": 4,
+            "votes": 140
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1897209910582267904"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "1897586736752136427",
+        "created_at": "2025-03-06T09:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T10:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897586736752136427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1650134867424976896",
+              "start": 3,
+              "username": "_Tojita_Sekai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897586736752136427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897209933223092344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Tojita_Sekai: 大家是通过什么方式接触的音游"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1897209910582267904"
+          ]
+        },
+        "author_id": "1650134867424976896",
+        "conversation_id": "1897209933223092344",
+        "created_at": "2025-03-05T08:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T09:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897209933223092344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897209933223092344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11847,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "大家是通过什么方式接触的音游"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anitabi.cn",
+                "end": 23,
+                "expanded_url": "https://anitabi.cn/",
+                "start": 0,
+                "url": "https://t.co/ASAIm8Wyd2"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 2340,
+          "like_count": 15493,
+          "listed_count": 7,
+          "media_count": 299,
+          "tweet_count": 3855
+        },
+        "url": "https://t.co/ASAIm8Wyd2",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T13:49:51.000Z",
+        "description": "雨世界好玩，星露谷好玩，Arcaea也好玩，我每天玩玩玩玩玩玩，然后emm，@canitastevenom是大杂鱼(确信)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "canitastevenom"
+              }
+            ]
+          }
+        },
+        "id": "1650134867424976896",
+        "location": "Unreal life",
+        "name": "Chinsu",
+        "pinned_tweet_id": "1897471225456480665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868314598102994944/Xq504l8Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 277,
+          "like_count": 9033,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 3715
+        },
+        "username": "_Tojita_Sekai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1887748039324147881",
+    "created_at": "2025-02-07T07:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T08:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887760424327852044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1239915471945838593",
+          "start": 0,
+          "username": "wtxycCO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887760424327852044",
+    "in_reply_to_user_id": "1239915471945838593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887748039324147881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtxycCO 我的天好可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1887748039324147881",
+        "created_at": "2025-02-07T07:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T08:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887760424327852044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239915471945838593",
+              "start": 0,
+              "username": "wtxycCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887760424327852044",
+        "in_reply_to_user_id": "1239915471945838593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887748039324147881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtxycCO 我的天好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887748021108285445",
+            "3_1887748021104091136"
+          ]
+        },
+        "author_id": "1239915471945838593",
+        "conversation_id": "1887748039324147881",
+        "created_at": "2025-02-07T06:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T07:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887748039324147881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ilJXll1XD",
+              "end": 90,
+              "expanded_url": "https://x.com/wtxycCO/status/1887748039324147881/photo/1",
+              "media_key": "3_1887748021108285445",
+              "start": 67,
+              "url": "https://t.co/6ilJXll1XD"
+            },
+            {
+              "display_url": "pic.x.com/6ilJXll1XD",
+              "end": 90,
+              "expanded_url": "https://x.com/wtxycCO/status/1887748039324147881/photo/1",
+              "media_key": "3_1887748021104091136",
+              "start": 67,
+              "url": "https://t.co/6ilJXll1XD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887748039324147881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "200fo！涨fo的速度太快啦～ ｜д•´)!!总之是谢谢大家～已经抄完啦，大家再来合影一张吧～以及给大家看看最近买大了的裙子QAQ https://t.co/6ilJXll1XD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924,
+          "following_count": 2039,
+          "like_count": 12427,
+          "listed_count": 7,
+          "media_count": 236,
+          "tweet_count": 3131
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-17T14:04:30.000Z",
+        "description": "喵喵 是不太健康的小药娘喵 重重重重庆大学在读 会记录很多生活小感受 就当是个人日记好啦 （推特抱抱王(づ′▽`)づ",
+        "id": "1239915471945838593",
+        "location": "多瑙联邦",
+        "name": "Cld🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876923727348428800/Oim2ub4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 193,
+          "like_count": 942,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 273
+        },
+        "username": "wtxycCO",
+        "verified": false
+      }
+    ]
+  }
+}

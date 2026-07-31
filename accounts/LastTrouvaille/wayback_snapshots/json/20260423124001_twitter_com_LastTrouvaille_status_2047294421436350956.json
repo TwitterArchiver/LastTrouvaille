@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2047259245742350572",
+    "created_at": "2026-04-23T12:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T13:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047294421436350956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1749806694304260096",
+          "start": 0,
+          "username": "AmiraRusso37332"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047294421436350956",
+    "in_reply_to_user_id": "1749806694304260096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047259245742350572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@AmiraRusso37332 香！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047259235139162112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlTbXGbkAAbsOO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1270,
+        "media_key": "3_2047259235013320704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlTbWobYAAo4jy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2047259245742350572",
+        "created_at": "2026-04-23T12:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047294421436350956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1749806694304260096",
+              "start": 0,
+              "username": "AmiraRusso37332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047294421436350956",
+        "in_reply_to_user_id": "1749806694304260096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047259245742350572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@AmiraRusso37332 香！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047259235139162112",
+            "3_2047259235013320704"
+          ]
+        },
+        "author_id": "1749806694304260096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047259245742350572",
+        "created_at": "2026-04-23T10:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:18:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047258890455450022",
+          "2047259245742350572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SgpY3cZWf8",
+              "end": 31,
+              "expanded_url": "https://x.com/AmiraRusso37332/status/2047259245742350572/photo/1",
+              "media_key": "3_2047259235139162112",
+              "start": 8,
+              "url": "https://t.co/SgpY3cZWf8"
+            },
+            {
+              "display_url": "pic.x.com/SgpY3cZWf8",
+              "end": 31,
+              "expanded_url": "https://x.com/AmiraRusso37332/status/2047259245742350572/photo/1",
+              "media_key": "3_2047259235013320704",
+              "start": 8,
+              "url": "https://t.co/SgpY3cZWf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047259245742350572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 528,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "细手工面初尝试 https://t.co/SgpY3cZWf8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦‖INFP-T‖轻抑‖今天也有朝着变得更温柔迈出步伐‖中粤英‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4047,
+          "following_count": 2863,
+          "like_count": 45271,
+          "listed_count": 15,
+          "media_count": 934,
+          "tweet_count": 8837
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T14:50:35.000Z",
+        "description": "发癫日记，纯爱不绿帽，文明用语，ba老师一枚。////目前只在x活跃，其他平台都不是本人，无门槛🚪，小心被骗喵。",
+        "id": "1749806694304260096",
+        "name": "李奶奶今天吃什么",
+        "pinned_tweet_id": "1811972676669571108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919788583193608194/eCnf6-ak_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10552,
+          "following_count": 972,
+          "like_count": 1973,
+          "listed_count": 42,
+          "media_count": 188,
+          "tweet_count": 722
+        },
+        "username": "AmiraRusso37332",
+        "verified": false
+      }
+    ]
+  }
+}

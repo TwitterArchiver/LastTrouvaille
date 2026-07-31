@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1972933143968801262",
+    "created_at": "2025-09-30T11:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T12:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972987798887223381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1943699809933963264",
+          "start": 0,
+          "username": "SetsuGlow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972987798887223381",
+    "in_reply_to_user_id": "1943699809933963264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972981124478726519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SetsuGlow 就是说呀😣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1972933143968801262",
+        "created_at": "2025-09-30T11:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T12:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972987798887223381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1943699809933963264",
+              "start": 0,
+              "username": "SetsuGlow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972987798887223381",
+        "in_reply_to_user_id": "1943699809933963264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972981124478726519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SetsuGlow 就是说呀😣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943699809933963264",
+        "conversation_id": "1972933143968801262",
+        "created_at": "2025-09-30T11:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T12:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972981124478726519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972981124478726519",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972933143968801262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 飞机很没安全感！虽然空难事故发生率低于其他交通工具但还是不放心🫠果然是被大地束缚的灵魂~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3345,
+          "following_count": 2684,
+          "like_count": 30848,
+          "listed_count": 12,
+          "media_count": 689,
+          "tweet_count": 7242
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T15:52:13.000Z",
+        "description": "|cosplay / JK•LO / 碎碎念 / 清水日更 /♂️|                         \n描绘有限之梦，谢谢你的喜欢和关注 / 老二刺螈 /\n错峰单休社畜 / 逞强i人 / 害怕孤单 / 喜欢朋友们 / \n我有错请你告诉我qwq /\n不约 / 骗子勿扰 / 非同 / 拒键政 /",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/setsuglow",
+                "end": 23,
+                "expanded_url": "https://ngl.link/setsuglow",
+                "start": 0,
+                "url": "https://t.co/dA1WZ1mzq6"
+              }
+            ]
+          }
+        },
+        "id": "1943699809933963264",
+        "location": "“白日梦”",
+        "name": "雪灯",
+        "pinned_tweet_id": "1968971801687363980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968861885132050432/puesYqW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 391,
+          "like_count": 6265,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 1876
+        },
+        "url": "https://t.co/dA1WZ1mzq6",
+        "username": "SetsuGlow",
+        "verified": true
+      }
+    ]
+  }
+}

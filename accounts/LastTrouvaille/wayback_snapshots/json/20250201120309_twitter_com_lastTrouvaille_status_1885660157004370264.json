@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1885635695982883227",
+    "created_at": "2025-02-01T12:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T13:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885660157004370264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682428492078788608",
+          "start": 0,
+          "username": "shiroko486318"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885660157004370264",
+    "in_reply_to_user_id": "1682428492078788608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885635695982883227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiroko486318 羡慕🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1885635695982883227",
+        "created_at": "2025-02-01T12:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T13:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885660157004370264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682428492078788608",
+              "start": 0,
+              "username": "shiroko486318"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885660157004370264",
+        "in_reply_to_user_id": "1682428492078788608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885635695982883227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiroko486318 羡慕🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885635692539326464"
+          ]
+        },
+        "author_id": "1682428492078788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1885635695982883227",
+        "created_at": "2025-02-01T10:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T11:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885635695982883227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f3oSoSna0H",
+              "end": 34,
+              "expanded_url": "https://x.com/shiroko486318/status/1885635695982883227/photo/1",
+              "media_key": "3_1885635692539326464",
+              "start": 11,
+              "url": "https://t.co/f3oSoSna0H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885635695982883227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 364,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "追星成功喵！开心喵！ https://t.co/f3oSoSna0H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 2451,
+          "like_count": 11965,
+          "listed_count": 6,
+          "media_count": 220,
+          "tweet_count": 2889
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T16:33:21.000Z",
+        "description": "好似",
+        "id": "1682428492078788608",
+        "location": "距离你10米",
+        "name": "和摇滚的你说拜拜",
+        "pinned_tweet_id": "1885604236454662188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848445710074576897/3b6_fS1U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 261,
+          "like_count": 431,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 413
+        },
+        "username": "shiroko486318",
+        "verified": false
+      }
+    ]
+  }
+}

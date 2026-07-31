@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2033394169394442506",
+    "created_at": "2026-03-16T04:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T05:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033394169394442506"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033394169394442506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有时候会想\n如果能看到每个人的好感度该多好\n这样就可以全身心投入到真正对自己好的人身上\n但是对于我这种小蝴蝶来说又会觉得很害怕\n蜷缩在透明的茧房里\n用指尖数着那些真诚的绿色刻度\n早已忘了如何去爱一个不被量化的灵魂\n想要待在一个无忧无虑的桃花源里\n能去爱和被爱\n人生，要是真的是星露谷就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2033394169394442506",
+        "created_at": "2026-03-16T04:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033394169394442506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033394169394442506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候会想\n如果能看到每个人的好感度该多好\n这样就可以全身心投入到真正对自己好的人身上\n但是对于我这种小蝴蝶来说又会觉得很害怕\n蜷缩在透明的茧房里\n用指尖数着那些真诚的绿色刻度\n早已忘了如何去爱一个不被量化的灵魂\n想要待在一个无忧无虑的桃花源里\n能去爱和被爱\n人生，要是真的是星露谷就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，叫CC就好🫶‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)熟的话不时话痨(雾)‖穗&沪‖会内耗emo‖不许键政🚫‖中粤英👌🏻‖很难留住别人的我，也很难被留住‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7RpK"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4088,
+          "following_count": 2846,
+          "like_count": 43467,
+          "listed_count": 15,
+          "media_count": 896,
+          "tweet_count": 8674
+        },
+        "url": "https://t.co/TWu8nv7RpK",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

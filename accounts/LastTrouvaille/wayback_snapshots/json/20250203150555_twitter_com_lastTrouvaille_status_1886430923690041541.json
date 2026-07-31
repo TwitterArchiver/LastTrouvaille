@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1886360012261577137",
+    "created_at": "2025-02-03T15:05:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T16:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886430923690041541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841801152381558784",
+          "start": 0,
+          "username": "Amemiya_Hasumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886430923690041541",
+    "in_reply_to_user_id": "1841801152381558784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886360012261577137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amemiya_Hasumi 路上遇到一些成人商店是真的想进去看看到底是啥样\n不过估计大家看的最多的是便利店柜员台下面的tt（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1886360012261577137",
+        "created_at": "2025-02-03T15:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T16:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886430923690041541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841801152381558784",
+              "start": 0,
+              "username": "Amemiya_Hasumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886430923690041541",
+        "in_reply_to_user_id": "1841801152381558784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886360012261577137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amemiya_Hasumi 路上遇到一些成人商店是真的想进去看看到底是啥样\n不过估计大家看的最多的是便利店柜员台下面的tt（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886359960663240704"
+          ]
+        },
+        "author_id": "1841801152381558784",
+        "conversation_id": "1886360012261577137",
+        "created_at": "2025-02-03T10:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T11:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886360012261577137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jKIj1e9k4Q",
+              "end": 32,
+              "expanded_url": "https://x.com/Amemiya_Hasumi/status/1886360012261577137/photo/1",
+              "media_key": "3_1886359960663240704",
+              "start": 9,
+              "url": "https://t.co/jKIj1e9k4Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886360012261577137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 589,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁陪我逛这个超市 https://t.co/jKIj1e9k4Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 2476,
+          "like_count": 12242,
+          "listed_count": 6,
+          "media_count": 225,
+          "tweet_count": 2973
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T11:23:15.000Z",
+        "description": "「Et in Arcadia Ego./我曾在阿卡迪亚。」\n偶尔是男娘。\nNGL：https://t.co/g6LzpRMyzA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasumi57321",
+                "end": 64,
+                "expanded_url": "https://ngl.link/hasumi57321",
+                "start": 41,
+                "url": "https://t.co/g6LzpRMyzA"
+              }
+            ]
+          }
+        },
+        "id": "1841801152381558784",
+        "name": "雨宮 蓮見",
+        "pinned_tweet_id": "1871596096461713573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879195526870315008/bleIv9uh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1504,
+          "following_count": 1221,
+          "like_count": 13996,
+          "listed_count": 4,
+          "media_count": 498,
+          "tweet_count": 3084
+        },
+        "username": "Amemiya_Hasumi",
+        "verified": false
+      }
+    ]
+  }
+}

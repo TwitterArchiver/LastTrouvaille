@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1899437021195833632",
+    "created_at": "2025-03-11T15:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T16:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899476378665521608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1858158113423228928",
+          "start": 0,
+          "username": "l1ny99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899476378665521608",
+    "in_reply_to_user_id": "1858158113423228928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899475738404991142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l1ny99 一想到自己是在外漂泊的状态就更有点心酸了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1899437021195833632",
+        "created_at": "2025-03-11T15:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T16:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899476378665521608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1858158113423228928",
+              "start": 0,
+              "username": "l1ny99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899476378665521608",
+        "in_reply_to_user_id": "1858158113423228928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899475738404991142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l1ny99 一想到自己是在外漂泊的状态就更有点心酸了😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858158113423228928",
+        "conversation_id": "1899437021195833632",
+        "created_at": "2025-03-11T15:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T16:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899475738404991142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899475738404991142",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899437021195833632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 我也好怀念家旁边的面馆😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链推荐是动画巡礼和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anitabi.cn",
+                "end": 23,
+                "expanded_url": "https://anitabi.cn/",
+                "start": 0,
+                "url": "https://t.co/ASAIm8Wyd2"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 2477,
+          "like_count": 16253,
+          "listed_count": 7,
+          "media_count": 314,
+          "tweet_count": 3987
+        },
+        "url": "https://t.co/ASAIm8Wyd2",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T14:40:01.000Z",
+        "description": "🎐没什么爱好超级无聊的人，谢谢你愿意看我碎碎念。最好的小鹿@KoJikaXiaoLu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "KoJikaXiaoLu_"
+              }
+            ]
+          }
+        },
+        "id": "1858158113423228928",
+        "location": "字里行间",
+        "name": "讨厌淋雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893352163830833154/el6-wXOa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 188,
+          "like_count": 3233,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 550
+        },
+        "username": "l1ny99",
+        "verified": false
+      }
+    ]
+  }
+}

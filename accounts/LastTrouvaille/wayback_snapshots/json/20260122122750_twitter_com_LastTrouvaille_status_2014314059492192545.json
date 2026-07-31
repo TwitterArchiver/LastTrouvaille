@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2014294186984632577",
+    "created_at": "2026-01-22T12:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T13:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014314059492192545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956295307886788608",
+          "start": 0,
+          "username": "Huimao_ow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014314059492192545",
+    "in_reply_to_user_id": "1956295307886788608",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014294186984632577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huimao_ow kawa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2014294175962079233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Q14X9boAELM9E.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2014294186984632577",
+        "created_at": "2026-01-22T12:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T13:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014314059492192545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956295307886788608",
+              "start": 0,
+              "username": "Huimao_ow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014314059492192545",
+        "in_reply_to_user_id": "1956295307886788608",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014294186984632577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huimao_ow kawa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014294175962079233"
+          ]
+        },
+        "author_id": "1956295307886788608",
+        "conversation_id": "2014294186984632577",
+        "created_at": "2026-01-22T11:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T12:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014294186984632577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bCRIcH33cQ",
+              "end": 37,
+              "expanded_url": "https://x.com/Huimao_ow/status/2014294186984632577/photo/1",
+              "media_key": "3_2014294175962079233",
+              "start": 14,
+              "url": "https://t.co/bCRIcH33cQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014294186984632577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢一个人 我还是喜欢你 https://t.co/bCRIcH33cQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，叫CC就好🫶妈妈姐姐也行（划掉‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)熟的话不时话痨(雾)‖偶尔写诗填词‖穗&沪‖会内耗emo‖不许键政🚫！！！‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园or纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3781,
+          "following_count": 2850,
+          "like_count": 39894,
+          "listed_count": 14,
+          "media_count": 849,
+          "tweet_count": 8415
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T10:02:13.000Z",
+        "description": "你好！我是小灰！是女生捏，香港人，是一位喜欢玩音游的m3㕑，祝大家天天开心捏，欢迎交朋友",
+        "id": "1956295307886788608",
+        "name": "灰色绒毛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013096129882128384/ilKt6azw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 789,
+          "like_count": 4755,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1907
+        },
+        "username": "Huimao_ow",
+        "verified": false
+      }
+    ]
+  }
+}

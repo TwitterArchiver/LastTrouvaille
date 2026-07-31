@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1882683093993296291",
+    "created_at": "2025-02-20T03:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T04:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892416022549786885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1865050179617067008",
+          "start": 0,
+          "username": "AyaStellaria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892416022549786885",
+    "in_reply_to_user_id": "1865050179617067008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882683093993296291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyaStellaria 百合我爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1539,
+        "media_key": "3_1882683077060931584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiCiSKDbMAAA-8i.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1882683093993296291",
+        "created_at": "2025-02-20T03:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T04:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892416022549786885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1865050179617067008",
+              "start": 0,
+              "username": "AyaStellaria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892416022549786885",
+        "in_reply_to_user_id": "1865050179617067008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882683093993296291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyaStellaria 百合我爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882683077060931584"
+          ]
+        },
+        "author_id": "1865050179617067008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1882683093993296291",
+        "created_at": "2025-01-24T06:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T07:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882683093993296291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FiZKJB3EH9",
+              "end": 49,
+              "expanded_url": "https://x.com/AyaStellaria/status/1882683093993296291/photo/1",
+              "media_key": "3_1882683077060931584",
+              "start": 26,
+              "url": "https://t.co/FiZKJB3EH9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882683093993296291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 477,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友从日本回来送的漫画欸！😋\n虽然看不懂日语就是了 https://t.co/FiZKJB3EH9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ here is Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力极强毋忧踩雷‖常有emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是猫猫和miku",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 2163,
+          "like_count": 13501,
+          "listed_count": 6,
+          "media_count": 263,
+          "tweet_count": 3425
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T15:06:56.000Z",
+        "description": "他们的悲伤化成了灰，散落在无情的大海中",
+        "id": "1865050179617067008",
+        "location": "超出三界外，不在五行中",
+        "name": "凛御",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881721554477953024/L7A0VqrL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 622,
+          "like_count": 30097,
+          "listed_count": 8,
+          "media_count": 112,
+          "tweet_count": 6378
+        },
+        "username": "AyaStellaria",
+        "verified": false
+      }
+    ]
+  }
+}

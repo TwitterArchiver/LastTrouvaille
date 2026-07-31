@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2075492268463767952",
+    "created_at": "2026-07-10T08:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075500594681581634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581866233225281538",
+          "start": 0,
+          "username": "K1ta_Ikuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075500594681581634",
+    "in_reply_to_user_id": "1581866233225281538",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075492268463767952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1ta_Ikuyo 好米ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1537,
+        "media_key": "3_2075492254635204608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2hNYubIAA2JlU.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2075492268463767952",
+        "created_at": "2026-07-10T08:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075500594681581634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581866233225281538",
+              "start": 0,
+              "username": "K1ta_Ikuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075500594681581634",
+        "in_reply_to_user_id": "1581866233225281538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075492268463767952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1ta_Ikuyo 好米ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075492254635204608"
+          ]
+        },
+        "author_id": "1581866233225281538",
+        "conversation_id": "2075492268463767952",
+        "created_at": "2026-07-10T08:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075492268463767952"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "男娘"
+            },
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "femboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cwBjyQg8zz",
+              "end": 43,
+              "expanded_url": "https://x.com/K1ta_Ikuyo/status/2075492268463767952/photo/1",
+              "media_key": "3_2075492254635204608",
+              "start": 20,
+              "url": "https://t.co/cwBjyQg8zz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075492268463767952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啧……真是下贱\n#男娘 #femboy https://t.co/cwBjyQg8zz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4537,
+          "following_count": 2903,
+          "like_count": 49706,
+          "listed_count": 14,
+          "media_count": 1017,
+          "tweet_count": 9414
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T04:34:43.000Z",
+        "description": "結束バンドのギタリスト｜❤️@N2009750000｜女子力UP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "N2009750000"
+              }
+            ]
+          }
+        },
+        "id": "1581866233225281538",
+        "location": "Tokyo Japan",
+        "name": "きた いくよ",
+        "pinned_tweet_id": "1937031572701729195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005655391951290368/i8ZUNkDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12013,
+          "following_count": 3271,
+          "like_count": 36581,
+          "listed_count": 21,
+          "media_count": 700,
+          "tweet_count": 15062
+        },
+        "url": "",
+        "username": "K1ta_Ikuyo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1887544126000013756",
+    "created_at": "2025-02-07T02:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T03:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887697117806010502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1246386071010553857",
+          "start": 0,
+          "username": "YuXi520_Sugar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887697117806010502",
+    "in_reply_to_user_id": "1246386071010553857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887544126000013756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuXi520_Sugar 说明还青春）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1887544126000013756",
+        "created_at": "2025-02-07T02:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T03:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887697117806010502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1246386071010553857",
+              "start": 0,
+              "username": "YuXi520_Sugar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887697117806010502",
+        "in_reply_to_user_id": "1246386071010553857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887544126000013756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuXi520_Sugar 说明还青春）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887544122564878338"
+          ]
+        },
+        "author_id": "1246386071010553857",
+        "conversation_id": "1887544126000013756",
+        "created_at": "2025-02-06T16:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T17:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887544126000013756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AoXnrsBJhg",
+              "end": 31,
+              "expanded_url": "https://x.com/YuXi520_Sugar/status/1887544126000013756/photo/1",
+              "media_key": "3_1887544122564878338",
+              "start": 8,
+              "url": "https://t.co/AoXnrsBJhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887544126000013756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么老起痘呢 https://t.co/AoXnrsBJhg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖别忘了多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 2064,
+          "like_count": 12407,
+          "listed_count": 7,
+          "media_count": 234,
+          "tweet_count": 3083
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-04T10:36:20.000Z",
+        "description": "含糖mtf🍥/INTP/05老阿姨/HRT 2021.10.12~/185 70kg/ADHD/CS在读/maimai新手/梦想是光明正大成为女孩子/蓄发中/欢迎扩列/键政❎/#mtf  #美少女 #m属性 #xyn #CS #Computer_Science #Cpp /欢迎找我聊天↓↓↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "mtf"
+              },
+              {
+                "end": 98,
+                "start": 94,
+                "tag": "美少女"
+              },
+              {
+                "end": 103,
+                "start": 99,
+                "tag": "m属性"
+              },
+              {
+                "end": 108,
+                "start": 104,
+                "tag": "xyn"
+              },
+              {
+                "end": 112,
+                "start": 109,
+                "tag": "CS"
+              },
+              {
+                "end": 130,
+                "start": 113,
+                "tag": "Computer_Science"
+              },
+              {
+                "end": 135,
+                "start": 131,
+                "tag": "Cpp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Yuxi_sugar",
+                "end": 23,
+                "expanded_url": "http://t.me/Yuxi_sugar",
+                "start": 0,
+                "url": "https://t.co/ub1O9vRonY"
+              }
+            ]
+          }
+        },
+        "id": "1246386071010553857",
+        "name": "辛熙羽🍥",
+        "pinned_tweet_id": "1870111993119556068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863423188761489408/LdBG2Qpx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 1354,
+          "like_count": 10671,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 3074
+        },
+        "url": "https://t.co/ub1O9vRonY",
+        "username": "YuXi520_Sugar",
+        "verified": false
+      }
+    ]
+  }
+}

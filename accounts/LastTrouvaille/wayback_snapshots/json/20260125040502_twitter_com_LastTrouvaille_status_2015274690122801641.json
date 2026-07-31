@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2015106384849936669",
+    "created_at": "2026-01-25T04:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T05:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015274690122801641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1736229136887341057",
+          "start": 0,
+          "username": "XinYueJiChuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015274690122801641",
+    "in_reply_to_user_id": "1736229136887341057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015108665997729924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinYueJiChuan 好咪🫶抱抱~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2015106384849936669",
+        "created_at": "2026-01-25T04:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T05:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015274690122801641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1736229136887341057",
+              "start": 0,
+              "username": "XinYueJiChuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015274690122801641",
+        "in_reply_to_user_id": "1736229136887341057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015108665997729924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinYueJiChuan 好咪🫶抱抱~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736229136887341057",
+        "conversation_id": "2015106384849936669",
+        "created_at": "2026-01-24T17:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T18:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015108665997729924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015108665997729924",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015106384849936669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 抱抱捏 cc姐姐早点休息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，叫CC就好🫶‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)熟的话不时话痨(雾)‖偶尔写诗填词‖穗&沪‖会内耗emo‖不许键政🚫！！！‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7RpK"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园or纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3788,
+          "following_count": 2823,
+          "like_count": 40190,
+          "listed_count": 14,
+          "media_count": 852,
+          "tweet_count": 8440
+        },
+        "url": "https://t.co/TWu8nv7RpK",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T03:37:47.000Z",
+        "description": "这里是小心（想怎么叫都可以） 一个时不时刷新的npc（发牢骚 碎碎念）infp/isfp  羽球人 |友好互fo|粉红勿扰|不喜欢吵架 请有事好好说|如果没有回fo麻烦私信提醒",
+        "id": "1736229136887341057",
+        "name": "心悦吉川",
+        "pinned_tweet_id": "1992601410157084958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014616192112377856/xJyEAaeT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 378,
+          "like_count": 12854,
+          "listed_count": 1,
+          "media_count": 255,
+          "tweet_count": 3082
+        },
+        "username": "XinYueJiChuan",
+        "verified": false
+      }
+    ]
+  }
+}

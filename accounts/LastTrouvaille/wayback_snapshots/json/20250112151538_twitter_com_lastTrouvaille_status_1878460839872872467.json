@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1878453727469715624",
+    "created_at": "2025-01-12T15:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T16:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878460839872872467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1669305436254932993",
+          "start": 0,
+          "username": "arslanter13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878460839872872467",
+    "in_reply_to_user_id": "1669305436254932993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878458388415389841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arslanter13 怎么可能不给\n贴贴阿华~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1878453727469715624",
+        "created_at": "2025-01-12T15:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T16:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878460839872872467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1669305436254932993",
+              "start": 0,
+              "username": "arslanter13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878460839872872467",
+        "in_reply_to_user_id": "1669305436254932993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878458388415389841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arslanter13 怎么可能不给\n贴贴阿华~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669305436254932993",
+        "conversation_id": "1878453727469715624",
+        "created_at": "2025-01-12T15:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T16:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878458388415389841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878458388415389841",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878453727469715624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 我可以吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 2053,
+          "like_count": 9950,
+          "listed_count": 4,
+          "media_count": 191,
+          "tweet_count": 2446
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T11:27:02.000Z",
+        "description": "這是一個煙鬼酒鬼，一個在世界盡頭掙扎的偏執狂，一個得不到救贖的可憐人",
+        "id": "1669305436254932993",
+        "location": "海邊",
+        "name": "阿与华",
+        "pinned_tweet_id": "1865001701893386694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791518994018766850/PcZ6d9iA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 587,
+          "like_count": 9746,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1090
+        },
+        "username": "arslanter13",
+        "verified": false
+      }
+    ]
+  }
+}

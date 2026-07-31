@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884905185207857152"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1884905187229528388",
+    "created_at": "2025-01-30T10:03:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T11:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884905187229528388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VXr0nE6cRb",
+          "end": 33,
+          "expanded_url": "https://x.com/lastTrouvaille/status/1884905187229528388/photo/1",
+          "media_key": "3_1884905185207857152",
+          "start": 10,
+          "url": "https://t.co/VXr0nE6cRb"
+        },
+        {
+          "display_url": "x.com/kgdyodyi/statu…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/kgdyodyi/status/1884888747655008762",
+          "start": 34,
+          "url": "https://t.co/zCwDa5RUbo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884905187229528388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884888747655008762",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只能保底10％了w https://t.co/VXr0nE6cRb https://t.co/zCwDa5RUbo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1884905187229528388].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1884905187229528388",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1884905187229528388"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 312,
+        "media_key": "3_1884905185207857152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiiHR3-bMAAbjlO.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884888743745822720"
+          ]
+        },
+        "author_id": "1820138948632690688",
+        "conversation_id": "1884888747655008762",
+        "created_at": "2025-01-30T08:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T09:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884888747655008762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/reUXO2rJDa",
+              "end": 29,
+              "expanded_url": "https://x.com/kgdyodyi/status/1884888747655008762/photo/1",
+              "media_key": "3_1884888743745822720",
+              "start": 6,
+              "url": "https://t.co/reUXO2rJDa"
+            },
+            {
+              "display_url": "x.com/Realze47/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Realze47/status/1884638712598040900",
+              "start": 30,
+              "url": "https://t.co/kZdq4OobVb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884888747655008762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884638712598040900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也來！！ https://t.co/reUXO2rJDa https://t.co/kZdq4OobVb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1903,
+          "following_count": 2426,
+          "like_count": 11790,
+          "listed_count": 6,
+          "media_count": 219,
+          "tweet_count": 2850
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T16:45:37.000Z",
+        "description": "“樹多有枯枝，人多有白癡”/\n查成分互fo，如果沒fo到歡迎私訊我/\n匿名箱https://t.co/8H3P0XpNT0 /@iydoydgk 我可愛的避難所\n/@kgdyodyi_study  我可愛的學測倒數帳兼讀書帳",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 63,
+                "username": "iydoydgk"
+              },
+              {
+                "end": 97,
+                "start": 82,
+                "username": "kgdyodyi_study"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kgdyodyi1",
+                "end": 61,
+                "expanded_url": "https://ngl.link/kgdyodyi1",
+                "start": 38,
+                "url": "https://t.co/8H3P0XpNT0"
+              }
+            ]
+          }
+        },
+        "id": "1820138948632690688",
+        "location": "讚美咖啡因神教",
+        "name": "硫酸亞鐵（專業新年social（誤）",
+        "pinned_tweet_id": "1841531216086106361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881323943078096898/JAtyF45__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 289,
+          "like_count": 4899,
+          "listed_count": 3,
+          "media_count": 162,
+          "tweet_count": 2260
+        },
+        "username": "kgdyodyi",
+        "verified": false
+      }
+    ]
+  }
+}

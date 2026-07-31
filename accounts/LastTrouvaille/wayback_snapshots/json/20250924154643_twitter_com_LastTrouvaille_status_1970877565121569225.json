@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1970472984243773532",
+    "created_at": "2025-09-24T15:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T16:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970877565121569225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970877565121569225",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970668002996830435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar 抱抱vico"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1970472984243773532",
+        "created_at": "2025-09-24T15:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970877565121569225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970877565121569225",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970668002996830435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 抱抱vico"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868205822511288320",
+        "conversation_id": "1970472984243773532",
+        "created_at": "2025-09-24T01:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T02:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970668002996830435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970668002996830435",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970473919095484706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 🥺抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3331,
+          "following_count": 2682,
+          "like_count": 30830,
+          "listed_count": 12,
+          "media_count": 682,
+          "tweet_count": 7204
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "18岁 女 没少骂人/中文/English勉強しています /BS/🐻❤️@Lmao_Quien / 🥺@ohyeahcomeonnow萌豚@niceball_wuwaa 🐖@tanbara_ririka🎸@D_D_ovO_ 厚米@ninarich1991 @kikyo4000 @sanitf1 @iTZQing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Lmao_Quien"
+              },
+              {
+                "end": 67,
+                "start": 51,
+                "username": "ohyeahcomeonnow"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "niceball_wuwaa"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "tanbara_ririka"
+              },
+              {
+                "end": 111,
+                "start": 102,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "ninarich1991"
+              },
+              {
+                "end": 138,
+                "start": 128,
+                "username": "kikyo4000"
+              },
+              {
+                "end": 147,
+                "start": 139,
+                "username": "sanitf1"
+              },
+              {
+                "end": 156,
+                "start": 148,
+                "username": "iTZQing"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "地下溜冰场",
+        "name": "vico要怎么olvidar",
+        "pinned_tweet_id": "1968883337092608270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943523513643732995/2kx3p2bv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4358,
+          "following_count": 316,
+          "like_count": 20662,
+          "listed_count": 13,
+          "media_count": 682,
+          "tweet_count": 10380
+        },
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

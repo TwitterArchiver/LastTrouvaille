@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1918319048682836174",
+    "created_at": "2025-05-03T04:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T05:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918530758911619327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822380396497313792",
+          "start": 0,
+          "username": "Chihaya_Anon_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918530758911619327",
+    "in_reply_to_user_id": "1822380396497313792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918319048682836174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chihaya_Anon_01 一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1918319048682836174",
+        "created_at": "2025-05-03T04:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T05:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918530758911619327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822380396497313792",
+              "start": 0,
+              "username": "Chihaya_Anon_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918530758911619327",
+        "in_reply_to_user_id": "1822380396497313792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918319048682836174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chihaya_Anon_01 一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822380396497313792",
+        "conversation_id": "1918319048682836174",
+        "created_at": "2025-05-02T14:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T15:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918319048682836174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918319048682836174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 512,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我服了推特的消息提醒等于没有......\n\n私信要等待加载完成后再刷新一次，通知也有差不多......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 2686,
+          "like_count": 22277,
+          "listed_count": 13,
+          "media_count": 473,
+          "tweet_count": 5299
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T21:12:13.000Z",
+        "description": "是爱音喵~😘/小号@Shiraisang_lv4/第二人格@YuanCCLove_dich/第三人格@Amemiya_Hasumi/老婆 @Rencai_Nina /「神さま」@Asaak1111 /揉鞭弃@Remained3562/正妻 @xiaoyu03141 /Ba. @wuruto /Dr. @Keuurys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "Shiraisang_lv4"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "YuanCCLove_dich"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "Amemiya_Hasumi"
+              },
+              {
+                "end": 81,
+                "start": 69,
+                "username": "Rencai_Nina"
+              },
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Asaak1111"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Remained3562"
+              },
+              {
+                "end": 132,
+                "start": 120,
+                "username": "xiaoyu03141"
+              },
+              {
+                "end": 145,
+                "start": 138,
+                "username": "wuruto"
+              },
+              {
+                "end": 159,
+                "start": 151,
+                "username": "Keuurys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Chihaya_Anon_0…",
+                "end": 23,
+                "expanded_url": "https://x.com/Chihaya_Anon_01/status/1911412582675603468",
+                "start": 0,
+                "url": "https://t.co/0tp13Z5Ryz"
+              }
+            ]
+          }
+        },
+        "id": "1822380396497313792",
+        "location": "介绍见链接",
+        "name": "迷人の爱音",
+        "pinned_tweet_id": "1915021381965955279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914955496500682752/9FHuhXhK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 792,
+          "like_count": 9013,
+          "listed_count": 1,
+          "media_count": 656,
+          "tweet_count": 4725
+        },
+        "url": "https://t.co/0tp13Z5Ryz",
+        "username": "Chihaya_Anon_01",
+        "verified": false
+      }
+    ]
+  }
+}

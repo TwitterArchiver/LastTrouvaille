@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1877978653734363136",
+        "3_1877978661917491200"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1877978668925943934",
+    "created_at": "2025-01-11T07:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T08:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1877978668925943934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OYpsmzsSPL",
+          "end": 120,
+          "expanded_url": "https://x.com/lastTrouvaille/status/1877978668925943934/photo/1",
+          "media_key": "3_1877978653734363136",
+          "start": 97,
+          "url": "https://t.co/OYpsmzsSPL"
+        },
+        {
+          "display_url": "pic.x.com/OYpsmzsSPL",
+          "end": 120,
+          "expanded_url": "https://x.com/lastTrouvaille/status/1877978668925943934/photo/1",
+          "media_key": "3_1877978661917491200",
+          "start": 97,
+          "url": "https://t.co/OYpsmzsSPL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877978668925943934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近的小问卷又勾起了以前的回忆\n楪祈真的是人生中第一个觉得心动的角色\n天真无邪的性格，再加上所经所历，真的让人感觉非常的怜爱和不舍\n一辈子都会喜欢着楪祈，喜欢着EGOIST，喜欢着《罪恶王冠》 https://t.co/OYpsmzsSPL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_1877978653734363136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg_roreaYAAfXGE.jpg",
+        "width": 1400
+      },
+      {
+        "height": 1400,
+        "media_key": "3_1877978661917491200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg_rpJ9bAAAmA-v.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877978653734363136",
+            "3_1877978661917491200"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1877978668925943934",
+        "created_at": "2025-01-11T07:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T08:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877978668925943934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OYpsmzsSPL",
+              "end": 120,
+              "expanded_url": "https://x.com/lastTrouvaille/status/1877978668925943934/photo/1",
+              "media_key": "3_1877978653734363136",
+              "start": 97,
+              "url": "https://t.co/OYpsmzsSPL"
+            },
+            {
+              "display_url": "pic.x.com/OYpsmzsSPL",
+              "end": 120,
+              "expanded_url": "https://x.com/lastTrouvaille/status/1877978668925943934/photo/1",
+              "media_key": "3_1877978661917491200",
+              "start": 97,
+              "url": "https://t.co/OYpsmzsSPL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877978668925943934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近的小问卷又勾起了以前的回忆\n楪祈真的是人生中第一个觉得心动的角色\n天真无邪的性格，再加上所经所历，真的让人感觉非常的怜爱和不舍\n一辈子都会喜欢着楪祈，喜欢着EGOIST，喜欢着《罪恶王冠》 https://t.co/OYpsmzsSPL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1668,
+          "following_count": 2024,
+          "like_count": 9766,
+          "listed_count": 4,
+          "media_count": 184,
+          "tweet_count": 2374
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

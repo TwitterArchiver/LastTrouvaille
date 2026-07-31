@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1888763920938418178",
+    "created_at": "2025-02-11T01:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T02:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889120183765389800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1643453639003082758",
+          "start": 0,
+          "username": "xkkl9780156"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889120183765389800",
+    "in_reply_to_user_id": "1643453639003082758",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888763920938418178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xkkl9780156 必须甜的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1888763920938418178",
+        "created_at": "2025-02-11T01:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T02:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889120183765389800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1643453639003082758",
+              "start": 0,
+              "username": "xkkl9780156"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889120183765389800",
+        "in_reply_to_user_id": "1643453639003082758",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888763920938418178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xkkl9780156 必须甜的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888763912600059904"
+          ]
+        },
+        "author_id": "1643453639003082758",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1888763920938418178",
+        "created_at": "2025-02-10T01:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T02:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888763920938418178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Cbm6TOzq1",
+              "end": 37,
+              "expanded_url": "https://x.com/xkkl9780156/status/1888763920938418178/photo/1",
+              "media_key": "3_1888763912600059904",
+              "start": 14,
+              "url": "https://t.co/0Cbm6TOzq1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888763920938418178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家爱喝甜豆浆还是咸豆浆？ https://t.co/0Cbm6TOzq1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 2046,
+          "like_count": 12757,
+          "listed_count": 7,
+          "media_count": 242,
+          "tweet_count": 3277
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T03:21:04.000Z",
+        "description": "",
+        "id": "1643453639003082758",
+        "location": "Zhejiang",
+        "name": "凌冬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643453835980193792/jvKQ3ig4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 118,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 137
+        },
+        "username": "xkkl9780156",
+        "verified": false
+      }
+    ]
+  }
+}

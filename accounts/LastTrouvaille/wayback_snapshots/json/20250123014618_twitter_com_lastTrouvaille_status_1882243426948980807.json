@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1882191595107430724",
+    "created_at": "2025-01-23T01:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T02:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882243426948980807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1822910760873537536",
+          "start": 0,
+          "username": "KoJikaXiaoLu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882243426948980807",
+    "in_reply_to_user_id": "1822910760873537536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882191595107430724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KoJikaXiaoLu_ 如果我也讨厌你的话算不算两情相悦🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1882191595107430724",
+        "created_at": "2025-01-23T01:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T02:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882243426948980807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1822910760873537536",
+              "start": 0,
+              "username": "KoJikaXiaoLu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882243426948980807",
+        "in_reply_to_user_id": "1822910760873537536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882191595107430724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KoJikaXiaoLu_ 如果我也讨厌你的话算不算两情相悦🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822910760873537536",
+        "conversation_id": "1882191595107430724",
+        "created_at": "2025-01-22T22:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T23:19:41.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882191430736871811",
+          "1882191595107430724"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882191595107430724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 708,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉进入躁期了 有点炸了\n接下来负面言论比较多希望大家都能取关咱\n不然天天看咱发电你们也不高兴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻丨说话爱带括号勿怪)丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1834,
+          "following_count": 2242,
+          "like_count": 10786,
+          "listed_count": 4,
+          "media_count": 210,
+          "tweet_count": 2708
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T08:19:35.000Z",
+        "description": "你好~我叫小鹿！🇨🇳｜isfp｜go批一个/YOASOBI的粉丝🥰｜有点精神病｜嘴比较笨非常抱歉🙏｜抽象即艺术｜脸熟了就会回fo｜发癫小号：@XiaoLuStayalive（脸熟给过）｜好朋友：@qinglongxiangmo｜关注可爱宝宝谢谢喵：@wu_tong6460と@morrrrrrrling",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 70,
+                "username": "XiaoLuStayalive"
+              },
+              {
+                "end": 113,
+                "start": 97,
+                "username": "qinglongxiangmo"
+              },
+              {
+                "end": 136,
+                "start": 124,
+                "username": "wu_tong6460"
+              },
+              {
+                "end": 151,
+                "start": 137,
+                "username": "morrrrrrrling"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoLu_qwq",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoLu_qwq",
+                "start": 0,
+                "url": "https://t.co/PT5uxd3Qjn"
+              }
+            ]
+          }
+        },
+        "id": "1822910760873537536",
+        "location": "中华人民共和国🇨🇳",
+        "name": "-小鹿小鹿-🦌",
+        "pinned_tweet_id": "1874142597717123119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871255203539984384/qtXDtbi7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1469,
+          "following_count": 1202,
+          "like_count": 17301,
+          "listed_count": 6,
+          "media_count": 372,
+          "tweet_count": 6641
+        },
+        "url": "https://t.co/PT5uxd3Qjn",
+        "username": "KoJikaXiaoLu_",
+        "verified": true
+      }
+    ]
+  }
+}

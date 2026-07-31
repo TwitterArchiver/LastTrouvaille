@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1887741820966199795",
+    "created_at": "2025-02-07T08:09:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T09:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887775784846475382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1534399985634234371",
+          "start": 0,
+          "username": "c21368619"
+        },
+        {
+          "end": 19,
+          "id": "1657288224451203073",
+          "start": 11,
+          "username": "Cialloi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887775784846475382",
+    "in_reply_to_user_id": "1534399985634234371",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887774667118944734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c21368619 @Cialloi 噗嗤\n但愿w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1887741820966199795",
+        "created_at": "2025-02-07T08:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T09:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887775784846475382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1534399985634234371",
+              "start": 0,
+              "username": "c21368619"
+            },
+            {
+              "end": 19,
+              "id": "1657288224451203073",
+              "start": 11,
+              "username": "Cialloi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887775784846475382",
+        "in_reply_to_user_id": "1534399985634234371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887774667118944734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c21368619 @Cialloi 噗嗤\n但愿w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534399985634234371",
+        "conversation_id": "1887741820966199795",
+        "created_at": "2025-02-07T08:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T09:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887774667118944734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            },
+            {
+              "end": 24,
+              "id": "1657288224451203073",
+              "start": 16,
+              "username": "Cialloi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887774667118944734",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887762310338650262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille @Cialloi 拉住CC姐～（认真）\nCC肯定不知道有多少人在暗恋你呐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 2043,
+          "like_count": 12435,
+          "listed_count": 7,
+          "media_count": 236,
+          "tweet_count": 3140
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T05:00:47.000Z",
+        "description": "喜欢一切可爱的事物｜如果你也喜欢我的话…就像我喜欢你时那样开心吧",
+        "id": "1534399985634234371",
+        "location": "最終列車は25時",
+        "name": "c酱",
+        "pinned_tweet_id": "1886829109738885617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534451890217291776/EIh_JkXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 530,
+          "like_count": 2919,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 1090
+        },
+        "username": "c21368619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T07:34:48.000Z",
+        "description": "👁️",
+        "id": "1657288224451203073",
+        "name": "耶",
+        "pinned_tweet_id": "1883961018419929173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859282885930516482/kVhefJeD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 315,
+          "like_count": 19650,
+          "listed_count": 4,
+          "media_count": 107,
+          "tweet_count": 5159
+        },
+        "username": "Cialloi",
+        "verified": false
+      }
+    ]
+  }
+}

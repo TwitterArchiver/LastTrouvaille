@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1955966555856232534",
+    "created_at": "2025-08-14T15:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T16:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956014095502860340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1802297456065126400",
+          "start": 0,
+          "username": "awaso43378"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956014095502860340",
+    "in_reply_to_user_id": "1802297456065126400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955973654011109445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@awaso43378 对的对的，超好吃\n而且做法也简单，所以想着尝试一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1955966555856232534",
+        "created_at": "2025-08-14T15:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T16:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956014095502860340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802297456065126400",
+              "start": 0,
+              "username": "awaso43378"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956014095502860340",
+        "in_reply_to_user_id": "1802297456065126400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955973654011109445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@awaso43378 对的对的，超好吃\n而且做法也简单，所以想着尝试一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802297456065126400",
+        "conversation_id": "1955966555856232534",
+        "created_at": "2025-08-14T12:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T13:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955973654011109445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955973654011109445",
+        "in_reply_to_user_id": "1802297456065126400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955973374037123457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 我朋友做出来的就是那种外边有点脆脆的里面还挺是软的那种的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3224,
+          "following_count": 2696,
+          "like_count": 29741,
+          "listed_count": 12,
+          "media_count": 638,
+          "tweet_count": 6909
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T11:09:47.000Z",
+        "description": "高三生（谁说政史生好学的）//初次见面比较面瘫 熟了之后会发现其实是脑瘫//爱玩明日方舟 鸣潮 钢铁雄心四//羽毛球又菜又爱玩//听音乐听上瘾//",
+        "id": "1802297456065126400",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "云苓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945498525103456256/-c3IAppN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 1369,
+          "like_count": 4725,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1750
+        },
+        "username": "awaso43378",
+        "verified": false
+      }
+    ]
+  }
+}

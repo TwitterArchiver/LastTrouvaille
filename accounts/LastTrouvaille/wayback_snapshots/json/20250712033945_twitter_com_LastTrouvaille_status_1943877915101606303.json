@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1943687572313755820",
+    "created_at": "2025-07-12T03:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T04:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943877915101606303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727705891875766272",
+          "start": 0,
+          "username": "AmeyuMirror"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943877915101606303",
+    "in_reply_to_user_id": "1727705891875766272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943855530923241703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeyuMirror 那也太多啦（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 276,
+        "media_key": "3_1943855528880283648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvn2TfWWoAA4IJ5.jpg",
+        "width": 262
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1943687572313755820",
+        "created_at": "2025-07-12T03:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T04:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943877915101606303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727705891875766272",
+              "start": 0,
+              "username": "AmeyuMirror"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943877915101606303",
+        "in_reply_to_user_id": "1727705891875766272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943855530923241703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeyuMirror 那也太多啦（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943855528880283648"
+          ]
+        },
+        "author_id": "1727705891875766272",
+        "conversation_id": "1943687572313755820",
+        "created_at": "2025-07-12T02:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T03:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943855530923241703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VfqMpjIAlD",
+              "end": 67,
+              "expanded_url": "https://x.com/AmeyuMirror/status/1943855530923241703/photo/1",
+              "media_key": "3_1943855528880283648",
+              "start": 44,
+              "url": "https://t.co/VfqMpjIAlD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943855530923241703",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943687572313755820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 虽然不是全部是二次元，但是有一半都是R18+和R18G https://t.co/VfqMpjIAlD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3173,
+          "following_count": 2705,
+          "like_count": 28962,
+          "listed_count": 12,
+          "media_count": 603,
+          "tweet_count": 6688
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T15:09:55.000Z",
+        "description": "雨是下雨，鏡是對面",
+        "id": "1727705891875766272",
+        "location": "Taiwan",
+        "name": "雨玥镜喵～SAIKE依赖版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928859341798649856/9wTs7Jgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 25,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 65
+        },
+        "username": "AmeyuMirror",
+        "verified": false
+      }
+    ]
+  }
+}

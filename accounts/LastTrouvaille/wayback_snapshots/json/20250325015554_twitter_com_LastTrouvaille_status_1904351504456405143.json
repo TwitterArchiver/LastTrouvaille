@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1900451509999198563",
+    "created_at": "2025-03-25T01:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T02:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904351504456405143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1729273790616817664",
+          "start": 0,
+          "username": "AkiHaneQvQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904351504456405143",
+    "in_reply_to_user_id": "1729273790616817664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904311279101280306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkiHaneQvQ 没玩过碧蓝\n好玩吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 738,
+        "media_key": "3_1904311241755279360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm14_CKbQAAf-oW.jpg",
+        "width": 1086
+      },
+      {
+        "height": 738,
+        "media_key": "3_1904311243638521856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm14_JLbQAA-pzk.jpg",
+        "width": 1086
+      },
+      {
+        "height": 738,
+        "media_key": "3_1904311244204687361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm14_LSaQAE0NgJ.jpg",
+        "width": 1086
+      },
+      {
+        "height": 738,
+        "media_key": "3_1904311276890918912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm15BFDakAAIdow.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1900451509999198563",
+        "created_at": "2025-03-25T01:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T02:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904351504456405143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1729273790616817664",
+              "start": 0,
+              "username": "AkiHaneQvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904351504456405143",
+        "in_reply_to_user_id": "1729273790616817664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904311279101280306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkiHaneQvQ 没玩过碧蓝\n好玩吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904311241755279360",
+            "3_1904311243638521856",
+            "3_1904311244204687361",
+            "3_1904311276890918912"
+          ]
+        },
+        "author_id": "1729273790616817664",
+        "conversation_id": "1900451509999198563",
+        "created_at": "2025-03-24T23:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T00:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904311279101280306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P9OoBybZlg",
+              "end": 131,
+              "expanded_url": "https://x.com/AkiHaneQvQ/status/1904311279101280306/photo/1",
+              "media_key": "3_1904311241755279360",
+              "start": 108,
+              "url": "https://t.co/P9OoBybZlg"
+            },
+            {
+              "display_url": "pic.x.com/P9OoBybZlg",
+              "end": 131,
+              "expanded_url": "https://x.com/AkiHaneQvQ/status/1904311279101280306/photo/1",
+              "media_key": "3_1904311243638521856",
+              "start": 108,
+              "url": "https://t.co/P9OoBybZlg"
+            },
+            {
+              "display_url": "pic.x.com/P9OoBybZlg",
+              "end": 131,
+              "expanded_url": "https://x.com/AkiHaneQvQ/status/1904311279101280306/photo/1",
+              "media_key": "3_1904311244204687361",
+              "start": 108,
+              "url": "https://t.co/P9OoBybZlg"
+            },
+            {
+              "display_url": "pic.x.com/P9OoBybZlg",
+              "end": 131,
+              "expanded_url": "https://x.com/AkiHaneQvQ/status/1904311279101280306/photo/1",
+              "media_key": "3_1904311276890918912",
+              "start": 108,
+              "url": "https://t.co/P9OoBybZlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904311279101280306",
+        "in_reply_to_user_id": "1729273790616817664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900451509999198563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "q1:嗯，是的，而且我入坑晚，胡滕是我第一艘彩船，而且很戳我xp，所以用胡滕当头像\nq2:悄悄滴打枪，进村的不要\nq3:谢谢祝福哇\nq4:我寻思我现在也没对象啊，唯一一个前任的话，就是对方表白然后我不好拒绝就答应了 https://t.co/P9OoBybZlg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2201,
+          "following_count": 2716,
+          "like_count": 18142,
+          "listed_count": 11,
+          "media_count": 368,
+          "tweet_count": 4378
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T22:59:42.000Z",
+        "description": "欢迎来到我的主页，私信不常看，无门槛，觉得是好人就可扩列，骚扰私信会一把抓住顷刻炼化\n              天地一家大爱盟:836737765",
+        "id": "1729273790616817664",
+        "location": "寂静岭",
+        "name": "秋羽Akihane",
+        "pinned_tweet_id": "1889733964161790085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878532076397572096/VCSHkcf3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17441,
+          "following_count": 279,
+          "like_count": 3894,
+          "listed_count": 60,
+          "media_count": 70,
+          "tweet_count": 521
+        },
+        "username": "AkiHaneQvQ",
+        "verified": false
+      }
+    ]
+  }
+}

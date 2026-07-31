@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1912325732711428370",
+    "created_at": "2025-11-13T15:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T16:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988992970218172564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911458837107732480",
+          "start": 0,
+          "username": "kanameranaswly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988992970218172564",
+    "in_reply_to_user_id": "1911458837107732480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988991753756852597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanameranaswly 有品！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1988991749847715840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5pRdVbbEAA99uK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1912325732711428370",
+        "created_at": "2025-11-13T15:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T16:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988992970218172564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911458837107732480",
+              "start": 0,
+              "username": "kanameranaswly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988992970218172564",
+        "in_reply_to_user_id": "1911458837107732480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988991753756852597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanameranaswly 有品！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988991749847715840"
+          ]
+        },
+        "author_id": "1911458837107732480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1912325732711428370",
+        "created_at": "2025-11-13T15:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T16:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988991753756852597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Cf5uv8rWE",
+              "end": 43,
+              "expanded_url": "https://x.com/kanameranaswly/status/1988991753756852597/photo/1",
+              "media_key": "3_1988991749847715840",
+              "start": 20,
+              "url": "https://t.co/4Cf5uv8rWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988991753756852597",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912325732711428370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 有品！ https://t.co/4Cf5uv8rWE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，年初和年中驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3603,
+          "following_count": 2772,
+          "like_count": 34117,
+          "listed_count": 13,
+          "media_count": 732,
+          "tweet_count": 7618
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T16:39:04.000Z",
+        "description": "支持🇺🇦和🇮🇱的老右德棍🇩🇪与HK416厨，偶尔键政的右翼份子，少谈国事，反俄反苏反绿，支持大德意志方案（可能是改良型民族社会主义者，5分威权5分自由）岁静游戏宅，格里芬指挥官，想成为要乐奈一样无忧无虑的孩子（中文，JapOK，English苦手，Deutsch学习中）",
+        "id": "1911458837107732480",
+        "location": "团结协定—大日耳曼国—日耳曼尼亚/汉堡",
+        "name": "✙守望莱茵的乐奈✙🇩🇪🇦🇹",
+        "pinned_tweet_id": "1982328137875894693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976659639585632256/G9k54GOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 584,
+          "like_count": 7551,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1054
+        },
+        "username": "kanameranaswly",
+        "verified": false
+      }
+    ]
+  }
+}

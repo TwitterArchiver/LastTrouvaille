@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1872480096105512992",
+    "created_at": "2024-12-27T07:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T08:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872539115025293402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1519999171876454400",
+          "start": 0,
+          "username": "Cya66047552"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872539115025293402",
+    "in_reply_to_user_id": "1519999171876454400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872538898100109322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cya66047552 好的！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1872480096105512992",
+        "created_at": "2024-12-27T07:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T08:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872539115025293402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1519999171876454400",
+              "start": 0,
+              "username": "Cya66047552"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872539115025293402",
+        "in_reply_to_user_id": "1519999171876454400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872538898100109322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cya66047552 好的！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519999171876454400",
+        "conversation_id": "1872480096105512992",
+        "created_at": "2024-12-27T07:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T08:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872538898100109322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872538898100109322",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872480096105512992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 徒然喜欢你！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1871369957063483612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 1706,
+          "like_count": 7371,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 1850
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T11:17:05.000Z",
+        "description": "发些日常碎碎念 ｜我推的cp→nalu｜会屏蔽看黄男和键政男｜会平等视奸每一个关注我的人｜小号→@sta11337799 日记本 ｜最近不做咬人的狗了｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "sta11337799"
+              }
+            ]
+          }
+        },
+        "id": "1519999171876454400",
+        "location": "床上",
+        "name": "Thirteen",
+        "pinned_tweet_id": "1821734070927421777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831288034693611520/KRC2JPEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 310,
+          "like_count": 41930,
+          "listed_count": 0,
+          "media_count": 665,
+          "tweet_count": 4056
+        },
+        "username": "Cya66047552",
+        "verified": false
+      }
+    ]
+  }
+}

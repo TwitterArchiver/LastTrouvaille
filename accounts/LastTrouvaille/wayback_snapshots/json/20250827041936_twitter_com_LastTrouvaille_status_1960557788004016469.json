@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960557754537721856",
+        "3_1960556021769965568"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1960557788004016469",
+    "created_at": "2025-08-27T04:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T05:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960557788004016469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qpI9A9EUQ3",
+          "end": 81,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1960557788004016469/photo/1",
+          "media_key": "3_1960557754537721856",
+          "start": 58,
+          "url": "https://t.co/qpI9A9EUQ3"
+        },
+        {
+          "display_url": "pic.x.com/qpI9A9EUQ3",
+          "end": 81,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1960557788004016469/photo/1",
+          "media_key": "3_1960556021769965568",
+          "start": 58,
+          "url": "https://t.co/qpI9A9EUQ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960557788004016469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这几天心情稍微好点了\n收拾收拾下东西也准备回学校啦\n带着担心，悲伤\n但是更重要的是有对未来幸福的期许\n宝宝们上海见 https://t.co/qpI9A9EUQ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2448,
+        "media_key": "3_1960557754537721856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzVM4-jbwAAH_bP.jpg",
+        "width": 3264
+      },
+      {
+        "height": 201,
+        "media_key": "3_1960556021769965568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzVLUHfaEAAVU39.jpg",
+        "width": 288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960557754537721856",
+            "3_1960556021769965568"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "1960557788004016469",
+        "created_at": "2025-08-27T04:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T05:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960557788004016469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qpI9A9EUQ3",
+              "end": 81,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1960557788004016469/photo/1",
+              "media_key": "3_1960557754537721856",
+              "start": 58,
+              "url": "https://t.co/qpI9A9EUQ3"
+            },
+            {
+              "display_url": "pic.x.com/qpI9A9EUQ3",
+              "end": 81,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1960557788004016469/photo/1",
+              "media_key": "3_1960556021769965568",
+              "start": 58,
+              "url": "https://t.co/qpI9A9EUQ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960557788004016469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这几天心情稍微好点了\n收拾收拾下东西也准备回学校啦\n带着担心，悲伤\n但是更重要的是有对未来幸福的期许\n宝宝们上海见 https://t.co/qpI9A9EUQ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3221,
+          "following_count": 2723,
+          "like_count": 29709,
+          "listed_count": 12,
+          "media_count": 650,
+          "tweet_count": 6983
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

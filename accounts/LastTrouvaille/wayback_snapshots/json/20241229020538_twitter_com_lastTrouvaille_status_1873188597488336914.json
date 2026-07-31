@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1873185770670047427",
+    "created_at": "2024-12-29T02:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T03:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873188597488336914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1272847257029668864",
+          "start": 0,
+          "username": "CiShengWeiAiACG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873188597488336914",
+    "in_reply_to_user_id": "1272847257029668864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873185770670047427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CiShengWeiAiACG 我的腿照（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1873185770670047427",
+        "created_at": "2024-12-29T02:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T03:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873188597488336914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272847257029668864",
+              "start": 0,
+              "username": "CiShengWeiAiACG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873188597488336914",
+        "in_reply_to_user_id": "1272847257029668864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873185770670047427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CiShengWeiAiACG 我的腿照（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873185765573947392"
+          ]
+        },
+        "author_id": "1272847257029668864",
+        "conversation_id": "1873185770670047427",
+        "created_at": "2024-12-29T01:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T02:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873185770670047427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nu8Xy1NIfM",
+              "end": 34,
+              "expanded_url": "https://x.com/CiShengWeiAiACG/status/1873185770670047427/photo/1",
+              "media_key": "3_1873185765573947392",
+              "start": 11,
+              "url": "https://t.co/nu8Xy1NIfM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873185770670047427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 407,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "請各位踴躍發言謝謝😋 https://t.co/nu8Xy1NIfM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 1752,
+          "like_count": 7732,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 1932
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-16T11:03:40.000Z",
+        "description": "想個自我介紹好麻煩啊，也不知道要寫什麼，隨便寫寫算了| |愛打遊戲，喜歡ACGN，且只是個臭看番的死宅（偶爾也會看看黃圖）| |政治立場：個人覺得算是中間偏左?偶爾鍵政| |不支持但也不反對LGBTQ，你（妳）覺得自己是什麼性別我就會以社會上相對應的性別和以及個人習慣來和你（妳）相處。（瘋狂疊甲）| |這沒位置寫了QQ",
+        "id": "1272847257029668864",
+        "location": "你家門口",
+        "name": "此生唯愛二次元",
+        "pinned_tweet_id": "1802589888686289165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1272847367293685762/ea0WF4n4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 534,
+          "like_count": 10735,
+          "listed_count": 0,
+          "media_count": 615,
+          "tweet_count": 4521
+        },
+        "username": "CiShengWeiAiACG",
+        "verified": false
+      }
+    ]
+  }
+}

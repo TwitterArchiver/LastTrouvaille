@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946594761768357889"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1946594766755659934",
+    "created_at": "2025-07-19T15:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T16:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946594766755659934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XCzpBJfrDq",
+          "end": 166,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1946594766755659934/photo/1",
+          "media_key": "3_1946594761768357889",
+          "start": 143,
+          "url": "https://t.co/XCzpBJfrDq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946594766755659934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实今晚身体不太舒服，心情也不是很好\n不知道想要发啥，推文删了又写写了又删，怕把情绪倒出来影响到各位\n索性翻了下以前推文的评论\n即使过了那么久还是会被逗的抿嘴笑\n其实姐姐我不是一个太好的人呀\n大家真的很可爱，以至于都渐渐依赖上各位了\n能够被陪伴着，我真的非常非常开心\n捏捏，姐姐爱你们 https://t.co/XCzpBJfrDq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 629,
+        "media_key": "3_1946594761768357889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwOxn1DW0AEUnxd.jpg",
+        "width": 761
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946594761768357889"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "1946594766755659934",
+        "created_at": "2025-07-19T15:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T16:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946594766755659934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XCzpBJfrDq",
+              "end": 166,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1946594766755659934/photo/1",
+              "media_key": "3_1946594761768357889",
+              "start": 143,
+              "url": "https://t.co/XCzpBJfrDq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946594766755659934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实今晚身体不太舒服，心情也不是很好\n不知道想要发啥，推文删了又写写了又删，怕把情绪倒出来影响到各位\n索性翻了下以前推文的评论\n即使过了那么久还是会被逗的抿嘴笑\n其实姐姐我不是一个太好的人呀\n大家真的很可爱，以至于都渐渐依赖上各位了\n能够被陪伴着，我真的非常非常开心\n捏捏，姐姐爱你们 https://t.co/XCzpBJfrDq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3185,
+          "following_count": 2669,
+          "like_count": 29226,
+          "listed_count": 12,
+          "media_count": 612,
+          "tweet_count": 6737
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

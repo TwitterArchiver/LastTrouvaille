@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1874429116994429143",
+    "created_at": "2025-01-01T12:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-01T13:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874437993970401421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1798617214431756289",
+          "start": 0,
+          "username": "Hitori_Gotoh520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874437993970401421",
+    "in_reply_to_user_id": "1798617214431756289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874429116994429143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hitori_Gotoh520 羡慕了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1874429116994429143",
+        "created_at": "2025-01-01T12:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T13:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874437993970401421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1798617214431756289",
+              "start": 0,
+              "username": "Hitori_Gotoh520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874437993970401421",
+        "in_reply_to_user_id": "1798617214431756289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874429116994429143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hitori_Gotoh520 羡慕了（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1874429093317337088"
+          ]
+        },
+        "author_id": "1798617214431756289",
+        "conversation_id": "1874429116994429143",
+        "created_at": "2025-01-01T12:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T13:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874429116994429143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QWP2xwJjWn",
+              "end": 45,
+              "expanded_url": "https://x.com/Hitori_Gotoh520/status/1874429116994429143/photo/1",
+              "media_key": "16_1874429093317337088",
+              "start": 22,
+              "url": "https://t.co/QWP2xwJjWn"
+            },
+            {
+              "display_url": "x.com/Hitori_Gotoh52…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/Hitori_Gotoh520/status/1874428670984773993",
+              "start": 46,
+              "url": "https://t.co/IZocZsA3Cw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874429116994429143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874428670984773993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你知道為什麽我懶得上推嗎\n因為我有人陪著（ https://t.co/QWP2xwJjWn https://t.co/IZocZsA3Cw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 1834,
+          "like_count": 8532,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 2103
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T07:26:54.000Z",
+        "description": "純清水推|日常推/孤獨摇滾單推人/不鍵政不涉政\n波門最忠實的信徒|單推波奇醬🥰\n社交恐惧症/不知道什麼人格\n屑涼@QT_kanata 可愛的@gemmillihxrf\n裡推@Bocchi0221520\n不是健全b，，，\n謹慎follow\n@521Bocchi逃生艙\n#殺光黃推唯一出路 #全民睡覺唯一出路",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 142,
+                "start": 133,
+                "tag": "殺光黃推唯一出路"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "tag": "全民睡覺唯一出路"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "QT_kanata"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "gemmillihxrf"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "Bocchi0221520"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "521Bocchi"
+              }
+            ]
+          }
+        },
+        "id": "1798617214431756289",
+        "location": "紐帶樂隊",
+        "name": "一裏醬",
+        "pinned_tweet_id": "1863535757128052904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862438887106437120/BV-qzKX4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 729,
+          "like_count": 15797,
+          "listed_count": 5,
+          "media_count": 100,
+          "tweet_count": 6101
+        },
+        "username": "Hitori_Gotoh520",
+        "verified": false
+      }
+    ]
+  }
+}

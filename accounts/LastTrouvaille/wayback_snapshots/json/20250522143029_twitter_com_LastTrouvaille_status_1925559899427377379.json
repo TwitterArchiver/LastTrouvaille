@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1925529643681292767",
+    "created_at": "2025-05-22T14:30:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T15:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925559899427377379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751084995312275456",
+          "start": 0,
+          "username": "MikuMiku3648"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925559899427377379",
+    "in_reply_to_user_id": "1751084995312275456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 19,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925529643681292767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikuMiku3648 生日快乐~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1925529633791123465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrjbAAKboAkDjzD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1925529643681292767",
+        "created_at": "2025-05-22T14:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T15:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925559899427377379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751084995312275456",
+              "start": 0,
+              "username": "MikuMiku3648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925559899427377379",
+        "in_reply_to_user_id": "1751084995312275456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925529643681292767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuMiku3648 生日快乐~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925529633791123465"
+          ]
+        },
+        "author_id": "1751084995312275456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1925529643681292767",
+        "created_at": "2025-05-22T12:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T13:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925529643681292767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w4FMOjlmIt",
+              "end": 69,
+              "expanded_url": "https://x.com/MikuMiku3648/status/1925529643681292767/photo/1",
+              "media_key": "3_1925529633791123465",
+              "start": 46,
+              "url": "https://t.co/w4FMOjlmIt"
+            },
+            {
+              "display_url": "x.com/MikuMiku3648/s…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/MikuMiku3648/status/1925220322770587985",
+              "start": 70,
+              "url": "https://t.co/5JwsOhWxzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925529643681292767",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1038,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925220322770587985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怕发的太多影响大家tl喵，就在这里一并致以感谢~~~本当に楽しい🫶😚😚\n给大家吃蛋糕喵~~ https://t.co/w4FMOjlmIt https://t.co/5JwsOhWxzs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2836,
+          "following_count": 2638,
+          "like_count": 24961,
+          "listed_count": 12,
+          "media_count": 525,
+          "tweet_count": 5947
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T03:30:20.000Z",
+        "description": "君といる毎日は奇跡だよ                                                           友達！：@Reisa_Music     @Ludwig_von_Remi  @miku_suki393939 对象：@Mikuloverr_  （新教徒谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "Reisa_Music"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "Ludwig_von_Remi"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "Mikuloverr_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/UQGnaLaq5q"
+              }
+            ]
+          }
+        },
+        "id": "1751084995312275456",
+        "location": "原来是生命，而非死亡，才是没有止境的",
+        "name": "Miku🥝✞",
+        "pinned_tweet_id": "1809865925849674203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922674644555096064/THZ34QBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2761,
+          "following_count": 1271,
+          "like_count": 33139,
+          "listed_count": 12,
+          "media_count": 1856,
+          "tweet_count": 12217
+        },
+        "url": "https://t.co/UQGnaLaq5q",
+        "username": "MikuMiku3648",
+        "verified": false
+      }
+    ]
+  }
+}

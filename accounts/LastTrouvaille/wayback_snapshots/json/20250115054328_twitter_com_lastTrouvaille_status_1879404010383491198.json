@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1879388246444224754",
+    "created_at": "2025-01-15T05:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T06:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879404010383491198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1836324977768816641",
+          "start": 0,
+          "username": "HarmonicXY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879404010383491198",
+    "in_reply_to_user_id": "1836324977768816641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879388246444224754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HarmonicXY 反手就是一個關注😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1879388246444224754",
+        "created_at": "2025-01-15T05:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T06:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879404010383491198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1836324977768816641",
+              "start": 0,
+              "username": "HarmonicXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879404010383491198",
+        "in_reply_to_user_id": "1836324977768816641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879388246444224754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HarmonicXY 反手就是一個關注😚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879388243088769024"
+          ]
+        },
+        "author_id": "1836324977768816641",
+        "conversation_id": "1879388246444224754",
+        "created_at": "2025-01-15T04:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T05:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879388246444224754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sruvDHFzVe",
+              "end": 52,
+              "expanded_url": "https://x.com/HarmonicXY/status/1879388246444224754/photo/1",
+              "media_key": "3_1879388243088769024",
+              "start": 29,
+              "url": "https://t.co/sruvDHFzVe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879388246444224754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 327,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "准备逐步转进小红书退推了 当然那两个大坑还是要老实画完的 https://t.co/sruvDHFzVe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 2106,
+          "like_count": 10157,
+          "listed_count": 4,
+          "media_count": 198,
+          "tweet_count": 2528
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T08:43:02.000Z",
+        "description": "农民家的孩子 穷学生\n包容性相对较强的牢保\n（支黑去死）\n前300关注者的头像（110/300）\n置顶贴（13/307）\n赞赏小鱼:https://t.co/oUSXapYncf\n逃生舱@XiaoyuOLA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 93,
+                "username": "XiaoyuOLA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/CollapsingXY/s…",
+                "end": 89,
+                "expanded_url": "https://x.com/CollapsingXY/status/1863160032885424555",
+                "start": 66,
+                "url": "https://t.co/oUSXapYncf"
+              }
+            ]
+          }
+        },
+        "id": "1836324977768816641",
+        "location": "莫生气莫生气 为了小事发脾气 心烦气躁伤身体 回头想想又何必",
+        "name": "小鱼Harmonics",
+        "pinned_tweet_id": "1876486283452928276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877579919640899584/YdVJRpmw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 893,
+          "like_count": 6611,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 2263
+        },
+        "username": "HarmonicXY",
+        "verified": false
+      }
+    ]
+  }
+}

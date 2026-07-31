@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2002989762827915440",
+    "created_at": "2025-12-22T07:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T08:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003010706107715622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956295307886788608",
+          "start": 0,
+          "username": "Huimao_ow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003010706107715622",
+    "in_reply_to_user_id": "1956295307886788608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002989762827915440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huimao_ow 抱抱小灰~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2002989762827915440",
+        "created_at": "2025-12-22T07:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T08:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003010706107715622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956295307886788608",
+              "start": 0,
+              "username": "Huimao_ow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003010706107715622",
+        "in_reply_to_user_id": "1956295307886788608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002989762827915440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huimao_ow 抱抱小灰~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956295307886788608",
+        "conversation_id": "2002989762827915440",
+        "created_at": "2025-12-22T06:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T07:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002989762827915440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002989762827915440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想要抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖双‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖偶尔写点诗词‖穗&沪‖会内耗emo‖不许键政！！！‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3700,
+          "following_count": 2791,
+          "like_count": 37434,
+          "listed_count": 12,
+          "media_count": 800,
+          "tweet_count": 8088
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T10:02:13.000Z",
+        "description": "我是小灰，女的，很社恐和笨蛋，不可爱的孩子，经常被说是纯呆，最近在打音油，祝大家天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huimao",
+                "start": 0,
+                "url": "https://t.co/aOe9VWRMYn"
+              }
+            ]
+          }
+        },
+        "id": "1956295307886788608",
+        "name": "灰mao",
+        "pinned_tweet_id": "1993452320760459324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000524984419221504/Cd1XNRL0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 609,
+          "like_count": 3545,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1359
+        },
+        "url": "https://t.co/aOe9VWRMYn",
+        "username": "Huimao_ow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2073337993398792437",
+    "created_at": "2026-07-04T10:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T11:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073359797739806762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581866233225281538",
+          "start": 0,
+          "username": "K1ta_Ikuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073359797739806762",
+    "in_reply_to_user_id": "1581866233225281538",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073337993398792437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1ta_Ikuyo 好可爱ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30033,
+        "height": 900,
+        "media_key": "13_2073337905989464064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073337905989464064/img/6hwfHB1KMS9ar2Ky.jpg",
+        "public_metrics": {
+          "view_count": 137
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073337905989464064/vid/avc1/320x400/jJOPVChCejLC2C9f.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073337905989464064/vid/avc1/480x600/UKFVNr13DgMAsEbI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073337905989464064/vid/avc1/720x900/hed4c2Jjbn3CCUCi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073337905989464064/pl/JYyR1azuc8KdewCx.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2073337993398792437",
+        "created_at": "2026-07-04T10:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073359797739806762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581866233225281538",
+              "start": 0,
+              "username": "K1ta_Ikuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073359797739806762",
+        "in_reply_to_user_id": "1581866233225281538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073337993398792437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1ta_Ikuyo 好可爱ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073337905989464064"
+          ]
+        },
+        "author_id": "1581866233225281538",
+        "conversation_id": "2073337993398792437",
+        "created_at": "2026-07-04T09:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073337993398792437"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 11,
+              "start": 4,
+              "tag": "femboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fuj2YFaMif",
+              "end": 35,
+              "expanded_url": "https://x.com/K1ta_Ikuyo/status/2073337993398792437/video/1",
+              "media_key": "13_2073337905989464064",
+              "start": 12,
+              "url": "https://t.co/Fuj2YFaMif"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073337993398792437",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 656,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #femboy https://t.co/Fuj2YFaMif"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4545,
+          "following_count": 2941,
+          "like_count": 49482,
+          "listed_count": 14,
+          "media_count": 1013,
+          "tweet_count": 9376
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T04:34:43.000Z",
+        "description": "結束バンドのギタリスト｜❤️@N2009750000｜女子力UP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "N2009750000"
+              }
+            ]
+          }
+        },
+        "id": "1581866233225281538",
+        "location": "Tokyo Japan",
+        "name": "きた いくよ",
+        "pinned_tweet_id": "1937031572701729195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005655391951290368/i8ZUNkDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12001,
+          "following_count": 3254,
+          "like_count": 36400,
+          "listed_count": 22,
+          "media_count": 697,
+          "tweet_count": 15028
+        },
+        "url": "",
+        "username": "K1ta_Ikuyo",
+        "verified": false
+      }
+    ]
+  }
+}

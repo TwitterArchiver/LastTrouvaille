@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1878299758386692145",
+    "created_at": "2025-01-12T07:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T08:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878337825667502350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1534399985634234371",
+          "start": 0,
+          "username": "c21368619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878337825667502350",
+    "in_reply_to_user_id": "1534399985634234371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878334393020023275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c21368619 没有这个身材和财力啦qaq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1878299758386692145",
+        "created_at": "2025-01-12T07:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T08:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878337825667502350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1534399985634234371",
+              "start": 0,
+              "username": "c21368619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878337825667502350",
+        "in_reply_to_user_id": "1534399985634234371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878334393020023275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c21368619 没有这个身材和财力啦qaq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534399985634234371",
+        "conversation_id": "1878299758386692145",
+        "created_at": "2025-01-12T06:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T07:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878334393020023275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878334393020023275",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878299758386692145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 初识kig——喜欢kig——成为kigerξ( ✿＞◡❛)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 2039,
+          "like_count": 9886,
+          "listed_count": 4,
+          "media_count": 189,
+          "tweet_count": 2425
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T05:00:47.000Z",
+        "description": "喜欢一切可爱的事物｜如果你也喜欢我的话…就像我喜欢你时那样开心吧",
+        "id": "1534399985634234371",
+        "location": "最終列車は25時",
+        "name": "c酱",
+        "pinned_tweet_id": "1870753788207976582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534451890217291776/EIh_JkXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 445,
+          "like_count": 1140,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 542
+        },
+        "username": "c21368619",
+        "verified": false
+      }
+    ]
+  }
+}

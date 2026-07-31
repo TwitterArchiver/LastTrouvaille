@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1917127752576340076",
+    "created_at": "2025-04-29T08:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T09:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917135151600893971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841801152381558784",
+          "start": 0,
+          "username": "Amemiya_Hasumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917135151600893971",
+    "in_reply_to_user_id": "1841801152381558784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917127752576340076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amemiya_Hasumi 没有显示哎（？）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 970,
+        "media_key": "3_1917126537067040769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpsAbZdbEAE3jcr.jpg",
+        "width": 902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1917127752576340076",
+        "created_at": "2025-04-29T08:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T09:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917135151600893971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841801152381558784",
+              "start": 0,
+              "username": "Amemiya_Hasumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917135151600893971",
+        "in_reply_to_user_id": "1841801152381558784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917127752576340076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amemiya_Hasumi 没有显示哎（？）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917126537067040769"
+          ]
+        },
+        "author_id": "1841801152381558784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1917127752576340076",
+        "created_at": "2025-04-29T08:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T09:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917127752576340076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5AcobgTkST",
+              "end": 168,
+              "expanded_url": "https://x.com/Amemiya_Hasumi/status/1917127752576340076/photo/1",
+              "media_key": "3_1917126537067040769",
+              "start": 145,
+              "url": "https://t.co/5AcobgTkST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917127752576340076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚被朋友提醒了蓝勾的额外功能，所以把首页互推的链接放在扩展介绍里了，也就是【查看更多】\n这个扩展介绍几乎没有字数限制，所以希望互推的可以写在这里哦ww\n至于为什么不直接放在bio里，因为我真的很喜欢这两句话，所谓「对美的追求是人类的终极目标之一」\n但写上去之后发现再加互推字数就不够了…… https://t.co/5AcobgTkST"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2528,
+          "following_count": 2585,
+          "like_count": 21545,
+          "listed_count": 14,
+          "media_count": 461,
+          "tweet_count": 5189
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T11:23:15.000Z",
+        "description": "「Et in Arcadia Ego./我曾在阿卡迪亚。」\n「Viva los artistas y su amor./艺术家和他们的爱万岁。」\n男性，直男，偶尔是男娘。\n往期照片请见亮点，禁敏感政治。\nNGL：https://t.co/kxkm3rX4fc\n↓更多介绍可戳这里",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasumi66262",
+                "end": 129,
+                "expanded_url": "https://ngl.link/hasumi66262",
+                "start": 106,
+                "url": "https://t.co/kxkm3rX4fc"
+              }
+            ]
+          }
+        },
+        "id": "1841801152381558784",
+        "location": "永恆之地 翁法羅斯",
+        "name": "雨宮 蓮見",
+        "pinned_tweet_id": "1871596096461713573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912854299815849984/y8ygeXos_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4052,
+          "following_count": 1984,
+          "like_count": 32418,
+          "listed_count": 8,
+          "media_count": 1065,
+          "tweet_count": 7316
+        },
+        "username": "Amemiya_Hasumi",
+        "verified": true
+      }
+    ]
+  }
+}

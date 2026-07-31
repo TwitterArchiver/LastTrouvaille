@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1903831051711222023",
+    "created_at": "2025-03-24T05:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T06:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904048456412663883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753419726582345728",
+          "start": 0,
+          "username": "GravitySwiss"
+        },
+        {
+          "end": 30,
+          "id": "1699273459325390848",
+          "start": 14,
+          "username": "DurantRaym93677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904048456412663883",
+    "in_reply_to_user_id": "1753419726582345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904042862544855302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GravitySwiss @DurantRaym93677 我勒个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1903831051711222023",
+        "created_at": "2025-03-24T05:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T06:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904048456412663883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753419726582345728",
+              "start": 0,
+              "username": "GravitySwiss"
+            },
+            {
+              "end": 30,
+              "id": "1699273459325390848",
+              "start": 14,
+              "username": "DurantRaym93677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904048456412663883",
+        "in_reply_to_user_id": "1753419726582345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904042862544855302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GravitySwiss @DurantRaym93677 我勒个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753419726582345728",
+        "conversation_id": "1903831051711222023",
+        "created_at": "2025-03-24T05:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T06:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904042862544855302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1699273459325390848",
+              "start": 0,
+              "username": "DurantRaym93677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904042862544855302",
+        "in_reply_to_user_id": "1699273459325390848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904041486397948299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DurantRaym93677 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2198,
+          "following_count": 2709,
+          "like_count": 18086,
+          "listed_count": 11,
+          "media_count": 367,
+          "tweet_count": 4365
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T14:07:38.000Z",
+        "description": "open your eyes for the next ∅'s",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "otomad.wiki",
+                "end": 23,
+                "expanded_url": "https://otomad.wiki/",
+                "start": 0,
+                "url": "https://t.co/eEO2O5kmpg"
+              }
+            ]
+          }
+        },
+        "id": "1753419726582345728",
+        "location": "Κωνσταντινούπολις",
+        "name": "GravitySwiss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753431245357543424/KxUIQ4O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1891,
+          "following_count": 2544,
+          "like_count": 91569,
+          "listed_count": 16,
+          "media_count": 1236,
+          "tweet_count": 26727
+        },
+        "url": "https://t.co/eEO2O5kmpg",
+        "username": "GravitySwiss",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "🇯🇵🇦🇺🇹🇼🇺🇦    \n\nHigh Comissioner of @enchenia in South America",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "enchenia"
+              }
+            ]
+          }
+        },
+        "id": "1699273459325390848",
+        "location": "Victoria, Australia",
+        "name": "Luke 桜局長 ⛩️",
+        "pinned_tweet_id": "1899150127555834356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797427335911952384/l7lUTXag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 1356,
+          "like_count": 16993,
+          "listed_count": 4,
+          "media_count": 209,
+          "tweet_count": 5194
+        },
+        "username": "DurantRaym93677",
+        "verified": true
+      }
+    ]
+  }
+}

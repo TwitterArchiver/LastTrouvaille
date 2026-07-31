@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2081633785242923228",
+    "created_at": "2026-07-27T10:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T11:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081683858056176106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1507430844289282050",
+          "start": 0,
+          "username": "puxinguonan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081683858056176106",
+    "in_reply_to_user_id": "1507430844289282050",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081678189580194001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puxinguonan 诶嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2081633785242923228",
+        "created_at": "2026-07-27T10:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081683858056176106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1507430844289282050",
+              "start": 0,
+              "username": "puxinguonan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081683858056176106",
+        "in_reply_to_user_id": "1507430844289282050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081678189580194001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puxinguonan 诶嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507430844289282050",
+        "conversation_id": "2081633785242923228",
+        "created_at": "2026-07-27T09:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081678189580194001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081678189580194001",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081633785242923228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 透度好高呀，脚趾头清晰可见，震撼美味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4646,
+          "following_count": 2928,
+          "like_count": 50755,
+          "listed_count": 14,
+          "media_count": 1025,
+          "tweet_count": 9513
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T18:55:02.000Z",
+        "description": "一个性欲得不到发泄的二刺螈变态\n性癖偏粗暴但不重口\n我喜欢涩涩还有色色",
+        "id": "1507430844289282050",
+        "name": "普通自信国男",
+        "pinned_tweet_id": "1507432978347360256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068623582411018240/KYZBZD8D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 162,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 678
+        },
+        "url": "",
+        "username": "puxinguonan",
+        "verified": false
+      }
+    ]
+  }
+}

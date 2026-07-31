@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060361777461018624"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "2060361779570716698",
+    "created_at": "2026-05-29T14:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060361779570716698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tUJdd7CKy7",
+          "end": 72,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2060361779570716698/photo/1",
+          "media_key": "3_2060361777461018624",
+          "start": 49,
+          "url": "https://t.co/tUJdd7CKy7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060361779570716698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "等等等等，突然意识到一件事情\nCC我是生活推主，不是腿子推主（）\n最近发腿的频率是不是太高了（） https://t.co/tUJdd7CKy7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2060361777461018624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfgHs5bQAAKZeQ.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060361777461018624"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2060361779570716698",
+        "created_at": "2026-05-29T14:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060361779570716698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tUJdd7CKy7",
+              "end": 72,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2060361779570716698/photo/1",
+              "media_key": "3_2060361777461018624",
+              "start": 49,
+              "url": "https://t.co/tUJdd7CKy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060361779570716698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等等等等，突然意识到一件事情\nCC我是生活推主，不是腿子推主（）\n最近发腿的频率是不是太高了（） https://t.co/tUJdd7CKy7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦，叫妈妈姐姐也行（不是）‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖不许键政🚫‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7RpK"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4390,
+          "following_count": 2889,
+          "like_count": 46965,
+          "listed_count": 14,
+          "media_count": 971,
+          "tweet_count": 9172
+        },
+        "url": "https://t.co/TWu8nv7RpK",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1924499018107023840",
+    "created_at": "2025-05-19T16:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T17:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924507272883146897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1287994312714670080",
+          "start": 0,
+          "username": "bozhuLANG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924507272883146897",
+    "in_reply_to_user_id": "1287994312714670080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924505072488349950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bozhuLANG 打个视频电话？👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1924499018107023840",
+        "created_at": "2025-05-19T16:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T17:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924507272883146897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1287994312714670080",
+              "start": 0,
+              "username": "bozhuLANG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924507272883146897",
+        "in_reply_to_user_id": "1287994312714670080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924505072488349950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bozhuLANG 打个视频电话？👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287994312714670080",
+        "conversation_id": "1924499018107023840",
+        "created_at": "2025-05-19T16:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T17:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924505072488349950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924505072488349950",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924499018107023840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 对象不在身边怎么办…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2822,
+          "following_count": 2624,
+          "like_count": 24688,
+          "listed_count": 12,
+          "media_count": 521,
+          "tweet_count": 5912
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-28T06:12:35.000Z",
+        "description": "「波珠朗」 aka 『BZLang』 ｜  Aircraft mechanic, graduated as Proposal Engineering at Civil Aviation University of China. 航空發動機系畢業生 / 從業者。",
+        "id": "1287994312714670080",
+        "location": "CAN / ZGGG; TSN / ZBTJ. 系廣東仔! ",
+        "name": "BZLang",
+        "pinned_tweet_id": "1761871385624707272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1289474702788960256/pwpMRqa8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 955,
+          "like_count": 110475,
+          "listed_count": 4,
+          "media_count": 3368,
+          "tweet_count": 18276
+        },
+        "username": "bozhuLANG",
+        "verified": false
+      }
+    ]
+  }
+}

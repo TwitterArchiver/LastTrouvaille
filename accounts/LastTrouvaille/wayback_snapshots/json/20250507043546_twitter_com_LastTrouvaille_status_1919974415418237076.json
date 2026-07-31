@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1919941758588485645",
+    "created_at": "2025-05-07T04:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T05:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919974415418237076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683348184331059201",
+          "start": 0,
+          "username": "ccckoajiahao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919974415418237076",
+    "in_reply_to_user_id": "1683348184331059201",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919942502401880573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccckoajiahao 哼哼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1919941758588485645",
+        "created_at": "2025-05-07T04:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T05:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919974415418237076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683348184331059201",
+              "start": 0,
+              "username": "ccckoajiahao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919974415418237076",
+        "in_reply_to_user_id": "1683348184331059201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919942502401880573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccckoajiahao 哼哼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683348184331059201",
+        "conversation_id": "1919941758588485645",
+        "created_at": "2025-05-07T02:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T03:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919942502401880573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919942502401880573",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919941758588485645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 好广！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2763,
+          "following_count": 2751,
+          "like_count": 23089,
+          "listed_count": 12,
+          "media_count": 486,
+          "tweet_count": 5515
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T05:27:50.000Z",
+        "description": "我是男银… 常在线，求骚扰（互fo）还有额…..算了算了不会写简介！就这样吧求骚扰！",
+        "id": "1683348184331059201",
+        "location": "1m",
+        "name": "c cc ko a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683349322598068224/LTc07JBC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 309,
+          "like_count": 2190,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1279
+        },
+        "username": "ccckoajiahao",
+        "verified": false
+      }
+    ]
+  }
+}

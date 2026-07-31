@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1873249364073668609"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1873249369048182843",
+    "created_at": "2024-12-29T06:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T07:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873249369048182843"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+          "display_url": "infinityweet.me/interaction-ci…",
+          "end": 63,
+          "expanded_url": "https://infinityweet.me/interaction-circle?lang=pt",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1871292542718824449/itkANKsJ?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1871292542718824449/itkANKsJ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 40,
+          "status": 200,
+          "title": "Interaction Circle • Infinitweet",
+          "unwound_url": "https://infinityweet.me/interaction-circle?lang=pt",
+          "url": "https://t.co/hIrmbSXKju"
+        },
+        {
+          "display_url": "pic.x.com/Kl0Syut7MC",
+          "end": 87,
+          "expanded_url": "https://x.com/lastTrouvaille/status/1873249369048182843/photo/1",
+          "media_key": "3_1873249364073668609",
+          "start": 64,
+          "url": "https://t.co/Kl0Syut7MC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873249369048182843",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Meu Círculo de Interação no Twitter\n\n➡️ https://t.co/hIrmbSXKju https://t.co/Kl0Syut7MC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1873249364073668609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf8eXylWYAEOBui.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873249364073668609"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1873249369048182843",
+        "created_at": "2024-12-29T06:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T07:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873249369048182843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 63,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=pt",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1871292542718824449/itkANKsJ?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1871292542718824449/itkANKsJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 40,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=pt",
+              "url": "https://t.co/hIrmbSXKju"
+            },
+            {
+              "display_url": "pic.x.com/Kl0Syut7MC",
+              "end": 87,
+              "expanded_url": "https://x.com/lastTrouvaille/status/1873249369048182843/photo/1",
+              "media_key": "3_1873249364073668609",
+              "start": 64,
+              "url": "https://t.co/Kl0Syut7MC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873249369048182843",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Meu Círculo de Interação no Twitter\n\n➡️ https://t.co/hIrmbSXKju https://t.co/Kl0Syut7MC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 1767,
+          "like_count": 7791,
+          "listed_count": 4,
+          "media_count": 160,
+          "tweet_count": 1938
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

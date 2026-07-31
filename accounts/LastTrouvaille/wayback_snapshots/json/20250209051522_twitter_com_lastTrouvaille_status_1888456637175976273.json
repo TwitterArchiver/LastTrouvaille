@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1888424323612115264",
+    "created_at": "2025-02-09T05:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T06:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888456637175976273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1733255083440357376",
+          "start": 0,
+          "username": "7639xy_k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888456637175976273",
+    "in_reply_to_user_id": "1733255083440357376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888424323612115264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7639xy_k 发发链接喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1888424323612115264",
+        "created_at": "2025-02-09T05:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T06:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888456637175976273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1733255083440357376",
+              "start": 0,
+              "username": "7639xy_k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888456637175976273",
+        "in_reply_to_user_id": "1733255083440357376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888424323612115264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7639xy_k 发发链接喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888424319975665664"
+          ]
+        },
+        "author_id": "1733255083440357376",
+        "conversation_id": "1888424323612115264",
+        "created_at": "2025-02-09T03:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T04:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888424323612115264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j76CBZnIua",
+              "end": 32,
+              "expanded_url": "https://x.com/7639xy_k/status/1888424323612115264/photo/1",
+              "media_key": "3_1888424319975665664",
+              "start": 9,
+              "url": "https://t.co/j76CBZnIua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888424323612115264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 301,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是太正常了。 https://t.co/j76CBZnIua"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 2061,
+          "like_count": 12580,
+          "listed_count": 7,
+          "media_count": 239,
+          "tweet_count": 3237
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T22:40:22.000Z",
+        "description": "友好少数群体｜恋人@qiuyu_ji｜刷到我的能不能和我互fo｜奇怪的小号@TPR_luv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "qiuyu_ji"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "TPR_luv"
+              }
+            ]
+          }
+        },
+        "id": "1733255083440357376",
+        "location": "Anywhere",
+        "name": "曦夜少吃两口",
+        "pinned_tweet_id": "1887363884031623260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887986931012878343/2GCmZpXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 625,
+          "like_count": 32558,
+          "listed_count": 4,
+          "media_count": 82,
+          "tweet_count": 3261
+        },
+        "username": "7639xy_k",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1997618792789364836",
+    "created_at": "2025-12-07T15:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T16:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997695290695139595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956295307886788608",
+          "start": 0,
+          "username": "Huimao_ow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997695290695139595",
+    "in_reply_to_user_id": "1956295307886788608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997618792789364836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huimao_ow 内圈！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1997618777434066944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7j3sbmbkAAy-h4.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1997618792789364836",
+        "created_at": "2025-12-07T15:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T16:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997695290695139595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956295307886788608",
+              "start": 0,
+              "username": "Huimao_ow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997695290695139595",
+        "in_reply_to_user_id": "1956295307886788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997618792789364836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huimao_ow 内圈！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997618777434066944"
+          ]
+        },
+        "author_id": "1956295307886788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1997618792789364836",
+        "created_at": "2025-12-07T10:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T11:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997618792789364836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1997392853291745280/5VBthu36?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1997392853291745280/5VBthu36?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/7rNWp7XnYn"
+            },
+            {
+              "display_url": "pic.x.com/EbLho57RJs",
+              "end": 64,
+              "expanded_url": "https://x.com/Huimao_ow/status/1997618792789364836/photo/1",
+              "media_key": "3_1997618777434066944",
+              "start": 41,
+              "url": "https://t.co/EbLho57RJs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997618792789364836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/7rNWp7XnYn https://t.co/EbLho57RJs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖穗&沪‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3669,
+          "following_count": 2789,
+          "like_count": 35678,
+          "listed_count": 13,
+          "media_count": 765,
+          "tweet_count": 7844
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T10:02:13.000Z",
+        "description": "香港人 玩游戏 音游 二游 看图(๑´ڡ`๑) 女孩子 中学生 人在广东w",
+        "id": "1956295307886788608",
+        "location": "Arcaea",
+        "name": "小灰",
+        "pinned_tweet_id": "1993452320760459324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997311301874589696/dsERyG5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 595,
+          "like_count": 3332,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1286
+        },
+        "username": "Huimao_ow",
+        "verified": false
+      }
+    ]
+  }
+}

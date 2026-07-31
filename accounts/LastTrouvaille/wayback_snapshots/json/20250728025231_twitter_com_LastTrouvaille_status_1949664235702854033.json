@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1949530936250618128",
+    "created_at": "2025-07-28T02:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T03:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949664235702854033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1058614499463360514",
+          "start": 0,
+          "username": "sakuya5552"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949664235702854033",
+    "in_reply_to_user_id": "1058614499463360514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949545128613585276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakuya5552 感觉这样子会很有话题（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1949530936250618128",
+        "created_at": "2025-07-28T02:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T03:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949664235702854033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1058614499463360514",
+              "start": 0,
+              "username": "sakuya5552"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949664235702854033",
+        "in_reply_to_user_id": "1058614499463360514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949545128613585276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakuya5552 感觉这样子会很有话题（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1058614499463360514",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "1949530936250618128",
+        "created_at": "2025-07-27T18:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T19:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949545128613585276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949545128613585276",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949530936250618128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 我把我同父异母妹妹带到了和我同一条道路，甚至是同一种的大学专业和工作🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3212,
+          "following_count": 2694,
+          "like_count": 29469,
+          "listed_count": 12,
+          "media_count": 620,
+          "tweet_count": 6789
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-03T06:58:59.000Z",
+        "description": "社畜/中国在住/日本留学経歴有/ENTP/后现代/悲観主义诗人/嗜酒嗜烟但不OD/我基本只会留你喜欢听的话（除非是在躁狂期）/拉丁语/变态/提问箱https://t.co/ABBikhp89J",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/prpr143555",
+                "end": 96,
+                "expanded_url": "https://ngl.link/prpr143555",
+                "start": 73,
+                "url": "https://t.co/ABBikhp89J"
+              }
+            ]
+          }
+        },
+        "id": "1058614499463360514",
+        "location": "きさらぎ駅",
+        "name": "斑鳩Ikaruga",
+        "pinned_tweet_id": "1929472408244941118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929458060227223552/2pJr0qCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 365,
+          "like_count": 5549,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 3761
+        },
+        "username": "sakuya5552",
+        "verified": false
+      }
+    ]
+  }
+}

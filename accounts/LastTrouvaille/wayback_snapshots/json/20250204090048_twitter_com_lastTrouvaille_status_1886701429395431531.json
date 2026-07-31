@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1886495337986318535",
+    "created_at": "2025-02-04T09:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T10:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886701429395431531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794154221194932224",
+          "start": 0,
+          "username": "NagiVictoria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886701429395431531",
+    "in_reply_to_user_id": "1794154221194932224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886495337986318535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiVictoria 想要看看CC胃痛发作时疼的脸色煞白说不出话的样子吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1886495337986318535",
+        "created_at": "2025-02-04T09:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T10:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886701429395431531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794154221194932224",
+              "start": 0,
+              "username": "NagiVictoria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886701429395431531",
+        "in_reply_to_user_id": "1794154221194932224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886495337986318535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiVictoria 想要看看CC胃痛发作时疼的脸色煞白说不出话的样子吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886495330604048384"
+          ]
+        },
+        "author_id": "1794154221194932224",
+        "conversation_id": "1886495337986318535",
+        "created_at": "2025-02-03T19:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T20:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886495337986318535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xOWkB6yGpi",
+              "end": 55,
+              "expanded_url": "https://x.com/NagiVictoria/status/1886495337986318535/photo/1",
+              "media_key": "3_1886495330604048384",
+              "start": 32,
+              "url": "https://t.co/xOWkB6yGpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886495337986318535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10449,
+          "like_count": 49,
+          "quote_count": 3,
+          "reply_count": 33,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "？\n听说xyn人均胃病（所以才这么瘦\n你们谁想要的可以去试试（ https://t.co/xOWkB6yGpi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 2494,
+          "like_count": 12458,
+          "listed_count": 6,
+          "media_count": 227,
+          "tweet_count": 3009
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "银趴大王冲晕了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExTBHF"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "机厅厕所隔间",
+        "name": "Nagi 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1885877612117106704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882689504978350080/iCWHUndQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3373,
+          "following_count": 765,
+          "like_count": 12567,
+          "listed_count": 5,
+          "media_count": 1521,
+          "tweet_count": 11649
+        },
+        "url": "https://t.co/xPejExTBHF",
+        "username": "NagiVictoria",
+        "verified": false
+      }
+    ]
+  }
+}

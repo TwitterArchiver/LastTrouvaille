@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1881769479518228541",
+    "created_at": "2025-01-22T02:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T03:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881886539111977248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870022570353012736",
+          "start": 0,
+          "username": "kukudejiaxibei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881886539111977248",
+    "in_reply_to_user_id": "1870022570353012736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881769479518228541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukudejiaxibei 恭喜喵🥳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1881769479518228541",
+        "created_at": "2025-01-22T02:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T03:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881886539111977248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870022570353012736",
+              "start": 0,
+              "username": "kukudejiaxibei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881886539111977248",
+        "in_reply_to_user_id": "1870022570353012736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881769479518228541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukudejiaxibei 恭喜喵🥳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881768373203443712"
+          ]
+        },
+        "author_id": "1870022570353012736",
+        "conversation_id": "1881769479518228541",
+        "created_at": "2025-01-21T18:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T19:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881769479518228541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TxZhBMjyy2",
+              "end": 108,
+              "expanded_url": "https://x.com/kukudejiaxibei/status/1881769479518228541/photo/1",
+              "media_key": "3_1881768373203443712",
+              "start": 85,
+              "url": "https://t.co/TxZhBMjyy2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881769479518228541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要200了，各位可以帮忙提一下自己的意见吗？\n觉得做些什么好呢？\nTrippin' on it, like propane.\n顺带提前庆祝一下好了！\n🥂Cheers!🍻 https://t.co/TxZhBMjyy2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻丨说话爱带括号勿怪)丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1822,
+          "following_count": 2235,
+          "like_count": 10712,
+          "listed_count": 4,
+          "media_count": 208,
+          "tweet_count": 2680
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T08:25:12.000Z",
+        "description": "06年/INFJ+处女座/HRT-24.10.21/擅长文学类和艺术类/SteamID：1151422332/红警2&心灵终结/CR&COC/明日方舟/原神/GTA/生化危机/COD/CS&HL/梦想是成为酷酷的大姐头/愿意奉献自我/九年最佳劳委/已退学/希望大家也可以变成自己心中的样子/烹饪和烘焙/人格解体现实解体/",
+        "id": "1870022570353012736",
+        "location": "山西",
+        "name": "贾西贝",
+        "pinned_tweet_id": "1875448484817764757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870022689844539392/_d-1PSQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 431,
+          "like_count": 3839,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1118
+        },
+        "username": "kukudejiaxibei",
+        "verified": false
+      }
+    ]
+  }
+}

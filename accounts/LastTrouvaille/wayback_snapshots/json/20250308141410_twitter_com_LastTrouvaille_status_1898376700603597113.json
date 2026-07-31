@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1873030514250268931",
+    "created_at": "2025-03-08T14:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T15:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898376700603597113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1812515586603409408",
+          "start": 0,
+          "username": "hhk1546562"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898376700603597113",
+    "in_reply_to_user_id": "1812515586603409408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898345420566462919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhk1546562 噗\n第二次的话就改成揉揉脸吧（搓"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1898345420566462919].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1898345420566462919",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1898345420566462919"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1873030514250268931",
+        "created_at": "2025-03-08T14:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T15:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898376700603597113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1812515586603409408",
+              "start": 0,
+              "username": "hhk1546562"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898376700603597113",
+        "in_reply_to_user_id": "1812515586603409408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898345420566462919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhk1546562 噗\n第二次的话就改成揉揉脸吧（搓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链推荐是动画巡礼和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anitabi.cn",
+                "end": 23,
+                "expanded_url": "https://anitabi.cn/",
+                "start": 0,
+                "url": "https://t.co/ASAIm8Wyd2"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2076,
+          "following_count": 2394,
+          "like_count": 15726,
+          "listed_count": 6,
+          "media_count": 305,
+          "tweet_count": 3892
+        },
+        "url": "https://t.co/ASAIm8Wyd2",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T15:52:55.000Z",
+        "description": "回家的感觉真好（37的负面推，虽然这里是轩尘的地盘）",
+        "id": "1812515586603409408",
+        "location": "璃月港",
+        "name": "七七想喝椰奶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898305820884131840/zHgo3eY-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 74,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 77
+        },
+        "username": "hhk1546562",
+        "verified": false
+      }
+    ]
+  }
+}

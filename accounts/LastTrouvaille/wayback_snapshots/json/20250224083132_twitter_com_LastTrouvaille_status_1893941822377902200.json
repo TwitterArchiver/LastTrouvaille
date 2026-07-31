@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1893928967909826752",
+    "created_at": "2025-02-24T08:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T09:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893941822377902200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893941822377902200",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893928967909826752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1893928967909826752",
+        "created_at": "2025-02-24T08:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T09:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893941822377902200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893941822377902200",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893928967909826752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845491203124441093",
+        "conversation_id": "1893928967909826752",
+        "created_at": "2025-02-24T07:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T08:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893928967909826752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Amemiya_Hasumi…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/Amemiya_Hasumi/status/1893907941482176716",
+              "start": 130,
+              "url": "https://t.co/fkYCyYykO9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893928967909826752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 231,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893907941482176716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "余华の好感度等级（留言即可询问）\n-1 和你对话我会觉得恶心想吐\n0 我 一直在哦可以和你讲话\n3 余华会随机爆金币\n5 我会看你的帖子和你聊天\n9 我会一直视奸你\n10 我会占有你\n20 听你的想知道你的一切会疯狂找你\n30可以🈷️我出来玩\n999 ？？？ https://t.co/fkYCyYykO9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ 这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2012,
+          "following_count": 2193,
+          "like_count": 14408,
+          "listed_count": 7,
+          "media_count": 272,
+          "tweet_count": 3534
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "逝去的前一刻是美丽的，是神圣的，不可超越的最美的一刻，出生真的即是死亡吗，有乐趣在世，在活着，在感受自己的生命力，太美了，凋谢的一刻仅仅只有一次，何事没有第一次，那他这件事后面肯定可以重复，凋零的美无法替代\n\n@yuhuacs5570 是他",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "yuhuacs5570"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "shanghai",
+        "name": "✿余华꒦ິ成霜❀",
+        "pinned_tweet_id": "1893891555691225232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884488814283898880/RXzxAUUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 826,
+          "like_count": 40395,
+          "listed_count": 7,
+          "media_count": 891,
+          "tweet_count": 6796
+        },
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

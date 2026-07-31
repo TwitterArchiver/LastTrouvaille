@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1878597379211010425",
+    "created_at": "2025-01-13T11:29:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T12:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878766368331567410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804708761141161984",
+          "start": 0,
+          "username": "qazwsx12345___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878766368331567410",
+    "in_reply_to_user_id": "1804708761141161984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878747465010368560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qazwsx12345___ 感觉不想要倒垃圾啦😘让大家开开心心就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1878597379211010425",
+        "created_at": "2025-01-13T11:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T12:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878766368331567410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804708761141161984",
+              "start": 0,
+              "username": "qazwsx12345___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878766368331567410",
+        "in_reply_to_user_id": "1804708761141161984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878747465010368560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qazwsx12345___ 感觉不想要倒垃圾啦😘让大家开开心心就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804708761141161984",
+        "conversation_id": "1878597379211010425",
+        "created_at": "2025-01-13T10:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T11:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878747465010368560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878747465010368560",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878597379211010425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 感觉分享负面也是朋友的一种，不要什么事情都自己撑着呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 2069,
+          "like_count": 10017,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 2466
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T02:51:29.000Z",
+        "description": "神威空间里硬接雷切是为了感受同你心的疼痛",
+        "id": "1804708761141161984",
+        "location": "木叶村",
+        "name": "可燃琳",
+        "pinned_tweet_id": "1834193265165504973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860201777586667522/IWb5_2NT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 120,
+          "like_count": 1768,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 267
+        },
+        "username": "qazwsx12345___",
+        "verified": false
+      }
+    ]
+  }
+}

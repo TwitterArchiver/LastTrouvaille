@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1894413037215404455",
+    "created_at": "2025-02-25T16:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T17:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894423992053719056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663569376874987520",
+          "start": 0,
+          "username": "StAkoi23707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894423992053719056",
+    "in_reply_to_user_id": "1663569376874987520",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894422786262929492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StAkoi23707 111"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1894413037215404455",
+        "created_at": "2025-02-25T16:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T17:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894423992053719056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663569376874987520",
+              "start": 0,
+              "username": "StAkoi23707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894423992053719056",
+        "in_reply_to_user_id": "1663569376874987520",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894422786262929492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StAkoi23707 111"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663569376874987520",
+        "conversation_id": "1894413037215404455",
+        "created_at": "2025-02-25T16:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T17:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894422786262929492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894422786262929492",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894413037215404455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 扣1能换我来当一天小熊嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ here's Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2025,
+          "following_count": 2201,
+          "like_count": 14640,
+          "listed_count": 7,
+          "media_count": 279,
+          "tweet_count": 3602
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T15:33:53.000Z",
+        "description": "多年以后，面对发霉的聊天记录，我将会回想起第一次遇见你的那个遥远的下午",
+        "id": "1663569376874987520",
+        "name": "我不是蜂蜜芥末炸鸡",
+        "pinned_tweet_id": "1887130439523156470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894423603367874565/ftUDCa5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 232,
+          "like_count": 3288,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1890
+        },
+        "username": "StAkoi23707",
+        "verified": false
+      }
+    ]
+  }
+}

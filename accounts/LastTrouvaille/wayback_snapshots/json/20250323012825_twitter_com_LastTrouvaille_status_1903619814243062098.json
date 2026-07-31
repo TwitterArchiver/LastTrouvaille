@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1903452618263032301",
+    "created_at": "2025-03-23T01:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T02:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903619814243062098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1576749346623660032",
+          "start": 0,
+          "username": "YuuraMizuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903619814243062098",
+    "in_reply_to_user_id": "1576749346623660032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903474098107469973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuuraMizuki 您好顾客，这是您点的豆腐锅和日月星"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 514,
+        "media_key": "3_1903474095116992512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmp_mr6bQAAr53M.jpg",
+        "width": 514
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1903452618263032301",
+        "created_at": "2025-03-23T01:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T02:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903619814243062098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1576749346623660032",
+              "start": 0,
+              "username": "YuuraMizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903619814243062098",
+        "in_reply_to_user_id": "1576749346623660032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903474098107469973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuuraMizuki 您好顾客，这是您点的豆腐锅和日月星"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903474095116992512"
+          ]
+        },
+        "author_id": "1576749346623660032",
+        "conversation_id": "1903452618263032301",
+        "created_at": "2025-03-22T15:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T16:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903474098107469973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJ91TFHgvv",
+              "end": 39,
+              "expanded_url": "https://x.com/YuuraMizuki/status/1903474098107469973/photo/1",
+              "media_key": "3_1903474095116992512",
+              "start": 16,
+              "url": "https://t.co/yJ91TFHgvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903474098107469973",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903452618263032301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille https://t.co/yJ91TFHgvv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2191,
+          "following_count": 2693,
+          "like_count": 17910,
+          "listed_count": 9,
+          "media_count": 360,
+          "tweet_count": 4305
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-03T01:42:14.000Z",
+        "description": "物至盛极终将衰败，恰如长夜之梦易醒",
+        "id": "1576749346623660032",
+        "name": "幽岚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861059800056090624/5RTlOV7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 293,
+          "like_count": 2298,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 440
+        },
+        "username": "YuuraMizuki",
+        "verified": false
+      }
+    ]
+  }
+}

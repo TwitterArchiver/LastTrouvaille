@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1889667071975305373",
+    "created_at": "2025-02-12T13:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T14:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889671784695210208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1620145978950176768",
+          "start": 0,
+          "username": "Inori090"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889671784695210208",
+    "in_reply_to_user_id": "1620145978950176768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889667071975305373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inori090 抱抱侑侑🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1889667071975305373",
+        "created_at": "2025-02-12T13:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T14:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889671784695210208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1620145978950176768",
+              "start": 0,
+              "username": "Inori090"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889671784695210208",
+        "in_reply_to_user_id": "1620145978950176768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889667071975305373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inori090 抱抱侑侑🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889667069437943809"
+          ]
+        },
+        "author_id": "1620145978950176768",
+        "conversation_id": "1889667071975305373",
+        "created_at": "2025-02-12T13:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T14:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889667071975305373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ag5EieZY67",
+              "end": 33,
+              "expanded_url": "https://x.com/Inori090/status/1889667071975305373/photo/1",
+              "media_key": "3_1889667069437943809",
+              "start": 10,
+              "url": "https://t.co/ag5EieZY67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889667071975305373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烧起来了\n累累的🥺 https://t.co/ag5EieZY67"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1947,
+          "following_count": 2063,
+          "like_count": 12844,
+          "listed_count": 6,
+          "media_count": 245,
+          "tweet_count": 3302
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-30T19:44:45.000Z",
+        "description": "不过十几里，像是走了十年",
+        "id": "1620145978950176768",
+        "name": "侑",
+        "pinned_tweet_id": "1711089705767604491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751054658024747008/tUJ5Vaub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 900,
+          "like_count": 19323,
+          "listed_count": 2,
+          "media_count": 1084,
+          "tweet_count": 4640
+        },
+        "username": "Inori090",
+        "verified": false
+      }
+    ]
+  }
+}

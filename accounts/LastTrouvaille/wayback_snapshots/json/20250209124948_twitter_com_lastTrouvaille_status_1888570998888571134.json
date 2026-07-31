@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1887701455945277773",
+    "created_at": "2025-02-09T12:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T13:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888570998888571134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1803039087420489728",
+          "start": 0,
+          "username": "chiko495"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888570998888571134",
+    "in_reply_to_user_id": "1803039087420489728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888568676921831707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiko495 怎么会！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1887701455945277773",
+        "created_at": "2025-02-09T12:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T13:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888570998888571134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1803039087420489728",
+              "start": 0,
+              "username": "chiko495"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888570998888571134",
+        "in_reply_to_user_id": "1803039087420489728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888568676921831707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiko495 怎么会！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803039087420489728",
+        "conversation_id": "1887701455945277773",
+        "created_at": "2025-02-09T12:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T13:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888568676921831707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888568676921831707",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888399032080544043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 唔姆...原来居然不是很不熟悉吗🤔有些意外诶x\n因为感觉自己就像小透明一样qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939,
+          "following_count": 2062,
+          "like_count": 12616,
+          "listed_count": 7,
+          "media_count": 241,
+          "tweet_count": 3255
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T12:16:41.000Z",
+        "description": "喵喵喵",
+        "id": "1803039087420489728",
+        "name": "chiko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804610262252900352/ZV-5AFqm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 143,
+          "like_count": 5783,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3124
+        },
+        "username": "chiko495",
+        "verified": false
+      }
+    ]
+  }
+}

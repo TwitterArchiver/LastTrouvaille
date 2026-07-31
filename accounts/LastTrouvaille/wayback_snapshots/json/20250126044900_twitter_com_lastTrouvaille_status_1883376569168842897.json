@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1883376569168842897",
+    "created_at": "2025-01-26T04:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T05:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883376569168842897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lastTrouvaille…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/lastTrouvaille/status/1883374401997222020",
+          "start": 11,
+          "url": "https://t.co/POtgitXuBZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883376569168842897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883374401997222020",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对的CC是去做兼职（ https://t.co/POtgitXuBZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1883376569168842897",
+        "created_at": "2025-01-26T04:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T05:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883376569168842897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lastTrouvaille…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/lastTrouvaille/status/1883374401997222020",
+              "start": 11,
+              "url": "https://t.co/POtgitXuBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883376569168842897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883374401997222020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对的CC是去做兼职（ https://t.co/POtgitXuBZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883374365951311872",
+            "3_1883374365955493888"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "1883374401997222020",
+        "created_at": "2025-01-26T04:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T05:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883374401997222020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YaZXX3AzBS",
+              "end": 31,
+              "expanded_url": "https://x.com/lastTrouvaille/status/1883374401997222020/photo/1",
+              "media_key": "3_1883374365951311872",
+              "start": 8,
+              "url": "https://t.co/YaZXX3AzBS"
+            },
+            {
+              "display_url": "pic.x.com/YaZXX3AzBS",
+              "end": 31,
+              "expanded_url": "https://x.com/lastTrouvaille/status/1883374401997222020/photo/1",
+              "media_key": "3_1883374365955493888",
+              "start": 8,
+              "url": "https://t.co/YaZXX3AzBS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883374401997222020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是广州的花市喔 https://t.co/YaZXX3AzBS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖INFP‖中国人🇨🇳热爱祖国和人民‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 2332,
+          "like_count": 11322,
+          "listed_count": 6,
+          "media_count": 214,
+          "tweet_count": 2776
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1949333180739211482",
+    "created_at": "2025-07-27T08:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T09:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949381830198898732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510447851507261445",
+          "start": 0,
+          "username": "LanziiLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949381830198898732",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949333180739211482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanziiLove 甜甜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 665,
+        "media_key": "3_1949333172845711360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw1sMVRakAAmfxB.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1949333180739211482",
+        "created_at": "2025-07-27T08:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T09:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949381830198898732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949381830198898732",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949333180739211482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 甜甜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949333172845711360"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1949333180739211482",
+        "created_at": "2025-07-27T04:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T05:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949333180739211482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9HQRU9EbP2",
+              "end": 29,
+              "expanded_url": "https://x.com/LanziiLove/status/1949333180739211482/photo/1",
+              "media_key": "3_1949333172845711360",
+              "start": 6,
+              "url": "https://t.co/9HQRU9EbP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949333180739211482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12167,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一起看电影 https://t.co/9HQRU9EbP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3208,
+          "following_count": 2695,
+          "like_count": 29447,
+          "listed_count": 12,
+          "media_count": 618,
+          "tweet_count": 6779
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "dexy0306"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17856,
+          "following_count": 860,
+          "like_count": 968,
+          "listed_count": 46,
+          "media_count": 239,
+          "tweet_count": 1312
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

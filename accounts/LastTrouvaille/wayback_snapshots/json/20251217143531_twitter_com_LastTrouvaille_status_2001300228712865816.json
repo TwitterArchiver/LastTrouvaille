@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2001257986841567614",
+    "created_at": "2025-12-17T14:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T15:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001300228712865816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999000974913130496",
+          "start": 0,
+          "username": "AyanamiRikako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001300228712865816",
+    "in_reply_to_user_id": "1999000974913130496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001282924860280919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyanamiRikako 啊~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2001257986841567614",
+        "created_at": "2025-12-17T14:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T15:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001300228712865816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999000974913130496",
+              "start": 0,
+              "username": "AyanamiRikako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001300228712865816",
+        "in_reply_to_user_id": "1999000974913130496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001282924860280919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyanamiRikako 啊~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999000974913130496",
+        "conversation_id": "2001257986841567614",
+        "created_at": "2025-12-17T13:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001282924860280919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001282924860280919",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001257986841567614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille ww叼走一块烤鸡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖双‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖偶尔写点诗词‖穗&沪‖会内耗emo‖不许键政！！！‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3687,
+          "following_count": 2793,
+          "like_count": 36767,
+          "listed_count": 13,
+          "media_count": 788,
+          "tweet_count": 8012
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:19:11.000Z",
+        "description": "「尘事不怜人卑怯」\n欢迎回来，莲。\n第二人格 @Hasumi_Amemiya\n阿米娅兔兔 @xuexuelingling \n和大家说好要重新面对世界的，一起加油吧w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "Hasumi_Amemiya"
+              },
+              {
+                "end": 60,
+                "start": 45,
+                "username": "xuexuelingling"
+              }
+            ]
+          }
+        },
+        "id": "1999000974913130496",
+        "location": "苍穹树庭",
+        "name": "绫波 璃香子",
+        "pinned_tweet_id": "1999145703264993496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999136674631303168/MLLyRNm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 37,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 30
+        },
+        "username": "AyanamiRikako",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2060361779570716698",
+    "created_at": "2026-05-30T05:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T06:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060598923178410411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1961546719923232768",
+          "start": 0,
+          "username": "yumipaigutang__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060598923178410411",
+    "in_reply_to_user_id": "1961546719923232768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060405816373752198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumipaigutang__ 好像还真是（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2060361779570716698",
+        "created_at": "2026-05-30T05:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060598923178410411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1961546719923232768",
+              "start": 0,
+              "username": "yumipaigutang__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060598923178410411",
+        "in_reply_to_user_id": "1961546719923232768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060405816373752198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumipaigutang__ 好像还真是（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961546719923232768",
+        "conversation_id": "2060361779570716698",
+        "created_at": "2026-05-29T17:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060405816373752198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060405816373752198",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060361779570716698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 沒腿怎麼生活）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦，叫妈妈姐姐也行（不是）‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖不许键政🚫‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7RpK"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4466,
+          "following_count": 2894,
+          "like_count": 47005,
+          "listed_count": 14,
+          "media_count": 973,
+          "tweet_count": 9186
+        },
+        "url": "https://t.co/TWu8nv7RpK",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T21:49:29.000Z",
+        "description": "♂/♀（性别不重要，你觉得我是什么就是什么）\n/有男友（留言區推主，你可以再任何地方看見我的留言）\n成分复杂什么都玩点还是個B尼龍佬\n（無政治立場）\n（和我聊政治就草4️⃣泥的嫲）\n我喜歡貓貓和狐狸有可愛貓子狐狸發我（丑的也要）\n（Q：2261405391）隨便加只要不是來聊澀就行/聊騷死媽沒媽你死（喜歡看大奶男😋）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yumi75411",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yumi75411",
+                "start": 0,
+                "url": "https://t.co/LEoPSBoWYA"
+              }
+            ]
+          }
+        },
+        "id": "1961546719923232768",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "神秘の玉米排骨湯",
+        "pinned_tweet_id": "1989441035408470253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004352866514071552/BVoyA7CK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 1322,
+          "like_count": 49115,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 889
+        },
+        "url": "https://t.co/LEoPSBoWYA",
+        "username": "yumipaigutang__",
+        "verified": false
+      }
+    ]
+  }
+}

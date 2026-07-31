@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1885521027741929677",
+    "created_at": "2025-02-01T12:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T13:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885660037307388021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1248637653001494529",
+          "start": 0,
+          "username": "Fomalhautawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885660037307388021",
+    "in_reply_to_user_id": "1248637653001494529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885521459982066055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fomalhautawa 要等到鸡吃完米，狗舔完面，火烧断锁（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1885521027741929677",
+        "created_at": "2025-02-01T12:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T13:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885660037307388021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Fomalhautawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885660037307388021",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885521459982066055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fomalhautawa 要等到鸡吃完米，狗舔完面，火烧断锁（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248637653001494529",
+        "conversation_id": "1885521027741929677",
+        "created_at": "2025-02-01T02:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T03:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885521459982066055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885521459982066055",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885521027741929677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 大家散了吧CC两百年后再来了（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 2450,
+          "like_count": 11962,
+          "listed_count": 6,
+          "media_count": 220,
+          "tweet_count": 2888
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "你好哦，姓师，怎么称呼都行。\n日常推呢，现居上海。",
+        "id": "1248637653001494529",
+        "location": "猫猫头咖啡店",
+        "name": "S𝔥𝔦𝔰𝔴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883561348619218944/wfuWIRmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 121,
+          "like_count": 40570,
+          "listed_count": 4,
+          "media_count": 20,
+          "tweet_count": 9125
+        },
+        "username": "Fomalhautawa",
+        "verified": false
+      }
+    ]
+  }
+}

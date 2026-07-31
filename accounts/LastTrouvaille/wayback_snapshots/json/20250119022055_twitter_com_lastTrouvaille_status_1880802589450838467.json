@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1880644490907832672",
+    "created_at": "2025-01-19T02:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T03:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880802589450838467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1687116360814637056",
+          "start": 0,
+          "username": "ttwwes_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880802589450838467",
+    "in_reply_to_user_id": "1687116360814637056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880684369909841937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttwwes_ 确实，一份感觉要比内地贵三分一（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1880644490907832672",
+        "created_at": "2025-01-19T02:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T03:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880802589450838467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "ttwwes_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880802589450838467",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880684369909841937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttwwes_ 确实，一份感觉要比内地贵三分一（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1880644490907832672",
+        "created_at": "2025-01-18T18:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T19:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880684369909841937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880684369909841937",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880644490907832672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 缺点就是贵😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1815,
+          "following_count": 2210,
+          "like_count": 10524,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 2629
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "tt日常碎碎念的账号 :D | 查成分请见置顶自我介绍XD | 在小号发癫 @TtXxwww_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "TtXxwww_"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Ontario",
+        "name": "人生乱套我睡觉",
+        "pinned_tweet_id": "1873352215773208656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860841490538278913/TbiGgHxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 485,
+          "like_count": 2993,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 979
+        },
+        "username": "ttwwes_",
+        "verified": false
+      }
+    ]
+  }
+}

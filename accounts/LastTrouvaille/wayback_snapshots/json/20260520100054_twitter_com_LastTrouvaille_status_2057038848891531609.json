@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2056989472420741289",
+    "created_at": "2026-05-20T10:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057038848891531609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2005259526350700544",
+          "start": 0,
+          "username": "Myuekanna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057038848891531609",
+    "in_reply_to_user_id": "2005259526350700544",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057006215507701877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Myuekanna 👉🏻👈🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2056989472420741289",
+        "created_at": "2026-05-20T10:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057038848891531609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2005259526350700544",
+              "start": 0,
+              "username": "Myuekanna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057038848891531609",
+        "in_reply_to_user_id": "2005259526350700544",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057006215507701877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Myuekanna 👉🏻👈🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005259526350700544",
+        "conversation_id": "2056989472420741289",
+        "created_at": "2026-05-20T07:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057006215507701877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057006215507701877",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056989472420741289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 我上推是来看你这些的吗😡，我讨厌你😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦‖INFP-T‖轻抑‖中粤英日‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4060,
+          "following_count": 2842,
+          "like_count": 46042,
+          "listed_count": 14,
+          "media_count": 951,
+          "tweet_count": 8939
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T12:48:30.000Z",
+        "description": "",
+        "id": "2005259526350700544",
+        "name": "明月栞那",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032418718521896960/2BODaWrM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 37,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "Myuekanna",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1927692874788872522",
+    "created_at": "2025-05-28T13:06:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T14:06:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927713153925681185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "970525948847144960",
+          "start": 0,
+          "username": "Logic_Accepted"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927713153925681185",
+    "in_reply_to_user_id": "970525948847144960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 11,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927706434717798911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Logic_Accepted 放心，日常有备好的啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1927692874788872522",
+        "created_at": "2025-05-28T13:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T14:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927713153925681185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "970525948847144960",
+              "start": 0,
+              "username": "Logic_Accepted"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927713153925681185",
+        "in_reply_to_user_id": "970525948847144960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927706434717798911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Logic_Accepted 放心，日常有备好的啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "970525948847144960",
+        "conversation_id": "1927692874788872522",
+        "created_at": "2025-05-28T12:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T13:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927706434717798911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927706434717798911",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927692874788872522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 去药店买点药吧😖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2879,
+          "following_count": 2672,
+          "like_count": 25434,
+          "listed_count": 12,
+          "media_count": 536,
+          "tweet_count": 6030
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-05T05:06:32.000Z",
+        "description": "纯分享生活\n不喜欢政治 不喜欢吵架 被我屏蔽不是你的错",
+        "id": "970525948847144960",
+        "location": "Sky Dynasty",
+        "name": "Ayu🧠",
+        "pinned_tweet_id": "1594480827249086465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1234062601878818816/L-BJHTBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 92,
+          "like_count": 5346,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 719
+        },
+        "username": "Logic_Accepted",
+        "verified": false
+      }
+    ]
+  }
+}

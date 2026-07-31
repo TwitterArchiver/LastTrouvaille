@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1892186937110507730",
+    "created_at": "2025-02-19T15:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T16:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892241492887961611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1846969266824007680",
+          "start": 0,
+          "username": "NaciMe537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892241492887961611",
+    "in_reply_to_user_id": "1846969266824007680",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892232458026078643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NaciMe537 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1892186937110507730",
+        "created_at": "2025-02-19T15:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T16:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892241492887961611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1846969266824007680",
+              "start": 0,
+              "username": "NaciMe537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892241492887961611",
+        "in_reply_to_user_id": "1846969266824007680",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892232458026078643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaciMe537 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846969266824007680",
+        "conversation_id": "1892186937110507730",
+        "created_at": "2025-02-19T15:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T16:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892232458026078643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892232458026078643",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892186937110507730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 你觉得我的亲近难度？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ here is Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力极强毋忧踩雷‖常有emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是猫猫和miku",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 2161,
+          "like_count": 13391,
+          "listed_count": 6,
+          "media_count": 261,
+          "tweet_count": 3418
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T17:39:35.000Z",
+        "description": "君子不器/mtx满天星/别讨厌我aa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "florr.io",
+                "end": 23,
+                "expanded_url": "http://florr.io",
+                "start": 0,
+                "url": "https://t.co/wHKGoCVxeY"
+              }
+            ]
+          }
+        },
+        "id": "1846969266824007680",
+        "location": "距离您只有0.3km",
+        "name": "空白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874879684489719808/CzUUW4_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 379,
+          "like_count": 2005,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 936
+        },
+        "url": "https://t.co/wHKGoCVxeY",
+        "username": "NaciMe537",
+        "verified": false
+      }
+    ]
+  }
+}

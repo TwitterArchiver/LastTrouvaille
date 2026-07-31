@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1888874144626008230",
+    "created_at": "2025-02-10T09:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T10:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888877175241339097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857134346676895744",
+          "start": 0,
+          "username": "chayuxiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888877175241339097",
+    "in_reply_to_user_id": "1857134346676895744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888874144626008230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chayuxiang 说明受欢迎嘞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1888874144626008230",
+        "created_at": "2025-02-10T09:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T10:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888877175241339097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857134346676895744",
+              "start": 0,
+              "username": "chayuxiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888877175241339097",
+        "in_reply_to_user_id": "1857134346676895744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888874144626008230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chayuxiang 说明受欢迎嘞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857134346676895744",
+        "conversation_id": "1888874144626008230",
+        "created_at": "2025-02-10T08:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T09:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888874144626008230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888874144626008230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人生至今为止累计被五个人暗恋过了，\n\n每次都是把对方当成正常朋友相处，之后都会突然被对方表白，被吓得不轻后光速拒绝对方，\n\n学生时代一直被老师/父母怀疑早恋，无论怎么解释都坚定认为我在早恋，\n\n但我到现在一直没有谈过恋爱，也没有暗恋过别人，\n\n我是什么先天魅魔附体吗_(:з」∠)_"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 2020,
+          "like_count": 12668,
+          "listed_count": 7,
+          "media_count": 241,
+          "tweet_count": 3260
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T18:52:27.000Z",
+        "description": "茶语香｜日常碎碎念账号｜普通人类♀｜想和大家交朋友｜₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chayuxiang1",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@chayuxiang1",
+                "start": 0,
+                "url": "https://t.co/C0Wr8Y3ej2"
+              }
+            ]
+          }
+        },
+        "id": "1857134346676895744",
+        "location": "🌏",
+        "name": "茶语香",
+        "pinned_tweet_id": "1888866604756406545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875477108656611328/UrCy2t0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 196,
+          "like_count": 2743,
+          "listed_count": 3,
+          "media_count": 43,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/C0Wr8Y3ej2",
+        "username": "chayuxiang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891334114919292928"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1891334118941593836",
+    "created_at": "2025-02-17T03:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T04:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1891334118941593836"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Ever wondered who lingers on your Twitter profile in the shadows? Prepare to discover your silent admirers or curious stalkers!",
+          "display_url": "infinityweet.me/secret-stalker…",
+          "end": 47,
+          "expanded_url": "https://infinityweet.me/secret-stalker?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1890059017034059776/oyeGUWFb?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1890059017034059776/oyeGUWFb?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 24,
+          "status": 200,
+          "title": "Secret Stalkers • Infinitweet",
+          "unwound_url": "https://infinityweet.me/secret-stalker?lang=zh",
+          "url": "https://t.co/zepIoXzQ5z"
+        },
+        {
+          "display_url": "pic.x.com/DzwJC8EhS3",
+          "end": 71,
+          "expanded_url": "https://x.com/lastTrouvaille/status/1891334118941593836/photo/1",
+          "media_key": "3_1891334114919292928",
+          "start": 48,
+          "url": "https://t.co/DzwJC8EhS3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891334118941593836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我刚刚发现谁访问了我的推特个人资料！\n\n⠀➡️ https://t.co/zepIoXzQ5z https://t.co/DzwJC8EhS3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1891334118941593836].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1891334118941593836",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1891334118941593836"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_1891334114919292928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj9eW1dXoAARXA5.png",
+        "width": 640
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Nice to meet you~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1962,
+          "following_count": 2111,
+          "like_count": 13058,
+          "listed_count": 6,
+          "media_count": 252,
+          "tweet_count": 3340
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

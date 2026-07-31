@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2061325864235847777",
+    "created_at": "2026-06-01T09:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T10:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061382365063282816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1713844977837473792",
+          "start": 0,
+          "username": "KouXue79441"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061382365063282816",
+    "in_reply_to_user_id": "1713844977837473792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061326762563494197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KouXue79441 节日快乐~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2061325864235847777",
+        "created_at": "2026-06-01T09:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061382365063282816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1713844977837473792",
+              "start": 0,
+              "username": "KouXue79441"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061382365063282816",
+        "in_reply_to_user_id": "1713844977837473792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061326762563494197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KouXue79441 节日快乐~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713844977837473792",
+        "conversation_id": "2061325864235847777",
+        "created_at": "2026-06-01T05:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061326762563494197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061326762563494197",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061325864235847777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 好欸！儿童节快乐哦～cc姐要天天开心w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖不许键政🚫‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille3",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille3",
+                "start": 0,
+                "url": "https://t.co/8rca0idckk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4503,
+          "following_count": 2874,
+          "like_count": 47163,
+          "listed_count": 14,
+          "media_count": 979,
+          "tweet_count": 9226
+        },
+        "url": "https://t.co/8rca0idckk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T09:11:13.000Z",
+        "description": "冬天过去了，夏天来了活在旧日里的雪，该何去何从？",
+        "id": "1713844977837473792",
+        "location": "在某人家的冰箱里",
+        "name": "可乐没有碳酸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059548476363472904/Hez2El-x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 1189,
+          "like_count": 2670,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1319
+        },
+        "username": "KouXue79441",
+        "verified": false
+      }
+    ]
+  }
+}

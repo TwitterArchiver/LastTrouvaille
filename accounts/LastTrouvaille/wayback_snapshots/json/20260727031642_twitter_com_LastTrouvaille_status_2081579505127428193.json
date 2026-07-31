@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2081517904915206309",
+    "created_at": "2026-07-27T03:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T04:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081579505127428193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081579505127428193",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081517904915206309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 抱抱Mario😢觉得辛苦的话一定要记得去看医生哦，平时也可以多做一下深呼吸和低烈度的运动，让自己放松一下\n一定要好好的呀，抱抱抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2081517904915206309",
+        "created_at": "2026-07-27T03:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T04:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081579505127428193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081579505127428193",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081517904915206309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 抱抱Mario😢觉得辛苦的话一定要记得去看医生哦，平时也可以多做一下深呼吸和低烈度的运动，让自己放松一下\n一定要好好的呀，抱抱抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "965583779380129792",
+        "conversation_id": "2081517904915206309",
+        "created_at": "2026-07-26T23:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081517904915206309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081517904915206309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 623,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认真的觉得我可能有焦虑症（\n明明没什么心理诱因的，都在变好呢，但是情绪和身体反应都很符合症状（\n还是很影响生活了，要想办法放松下来呢…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4620,
+          "following_count": 2924,
+          "like_count": 50695,
+          "listed_count": 14,
+          "media_count": 1024,
+          "tweet_count": 9501
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我(⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧ | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | 蓝标陌生人送的我是真人没收益😘 | 可爱猫猫💕：@Ayanami_rin0 & @A1oneSKy & @Fishy_Fox_Can",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Ayanami_rin0"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "A1oneSKy"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "Fishy_Fox_Can"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8ArcV"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+2",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4130,
+          "following_count": 283,
+          "like_count": 57782,
+          "listed_count": 19,
+          "media_count": 1201,
+          "tweet_count": 19172
+        },
+        "url": "https://t.co/pjgtS8ArcV",
+        "username": "mario_2333",
+        "verified": true
+      }
+    ]
+  }
+}

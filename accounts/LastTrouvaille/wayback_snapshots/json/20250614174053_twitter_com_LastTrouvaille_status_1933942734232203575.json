@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1933822857651642620",
+    "created_at": "2025-06-14T17:40:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T18:40:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933942734232203575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1164167769576869894",
+          "start": 0,
+          "username": "KawaiiSusheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933942734232203575",
+    "in_reply_to_user_id": "1164167769576869894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933897662530773335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiiSusheng 我看都没看就留到最后了\n本来都不打算做了其实（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1933822857651642620",
+        "created_at": "2025-06-14T17:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T18:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933942734232203575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1164167769576869894",
+              "start": 0,
+              "username": "KawaiiSusheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933942734232203575",
+        "in_reply_to_user_id": "1164167769576869894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933897662530773335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiiSusheng 我看都没看就留到最后了\n本来都不打算做了其实（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164167769576869894",
+        "conversation_id": "1933822857651642620",
+        "created_at": "2025-06-14T14:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T15:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933897662530773335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933897662530773335",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933822857651642620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 我也感觉要完蛋了😭😭看见的第一眼就把这题丢在了最后，最后只剩十分钟的时候才回来仔细看这题然后全凭感觉做🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3041,
+          "following_count": 2671,
+          "like_count": 27639,
+          "listed_count": 13,
+          "media_count": 569,
+          "tweet_count": 6447
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-21T13:30:12.000Z",
+        "description": "宅/現實逃避/INFP-T/在校生/不定时在推/社交废物/喜欢有趣的人/生活推/欢迎互fo（ฅ＾・ﻌ・＾）ฅ 喜欢发碎碎念🔅 ✨(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠✧⁠* 提问箱↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/susheng",
+                "end": 23,
+                "expanded_url": "http://ngl.link/susheng",
+                "start": 0,
+                "url": "https://t.co/OUwPlVDMpG"
+              }
+            ]
+          }
+        },
+        "id": "1164167769576869894",
+        "location": "永远美好的幻想乡",
+        "name": "ฅ苏笙喵ฅ",
+        "pinned_tweet_id": "1844290960110620784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620090638237835265/2XdtARUm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2068,
+          "following_count": 1143,
+          "like_count": 6568,
+          "listed_count": 4,
+          "media_count": 430,
+          "tweet_count": 1920
+        },
+        "url": "https://t.co/OUwPlVDMpG",
+        "username": "KawaiiSusheng",
+        "verified": false
+      }
+    ]
+  }
+}

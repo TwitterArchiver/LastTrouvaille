@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1914407109871226997",
+    "created_at": "2025-04-22T00:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T01:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914480173963207116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1248637653001494529",
+          "start": 0,
+          "username": "Fomalhautawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914480173963207116",
+    "in_reply_to_user_id": "1248637653001494529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914407109871226997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fomalhautawa 好听！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1914407106549309440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpFXHtVa4AAYWmf.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1914407109871226997",
+        "created_at": "2025-04-22T00:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T01:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914480173963207116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Fomalhautawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914480173963207116",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914407109871226997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fomalhautawa 好听！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914407106549309440"
+          ]
+        },
+        "author_id": "1248637653001494529",
+        "conversation_id": "1914407109871226997",
+        "created_at": "2025-04-21T19:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T20:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914407109871226997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LcsuCM7RET",
+              "end": 27,
+              "expanded_url": "https://x.com/Fomalhautawa/status/1914407109871226997/photo/1",
+              "media_key": "3_1914407106549309440",
+              "start": 4,
+              "url": "https://t.co/LcsuCM7RET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914407109871226997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这样。 https://t.co/LcsuCM7RET"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2477,
+          "following_count": 2511,
+          "like_count": 20539,
+          "listed_count": 14,
+          "media_count": 444,
+          "tweet_count": 5011
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "歡迎哦。\n很日常的推，碎碎念和一些照片。\n舊推文會被清理掉，望諒解。",
+        "id": "1248637653001494529",
+        "location": "青萱",
+        "name": "白師師",
+        "pinned_tweet_id": "1906040752888832458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908152774686371840/Df_uldTm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 276,
+          "like_count": 143375,
+          "listed_count": 29,
+          "media_count": 14,
+          "tweet_count": 32214
+        },
+        "username": "Fomalhautawa",
+        "verified": false
+      }
+    ]
+  }
+}

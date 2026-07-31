@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1892831649836257675",
+    "created_at": "2025-02-21T08:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T09:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892855623865581607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1811250754193440768",
+          "start": 0,
+          "username": "kirino_ki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892855623865581607",
+    "in_reply_to_user_id": "1811250754193440768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892831649836257675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirino_ki 都快来和可爱纱纱做朋友！🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_1892831643829723136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkSwWfYW4AAzAjJ.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1892831649836257675",
+        "created_at": "2025-02-21T08:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T09:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892855623865581607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811250754193440768",
+              "start": 0,
+              "username": "kirino_ki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892855623865581607",
+        "in_reply_to_user_id": "1811250754193440768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892831649836257675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirino_ki 都快来和可爱纱纱做朋友！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892831643829723136"
+          ]
+        },
+        "author_id": "1811250754193440768",
+        "conversation_id": "1892831649836257675",
+        "created_at": "2025-02-21T07:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T08:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892831649836257675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OETS3KaVYa",
+              "end": 65,
+              "expanded_url": "https://x.com/kirino_ki/status/1892831649836257675/photo/1",
+              "media_key": "3_1892831643829723136",
+              "start": 42,
+              "url": "https://t.co/OETS3KaVYa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892831649836257675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1589,
+          "like_count": 83,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "有谁愿意和纱纱互fo嘛？纱纱也想有很多朋友，扣1和纱纱做朋友好不好喵喵，求求你啦🥺 https://t.co/OETS3KaVYa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ 这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 2180,
+          "like_count": 14082,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 3442
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T04:07:02.000Z",
+        "description": "如果在你心中出现一片乌云的时候。 悲伤的诗能给乌云一个小小的拥抱。 然后它就会变换成一道开心的彩虹！",
+        "id": "1811250754193440768",
+        "location": "／ﾟ(๑°口°๑)ﾟ＼",
+        "name": "Kirino",
+        "pinned_tweet_id": "1879880846011928661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876103345871683584/Y-cKgPel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 1098,
+          "like_count": 10204,
+          "listed_count": 4,
+          "media_count": 56,
+          "tweet_count": 1358
+        },
+        "username": "kirino_ki",
+        "verified": true
+      }
+    ]
+  }
+}

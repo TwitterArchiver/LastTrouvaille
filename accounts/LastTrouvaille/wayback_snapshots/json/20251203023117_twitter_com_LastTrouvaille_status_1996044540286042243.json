@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1995836955519787089",
+    "created_at": "2025-12-03T02:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T03:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996044540286042243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1347511800997167104",
+          "start": 0,
+          "username": "00498LaNOFxgjGc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996044540286042243",
+    "in_reply_to_user_id": "1347511800997167104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996042170688778405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@00498LaNOFxgjGc 好吃！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2133,
+        "media_key": "3_1996042167400497152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7NdxpibgAAnxhM.jpg",
+        "width": 1600
+      },
+      {
+        "height": 2133,
+        "media_key": "3_1996042165991223296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7NdxkSbsAAsaX1.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1995836955519787089",
+        "created_at": "2025-12-03T02:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T03:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996044540286042243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1347511800997167104",
+              "start": 0,
+              "username": "00498LaNOFxgjGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996044540286042243",
+        "in_reply_to_user_id": "1347511800997167104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996042170688778405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@00498LaNOFxgjGc 好吃！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996042167400497152",
+            "3_1996042165991223296"
+          ]
+        },
+        "author_id": "1347511800997167104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1995836955519787089",
+        "created_at": "2025-12-03T02:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T03:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996042170688778405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/afM14PEOrJ",
+              "end": 57,
+              "expanded_url": "https://x.com/00498LaNOFxgjGc/status/1996042170688778405/photo/1",
+              "media_key": "3_1996042167400497152",
+              "start": 34,
+              "url": "https://t.co/afM14PEOrJ"
+            },
+            {
+              "display_url": "pic.x.com/afM14PEOrJ",
+              "end": 57,
+              "expanded_url": "https://x.com/00498LaNOFxgjGc/status/1996042170688778405/photo/1",
+              "media_key": "3_1996042165991223296",
+              "start": 34,
+              "url": "https://t.co/afM14PEOrJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996042170688778405",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995836955519787089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 今天的狐狐是芒果菠萝包和红豆豆腐脑 https://t.co/afM14PEOrJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，年初和年中驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3661,
+          "following_count": 2782,
+          "like_count": 35142,
+          "listed_count": 13,
+          "media_count": 757,
+          "tweet_count": 7796
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-08T11:54:41.000Z",
+        "description": "",
+        "id": "1347511800997167104",
+        "location": "Guangdong",
+        "name": "爬行！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777526361638481920/kB7t-Ot3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 912,
+          "like_count": 856,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 868
+        },
+        "username": "00498LaNOFxgjGc",
+        "verified": false
+      }
+    ]
+  }
+}

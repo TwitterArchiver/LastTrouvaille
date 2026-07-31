@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1996201702731694177",
+    "created_at": "2025-12-04T04:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T05:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996432128163418324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1049077925893439488",
+          "start": 0,
+          "username": "kiwitasticstre1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996432128163418324",
+    "in_reply_to_user_id": "1049077925893439488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996416134099431790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiwitasticstre1 好咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1996201702731694177",
+        "created_at": "2025-12-04T04:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T05:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996432128163418324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1049077925893439488",
+              "start": 0,
+              "username": "kiwitasticstre1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996432128163418324",
+        "in_reply_to_user_id": "1049077925893439488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996416134099431790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiwitasticstre1 好咪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1049077925893439488",
+        "conversation_id": "1996201702731694177",
+        "created_at": "2025-12-04T03:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T04:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996416134099431790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996416134099431790",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996201702731694177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 加油 不懂的 需要帮忙的 可以问我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，年初和年中驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3674,
+          "following_count": 2788,
+          "like_count": 35246,
+          "listed_count": 13,
+          "media_count": 758,
+          "tweet_count": 7825
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-07T23:24:03.000Z",
+        "description": "游戏玩家，洛克人粉，希望和更多的人交朋友\nGamer, Huge Megaman Fan, hope to make friends and play games together with more people.",
+        "id": "1049077925893439488",
+        "location": "Dreamland",
+        "name": "kiwitasticstreamer",
+        "pinned_tweet_id": "1981970525657366607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976087001452642306/K7lrkmC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 311,
+          "like_count": 108,
+          "listed_count": 2,
+          "media_count": 495,
+          "tweet_count": 3448
+        },
+        "username": "kiwitasticstre1",
+        "verified": false
+      }
+    ]
+  }
+}

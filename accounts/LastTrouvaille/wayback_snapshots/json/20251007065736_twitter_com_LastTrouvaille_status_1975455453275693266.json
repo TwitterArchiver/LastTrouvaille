@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1975405190603022568",
+    "created_at": "2025-10-07T06:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T07:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975455453275693266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 17,
+          "id": "1597157388330536960",
+          "start": 6,
+          "username": "Praesepe_F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975455453275693266",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975405600029978799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @Praesepe_F 噗，女祭司吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1975405190603022568",
+        "created_at": "2025-10-07T06:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T07:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975455453275693266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 17,
+              "id": "1597157388330536960",
+              "start": 6,
+              "username": "Praesepe_F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975455453275693266",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975405600029978799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @Praesepe_F 噗，女祭司吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1975405190603022568",
+        "created_at": "2025-10-07T03:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T04:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975405600029978799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597157388330536960",
+              "start": 0,
+              "username": "Praesepe_F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975405600029978799",
+        "in_reply_to_user_id": "1597157388330536960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "愚者: 曦羽x\n魔术师: Truffaut\n女祭司: 𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮\n女皇: 早露泡泡兔\n皇帝: 炸毛系Megan\n教皇: 赤星\n恋人: 芝士酸奶\n战车: 香辣折耳根月饼\n力量: 小雨大王\n隐者: nagisa\n命运之轮: W1rBelW1nd\n正义: 数缺白夜\n倒吊人: 遗忘之湖\n死神: 不是信胜胜\n节制: 紫色的安静\n恶魔: 枫叶糖浆 Maple syrup\n塔: Panaic\n星星: 桜小路ルナ\n月亮: 茜汐（转生版）\n太阳: 略略略\n审判: Cyren\n世界: 柠栖 ♜⃤"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975405190603022568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Praesepe_F 愚者: 曦羽x\n魔术师: Truffaut\n女祭司: 𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮\n女皇: 早露泡泡兔\n皇帝: 炸毛系Megan\n教皇: 赤星\n恋人: 芝士酸奶\n战车: 香辣折耳根月饼\n力量: 小雨大王\n隐者: nagisa\n命运之轮: W1rBelW1nd\n正义: 数缺白夜\n倒吊人: 遗忘之湖\n死神: 不是信胜胜\n节制: 紫色的安静\n恶魔: 枫叶糖浆 Maple"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3369,
+          "following_count": 2695,
+          "like_count": 31300,
+          "listed_count": 12,
+          "media_count": 695,
+          "tweet_count": 7280
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6401472,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5040,
+          "media_count": 2687426,
+          "tweet_count": 54610046
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T09:16:20.000Z",
+        "description": "欢迎私信找我聊天 男的 舟批 高p家里蹲这一块 （周日双更） 如果你是皱皮或者想找我扩列，帮我转转推点点赞混混脸熟找我私信就行我蛮好说话的。哈基米@Uye19_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 73,
+                "username": "Uye19_"
+              }
+            ]
+          }
+        },
+        "id": "1597157388330536960",
+        "location": "阿戈尔水世界",
+        "name": "椰椰斯卡蒂",
+        "pinned_tweet_id": "1953680922894569957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846204922972590083/C6AcVZ1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6553,
+          "following_count": 574,
+          "like_count": 9808,
+          "listed_count": 20,
+          "media_count": 268,
+          "tweet_count": 3303
+        },
+        "username": "Praesepe_F",
+        "verified": false
+      }
+    ]
+  }
+}

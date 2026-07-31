@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2053125883855323147",
+    "created_at": "2026-05-09T16:24:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T17:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053149210460221894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053149210460221894",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053125883855323147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar vico也要好好的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2053125883855323147",
+        "created_at": "2026-05-09T16:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053149210460221894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053149210460221894",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053125883855323147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar vico也要好好的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868205822511288320",
+        "conversation_id": "2053125883855323147",
+        "created_at": "2026-05-09T14:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053125883855323147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053125883855323147",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都要好好的…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦‖INFP-T‖轻抑‖今天也有变得更温柔可爱一点‖中粤英日‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4078,
+          "following_count": 2860,
+          "like_count": 45585,
+          "listed_count": 14,
+          "media_count": 943,
+          "tweet_count": 8892
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "一击脱离你妈死了｜会解脑控100一次｜前男友文学｜全体出动操你妈｜本体@anothervicooci｜小祀宝宝@moriyomiko｜林子妈妈 @rinko_zero8964｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 35,
+                "username": "anothervicooci"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "moriyomiko"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "rinko_zero8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/C8DJQnD8y9"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "天台",
+        "name": "万宝胃",
+        "pinned_tweet_id": "2042842358858027084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052293655466323968/tRrr7IFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4495,
+          "following_count": 396,
+          "like_count": 24306,
+          "listed_count": 16,
+          "media_count": 1266,
+          "tweet_count": 16408
+        },
+        "url": "https://t.co/C8DJQnD8y9",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

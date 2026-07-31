@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1919293652657975783",
+    "created_at": "2025-05-05T08:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T09:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919308765297336570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1145847532536209409",
+          "start": 0,
+          "username": "Seefs_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919308765297336570",
+    "in_reply_to_user_id": "1145847532536209409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919308462904774854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seefs_ 我的天（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1919293652657975783",
+        "created_at": "2025-05-05T08:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T09:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919308765297336570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1145847532536209409",
+              "start": 0,
+              "username": "Seefs_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919308765297336570",
+        "in_reply_to_user_id": "1145847532536209409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919308462904774854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seefs_ 我的天（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1145847532536209409",
+        "conversation_id": "1919293652657975783",
+        "created_at": "2025-05-05T08:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T09:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919308462904774854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919308462904774854",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919308350862569579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 私信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2682,
+          "following_count": 2721,
+          "like_count": 22821,
+          "listed_count": 12,
+          "media_count": 483,
+          "tweet_count": 5454
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-02T00:11:55.000Z",
+        "description": "🥰🥰🥰｜🐱：@Ion_Mio_ ｜有俩猫一猫娘｜ 学不会计算机 ｜ 找我玩  |  你可以在我的个人主页找到我的联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "Ion_Mio_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seefs.me",
+                "end": 23,
+                "expanded_url": "https://www.seefs.me",
+                "start": 0,
+                "url": "https://t.co/EIaqSxZJB0"
+              }
+            ]
+          }
+        },
+        "id": "1145847532536209409",
+        "location": "2.1km",
+        "name": "Seefs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551962079430467584/6yJViGjE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 1174,
+          "like_count": 14308,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1432
+        },
+        "url": "https://t.co/EIaqSxZJB0",
+        "username": "Seefs_",
+        "verified": false
+      }
+    ]
+  }
+}

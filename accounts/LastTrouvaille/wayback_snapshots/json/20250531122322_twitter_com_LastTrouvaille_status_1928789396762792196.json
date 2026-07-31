@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1928773636405559334",
+    "created_at": "2025-05-31T12:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T13:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928789396762792196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894375325934784517",
+          "start": 0,
+          "username": "sword_1003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928789396762792196",
+    "in_reply_to_user_id": "1894375325934784517",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928775287686173074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sword_1003 咱也不知道哇（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1928773636405559334",
+        "created_at": "2025-05-31T12:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T13:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928789396762792196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894375325934784517",
+              "start": 0,
+              "username": "sword_1003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928789396762792196",
+        "in_reply_to_user_id": "1894375325934784517",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928775287686173074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sword_1003 咱也不知道哇（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894375325934784517",
+        "conversation_id": "1928773636405559334",
+        "created_at": "2025-05-31T11:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T12:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928775287686173074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928775287686173074",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928773636405559334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 孤獨，怎麼辦？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2892,
+          "following_count": 2689,
+          "like_count": 25880,
+          "listed_count": 12,
+          "media_count": 547,
+          "tweet_count": 6150
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T13:14:24.000Z",
+        "description": "鵺/非二元/BPD/ADHD/東方Project愛好者/特攝愛好者/推文跨度較大/喜歡收藏古早手機和SIM卡/物件認同為紅劍/做一些令敵人感到憤怒的事情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sword_1003",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sword_1003",
+                "start": 0,
+                "url": "https://t.co/XsfLeAzBaa"
+              }
+            ]
+          }
+        },
+        "id": "1894375325934784517",
+        "location": "樹",
+        "name": "🩸HongSword 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928113427668684806/NweFsAhp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 115,
+          "like_count": 3387,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1091
+        },
+        "url": "https://t.co/XsfLeAzBaa",
+        "username": "sword_1003",
+        "verified": false
+      }
+    ]
+  }
+}

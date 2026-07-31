@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2061421112953864639",
+    "created_at": "2026-06-01T13:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061435448669692276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1605827256676679680",
+          "start": 0,
+          "username": "ren_moti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061435448669692276",
+    "in_reply_to_user_id": "1605827256676679680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061421112953864639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ren_moti 先生お誕生日おめでとうございます！ ！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2061421112953864639",
+        "created_at": "2026-06-01T13:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061435448669692276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1605827256676679680",
+              "start": 0,
+              "username": "ren_moti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061435448669692276",
+        "in_reply_to_user_id": "1605827256676679680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061421112953864639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ren_moti 先生お誕生日おめでとうございます！ ！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605827256676679680",
+        "conversation_id": "2061421112953864639",
+        "created_at": "2026-06-01T12:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061421112953864639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061421112953864639",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 330,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成人しました🥳\n色々頑張ります！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖不许键政🚫‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille3",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille3",
+                "start": 0,
+                "url": "https://t.co/8rca0idckk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4505,
+          "following_count": 2874,
+          "like_count": 47177,
+          "listed_count": 14,
+          "media_count": 979,
+          "tweet_count": 9230
+        },
+        "url": "https://t.co/8rca0idckk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-22T07:27:23.000Z",
+        "description": "れんです。気ままに描いてます。╏ Skeb▶︎https://t.co/aczpEKauWq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ren_moti",
+                "end": 46,
+                "expanded_url": "http://skeb.jp/@ren_moti",
+                "start": 23,
+                "url": "https://t.co/aczpEKauWq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/o4s7i98v09ud7s…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/o4s7i98v09ud7sl?t=UgqyH3&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/OJTZ6ee1Ox"
+              }
+            ]
+          }
+        },
+        "id": "1605827256676679680",
+        "location": "無断転載　AI学習禁止",
+        "name": "蓮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039029393008529408/dP3JOmFb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2203,
+          "following_count": 297,
+          "like_count": 23081,
+          "listed_count": 13,
+          "media_count": 287,
+          "tweet_count": 1707
+        },
+        "url": "https://t.co/OJTZ6ee1Ox",
+        "username": "ren_moti",
+        "verified": false
+      }
+    ]
+  }
+}

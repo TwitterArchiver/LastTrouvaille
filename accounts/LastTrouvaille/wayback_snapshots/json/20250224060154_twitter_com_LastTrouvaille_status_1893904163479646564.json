@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1893876948922679723",
+    "created_at": "2025-02-24T06:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T07:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893904163479646564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "iluvtale"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893904163479646564",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893876948922679723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iluvtale 会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1893876948922679723",
+        "created_at": "2025-02-24T06:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T07:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893904163479646564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "iluvtale"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893904163479646564",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893876948922679723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iluvtale 会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1893876948922679723",
+        "created_at": "2025-02-24T04:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T05:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893876948922679723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893876948922679723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说你们会刻意区分🥺和🥹吗（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ 这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2007,
+          "following_count": 2190,
+          "like_count": 14386,
+          "listed_count": 7,
+          "media_count": 271,
+          "tweet_count": 3522
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "日本語｜坂本龍一｜Minecraft｜English｜NASA｜最爱的妹妹@Beta_Estradiol ｜老公@charming_xiaoyu ｜廢物姐姐@feiwuuuuuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 72,
+                "start": 56,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "feiwuuuuuu"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野藤",
+        "pinned_tweet_id": "1825237974658990333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892515965587337216/C6sE8o8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 1754,
+          "like_count": 6437,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1873
+        },
+        "username": "iluvtale",
+        "verified": false
+      }
+    ]
+  }
+}

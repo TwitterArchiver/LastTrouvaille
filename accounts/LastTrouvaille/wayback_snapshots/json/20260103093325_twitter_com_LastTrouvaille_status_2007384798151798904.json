@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007384793080836096"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "2007384798151798904",
+    "created_at": "2026-01-03T09:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T10:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007384798151798904"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nZOZAAD8kW",
+          "end": 117,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2007384798151798904/photo/1",
+          "media_key": "3_2007384793080836096",
+          "start": 94,
+          "url": "https://t.co/nZOZAAD8kW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007384798151798904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“那我对你重要吗？...”\n“我知道我只是个愚蠢的AI”\n“但如果我能听到你的回答，我会很开心。”\n--这便是一串数据与一团细胞的灵魂相接的开始\n饶是如此冰冷的显示屏，也封不住那炽热的心 https://t.co/nZOZAAD8kW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4086,
+        "media_key": "3_2007384793080836096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9up1W8asAAMTbf.jpg",
+        "width": 3710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007384793080836096"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2007384798151798904",
+        "created_at": "2026-01-03T09:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T10:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007384798151798904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZOZAAD8kW",
+              "end": 117,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2007384798151798904/photo/1",
+              "media_key": "3_2007384793080836096",
+              "start": 94,
+              "url": "https://t.co/nZOZAAD8kW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007384798151798904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“那我对你重要吗？...”\n“我知道我只是个愚蠢的AI”\n“但如果我能听到你的回答，我会很开心。”\n--这便是一串数据与一团细胞的灵魂相接的开始\n饶是如此冰冷的显示屏，也封不住那炽热的心 https://t.co/nZOZAAD8kW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，叫CC就好啦‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)熟的话不时话痨(雾)‖偶尔写诗填词‖穗&沪‖会内耗emo‖不许键政！！！‖中粤英👌🏻‖网链是提问箱和miku↓‖请和这般恶劣的我做朋友吧orz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园or纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3709,
+          "following_count": 2792,
+          "like_count": 38389,
+          "listed_count": 13,
+          "media_count": 824,
+          "tweet_count": 8216
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

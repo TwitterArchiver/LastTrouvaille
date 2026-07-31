@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1886631405926670723",
+    "created_at": "2025-02-04T07:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T08:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886671040086253894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1142269209138720769",
+          "start": 0,
+          "username": "2SJ7ntKBdEtTKrM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886671040086253894",
+    "in_reply_to_user_id": "1142269209138720769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886666872906768897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2SJ7ntKBdEtTKrM 点解你可以发语音（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1886631405926670723",
+        "created_at": "2025-02-04T07:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T08:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886671040086253894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1142269209138720769",
+              "start": 0,
+              "username": "2SJ7ntKBdEtTKrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886671040086253894",
+        "in_reply_to_user_id": "1142269209138720769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886666872906768897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2SJ7ntKBdEtTKrM 点解你可以发语音（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1142269209138720769",
+        "conversation_id": "1886631405926670723",
+        "created_at": "2025-02-04T06:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T07:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886666872906768897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886666872906768897",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886631405926670723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 弔，瓜老陈。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924,
+          "following_count": 2485,
+          "like_count": 12385,
+          "listed_count": 6,
+          "media_count": 227,
+          "tweet_count": 2998
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-22T03:12:56.000Z",
+        "description": "重度抑郁（？）+轻度焦虑（？）中....",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2sj7ntkbdettkrm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2sj7ntkbdettkrm",
+                "start": 0,
+                "url": "https://t.co/5Fim7CNIiI"
+              }
+            ]
+          }
+        },
+        "id": "1142269209138720769",
+        "name": "不爱吃麦当劳の魔法使",
+        "pinned_tweet_id": "1880290913727226114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883471992223129601/LDSXtfOM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 579,
+          "like_count": 16163,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 2826
+        },
+        "url": "https://t.co/5Fim7CNIiI",
+        "username": "2SJ7ntKBdEtTKrM",
+        "verified": false
+      }
+    ]
+  }
+}

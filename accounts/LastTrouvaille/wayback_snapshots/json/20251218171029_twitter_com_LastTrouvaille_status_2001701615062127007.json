@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2001701615062127007",
+    "created_at": "2025-12-18T17:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T18:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001701615062127007"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2001701615062127007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "情绪和状态平复下来之后就觉得\n虽然说想要和别人制造羁绊\n就要承受掉眼泪的风险\n但是喜欢是会让自己喜欢上两个人的一件事\n而不是让自己经常感受到委屈自卑或妥协\n我不怕内耗，也不怕掉眼泪\n但是想要值得\n希望下次哭是因为太幸福\n而不是为了某某而伤悲\n因为即便想，也似乎无人关心，无人在意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2001701615062127007",
+        "created_at": "2025-12-18T17:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T18:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001701615062127007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001701615062127007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "情绪和状态平复下来之后就觉得\n虽然说想要和别人制造羁绊\n就要承受掉眼泪的风险\n但是喜欢是会让自己喜欢上两个人的一件事\n而不是让自己经常感受到委屈自卑或妥协\n我不怕内耗，也不怕掉眼泪\n但是想要值得\n希望下次哭是因为太幸福\n而不是为了某某而伤悲\n因为即便想，也似乎无人关心，无人在意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖双‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖偶尔写点诗词‖穗&沪‖会内耗emo‖不许键政！！！‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3692,
+          "following_count": 2791,
+          "like_count": 37042,
+          "listed_count": 13,
+          "media_count": 790,
+          "tweet_count": 8039
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

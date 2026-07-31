@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1893990891402002504",
+    "created_at": "2025-02-24T12:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T13:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894005862773018951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1802884729412161537",
+          "start": 0,
+          "username": "Realze47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894005862773018951",
+    "in_reply_to_user_id": "1802884729412161537",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894001976750346612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Realze47 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1893990891402002504",
+        "created_at": "2025-02-24T12:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T13:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894005862773018951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1802884729412161537",
+              "start": 0,
+              "username": "Realze47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894005862773018951",
+        "in_reply_to_user_id": "1802884729412161537",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894001976750346612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Realze47 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802884729412161537",
+        "conversation_id": "1893990891402002504",
+        "created_at": "2025-02-24T12:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T13:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894001976750346612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894001976750346612",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894001145393119736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 点赞bot神力😸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ here's Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 2200,
+          "like_count": 14455,
+          "listed_count": 7,
+          "media_count": 273,
+          "tweet_count": 3552
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T02:03:20.000Z",
+        "description": "保持该有的风度/\n可以叫我小真 具体叫什么我不介意/\n里世界@realse47 /\n提问箱https://t.co/MMy5M8atnS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "realse47"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/realze47",
+                "end": 68,
+                "expanded_url": "https://ngl.link/realze47",
+                "start": 45,
+                "url": "https://t.co/MMy5M8atnS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Realze47",
+                "end": 23,
+                "expanded_url": "http://t.me/Realze47",
+                "start": 0,
+                "url": "https://t.co/43JfcipN70"
+              }
+            ]
+          }
+        },
+        "id": "1802884729412161537",
+        "location": "steam 1676635613",
+        "name": "Realze",
+        "pinned_tweet_id": "1887841528883687845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866848592046198788/QCTQyI0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 187,
+          "like_count": 82754,
+          "listed_count": 6,
+          "media_count": 275,
+          "tweet_count": 5695
+        },
+        "url": "https://t.co/43JfcipN70",
+        "username": "Realze47",
+        "verified": false
+      }
+    ]
+  }
+}

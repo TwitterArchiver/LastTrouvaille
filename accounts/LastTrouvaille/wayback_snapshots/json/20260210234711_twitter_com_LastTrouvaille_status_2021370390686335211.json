@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2021100634649526344",
+    "created_at": "2026-02-10T23:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T00:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021370390686335211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1622134294645968897",
+          "start": 0,
+          "username": "Neve_AI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021370390686335211",
+    "in_reply_to_user_id": "1622134294645968897",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021332083130732950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neve_AI ！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2021100634649526344",
+        "created_at": "2026-02-10T23:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T00:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021370390686335211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1622134294645968897",
+              "start": 0,
+              "username": "Neve_AI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021370390686335211",
+        "in_reply_to_user_id": "1622134294645968897",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021332083130732950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neve_AI ！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622134294645968897",
+        "conversation_id": "2021100634649526344",
+        "created_at": "2026-02-10T21:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T22:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021332083130732950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1145980955552862214",
+              "start": 0,
+              "username": "94_6T"
+            },
+            {
+              "end": 23,
+              "id": "1708738966965637120",
+              "start": 7,
+              "username": "ZCHavilion1723_"
+            },
+            {
+              "end": 39,
+              "id": "1691242509815754754",
+              "start": 24,
+              "username": "LastTrouvaille"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Neve_AI/status…",
+              "end": 63,
+              "expanded_url": "https://x.com/Neve_AI/status/1913443892726477311",
+              "start": 40,
+              "url": "https://t.co/c3kykmojPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021332083130732950",
+        "in_reply_to_user_id": "1145980955552862214",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913443892726477311",
+            "type": "quoted"
+          },
+          {
+            "id": "2021291873755857118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@94_6T @ZCHavilion1723_ @LastTrouvaille https://t.co/c3kykmojPh\nこれですね"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，叫CC就好🫶‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)熟的话不时话痨(雾)‖偶尔写诗填词‖穗&沪‖会内耗emo‖不许键政🚫！！！‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7RpK"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园or纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3817,
+          "following_count": 2838,
+          "like_count": 41108,
+          "listed_count": 14,
+          "media_count": 866,
+          "tweet_count": 8514
+        },
+        "url": "https://t.co/TWu8nv7RpK",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T07:26:33.000Z",
+        "description": "趣味でAIイラストを生成しています。\n手描きもしていますが、こちらに載せるのはAI(一部加筆)イラストです。\nフォロバ目的の方はご希望に沿えないかも。\n議論はしません。\nhttps://t.co/B43UbcOXcd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "chichi-pui.com/users/Neve/",
+                "end": 108,
+                "expanded_url": "https://www.chichi-pui.com/users/Neve/",
+                "start": 85,
+                "url": "https://t.co/B43UbcOXcd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/90921034",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/90921034",
+                "start": 0,
+                "url": "https://t.co/yc4LGzleld"
+              }
+            ]
+          }
+        },
+        "id": "1622134294645968897",
+        "name": "Neve",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793200782743126016/TAgE5J_C_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8623,
+          "following_count": 350,
+          "like_count": 35978,
+          "listed_count": 86,
+          "media_count": 3669,
+          "tweet_count": 24278
+        },
+        "url": "https://t.co/yc4LGzleld",
+        "username": "Neve_AI",
+        "verified": false
+      }
+    ]
+  }
+}

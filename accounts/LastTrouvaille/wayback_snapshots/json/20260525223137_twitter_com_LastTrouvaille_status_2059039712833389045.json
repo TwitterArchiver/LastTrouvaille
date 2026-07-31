@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1873030514250268931",
+    "created_at": "2026-05-25T22:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T23:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059039712833389045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1463542392804438018",
+          "start": 0,
+          "username": "Yurifans_lilium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059039712833389045",
+    "in_reply_to_user_id": "1463542392804438018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059011281718550592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yurifans_lilium 抱抱喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1873030514250268931",
+        "created_at": "2026-05-25T22:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T23:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059039712833389045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1463542392804438018",
+              "start": 0,
+              "username": "Yurifans_lilium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059039712833389045",
+        "in_reply_to_user_id": "1463542392804438018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059011281718550592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yurifans_lilium 抱抱喔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463542392804438018",
+        "conversation_id": "1873030514250268931",
+        "created_at": "2026-05-25T20:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T21:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059011281718550592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059011281718550592",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013541760803189217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 我还想要……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦，叫妈妈姐姐也行（不是）‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖不许键政🚫‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4249,
+          "following_count": 2871,
+          "like_count": 46651,
+          "listed_count": 14,
+          "media_count": 961,
+          "tweet_count": 9059
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-24T16:18:07.000Z",
+        "description": "🍀 ISFP 🍊\n坏掉的若安在说什么呢~",
+        "id": "1463542392804438018",
+        "location": "宮城 仙台市",
+        "name": "Rueann",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844408690071437314/hTJvXDCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 330,
+          "like_count": 2823,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 163
+        },
+        "username": "Yurifans_lilium",
+        "verified": false
+      }
+    ]
+  }
+}

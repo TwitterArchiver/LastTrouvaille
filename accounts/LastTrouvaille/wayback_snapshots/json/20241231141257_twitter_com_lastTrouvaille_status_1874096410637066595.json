@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1874073472781213958",
+    "created_at": "2024-12-31T14:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T15:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874096410637066595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1750804799031824384",
+          "start": 0,
+          "username": "lizi4202"
+        },
+        {
+          "end": 25,
+          "id": "1680834021377593344",
+          "start": 10,
+          "username": "baizhou_kawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874096410637066595",
+    "in_reply_to_user_id": "1750804799031824384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874077255632339183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizi4202 @baizhou_kawaii 发我看看（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1874073472781213958",
+        "created_at": "2024-12-31T14:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T15:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874096410637066595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1750804799031824384",
+              "start": 0,
+              "username": "lizi4202"
+            },
+            {
+              "end": 25,
+              "id": "1680834021377593344",
+              "start": 10,
+              "username": "baizhou_kawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874096410637066595",
+        "in_reply_to_user_id": "1750804799031824384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874077255632339183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizi4202 @baizhou_kawaii 发我看看（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750804799031824384",
+        "conversation_id": "1874073472781213958",
+        "created_at": "2024-12-31T12:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T13:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874077255632339183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "baizhou_kawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874077255632339183",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874076936231862417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhou_kawaii 看了后想笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 1801,
+          "like_count": 8295,
+          "listed_count": 4,
+          "media_count": 169,
+          "tweet_count": 2048
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T08:56:14.000Z",
+        "description": "左下🚩🏴/阿棄喵@Ak1raQ_love 瑞士钟表匠@GravitySwiss CC @lastTrouvaille 向日葵@saksamalah2nd 好邻居@HANABIRIKAJIANG 拉萨革委会主任@akina_seyume 和知 綰@SatoxiWati 贴纸@paper8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Ak1raQ_love"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "GravitySwiss"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "lastTrouvaille"
+              },
+              {
+                "end": 76,
+                "start": 62,
+                "username": "saksamalah2nd"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "HANABIRIKAJIANG"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "akina_seyume"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "SatoxiWati"
+              },
+              {
+                "end": 146,
+                "start": 136,
+                "username": "paper8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys.mihoyo.com",
+                "end": 23,
+                "expanded_url": "http://ys.mihoyo.com",
+                "start": 0,
+                "url": "https://t.co/PHunJq3mbx"
+              }
+            ]
+          }
+        },
+        "id": "1750804799031824384",
+        "name": "漓梓（go一辈子）",
+        "pinned_tweet_id": "1872944227119972674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870709592155619328/TM8eQYzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 964,
+          "like_count": 7547,
+          "listed_count": 3,
+          "media_count": 247,
+          "tweet_count": 2695
+        },
+        "url": "https://t.co/PHunJq3mbx",
+        "username": "lizi4202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "忘れないようメモにしてよ",
+        "id": "1680834021377593344",
+        "location": "你♥️里",
+        "name": "坂下白粥喵🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1865673360228938229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872551600591675392/w1RAaK5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 839,
+          "like_count": 53604,
+          "listed_count": 9,
+          "media_count": 3339,
+          "tweet_count": 18926
+        },
+        "username": "baizhou_kawaii",
+        "verified": false
+      }
+    ]
+  }
+}

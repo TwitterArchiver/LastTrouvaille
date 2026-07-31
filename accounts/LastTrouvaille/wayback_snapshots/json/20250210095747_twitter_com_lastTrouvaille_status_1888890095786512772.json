@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1888890095786512772",
+    "created_at": "2025-02-10T09:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T10:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888890095786512772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yeziyu7777/sta…",
+          "end": 187,
+          "expanded_url": "https://twitter.com/yeziyu7777/status/1888877178189914325",
+          "start": 164,
+          "url": "https://t.co/KDHU5jqu4m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888890095786512772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888877178189914325",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "食物战争 \n1. 香菜：一点点点点\n2. 火锅芋头：哒咩！\n3. 咖喱要不要拌：拌\n4. 鲁肉饭要不要拌：同上\n5. 鸡块沾酱：番茄or甜辣\n6. 红豆饼奶油饼：红豆饼\n7. 凤梨披萨：哒咩！！\n8. 饮料甜度：半糖或以下\n9. 大小珍珠：都一般般\n10. 酸奶舔盖：哒咩！！！\n11. 豆花：必须甜的\n12. 粽子：咸甜都行 https://t.co/KDHU5jqu4m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1888890095786512772",
+        "created_at": "2025-02-10T09:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T10:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888890095786512772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yeziyu7777/sta…",
+              "end": 187,
+              "expanded_url": "https://twitter.com/yeziyu7777/status/1888877178189914325",
+              "start": 164,
+              "url": "https://t.co/KDHU5jqu4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888890095786512772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888877178189914325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "食物战争 \n1. 香菜：一点点点点\n2. 火锅芋头：哒咩！\n3. 咖喱要不要拌：拌\n4. 鲁肉饭要不要拌：同上\n5. 鸡块沾酱：番茄or甜辣\n6. 红豆饼奶油饼：红豆饼\n7. 凤梨披萨：哒咩！！\n8. 饮料甜度：半糖或以下\n9. 大小珍珠：都一般般\n10. 酸奶舔盖：哒咩！！！\n11. 豆花：必须甜的\n12. 粽子：咸甜都行 https://t.co/KDHU5jqu4m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646550974553522183",
+        "conversation_id": "1888877178189914325",
+        "created_at": "2025-02-10T09:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T10:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888877178189914325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chayuxiang/sta…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/chayuxiang/status/1888864443121193012",
+              "start": 154,
+              "url": "https://t.co/MIlQ3KeusZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888877178189914325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 7,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888864443121193012",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "食物战争\n1. 香菜：能吃\n2. 火锅芋头：能吃\n3. 咖喱要不要拌：狠狠拌匀\n4. 鲁肉饭要不要拌：狠狠拌匀\n5. 鸡块沾酱：番茄酱/酸甜酱\n6. 红豆饼奶油饼：都吃\n7. 凤梨披萨：吃\n8. 饮料甜度：7分/全糖\n9. 大小珍珠：都吃\n10. 酸奶舔盖：舔舔\n11. 豆花：都吃\n12. 粽子：有馅就吃 https://t.co/MIlQ3KeusZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 2021,
+          "like_count": 12675,
+          "listed_count": 7,
+          "media_count": 242,
+          "tweet_count": 3264
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T16:28:58.000Z",
+        "description": "这里是小叶or叶子｜ADHD｜拒绝见证｜社恐 喜欢贴贴？）｜睡觉爱好者｜笨蛋日常 搞砸是常态｜互fo随意 欢迎来互动～\n喜欢可爱的孩子@LiuSuK_Arcaea🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "LiuSuK_Arcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yeziyu7771",
+                "end": 23,
+                "expanded_url": "http://ngl.link/yeziyu7771",
+                "start": 0,
+                "url": "https://t.co/omZuBL0LWf"
+              }
+            ]
+          }
+        },
+        "id": "1646550974553522183",
+        "name": "永远の叶_",
+        "pinned_tweet_id": "1878053205659287658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885366874554462208/Qb0vmESD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 492,
+          "like_count": 43749,
+          "listed_count": 6,
+          "media_count": 299,
+          "tweet_count": 4824
+        },
+        "url": "https://t.co/omZuBL0LWf",
+        "username": "yeziyu7777",
+        "verified": false
+      }
+    ]
+  }
+}

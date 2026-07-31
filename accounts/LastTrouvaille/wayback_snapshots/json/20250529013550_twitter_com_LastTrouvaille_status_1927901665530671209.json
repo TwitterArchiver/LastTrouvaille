@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1927900064048947473",
+    "created_at": "2025-05-29T01:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T02:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927901665530671209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1919425818994040832",
+          "start": 0,
+          "username": "lqQf53XGnA48352"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927901665530671209",
+    "in_reply_to_user_id": "1919425818994040832",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927900064048947473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lqQf53XGnA48352 kawa！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1087,
+        "media_key": "3_1927900058135187456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsFG42-aUAA-4Oo.jpg",
+        "width": 652
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1927900058105917440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsFG423bsAASNqt.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1927900064048947473",
+        "created_at": "2025-05-29T01:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T02:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927901665530671209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919425818994040832",
+              "start": 0,
+              "username": "lqQf53XGnA48352"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927901665530671209",
+        "in_reply_to_user_id": "1919425818994040832",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927900064048947473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lqQf53XGnA48352 kawa！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927900058135187456",
+            "3_1927900058105917440"
+          ]
+        },
+        "author_id": "1919425818994040832",
+        "conversation_id": "1927900064048947473",
+        "created_at": "2025-05-29T01:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T02:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927900064048947473"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 0,
+              "tag": "コスプレイヤーbeforeafter選手権"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sCdNUUQGeq",
+              "end": 57,
+              "expanded_url": "https://x.com/lqQf53XGnA48352/status/1927900064048947473/photo/1",
+              "media_key": "3_1927900058135187456",
+              "start": 34,
+              "url": "https://t.co/sCdNUUQGeq"
+            },
+            {
+              "display_url": "pic.x.com/sCdNUUQGeq",
+              "end": 57,
+              "expanded_url": "https://x.com/lqQf53XGnA48352/status/1927900064048947473/photo/1",
+              "media_key": "3_1927900058105917440",
+              "start": 34,
+              "url": "https://t.co/sCdNUUQGeq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927900064048947473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 56,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#コスプレイヤーbeforeafter選手権\n初コス⇒左\n最近⇒右 https://t.co/sCdNUUQGeq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2877,
+          "following_count": 2672,
+          "like_count": 25465,
+          "listed_count": 12,
+          "media_count": 536,
+          "tweet_count": 6034
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T16:16:25.000Z",
+        "description": "新しく作り直しました！ コスプレイヤー(宅コス) DM返せないことが多いです。。趣味→服作り、コスプレ、カメラ、あみぐるみ、推し事 ファンマ→🍓🐄🩵 無言フォロー失礼します🙇‍♀️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ichigomiruku15…",
+                "end": 23,
+                "expanded_url": "https://lit.link/ichigomiruku1515",
+                "start": 0,
+                "url": "https://t.co/KnxYB1pQ5C"
+              }
+            ]
+          }
+        },
+        "id": "1919425818994040832",
+        "name": "いちごみるく🍓🐄🩵",
+        "pinned_tweet_id": "1919452997094146139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919426342002839552/NEYYSIeq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 148,
+          "like_count": 402,
+          "listed_count": 7,
+          "media_count": 29,
+          "tweet_count": 120
+        },
+        "url": "https://t.co/KnxYB1pQ5C",
+        "username": "lqQf53XGnA48352",
+        "verified": true
+      }
+    ]
+  }
+}

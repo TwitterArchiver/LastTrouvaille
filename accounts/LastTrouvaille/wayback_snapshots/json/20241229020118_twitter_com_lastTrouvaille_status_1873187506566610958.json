@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1873173703649050635",
+    "created_at": "2024-12-29T02:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T03:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873187506566610958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1819944260239851520",
+          "start": 0,
+          "username": "Alice14_88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873187506566610958",
+    "in_reply_to_user_id": "1819944260239851520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873173703649050635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alice14_88 点错了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1873173703649050635",
+        "created_at": "2024-12-29T02:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T03:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873187506566610958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1819944260239851520",
+              "start": 0,
+              "username": "Alice14_88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873187506566610958",
+        "in_reply_to_user_id": "1819944260239851520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873173703649050635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alice14_88 点错了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873173700532633600"
+          ]
+        },
+        "author_id": "1819944260239851520",
+        "conversation_id": "1873173703649050635",
+        "created_at": "2024-12-29T01:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T02:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873173703649050635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/daQaEsc6wy",
+              "end": 34,
+              "expanded_url": "https://x.com/Alice14_88/status/1873173703649050635/photo/1",
+              "media_key": "3_1873173700532633600",
+              "start": 11,
+              "url": "https://t.co/daQaEsc6wy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873173703649050635",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Bro what?😭 https://t.co/daQaEsc6wy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 1751,
+          "like_count": 7730,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 1931
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T03:51:46.000Z",
+        "description": "我會給自己去納粹化",
+        "id": "1819944260239851520",
+        "location": "China",
+        "name": "Alice✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872880316454715393/M8wGrdmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1195,
+          "following_count": 1540,
+          "like_count": 13529,
+          "listed_count": 4,
+          "media_count": 567,
+          "tweet_count": 6259
+        },
+        "username": "Alice14_88",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896749457091219456"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1896749461835305101",
+    "created_at": "2025-03-04T02:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T03:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896749461835305101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MWuPw9qBJO",
+          "end": 59,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1896749461835305101/photo/1",
+          "media_key": "3_1896749457091219456",
+          "start": 36,
+          "url": "https://t.co/MWuPw9qBJO"
+        },
+        {
+          "display_url": "x.com/kirino_ki/stat…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/kirino_ki/status/1896629556922155195",
+          "start": 60,
+          "url": "https://t.co/zRZxDuUW7B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896749461835305101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896629556922155195",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以为我也要这样说嘛？\n不好意思，想错了喔\n我可是一个超级超级坏的坏宝宝 https://t.co/MWuPw9qBJO https://t.co/zRZxDuUW7B"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1896749461835305101].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1896749461835305101",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1896749461835305101"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1896749457091219456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlKblPHWUAACFlk.jpg",
+        "width": 1080
+      },
+      {
+        "height": 689,
+        "media_key": "3_1896629550718812160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlIuhxEagAAxTZp.jpg",
+        "width": 542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896629550718812160"
+          ]
+        },
+        "author_id": "1811250754193440768",
+        "conversation_id": "1896629556922155195",
+        "created_at": "2025-03-03T18:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T19:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896629556922155195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cINVqygRVj",
+              "end": 35,
+              "expanded_url": "https://x.com/kirino_ki/status/1896629556922155195/photo/1",
+              "media_key": "3_1896629550718812160",
+              "start": 12,
+              "url": "https://t.co/cINVqygRVj"
+            },
+            {
+              "display_url": "x.com/gravityswiss/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/gravityswiss/status/1896583005764014504",
+              "start": 36,
+              "url": "https://t.co/SCVnXrasP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896629556922155195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1162,
+          "like_count": 55,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896583005764014504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是一个好宝宝（大概） https://t.co/cINVqygRVj https://t.co/SCVnXrasP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ here's Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2041,
+          "following_count": 2271,
+          "like_count": 15208,
+          "listed_count": 7,
+          "media_count": 292,
+          "tweet_count": 3783
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T04:07:02.000Z",
+        "description": "如果在你心中出现一片乌云的时候。 悲伤的诗能给乌云一个小小的拥抱。 然后它就会变换成一道开心的彩虹！",
+        "id": "1811250754193440768",
+        "location": "查成分留言回fo",
+        "name": "Kirino",
+        "pinned_tweet_id": "1893725912975200298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876103345871683584/Y-cKgPel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2874,
+          "following_count": 1778,
+          "like_count": 13153,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 1631
+        },
+        "username": "kirino_ki",
+        "verified": true
+      }
+    ]
+  }
+}

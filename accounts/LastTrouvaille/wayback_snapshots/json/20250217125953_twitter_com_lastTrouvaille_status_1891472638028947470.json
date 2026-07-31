@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1891335492228063346",
+    "created_at": "2025-02-17T12:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T13:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891472638028947470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "795412984705056768",
+          "start": 0,
+          "username": "QIUYUERMING"
+        },
+        {
+          "end": 22,
+          "id": "915789286091350016",
+          "start": 13,
+          "username": "Nyatisss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891472638028947470",
+    "in_reply_to_user_id": "795412984705056768",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891335492228063346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QIUYUERMING @Nyatisss 416！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1891335492228063346",
+        "created_at": "2025-02-17T12:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T13:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891472638028947470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "795412984705056768",
+              "start": 0,
+              "username": "QIUYUERMING"
+            },
+            {
+              "end": 22,
+              "id": "915789286091350016",
+              "start": 13,
+              "username": "Nyatisss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891472638028947470",
+        "in_reply_to_user_id": "795412984705056768",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891335492228063346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QIUYUERMING @Nyatisss 416！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891335489074118656",
+            "3_1891335489069948928"
+          ]
+        },
+        "author_id": "795412984705056768",
+        "conversation_id": "1891335492228063346",
+        "created_at": "2025-02-17T03:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T04:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891335492228063346"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "kig"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "915789286091350016",
+              "start": 5,
+              "username": "Nyatisss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xLX2fK52Ok",
+              "end": 60,
+              "expanded_url": "https://x.com/QIUYUERMING/status/1891335492228063346/photo/1",
+              "media_key": "3_1891335489074118656",
+              "start": 37,
+              "url": "https://t.co/xLX2fK52Ok"
+            },
+            {
+              "display_url": "pic.x.com/xLX2fK52Ok",
+              "end": 60,
+              "expanded_url": "https://x.com/QIUYUERMING/status/1891335492228063346/photo/1",
+              "media_key": "3_1891335489069948928",
+              "start": 37,
+              "url": "https://t.co/xLX2fK52Ok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891335492228063346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 11084,
+          "like_count": 592,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "夜色游街\n@Nyatisss \n#kigurumi #kig #着ぐるみ https://t.co/xLX2fK52Ok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Nice to meet you~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1963,
+          "following_count": 2119,
+          "like_count": 13080,
+          "listed_count": 6,
+          "media_count": 253,
+          "tweet_count": 3342
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-06T23:50:08.000Z",
+        "description": "",
+        "id": "795412984705056768",
+        "name": "秋月日明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/977755227959975936/43fnZSBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 763,
+          "like_count": 510,
+          "listed_count": 8,
+          "media_count": 78,
+          "tweet_count": 108
+        },
+        "username": "QIUYUERMING",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-05T04:02:35.000Z",
+        "description": "kig/按快门/胶&宜家鲨鱼爱好者  |  可以叫我鲨鱼 | 提供摄娃&后勤服务 |  社畜 常驻深圳  |  头壳来自 @AsherMiao  |  不定期更新",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "AsherMiao"
+              }
+            ]
+          }
+        },
+        "id": "915789286091350016",
+        "name": "Nyatis",
+        "pinned_tweet_id": "1848374047148827035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744215049579982848/o9-o_qKx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4771,
+          "following_count": 2292,
+          "like_count": 45821,
+          "listed_count": 34,
+          "media_count": 117,
+          "tweet_count": 9307
+        },
+        "username": "Nyatisss",
+        "verified": false
+      }
+    ]
+  }
+}

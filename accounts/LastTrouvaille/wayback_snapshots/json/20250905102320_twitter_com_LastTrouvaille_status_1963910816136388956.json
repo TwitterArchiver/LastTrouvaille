@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963910801871527936",
+        "3_1963910799195607040",
+        "3_1963910799606648832",
+        "3_1963910799459827712"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1963910816136388956",
+    "created_at": "2025-09-05T10:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T11:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963910816136388956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gvTVL3zSn2",
+          "end": 168,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1963910816136388956/photo/1",
+          "media_key": "3_1963910801871527936",
+          "start": 145,
+          "url": "https://t.co/gvTVL3zSn2"
+        },
+        {
+          "display_url": "pic.x.com/gvTVL3zSn2",
+          "end": 168,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1963910816136388956/photo/1",
+          "media_key": "3_1963910799195607040",
+          "start": 145,
+          "url": "https://t.co/gvTVL3zSn2"
+        },
+        {
+          "display_url": "pic.x.com/gvTVL3zSn2",
+          "end": 168,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1963910816136388956/photo/1",
+          "media_key": "3_1963910799606648832",
+          "start": 145,
+          "url": "https://t.co/gvTVL3zSn2"
+        },
+        {
+          "display_url": "pic.x.com/gvTVL3zSn2",
+          "end": 168,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1963910816136388956/photo/1",
+          "media_key": "3_1963910799459827712",
+          "start": 145,
+          "url": "https://t.co/gvTVL3zSn2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963910816136388956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "p1：贴贴~\np2：最终的确幸\n为什么不用和昵称相关的嘛..不告诉你w\n而且我想要的是被发自内心的喜欢和铭记\n如果只是为了好记的话没有多少意义在\n（说起来竟然真的有人注意到这个，还以为不会有留意的\np3：那就思考离开之后的路吧，这样既能够有动力，也有对未来的规划\np4：天气好热，不想穿（ https://t.co/gvTVL3zSn2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 795,
+        "media_key": "3_1963910801871527936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0E2eBQa4AAU5oZ.jpg",
+        "width": 1252
+      },
+      {
+        "height": 911,
+        "media_key": "3_1963910799195607040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0E2d3SbkAA-OH3.jpg",
+        "width": 1252
+      },
+      {
+        "height": 911,
+        "media_key": "3_1963910799606648832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0E2d40bkAAwUU2.jpg",
+        "width": 1252
+      },
+      {
+        "height": 795,
+        "media_key": "3_1963910799459827712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0E2d4RbQAAkhur.jpg",
+        "width": 1252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963910801871527936",
+            "3_1963910799195607040",
+            "3_1963910799606648832",
+            "3_1963910799459827712"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "1963910816136388956",
+        "created_at": "2025-09-05T10:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T11:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963910816136388956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gvTVL3zSn2",
+              "end": 168,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1963910816136388956/photo/1",
+              "media_key": "3_1963910801871527936",
+              "start": 145,
+              "url": "https://t.co/gvTVL3zSn2"
+            },
+            {
+              "display_url": "pic.x.com/gvTVL3zSn2",
+              "end": 168,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1963910816136388956/photo/1",
+              "media_key": "3_1963910799195607040",
+              "start": 145,
+              "url": "https://t.co/gvTVL3zSn2"
+            },
+            {
+              "display_url": "pic.x.com/gvTVL3zSn2",
+              "end": 168,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1963910816136388956/photo/1",
+              "media_key": "3_1963910799606648832",
+              "start": 145,
+              "url": "https://t.co/gvTVL3zSn2"
+            },
+            {
+              "display_url": "pic.x.com/gvTVL3zSn2",
+              "end": 168,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1963910816136388956/photo/1",
+              "media_key": "3_1963910799459827712",
+              "start": 145,
+              "url": "https://t.co/gvTVL3zSn2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963910816136388956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1：贴贴~\np2：最终的确幸\n为什么不用和昵称相关的嘛..不告诉你w\n而且我想要的是被发自内心的喜欢和铭记\n如果只是为了好记的话没有多少意义在\n（说起来竟然真的有人注意到这个，还以为不会有留意的\np3：那就思考离开之后的路吧，这样既能够有动力，也有对未来的规划\np4：天气好热，不想穿（ https://t.co/gvTVL3zSn2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3224,
+          "following_count": 2666,
+          "like_count": 29952,
+          "listed_count": 13,
+          "media_count": 663,
+          "tweet_count": 7046
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

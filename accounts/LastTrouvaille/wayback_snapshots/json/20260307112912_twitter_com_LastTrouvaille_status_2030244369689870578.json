@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030244367475355648"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "2030244369689870578",
+    "created_at": "2026-03-07T11:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T12:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030244369689870578"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b83EI0nPLe",
+          "end": 141,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2030244369689870578/photo/1",
+          "media_key": "3_2030244367475355648",
+          "start": 118,
+          "url": "https://t.co/b83EI0nPLe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030244369689870578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“如果我们以后分开的话，就算见到你也一定要假装不认识我哦”\n“为什么啊？”\n“以我这样的条件，只要单身就肯定很多人追啦，到时候见到前任多尴尬”\n“知道啦..你很多人追嘛..”\n“吃醋啦w？那你现在好好珍惜我不就行咯，笨蛋现任~”（啾） https://t.co/b83EI0nPLe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_2030244367475355648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCzgftqbMAAZP8O.jpg",
+        "width": 722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030244367475355648"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2030244369689870578",
+        "created_at": "2026-03-07T11:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030244369689870578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b83EI0nPLe",
+              "end": 141,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2030244369689870578/photo/1",
+              "media_key": "3_2030244367475355648",
+              "start": 118,
+              "url": "https://t.co/b83EI0nPLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030244369689870578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“如果我们以后分开的话，就算见到你也一定要假装不认识我哦”\n“为什么啊？”\n“以我这样的条件，只要单身就肯定很多人追啦，到时候见到前任多尴尬”\n“知道啦..你很多人追嘛..”\n“吃醋啦w？那你现在好好珍惜我不就行咯，笨蛋现任~”（啾） https://t.co/b83EI0nPLe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，叫CC就好🫶‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)熟的话不时话痨(雾)‖穗&沪‖会内耗emo‖不许键政🚫！！！‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7RpK"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4026,
+          "following_count": 2823,
+          "like_count": 42677,
+          "listed_count": 14,
+          "media_count": 888,
+          "tweet_count": 8620
+        },
+        "url": "https://t.co/TWu8nv7RpK",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

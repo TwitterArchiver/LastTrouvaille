@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1885720538431336789",
+    "created_at": "2025-02-01T16:33:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T17:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885728260694417623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1267812046097117186",
+          "start": 0,
+          "username": "Utsuho_223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885728260694417623",
+    "in_reply_to_user_id": "1267812046097117186",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885722752914719098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Utsuho_223 派大星，出击！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1885720538431336789",
+        "created_at": "2025-02-01T16:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T17:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885728260694417623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1267812046097117186",
+              "start": 0,
+              "username": "Utsuho_223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885728260694417623",
+        "in_reply_to_user_id": "1267812046097117186",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885722752914719098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Utsuho_223 派大星，出击！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1267812046097117186",
+        "conversation_id": "1885720538431336789",
+        "created_at": "2025-02-01T16:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T17:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885722752914719098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885722752914719098",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885720538431336789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 海星皇帝！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1911,
+          "following_count": 2451,
+          "like_count": 11973,
+          "listed_count": 6,
+          "media_count": 220,
+          "tweet_count": 2893
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-02T13:35:28.000Z",
+        "description": "無言フォロー失礼します                                               喜欢大家，想交朋友，请多关照\n     ウマ娘/東方project/プロセカ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/utsuho_233",
+                "end": 23,
+                "expanded_url": "https://ngl.link/utsuho_233",
+                "start": 0,
+                "url": "https://t.co/KSKQc3lpr9"
+              }
+            ]
+          }
+        },
+        "id": "1267812046097117186",
+        "location": "Sol3",
+        "name": "lingwlk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872809291771707392/cPtKj79K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 2740,
+          "like_count": 49446,
+          "listed_count": 6,
+          "media_count": 309,
+          "tweet_count": 2775
+        },
+        "url": "https://t.co/KSKQc3lpr9",
+        "username": "Utsuho_223",
+        "verified": false
+      }
+    ]
+  }
+}

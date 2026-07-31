@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1876818864194940961",
+    "created_at": "2025-01-08T07:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T08:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876889601337430184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1435255784313528320",
+          "start": 0,
+          "username": "Stars_stair"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876889601337430184",
+    "in_reply_to_user_id": "1435255784313528320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876881355159580681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stars_stair 没有口头禅desu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1876818864194940961",
+        "created_at": "2025-01-08T07:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T08:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876889601337430184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1435255784313528320",
+              "start": 0,
+              "username": "Stars_stair"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876889601337430184",
+        "in_reply_to_user_id": "1435255784313528320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876881355159580681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stars_stair 没有口头禅desu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1435255784313528320",
+        "conversation_id": "1876818864194940961",
+        "created_at": "2025-01-08T06:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T07:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876881355159580681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876881355159580681",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876818864194940961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 37"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1642,
+          "following_count": 1974,
+          "like_count": 9330,
+          "listed_count": 4,
+          "media_count": 180,
+          "tweet_count": 2279
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-07T14:57:09.000Z",
+        "description": "这辈子不听Enigma State的人只会度过一个失败的人生/电子乐重度沉迷/Alphazone激推/胆小鬼不配拥有幸福/hard trance万岁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "astateoftrance.com",
+                "end": 23,
+                "expanded_url": "http://astateoftrance.com",
+                "start": 0,
+                "url": "https://t.co/3wLTNEiYSI"
+              }
+            ]
+          }
+        },
+        "id": "1435255784313528320",
+        "location": "The other shore",
+        "name": "Stars_Stair",
+        "pinned_tweet_id": "1873273165683769548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794929633357606912/ro4CQ_Cw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 503,
+          "like_count": 143704,
+          "listed_count": 3,
+          "media_count": 1287,
+          "tweet_count": 6453
+        },
+        "url": "https://t.co/3wLTNEiYSI",
+        "username": "Stars_stair",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1893617356179755231",
+    "created_at": "2025-02-24T08:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T09:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893941621546205491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1796860050977492992",
+          "start": 0,
+          "username": "Narinarimashita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893941621546205491",
+    "in_reply_to_user_id": "1796860050977492992",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893617356179755231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Narinarimashita @msmaoi_ 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1893617356179755231",
+        "created_at": "2025-02-24T08:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T09:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893941621546205491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1796860050977492992",
+              "start": 0,
+              "username": "Narinarimashita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893941621546205491",
+        "in_reply_to_user_id": "1796860050977492992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893617356179755231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Narinarimashita @msmaoi_ 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796860050977492992",
+        "conversation_id": "1893617356179755231",
+        "created_at": "2025-02-23T11:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T11:58:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893616343980937633",
+          "1893617356179755231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1835753359015624704",
+              "start": 12,
+              "username": "msmaoi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893617356179755231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "神崎好感度等级！（原作者@msmaoi_ \n-4 神崎会公开发推文骂你\n-3 你惹到神崎了，他会屏蔽你\n-2 神崎不想和你说话\n-1 神崎不想和你接触，消息敷衍回复\n0. 推特账号静音（分～割～线～～～\n1. 单向关注，只是神崎觉得你很有意思在单向观察\n2. 互关\n3. 添加Tg群\n4. 添加 Telegram做联系方式\n5. 添加QQ\n6. 添加QQ（或其他方式）主动和你聊天\n以下在我心中有人选，但碍于年龄限制没办法(((\n7. 神崎会主动约线下见面玩，一起打舞萌\n8. 主动请客吃饭而非aa\n9. 神崎很喜欢你，愿意和你称兄道弟\n10. 神崎很喜欢你，会当着你的面哭\n以下在我心中无人选（\n11. 神崎很爱你，会为你精心准备好一切，倾尽所有去提供资源\n12. 你是神崎最爱的人，他愿意一直在你身边陪伴你，能获得这个等级的好感度的人肯定是一个风度翩翩，愿意悉心照顾他人情绪的人吧\n❗️原作者@msmaoi_ 十分感谢十分感谢🙏🥹"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2587,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "神崎好感度等级！（原作者@msmaoi_ \n-4 神崎会公开发推文骂你\n-3 你惹到神崎了，他会屏蔽你\n-2 神崎不想和你说话\n-1 神崎不想和你接触，消息敷衍回复\n0. 推特账号静音（分～割～线～～～\n1. 单向关注，只是神崎觉得你很有意思在单向观察\n2. 互关\n3. 添加Tg群\n4. 添加 Telegram做联系方式\n5. 添加QQ\n6.…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ 这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2012,
+          "following_count": 2193,
+          "like_count": 14407,
+          "listed_count": 7,
+          "media_count": 272,
+          "tweet_count": 3531
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T11:03:25.000Z",
+        "description": "He/Him🚹|今12才🤓|中国語注意！🇨🇳|よろしく！|ﾀｸﾞ:#ゼンゼロ #プロセカ |🥰友達→@ChaoX1220 @Drag0nR10890🥰プロセカ→@Pjsksgpいま彼氏がない❤️🈚️ ローソンべんとう→@RAWSONBenxtou|🏳️‍🌈をサポート中、ご注意をください⚠️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 33,
+                "tag": "ゼンゼロ"
+              },
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "プロセカ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "ChaoX1220"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "Drag0nR10890"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "Pjsksgp"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "RAWSONBenxtou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/@FamilyMartSus…",
+                "end": 23,
+                "expanded_url": "https://x.com/@FamilyMartSushi",
+                "start": 0,
+                "url": "https://t.co/7zRxx9gDSu"
+              }
+            ]
+          }
+        },
+        "id": "1796860050977492992",
+        "location": "ファミリーマートすし→",
+        "name": "なりナリました（开学限定Ver.",
+        "pinned_tweet_id": "1885150343991824432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882561350007767040/jp4dPaCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2891,
+          "following_count": 3064,
+          "like_count": 1629,
+          "listed_count": 1,
+          "media_count": 781,
+          "tweet_count": 4513
+        },
+        "url": "https://t.co/7zRxx9gDSu",
+        "username": "Narinarimashita",
+        "verified": true
+      }
+    ]
+  }
+}

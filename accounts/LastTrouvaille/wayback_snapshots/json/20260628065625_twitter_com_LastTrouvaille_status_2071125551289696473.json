@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071125548617908224",
+        "3_2071125547632214016"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "2071125551289696473",
+    "created_at": "2026-06-28T06:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T07:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071125551289696473"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HrfeCvpWGy",
+          "end": 76,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2071125551289696473/photo/1",
+          "media_key": "3_2071125548617908224",
+          "start": 53,
+          "url": "https://t.co/HrfeCvpWGy"
+        },
+        {
+          "display_url": "pic.x.com/HrfeCvpWGy",
+          "end": 76,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2071125551289696473/photo/1",
+          "media_key": "3_2071125547632214016",
+          "start": 53,
+          "url": "https://t.co/HrfeCvpWGy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071125551289696473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最晚吃午饭的一次👉🏻👈🏻\n等身体状态慢慢恢复过来之后就有点饿了\n好久没吃过赛百味了\n小黄油美式也超好喝w https://t.co/HrfeCvpWGy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2071125548617908224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4dtpKbQAAjhxY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 404,
+        "media_key": "3_2071125547632214016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4dtlfawAAQRVw.jpg",
+        "width": 424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071125548617908224",
+            "3_2071125547632214016"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2071125551289696473",
+        "created_at": "2026-06-28T06:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071125551289696473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HrfeCvpWGy",
+              "end": 76,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2071125551289696473/photo/1",
+              "media_key": "3_2071125548617908224",
+              "start": 53,
+              "url": "https://t.co/HrfeCvpWGy"
+            },
+            {
+              "display_url": "pic.x.com/HrfeCvpWGy",
+              "end": 76,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2071125551289696473/photo/1",
+              "media_key": "3_2071125547632214016",
+              "start": 53,
+              "url": "https://t.co/HrfeCvpWGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071125551289696473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最晚吃午饭的一次👉🏻👈🏻\n等身体状态慢慢恢复过来之后就有点饿了\n好久没吃过赛百味了\n小黄油美式也超好喝w https://t.co/HrfeCvpWGy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】叫CC就好‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4523,
+          "following_count": 2935,
+          "like_count": 48721,
+          "listed_count": 14,
+          "media_count": 1010,
+          "tweet_count": 9351
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

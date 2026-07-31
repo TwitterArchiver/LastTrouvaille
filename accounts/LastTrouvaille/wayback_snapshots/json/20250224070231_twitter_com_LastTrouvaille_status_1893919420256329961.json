@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1893848597541597469",
+    "created_at": "2025-02-24T07:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T08:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893919420256329961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1522614384333307905",
+          "start": 0,
+          "username": "Hongshiyue4ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893919420256329961",
+    "in_reply_to_user_id": "1522614384333307905",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893918202297499902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hongshiyue4ever 🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1893918202297499902].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1893918202297499902",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1893918202297499902"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1893848597541597469",
+        "created_at": "2025-02-24T07:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T08:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893919420256329961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1522614384333307905",
+              "start": 0,
+              "username": "Hongshiyue4ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893919420256329961",
+        "in_reply_to_user_id": "1522614384333307905",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893918202297499902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hongshiyue4ever 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ 这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2011,
+          "following_count": 2192,
+          "like_count": 14399,
+          "listed_count": 7,
+          "media_count": 272,
+          "tweet_count": 3528
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-06T16:29:02.000Z",
+        "description": "憋佬仔，脖子上喜欢挂玉牌。香炉供台上摆，长大才开白黄牌。",
+        "id": "1522614384333307905",
+        "location": "西南红都",
+        "name": "📕山泥若藻👈",
+        "pinned_tweet_id": "1792449928465383535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874815707869024256/uD7G030k_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 609,
+          "like_count": 13587,
+          "listed_count": 1,
+          "media_count": 888,
+          "tweet_count": 6846
+        },
+        "username": "Hongshiyue4ever",
+        "verified": false
+      }
+    ]
+  }
+}

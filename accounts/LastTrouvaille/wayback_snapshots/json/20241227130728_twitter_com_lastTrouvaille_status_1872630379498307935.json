@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1872625062072991933",
+    "created_at": "2024-12-27T13:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T14:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872630379498307935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804798191940124673",
+          "start": 0,
+          "username": "Rin1732996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872630379498307935",
+    "in_reply_to_user_id": "1804798191940124673",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872625062072991933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rin1732996 私も何もしたくない ..\n試験が近づいていますが、全くモチベーションがありません（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1872625062072991933",
+        "created_at": "2024-12-27T13:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T14:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872630379498307935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804798191940124673",
+              "start": 0,
+              "username": "Rin1732996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872630379498307935",
+        "in_reply_to_user_id": "1804798191940124673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872625062072991933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rin1732996 私も何もしたくない ..\n試験が近づいていますが、全くモチベーションがありません（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804798191940124673",
+        "conversation_id": "1872625062072991933",
+        "created_at": "2024-12-27T12:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T13:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872625062072991933"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872625062072991933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "動きたくない何もしたくないやりたくない"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1871369957063483612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 1721,
+          "like_count": 7429,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 1863
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T08:47:01.000Z",
+        "description": "///病垢///    趣味でAIイラスト作ってます。🖌依頼はDMかリンク🔗から要相談。載せているイラストは全てフリーイラストです。ヘッダー▶ @tiksca2299       🗝▶ @lupinus_rinrin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "tiksca2299"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "lupinus_rinrin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/RinAiIllust",
+                "end": 23,
+                "expanded_url": "https://lit.link/RinAiIllust",
+                "start": 0,
+                "url": "https://t.co/Qbdfr0m4bi"
+              }
+            ]
+          }
+        },
+        "id": "1804798191940124673",
+        "location": "いんたーねっと。",
+        "name": "Rin_981",
+        "pinned_tweet_id": "1866627062188183645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845428591930245122/ykbL9jKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40210,
+          "following_count": 319,
+          "like_count": 48343,
+          "listed_count": 134,
+          "media_count": 1167,
+          "tweet_count": 14254
+        },
+        "url": "https://t.co/Qbdfr0m4bi",
+        "username": "Rin1732996",
+        "verified": true
+      }
+    ]
+  }
+}

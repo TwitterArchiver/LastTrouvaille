@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2018991811730288765",
+    "created_at": "2026-02-04T11:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T12:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019011689577136171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597157388330536960",
+          "start": 0,
+          "username": "Praesepe_F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019011689577136171",
+    "in_reply_to_user_id": "1597157388330536960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018991811730288765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Praesepe_F 阿p！TuT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2018991811730288765",
+        "created_at": "2026-02-04T11:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T12:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019011689577136171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597157388330536960",
+              "start": 0,
+              "username": "Praesepe_F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019011689577136171",
+        "in_reply_to_user_id": "1597157388330536960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018991811730288765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Praesepe_F 阿p！TuT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597157388330536960",
+        "conversation_id": "2018991811730288765",
+        "created_at": "2026-02-04T10:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T11:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018991811730288765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018991811730288765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 450,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "隐退了，运营墙内去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，叫CC就好🫶‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)熟的话不时话痨(雾)‖偶尔写诗填词‖穗&沪‖会内耗emo‖不许键政🚫！！！‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7RpK"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园or纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3791,
+          "following_count": 2823,
+          "like_count": 40681,
+          "listed_count": 14,
+          "media_count": 859,
+          "tweet_count": 8486
+        },
+        "url": "https://t.co/TWu8nv7RpK",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T09:16:20.000Z",
+        "description": "欢迎私信找我聊天 舟批 高p家里蹲这一块 （周日双更） 如果你是皱皮或者想找我扩列，帮我转转推点点赞混混脸熟找我私信就行我蛮好说话的。",
+        "id": "1597157388330536960",
+        "location": "阿戈尔水世界",
+        "name": "椰椰斯卡蒂",
+        "pinned_tweet_id": "1953680922894569957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012899254558248961/3ilz9Cko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7682,
+          "following_count": 597,
+          "like_count": 11062,
+          "listed_count": 20,
+          "media_count": 297,
+          "tweet_count": 3934
+        },
+        "username": "Praesepe_F",
+        "verified": false
+      }
+    ]
+  }
+}

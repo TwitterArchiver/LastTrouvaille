@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2054593916104737082",
+    "created_at": "2026-05-13T16:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T17:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054595471109480951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753419726582345728",
+          "start": 0,
+          "username": "GravitySwiss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054595471109480951",
+    "in_reply_to_user_id": "1753419726582345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054593916104737082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GravitySwiss swiss！！生日快乐呀~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 860,
+        "media_key": "3_2054593842981310464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HINiNuibEAAAEQA.jpg",
+        "width": 890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2054593916104737082",
+        "created_at": "2026-05-13T16:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054595471109480951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753419726582345728",
+              "start": 0,
+              "username": "GravitySwiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054595471109480951",
+        "in_reply_to_user_id": "1753419726582345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054593916104737082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GravitySwiss swiss！！生日快乐呀~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054593842981310464"
+          ]
+        },
+        "author_id": "1753419726582345728",
+        "conversation_id": "2054593916104737082",
+        "created_at": "2026-05-13T16:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054593916104737082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bD87oCXtG9",
+              "end": 59,
+              "expanded_url": "https://x.com/GravitySwiss/status/2054593916104737082/photo/1",
+              "media_key": "3_2054593842981310464",
+              "start": 36,
+              "url": "https://t.co/bD87oCXtG9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054593916104737082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在世界某处静静的角落里，gravityswiss悄悄迎来了其小小的生日 https://t.co/bD87oCXtG9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦‖INFP-T‖轻抑‖今天也有变得更温柔可爱一点‖中粤英日‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4069,
+          "following_count": 2849,
+          "like_count": 45774,
+          "listed_count": 14,
+          "media_count": 946,
+          "tweet_count": 8910
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T14:07:38.000Z",
+        "description": "Власть рождает паразитов. Да здравствует анархия!\nСмерть буржуям!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "otomad.wiki",
+                "end": 23,
+                "expanded_url": "https://otomad.wiki/",
+                "start": 0,
+                "url": "https://t.co/eEO2O5kmpg"
+              }
+            ]
+          }
+        },
+        "id": "1753419726582345728",
+        "location": "Κωνσταντινούπολις",
+        "name": "GravitySwiss",
+        "pinned_tweet_id": "1940446075699282266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753431245357543424/KxUIQ4O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 3166,
+          "like_count": 140868,
+          "listed_count": 14,
+          "media_count": 2024,
+          "tweet_count": 44847
+        },
+        "url": "https://t.co/eEO2O5kmpg",
+        "username": "GravitySwiss",
+        "verified": false
+      }
+    ]
+  }
+}

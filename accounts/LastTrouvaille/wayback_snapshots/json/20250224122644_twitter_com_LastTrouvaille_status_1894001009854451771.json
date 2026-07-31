@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1893990891402002504",
+    "created_at": "2025-02-24T12:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T13:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894001009854451771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1818097500575891457",
+          "start": 0,
+          "username": "moeTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894001009854451771",
+    "in_reply_to_user_id": "1818097500575891457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893996078908809681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moeTvT 宝宝你好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1893990891402002504",
+        "created_at": "2025-02-24T12:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T13:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894001009854451771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1818097500575891457",
+              "start": 0,
+              "username": "moeTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894001009854451771",
+        "in_reply_to_user_id": "1818097500575891457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893996078908809681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moeTvT 宝宝你好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818097500575891457",
+        "conversation_id": "1893990891402002504",
+        "created_at": "2025-02-24T12:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T13:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893996078908809681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893996078908809681",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893990891402002504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 宝宝你好呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ here's Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 2200,
+          "like_count": 14452,
+          "listed_count": 7,
+          "media_count": 273,
+          "tweet_count": 3548
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T01:33:24.000Z",
+        "description": "♥️🐱@5thCuteKitten\n可以叫我澪澪/Mio\n我是宅女，欢迎宅宅们跟我玩^_^女宝互关大欢迎！\n不键政|品客勿扰|看黄的不准关注我|被我拉黑就是因为我讨厌你|随缘回关|喜欢萌萌的东西|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "5thCuteKitten"
+              }
+            ]
+          }
+        },
+        "id": "1818097500575891457",
+        "location": "空を見上げて",
+        "name": "Mio大王666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877574138493390848/_fJPUWYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 1053,
+          "like_count": 50680,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 4386
+        },
+        "username": "moeTvT",
+        "verified": false
+      }
+    ]
+  }
+}

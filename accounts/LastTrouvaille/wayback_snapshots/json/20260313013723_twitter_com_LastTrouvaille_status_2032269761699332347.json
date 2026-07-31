@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2032269761699332347",
+    "created_at": "2026-03-13T01:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T02:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032269761699332347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/animel7316/sta…",
+          "end": 115,
+          "expanded_url": "https://twitter.com/animel7316/status/2031928603781525858",
+          "start": 92,
+          "url": "https://t.co/XWnnSUTPsB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032269761699332347",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031928603781525858",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“Good morning，\nand in case I don't see you，\ngood afternoon，\ngood evening，\nand good night.”‌ https://t.co/XWnnSUTPsB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2688,
+        "media_key": "3_2031928599809597440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLcS8CboAAG2EI.jpg",
+        "width": 1792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2032269761699332347",
+        "created_at": "2026-03-13T01:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T02:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032269761699332347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/animel7316/sta…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/animel7316/status/2031928603781525858",
+              "start": 92,
+              "url": "https://t.co/XWnnSUTPsB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032269761699332347",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031928603781525858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“Good morning，\nand in case I don't see you，\ngood afternoon，\ngood evening，\nand good night.”‌ https://t.co/XWnnSUTPsB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031928599809597440"
+          ]
+        },
+        "author_id": "1671106229777862656",
+        "conversation_id": "2031928603781525858",
+        "created_at": "2026-03-12T03:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T04:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031928603781525858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RA7IQfm7Oh",
+              "end": 23,
+              "expanded_url": "https://x.com/animel7316/status/2031928603781525858/photo/1",
+              "media_key": "3_2031928599809597440",
+              "start": 0,
+              "url": "https://t.co/RA7IQfm7Oh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031928603781525858",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 22358,
+          "like_count": 2482,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RA7IQfm7Oh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，叫CC就好🫶‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)熟的话不时话痨(雾)‖穗&沪‖会内耗emo‖不许键政🚫！！！‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7RpK"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4064,
+          "following_count": 2853,
+          "like_count": 43106,
+          "listed_count": 15,
+          "media_count": 891,
+          "tweet_count": 8652
+        },
+        "url": "https://t.co/TWu8nv7RpK",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T10:42:48.000Z",
+        "description": "こんにちは！あにめるです。\n様々なプラットフォームでAIイラスト投稿中！仲良く交流したいです✨\nアイコンはうちの子「メルちゃん」 \nイラストの無断利用・転載✘\n 姫武器イラスト・背景画イベントの人\nサブ(@2ndanimelart)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "2ndanimelart"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/animel",
+                "end": 23,
+                "expanded_url": "https://note.com/animel",
+                "start": 0,
+                "url": "https://t.co/Ubas7O2COs"
+              }
+            ]
+          }
+        },
+        "id": "1671106229777862656",
+        "name": "あにめる",
+        "pinned_tweet_id": "2029346150067601426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921616150166753280/Ek_b4kEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43374,
+          "following_count": 2622,
+          "like_count": 98598,
+          "listed_count": 331,
+          "media_count": 12992,
+          "tweet_count": 82346
+        },
+        "url": "https://t.co/Ubas7O2COs",
+        "username": "animel7316",
+        "verified": true
+      }
+    ]
+  }
+}

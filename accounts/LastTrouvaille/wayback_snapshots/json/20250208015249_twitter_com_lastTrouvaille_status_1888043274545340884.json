@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1887928693626126357",
+    "created_at": "2025-02-08T01:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T02:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888043274545340884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1586762784393437184",
+          "start": 0,
+          "username": "DraTohru_XLN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888043274545340884",
+    "in_reply_to_user_id": "1586762784393437184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887928693626126357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DraTohru_XLN fo了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1887928693626126357",
+        "created_at": "2025-02-08T01:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T02:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888043274545340884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1586762784393437184",
+              "start": 0,
+              "username": "DraTohru_XLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888043274545340884",
+        "in_reply_to_user_id": "1586762784393437184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887928693626126357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DraTohru_XLN fo了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586762784393437184",
+        "conversation_id": "1887928693626126357",
+        "created_at": "2025-02-07T18:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T19:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887928693626126357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887928693626126357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有点难以避免怀疑自己\n我身边好多推油,玩了不到一年就有500-1000个followers了。而我眼瞅着入推三年了,我还不到200个fo。就这样为了流量什么风都跟?这不符合我。是因为我清掉垃圾账号和bot太多了?如果你们半年时间就有1000个生龙活虎的大活人fo还不算上bot的话那真的太厉害了。\n大家都不喜欢我?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 2047,
+          "like_count": 12455,
+          "listed_count": 7,
+          "media_count": 237,
+          "tweet_count": 3187
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T16:51:55.000Z",
+        "description": "来自中国大陆的20y.o.激光专业技术宅兼大笨蛋,爱好二次元|电子电路|化学|MIDI|音频|操作系统|数码产品|摄影。属性:🏳️‍⚧️🏳️‍🌈LGBTQ+兼容|トール可愛い|《青空のラプソディ》最高🎵|我爱大連🏝️|S-YXG2006LE素晴🎹|双極性障害存疑|Fart Fetish特殊性癖警告💨⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/dratoh…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/dratohru-xln.bsky.social",
+                "start": 0,
+                "url": "https://t.co/3IfckWWTKL"
+              }
+            ]
+          }
+        },
+        "id": "1586762784393437184",
+        "location": "🌔卫星_龙卫一:@DraTohru_Backup",
+        "name": "小龙娘トール⚡️🧪🔉🎹📱💻🏝️",
+        "pinned_tweet_id": "1758324214581645818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827717933965234176/8TASHQHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 241,
+          "like_count": 24513,
+          "listed_count": 2,
+          "media_count": 694,
+          "tweet_count": 8052
+        },
+        "url": "https://t.co/3IfckWWTKL",
+        "username": "DraTohru_XLN",
+        "verified": false
+      }
+    ]
+  }
+}

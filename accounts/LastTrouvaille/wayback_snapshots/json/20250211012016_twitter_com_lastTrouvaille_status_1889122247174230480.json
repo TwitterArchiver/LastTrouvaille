@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889122244028403712"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1889122247174230480",
+    "created_at": "2025-02-11T01:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T02:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889122247174230480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Mn1fvI9ik",
+          "end": 25,
+          "expanded_url": "https://x.com/lastTrouvaille/status/1889122247174230480/photo/1",
+          "media_key": "3_1889122244028403712",
+          "start": 2,
+          "url": "https://t.co/7Mn1fvI9ik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889122247174230480",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/7Mn1fvI9ik"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1889122247174230480].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1889122247174230480",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1889122247174230480"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2444,
+        "media_key": "3_1889122244028403712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjeCrASaEAA-ba_.jpg",
+        "width": 1440
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 2048,
+          "like_count": 12761,
+          "listed_count": 7,
+          "media_count": 243,
+          "tweet_count": 3280
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

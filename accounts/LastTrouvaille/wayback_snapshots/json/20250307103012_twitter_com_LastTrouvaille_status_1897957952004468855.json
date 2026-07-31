@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1897926682373234890",
+    "created_at": "2025-03-07T10:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T11:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897957952004468855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1768631748257361920",
+          "start": 0,
+          "username": "NeneK0SMTwTF5_"
+        },
+        {
+          "end": 25,
+          "id": "1363826773176188934",
+          "start": 16,
+          "username": "huige545"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897957952004468855",
+    "in_reply_to_user_id": "1768631748257361920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897948746194833597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeneK0SMTwTF5_ @huige545 已经要玩不了这种play了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1897926682373234890",
+        "created_at": "2025-03-07T10:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T11:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897957952004468855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1768631748257361920",
+              "start": 0,
+              "username": "NeneK0SMTwTF5_"
+            },
+            {
+              "end": 25,
+              "id": "1363826773176188934",
+              "start": 16,
+              "username": "huige545"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897957952004468855",
+        "in_reply_to_user_id": "1768631748257361920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897948746194833597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeneK0SMTwTF5_ @huige545 已经要玩不了这种play了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768631748257361920",
+        "conversation_id": "1897926682373234890",
+        "created_at": "2025-03-07T09:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T10:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897948746194833597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1363826773176188934",
+              "start": 0,
+              "username": "huige545"
+            },
+            {
+              "end": 25,
+              "id": "1691242509815754754",
+              "start": 10,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897948746194833597",
+        "in_reply_to_user_id": "1363826773176188934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897945976293519541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huige545 @LastTrouvaille 我还以为是经典大衣露出h（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anitabi.cn",
+                "end": 23,
+                "expanded_url": "https://anitabi.cn/",
+                "start": 0,
+                "url": "https://t.co/ASAIm8Wyd2"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 2365,
+          "like_count": 15586,
+          "listed_count": 6,
+          "media_count": 304,
+          "tweet_count": 3876
+        },
+        "url": "https://t.co/ASAIm8Wyd2",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T13:34:27.000Z",
+        "description": "宇宙中飞行的不可思议的魔女｜皇家烈焰｜嘎喽给木吃｜七色的暖暖暖暖暖炉\n姐姐大人@Smilewei114514 糖罐子@Sa1ntM0n1ka 我的内脏 @0xSorrowRain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 39,
+                "username": "Smilewei114514"
+              },
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Sa1ntM0n1ka"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "0xSorrowRain"
+              }
+            ]
+          }
+        },
+        "id": "1768631748257361920",
+        "location": "理性も倫理も悪意に溺れろ。",
+        "name": "折射的 Девять协会南部3科涅氵&#？",
+        "pinned_tweet_id": "1834058575863501273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874018816696684544/uQSCQZdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 994,
+          "like_count": 1438,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 4461
+        },
+        "username": "NeneK0SMTwTF5_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T12:23:45.000Z",
+        "description": "理应在最后的最后不说告别 | 是电子幽灵 | chat:https://t.co/qdcf50qYvk |繁华落尽，长日归寂",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/huige233",
+                "end": 51,
+                "expanded_url": "http://t.me/huige233",
+                "start": 28,
+                "url": "https://t.co/qdcf50qYvk"
+              }
+            ]
+          }
+        },
+        "id": "1363826773176188934",
+        "location": "一片死寂的荒地",
+        "name": "huige",
+        "pinned_tweet_id": "1860278144823099607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580632136566001664/3QWYOP4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 814,
+          "like_count": 13762,
+          "listed_count": 11,
+          "media_count": 932,
+          "tweet_count": 10272
+        },
+        "username": "huige545",
+        "verified": false
+      }
+    ]
+  }
+}

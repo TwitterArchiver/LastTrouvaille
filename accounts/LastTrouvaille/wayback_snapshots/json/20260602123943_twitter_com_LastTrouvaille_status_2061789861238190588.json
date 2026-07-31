@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596157251584",
+          "name": "Grocery/Convenience - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "LAWSON (ローソン)",
+          "id": "1035550790197231616",
+          "name": "LAWSON (ローソン)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "LAWSON (ローソン)",
+          "id": "1035550790197231616",
+          "name": "LAWSON (ローソン)"
+        }
+      }
+    ],
+    "conversation_id": "2060611415816409529",
+    "created_at": "2026-06-02T12:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061789861238190588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1599742497948737536",
+          "start": 0,
+          "username": "KikiCcree"
+        },
+        {
+          "end": 24,
+          "id": "115639376",
+          "start": 11,
+          "username": "akiko_lawson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061789861238190588",
+    "in_reply_to_user_id": "1599742497948737536",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060611636067721259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KikiCcree @akiko_lawson 2333"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596157251584",
+              "name": "Grocery/Convenience - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "LAWSON (ローソン)",
+              "id": "1035550790197231616",
+              "name": "LAWSON (ローソン)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "LAWSON (ローソン)",
+              "id": "1035550790197231616",
+              "name": "LAWSON (ローソン)"
+            }
+          }
+        ],
+        "conversation_id": "2060611415816409529",
+        "created_at": "2026-06-02T12:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061789861238190588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1599742497948737536",
+              "start": 0,
+              "username": "KikiCcree"
+            },
+            {
+              "end": 24,
+              "id": "115639376",
+              "start": 11,
+              "username": "akiko_lawson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061789861238190588",
+        "in_reply_to_user_id": "1599742497948737536",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060611636067721259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KikiCcree @akiko_lawson 2333"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599742497948737536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596157251584",
+              "name": "Grocery/Convenience - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "LAWSON (ローソン)",
+              "id": "1035550790197231616",
+              "name": "LAWSON (ローソン)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "LAWSON (ローソン)",
+              "id": "1035550790197231616",
+              "name": "LAWSON (ローソン)"
+            }
+          }
+        ],
+        "conversation_id": "2060611415816409529",
+        "created_at": "2026-05-30T06:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060611636067721259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "115639376",
+              "start": 0,
+              "username": "akiko_lawson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060611636067721259",
+        "in_reply_to_user_id": "115639376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 349,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060611421591802088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiko_lawson 😡😡😡😡😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖不许键政🚫‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille3",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille3",
+                "start": 0,
+                "url": "https://t.co/8rca0idckk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4504,
+          "following_count": 2874,
+          "like_count": 47221,
+          "listed_count": 14,
+          "media_count": 980,
+          "tweet_count": 9236
+        },
+        "url": "https://t.co/8rca0idckk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-05T12:28:34.000Z",
+        "description": "きき🌲┊ 日本語┊https://t.co/h2dkP4p6Ck ┊ skeb以外の御依頼は受付停止中です。\nAI学習、無断転載禁止🚫",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@KikiCcree",
+                "end": 32,
+                "expanded_url": "https://skeb.jp/@KikiCcree",
+                "start": 9,
+                "url": "https://t.co/h2dkP4p6Ck"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kikicreate",
+                "end": 23,
+                "expanded_url": "https://lit.link/kikicreate",
+                "start": 0,
+                "url": "https://t.co/x9Lmixowu6"
+              }
+            ]
+          }
+        },
+        "id": "1599742497948737536",
+        "location": "御連絡→KikiCcree@gmail.com or DM",
+        "name": "希木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971163945328312323/dxNh1_cG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21442,
+          "following_count": 1255,
+          "like_count": 15150,
+          "listed_count": 103,
+          "media_count": 228,
+          "tweet_count": 1957
+        },
+        "url": "https://t.co/x9Lmixowu6",
+        "username": "KikiCcree",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-19T11:16:00.000Z",
+        "description": "【Lawson Japan official X】 ローソンクルー♪あきこです(^^)最新情報をマイペースでお知らせします。※なりすましアカウントにご注意ください。公式アカウントのIDは @akiko_lawson です。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 94,
+                "username": "akiko_lawson"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lawson.co.jp",
+                "end": 23,
+                "expanded_url": "http://lawson.co.jp",
+                "start": 0,
+                "url": "https://t.co/T6cg3CLT7X"
+              }
+            ]
+          }
+        },
+        "id": "115639376",
+        "location": "東京都品川区大崎",
+        "name": "ローソン",
+        "pinned_tweet_id": "2061568479363240179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613363763008393216/RxJvbU68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9524026,
+          "following_count": 18,
+          "like_count": 395,
+          "listed_count": 19243,
+          "media_count": 50338915,
+          "tweet_count": 50464132
+        },
+        "url": "https://t.co/T6cg3CLT7X",
+        "username": "akiko_lawson",
+        "verified": true
+      }
+    ]
+  }
+}

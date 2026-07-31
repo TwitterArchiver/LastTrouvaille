@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2081633785242923228",
+    "created_at": "2026-07-27T08:08:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081653056173982104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1802884729412161537",
+          "start": 0,
+          "username": "Realze4ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081653056173982104",
+    "in_reply_to_user_id": "1802884729412161537",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081635248362901885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Realze4ever ？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2081635248362901885].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2081635248362901885",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2081635248362901885"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2081633785242923228",
+        "created_at": "2026-07-27T08:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081653056173982104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802884729412161537",
+              "start": 0,
+              "username": "Realze4ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081653056173982104",
+        "in_reply_to_user_id": "1802884729412161537",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081635248362901885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Realze4ever ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4640,
+          "following_count": 2925,
+          "like_count": 50729,
+          "listed_count": 14,
+          "media_count": 1025,
+          "tweet_count": 9505
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T02:03:20.000Z",
+        "description": "小真的princess @kgdyodyi/冷漠中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "kgdyodyi"
+              }
+            ]
+          }
+        },
+        "id": "1802884729412161537",
+        "location": "on my way",
+        "name": "Realze",
+        "pinned_tweet_id": "1958364878961570197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054607178653372416/CGGleL40_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 230,
+          "like_count": 210903,
+          "listed_count": 5,
+          "media_count": 379,
+          "tweet_count": 11988
+        },
+        "url": "",
+        "username": "Realze4ever",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1883504004581531694",
+    "created_at": "2025-01-26T13:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T14:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883510813086077103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1248637653001494529",
+          "start": 0,
+          "username": "Fomalhautawa"
+        },
+        {
+          "end": 27,
+          "id": "1865050179617067008",
+          "start": 14,
+          "username": "AyaStellaria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883510813086077103",
+    "in_reply_to_user_id": "1248637653001494529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883510492825784705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fomalhautawa @AyaStellaria 样子抽象，会动，会叫，会录音，会发光\n这种东西不是热销是什么（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1883504004581531694",
+        "created_at": "2025-01-26T13:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T14:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883510813086077103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Fomalhautawa"
+            },
+            {
+              "end": 27,
+              "id": "1865050179617067008",
+              "start": 14,
+              "username": "AyaStellaria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883510813086077103",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883510492825784705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fomalhautawa @AyaStellaria 样子抽象，会动，会叫，会录音，会发光\n这种东西不是热销是什么（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248637653001494529",
+        "conversation_id": "1883504004581531694",
+        "created_at": "2025-01-26T13:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T14:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883510492825784705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            },
+            {
+              "end": 29,
+              "id": "1865050179617067008",
+              "start": 16,
+              "username": "AyaStellaria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883510492825784705",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883510195542003847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille @AyaStellaria 我擦（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖INFP‖中国人🇨🇳热爱祖国和人民‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 2333,
+          "like_count": 11257,
+          "listed_count": 6,
+          "media_count": 214,
+          "tweet_count": 2780
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "你好哦。\n日常推呢。\n现居上海，偶尔扔些上海散步+食物。\n提问箱https://t.co/g7U84aDqhF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ss48511",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ss48511",
+                "start": 32,
+                "url": "https://t.co/g7U84aDqhF"
+              }
+            ]
+          }
+        },
+        "id": "1248637653001494529",
+        "location": "猫猫头小店",
+        "name": "S𝔥𝔦𝔰𝔴",
+        "pinned_tweet_id": "1882735672089526559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881600248424128512/SbXN1yw1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 114,
+          "like_count": 34730,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 7889
+        },
+        "username": "Fomalhautawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T15:06:56.000Z",
+        "description": "他们的悲伤化成了灰，散落在无情的大海中",
+        "id": "1865050179617067008",
+        "name": "凛御",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881721554477953024/L7A0VqrL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 466,
+          "like_count": 13329,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 3368
+        },
+        "username": "AyaStellaria",
+        "verified": false
+      }
+    ]
+  }
+}

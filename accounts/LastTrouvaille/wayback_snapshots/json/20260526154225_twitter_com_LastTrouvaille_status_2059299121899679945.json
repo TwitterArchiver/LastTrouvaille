@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2059296120296358102",
+    "created_at": "2026-05-26T15:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059299121899679945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1894295215617576964",
+          "start": 0,
+          "username": "SkyFlashTemp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059299121899679945",
+    "in_reply_to_user_id": "1894295215617576964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059298963262714005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SkyFlashTemp 好吧好吧（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2059296120296358102",
+        "created_at": "2026-05-26T15:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059299121899679945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1894295215617576964",
+              "start": 0,
+              "username": "SkyFlashTemp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059299121899679945",
+        "in_reply_to_user_id": "1894295215617576964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059298963262714005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SkyFlashTemp 好吧好吧（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894295215617576964",
+        "conversation_id": "2059296120296358102",
+        "created_at": "2026-05-26T15:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059298963262714005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059298963262714005",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059298781703905355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 原来不可以嘛……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦，叫妈妈姐姐也行（不是）‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖不许键政🚫‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7RpK"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4316,
+          "following_count": 2874,
+          "like_count": 46826,
+          "listed_count": 14,
+          "media_count": 965,
+          "tweet_count": 9110
+        },
+        "url": "https://t.co/TWu8nv7RpK",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T07:55:58.000Z",
+        "description": "雷批罢了",
+        "id": "1894295215617576964",
+        "name": "天空闪光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969075131260829696/995HDjH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 566,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 189
+        },
+        "username": "SkyFlashTemp",
+        "verified": false
+      }
+    ]
+  }
+}

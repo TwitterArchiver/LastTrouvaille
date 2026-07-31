@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1900783546635350082",
+    "created_at": "2025-03-15T17:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T18:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900959232750686693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1696546023949385728",
+          "start": 0,
+          "username": "erer627804"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900959232750686693",
+    "in_reply_to_user_id": "1696546023949385728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900956627920187597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erer627804 被捷足先登了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1900783546635350082",
+        "created_at": "2025-03-15T17:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T18:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900959232750686693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1696546023949385728",
+              "start": 0,
+              "username": "erer627804"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900959232750686693",
+        "in_reply_to_user_id": "1696546023949385728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900956627920187597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erer627804 被捷足先登了😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696546023949385728",
+        "conversation_id": "1900783546635350082",
+        "created_at": "2025-03-15T17:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T18:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900956627920187597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900956627920187597",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900783546635350082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 呜呜，CC的腿子被猫猫吃掉了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链推荐是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2137,
+          "following_count": 2553,
+          "like_count": 17017,
+          "listed_count": 8,
+          "media_count": 329,
+          "tweet_count": 4087
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T15:31:23.000Z",
+        "description": "游荡在电子世界的幸运幽灵，希望我的存在能给你带来好运~（你的电子猫猫）\n                    匿名提问：https://t.co/e1bUr9FJWP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/erer627804",
+                "end": 84,
+                "expanded_url": "https://ngl.link/erer627804",
+                "start": 61,
+                "url": "https://t.co/e1bUr9FJWP"
+              }
+            ]
+          }
+        },
+        "id": "1696546023949385728",
+        "location": "太阳系",
+        "name": "二二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696549047627362304/f-frzJ3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 405,
+          "like_count": 1909,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1669
+        },
+        "username": "erer627804",
+        "verified": false
+      }
+    ]
+  }
+}

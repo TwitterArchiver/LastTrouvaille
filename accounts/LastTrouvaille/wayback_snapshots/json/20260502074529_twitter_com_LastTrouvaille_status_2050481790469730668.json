@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050481785881116672"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "2050481790469730668",
+    "created_at": "2026-05-02T07:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T08:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050481790469730668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tG0DP4vsF2",
+          "end": 46,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2050481790469730668/photo/1",
+          "media_key": "3_2050481785881116672",
+          "start": 23,
+          "url": "https://t.co/tG0DP4vsF2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050481790469730668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近广州是不是萤火虫呀\n地铁上好多coser https://t.co/tG0DP4vsF2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 224,
+        "media_key": "3_2050481785881116672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTGUgHaQAA13sx.jpg",
+        "width": 172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050481785881116672"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2050481790469730668",
+        "created_at": "2026-05-02T07:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050481790469730668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tG0DP4vsF2",
+              "end": 46,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2050481790469730668/photo/1",
+              "media_key": "3_2050481785881116672",
+              "start": 23,
+              "url": "https://t.co/tG0DP4vsF2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050481790469730668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近广州是不是萤火虫呀\n地铁上好多coser https://t.co/tG0DP4vsF2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦‖INFP-T‖轻抑‖今天也有朝着变得更温柔迈出步伐‖中粤英‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4074,
+          "following_count": 2878,
+          "like_count": 45418,
+          "listed_count": 14,
+          "media_count": 937,
+          "tweet_count": 8849
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

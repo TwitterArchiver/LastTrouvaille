@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1873030514250268931",
+    "created_at": "2025-08-25T10:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T11:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959922411433857112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796757328416407552",
+          "start": 0,
+          "username": "Amashirooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959922411433857112",
+    "in_reply_to_user_id": "1796757328416407552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959906252630458487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amashirooo 好喔w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 406,
+        "media_key": "16_1959906234343276544",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GzL8VgsawAA4kxy.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GzL8VgsawAA4kxy.mp4"
+          }
+        ],
+        "width": 426
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1873030514250268931",
+        "created_at": "2025-08-25T10:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T11:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959922411433857112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796757328416407552",
+              "start": 0,
+              "username": "Amashirooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959922411433857112",
+        "in_reply_to_user_id": "1796757328416407552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959906252630458487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amashirooo 好喔w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1959906234343276544"
+          ]
+        },
+        "author_id": "1796757328416407552",
+        "conversation_id": "1873030514250268931",
+        "created_at": "2025-08-25T09:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T10:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959906252630458487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oPUyqCXpYS",
+              "end": 48,
+              "expanded_url": "https://x.com/Amashirooo/status/1959906252630458487/photo/1",
+              "media_key": "16_1959906234343276544",
+              "start": 25,
+              "url": "https://t.co/oPUyqCXpYS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959906252630458487",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873030514250268931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille cc姐姐我喜欢你 https://t.co/oPUyqCXpYS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3215,
+          "following_count": 2715,
+          "like_count": 29686,
+          "listed_count": 12,
+          "media_count": 649,
+          "tweet_count": 6979
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T04:15:41.000Z",
+        "description": "牡丹は散っても花だ、 夏が去っても追慕は切だ｜可爱猫猫 @amsrntk3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "amsrntk3"
+              }
+            ]
+          }
+        },
+        "id": "1796757328416407552",
+        "name": "Rinですよ",
+        "pinned_tweet_id": "1874650543693725741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916147867808600064/7g3-hDtp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 816,
+          "like_count": 2331,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 496
+        },
+        "username": "Amashirooo",
+        "verified": false
+      }
+    ]
+  }
+}

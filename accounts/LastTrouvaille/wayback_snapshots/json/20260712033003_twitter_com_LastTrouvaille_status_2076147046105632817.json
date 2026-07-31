@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2076068119546867783",
+    "created_at": "2026-07-12T03:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T04:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076147046105632817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1985671338397483010",
+          "start": 0,
+          "username": "kur16274"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076147046105632817",
+    "in_reply_to_user_id": "1985671338397483010",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076068119546867783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kur16274 そちらも休みですね✨~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 575,
+        "media_key": "3_2076068117776936960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-s9CGbsAAtnzh.jpg",
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2076068119546867783",
+        "created_at": "2026-07-12T03:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T04:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076147046105632817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1985671338397483010",
+              "start": 0,
+              "username": "kur16274"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076147046105632817",
+        "in_reply_to_user_id": "1985671338397483010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076068119546867783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kur16274 そちらも休みですね✨~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076068117776936960"
+          ]
+        },
+        "author_id": "1985671338397483010",
+        "conversation_id": "2076068119546867783",
+        "created_at": "2026-07-11T22:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T23:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076068119546867783"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "おはツイ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kc2j1Zte4R",
+              "end": 44,
+              "expanded_url": "https://x.com/kur16274/status/2076068119546867783/photo/1",
+              "media_key": "3_2076068117776936960",
+              "start": 21,
+              "url": "https://t.co/kc2j1Zte4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076068119546867783",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 386,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "おはよ〜\n休みを楽しみまーす\n#おはツイ https://t.co/kc2j1Zte4R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4536,
+          "following_count": 2903,
+          "like_count": 49831,
+          "listed_count": 14,
+          "media_count": 1017,
+          "tweet_count": 9419
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T11:33:06.000Z",
+        "description": "ただのアニメ好きかも　20↑\n\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　相棒@asino_15sao\n        　@Ryuji4_10",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 52,
+                "username": "asino_15sao"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "Ryuji4_10"
+              }
+            ]
+          }
+        },
+        "id": "1985671338397483010",
+        "location": "海底のどっか",
+        "name": "やまちゃん",
+        "pinned_tweet_id": "2067261003616985294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013202105641652224/PESyesl0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 386,
+          "like_count": 8107,
+          "listed_count": 4,
+          "media_count": 463,
+          "tweet_count": 4896
+        },
+        "url": "",
+        "username": "kur16274",
+        "verified": false
+      }
+    ]
+  }
+}

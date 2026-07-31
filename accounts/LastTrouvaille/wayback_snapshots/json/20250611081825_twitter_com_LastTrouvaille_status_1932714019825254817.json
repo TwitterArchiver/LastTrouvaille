@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1932712305026085122",
+    "created_at": "2025-06-11T08:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T09:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932714019825254817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1507794054511497219",
+          "start": 0,
+          "username": "Miyu__Z"
+        },
+        {
+          "end": 20,
+          "id": "1931426898573467648",
+          "start": 9,
+          "username": "dVy1529616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932714019825254817",
+    "in_reply_to_user_id": "1507794054511497219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932713446577172889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyu__Z @dVy1529616 已经举报了！😾"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1932713438675152897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtJgoezbMAEb5d5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1932712305026085122",
+        "created_at": "2025-06-11T08:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T09:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932714019825254817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1507794054511497219",
+              "start": 0,
+              "username": "Miyu__Z"
+            },
+            {
+              "end": 20,
+              "id": "1931426898573467648",
+              "start": 9,
+              "username": "dVy1529616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932714019825254817",
+        "in_reply_to_user_id": "1507794054511497219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932713446577172889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyu__Z @dVy1529616 已经举报了！😾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932713438675152897"
+          ]
+        },
+        "author_id": "1507794054511497219",
+        "conversation_id": "1932712305026085122",
+        "created_at": "2025-06-11T08:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T09:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932713446577172889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            },
+            {
+              "end": 38,
+              "id": "1931426898573467648",
+              "start": 27,
+              "username": "dVy1529616"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iEr8KUMZwD",
+              "end": 62,
+              "expanded_url": "https://x.com/Miyu__Z/status/1932713446577172889/photo/1",
+              "media_key": "3_1932713438675152897",
+              "start": 39,
+              "url": "https://t.co/iEr8KUMZwD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932713446577172889",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932712305026085122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 记得举办cc的复制人喵@dVy1529616 https://t.co/iEr8KUMZwD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3002,
+          "following_count": 2655,
+          "like_count": 27330,
+          "listed_count": 13,
+          "media_count": 566,
+          "tweet_count": 6390
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T18:58:19.000Z",
+        "description": "虚假的猫猫|| 更多简介在🔗链接里|| infp|| lang:CN/EN/DE|| 有人看我我很开心，会分享很多喜欢的东西~|| 部分照片见亮点",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ggl.link/mwwTkxa",
+                "end": 23,
+                "expanded_url": "https://ggl.link/mwwTkxa",
+                "start": 0,
+                "url": "https://t.co/Ca9DiJSquO"
+              }
+            ]
+          }
+        },
+        "id": "1507794054511497219",
+        "location": "月之暗面",
+        "name": "芝士腐竹喵",
+        "pinned_tweet_id": "1925480913326199111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889702352804048896/z7Vp24cQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 189,
+          "like_count": 5551,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 1243
+        },
+        "url": "https://t.co/Ca9DiJSquO",
+        "username": "Miyu__Z",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-07T19:03:56.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "id": "1931426898573467648",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932653333732532224/tReGA7lP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 4,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "dVy1529616",
+        "verified": false
+      }
+    ]
+  }
+}

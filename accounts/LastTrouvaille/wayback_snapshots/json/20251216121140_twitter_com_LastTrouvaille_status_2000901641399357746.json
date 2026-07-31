@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2000901641399357746",
+    "created_at": "2025-12-16T12:11:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T13:11:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000901641399357746"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AyanamiRikako/…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/AyanamiRikako/status/1999145703264993496",
+          "start": 38,
+          "url": "https://t.co/11KgtEiNR4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000901641399357746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999145703264993496",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "欢迎回来..！！\n大家快去重新关注一下小莲呀~\nദ്ദി˶&gt;ᴗo)✧ https://t.co/11KgtEiNR4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3980,
+        "media_key": "3_1999145507881693184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75kP1ubMAAENCU.jpg",
+        "width": 2599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2000901641399357746",
+        "created_at": "2025-12-16T12:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T13:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000901641399357746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AyanamiRikako/…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/AyanamiRikako/status/1999145703264993496",
+              "start": 38,
+              "url": "https://t.co/11KgtEiNR4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000901641399357746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999145703264993496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欢迎回来..！！\n大家快去重新关注一下小莲呀~\nദ്ദി˶&gt;ᴗo)✧ https://t.co/11KgtEiNR4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999145507881693184"
+          ]
+        },
+        "author_id": "1999000974913130496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999145703264993496",
+        "created_at": "2025-12-11T15:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T16:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999145703264993496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIJ56pRrwp",
+              "end": 133,
+              "expanded_url": "https://x.com/AyanamiRikako/status/1999145703264993496/photo/1",
+              "media_key": "3_1999145507881693184",
+              "start": 110,
+              "url": "https://t.co/kIJ56pRrwp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999145703264993496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我回来了。\n我听到森林、湖泊、天穹、城堡、巨龙、精灵、公主的故事。\n我听到生命在跳动，记忆在生根发芽。\n是从那副伤痕累累、行将就木的躯壳中，破壳而出的崭新灵魂。\n请不要嫌恶我，请不要抛弃我。\n「请予我 无尽勇气与遐想」 https://t.co/kIJ56pRrwp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖双‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖偶尔写点诗词‖穗&沪‖会内耗emo‖不许键政！！！‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3677,
+          "following_count": 2780,
+          "like_count": 36611,
+          "listed_count": 13,
+          "media_count": 785,
+          "tweet_count": 7992
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:19:11.000Z",
+        "description": "「尘事不怜人卑怯」\n欢迎回来，莲。\n第二人格 @Hasumi_Amemiya\n阿米娅兔兔 @xuexuelingling \n和大家说好要重新面对世界的，一起加油吧w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "Hasumi_Amemiya"
+              },
+              {
+                "end": 60,
+                "start": 45,
+                "username": "xuexuelingling"
+              }
+            ]
+          }
+        },
+        "id": "1999000974913130496",
+        "location": "苍穹树庭",
+        "name": "绫波 璃香子",
+        "pinned_tweet_id": "1999145703264993496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999136674631303168/MLLyRNm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 6,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "username": "AyanamiRikako",
+        "verified": false
+      }
+    ]
+  }
+}

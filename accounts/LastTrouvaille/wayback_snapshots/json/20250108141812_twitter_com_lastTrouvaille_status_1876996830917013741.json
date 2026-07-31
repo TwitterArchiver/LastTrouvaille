@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1876814561786859902",
+    "created_at": "2025-01-08T14:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T15:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876996830917013741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1869031385425743872",
+          "start": 0,
+          "username": "AkaHenrry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876996830917013741",
+    "in_reply_to_user_id": "1869031385425743872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876996470752039382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkaHenrry 各有优缺点🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1876814561786859902",
+        "created_at": "2025-01-08T14:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T15:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876996830917013741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1869031385425743872",
+              "start": 0,
+              "username": "AkaHenrry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876996830917013741",
+        "in_reply_to_user_id": "1869031385425743872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876996470752039382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkaHenrry 各有优缺点🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869031385425743872",
+        "conversation_id": "1876814561786859902",
+        "created_at": "2025-01-08T14:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T15:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876996470752039382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876996470752039382",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876814561786859902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 唔姆，还好咱走读朋友少（呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 1993,
+          "like_count": 9449,
+          "listed_count": 4,
+          "media_count": 180,
+          "tweet_count": 2307
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T14:47:13.000Z",
+        "description": "中文/日本語（勉強ing..）/EN｜学习｜code｜同好互fo｜working together for better tomorrow!｜高二学生，会诈尸出来翻推，出来搞点原生英语环境（是这样想的）｜ 系二刺螈，很好说话的人，偶尔分享日常。｜总之，希望和大家好好相处吧(๑•ᴗ•๑)♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akahenrry",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akahenrry",
+                "start": 0,
+                "url": "https://t.co/MO3Hag55s4"
+              }
+            ]
+          }
+        },
+        "id": "1869031385425743872",
+        "location": "Hong Kong",
+        "name": "希文｜しうん 🧊",
+        "pinned_tweet_id": "1874084453552971941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869031602090913792/JN9Fm6Ts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 63,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/MO3Hag55s4",
+        "username": "AkaHenrry",
+        "verified": false
+      }
+    ]
+  }
+}

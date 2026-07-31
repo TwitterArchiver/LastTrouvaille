@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1881064835619954770",
+    "created_at": "2025-01-20T06:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T07:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881231928675938520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597157388330536960",
+          "start": 0,
+          "username": "Praesepe_F"
+        },
+        {
+          "end": 26,
+          "id": "1822910760873537536",
+          "start": 12,
+          "username": "KoJikaXiaoLu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881231928675938520",
+    "in_reply_to_user_id": "1597157388330536960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881219130474516918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Praesepe_F @KoJikaXiaoLu_ 是这样的）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1881064835619954770",
+        "created_at": "2025-01-20T06:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T07:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881231928675938520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597157388330536960",
+              "start": 0,
+              "username": "Praesepe_F"
+            },
+            {
+              "end": 26,
+              "id": "1822910760873537536",
+              "start": 12,
+              "username": "KoJikaXiaoLu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881231928675938520",
+        "in_reply_to_user_id": "1597157388330536960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881219130474516918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Praesepe_F @KoJikaXiaoLu_ 是这样的）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597157388330536960",
+        "conversation_id": "1881064835619954770",
+        "created_at": "2025-01-20T05:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T06:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881219130474516918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            },
+            {
+              "end": 30,
+              "id": "1822910760873537536",
+              "start": 16,
+              "username": "KoJikaXiaoLu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881219130474516918",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881177565341385006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille @KoJikaXiaoLu_ 已经习惯用空格作为标点符号了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻丨说话爱带括号勿怪)丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1826,
+          "following_count": 2227,
+          "like_count": 10609,
+          "listed_count": 4,
+          "media_count": 208,
+          "tweet_count": 2648
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T09:16:20.000Z",
+        "description": "也许这夏日终有一别 粥皮小群604405403 小号@Renkno_F 哈基米@Uye19_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "Renkno_F"
+              },
+              {
+                "end": 46,
+                "start": 39,
+                "username": "Uye19_"
+              }
+            ]
+          }
+        },
+        "id": "1597157388330536960",
+        "location": "阿戈尔水世界",
+        "name": "椰椰斯卡蒂",
+        "pinned_tweet_id": "1846159642474566141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846204922972590083/C6AcVZ1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5445,
+          "following_count": 521,
+          "like_count": 7341,
+          "listed_count": 23,
+          "media_count": 214,
+          "tweet_count": 2436
+        },
+        "username": "Praesepe_F",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T08:19:35.000Z",
+        "description": "你好~我叫小鹿！🇨🇳｜go批一个/YOASOBI的粉丝🥰｜嘴比较笨非常抱歉🙏｜抽象即艺术｜互fo请留言｜里推：@XiaoLuStayalive（脸熟给过）｜好朋友：@qinglongxiangmo｜关注可爱宝宝谢谢喵：@wu_tong6460と@morrrrrrrling",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 55,
+                "username": "XiaoLuStayalive"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "qinglongxiangmo"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "wu_tong6460"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "morrrrrrrling"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoLu_qwq",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoLu_qwq",
+                "start": 0,
+                "url": "https://t.co/PT5uxd3Qjn"
+              }
+            ]
+          }
+        },
+        "id": "1822910760873537536",
+        "location": "中华人民共和国🇨🇳",
+        "name": "-小鹿小鹿-🦌",
+        "pinned_tweet_id": "1874142597717123119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871255203539984384/qtXDtbi7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 1171,
+          "like_count": 16370,
+          "listed_count": 6,
+          "media_count": 353,
+          "tweet_count": 6241
+        },
+        "url": "https://t.co/PT5uxd3Qjn",
+        "username": "KoJikaXiaoLu_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1886631405926670723",
+    "created_at": "2025-02-04T04:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T05:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886639516175446240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1554488846620016641",
+          "start": 0,
+          "username": "kkblm_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886639516175446240",
+    "in_reply_to_user_id": "1554488846620016641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886637372772933738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkblm_ 好！！抱抱！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1886631405926670723",
+        "created_at": "2025-02-04T04:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T05:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886639516175446240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1554488846620016641",
+              "start": 0,
+              "username": "kkblm_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886639516175446240",
+        "in_reply_to_user_id": "1554488846620016641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886637372772933738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkblm_ 好！！抱抱！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554488846620016641",
+        "conversation_id": "1886631405926670723",
+        "created_at": "2025-02-04T04:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T05:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886637372772933738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886637372772933738",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886631405926670723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 喵，要抱抱(´◊ω◊｀)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 2481,
+          "like_count": 12360,
+          "listed_count": 6,
+          "media_count": 227,
+          "tweet_count": 2988
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T15:27:12.000Z",
+        "description": "无证含糖mtf/infp-t/百合/原神/鸣潮/星穹铁道/不键政  /假期重庆刷新/ 欢迎各位骚扰(◍•ᴗ•◍)窝是孤独的猫猫/青青妳是最好的青青@qingshixiang258/最可爱的小a  @AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "qingshixiang258"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1554488846620016641",
+        "name": "j🏳‍⚧✨",
+        "pinned_tweet_id": "1882465386333093900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882726775182303232/c-zE53Ot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 345,
+          "like_count": 4214,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 962
+        },
+        "username": "kkblm_",
+        "verified": false
+      }
+    ]
+  }
+}

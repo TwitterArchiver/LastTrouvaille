@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1872556800677163257",
+    "created_at": "2024-12-27T10:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T11:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872589418000990350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1389835823147745280",
+          "start": 0,
+          "username": "znsjtbxd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872589418000990350",
+    "in_reply_to_user_id": "1389835823147745280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872586349116817444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@znsjtbxd 咱不清楚嘞\n不过怎么样都好啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1872556800677163257",
+        "created_at": "2024-12-27T10:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T11:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872589418000990350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1389835823147745280",
+              "start": 0,
+              "username": "znsjtbxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872589418000990350",
+        "in_reply_to_user_id": "1389835823147745280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872586349116817444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@znsjtbxd 咱不清楚嘞\n不过怎么样都好啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389835823147745280",
+        "conversation_id": "1872556800677163257",
+        "created_at": "2024-12-27T10:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T11:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872586349116817444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872586349116817444",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872556800677163257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 可能正是因为这种不刻意经营的松弛感才吸粉？（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1871369957063483612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 1707,
+          "like_count": 7389,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 1855
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-05T06:54:21.000Z",
+        "description": "05年 小药娘 🏳️‍⚧️ 🍥／161cm 42kg 贫乳／接线下援交，700元起／轻度听力障碍／正在努力成为一流的配乐作曲家🎶／🚪门槛50，私信只回口令红包",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.163.com/#/artist?id=34…",
+                "end": 23,
+                "expanded_url": "https://music.163.com/#/artist?id=34230059",
+                "start": 0,
+                "url": "https://t.co/qglqMlUw4s"
+              }
+            ]
+          }
+        },
+        "id": "1389835823147745280",
+        "location": "常驻广东省汕头市",
+        "name": "青令韵 马儿 🍥（暂时休息不约了）",
+        "pinned_tweet_id": "1827664468479979524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660541173017251840/orvxTPK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 1373,
+          "like_count": 10676,
+          "listed_count": 6,
+          "media_count": 630,
+          "tweet_count": 9817
+        },
+        "url": "https://t.co/qglqMlUw4s",
+        "username": "znsjtbxd",
+        "verified": false
+      }
+    ]
+  }
+}

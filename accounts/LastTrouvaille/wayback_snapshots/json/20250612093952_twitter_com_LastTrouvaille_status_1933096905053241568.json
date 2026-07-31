@@ -1,0 +1,506 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1933096905053241568",
+    "created_at": "2025-06-12T09:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T10:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933096905053241568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/domoto64/statu…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/domoto64/status/1933087408301707665",
+          "start": 33,
+          "url": "https://t.co/2s82dFDLQh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933096905053241568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933087408301707665",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "至福...这个月以来遇到的最好的事情\n喜欢的漫画..动画化了！！ https://t.co/2s82dFDLQh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_1933087406007431168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtO0wPrasAA9QzS.jpg",
+        "width": 624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1933096905053241568",
+        "created_at": "2025-06-12T09:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T10:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933096905053241568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/domoto64/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/domoto64/status/1933087408301707665",
+              "start": 33,
+              "url": "https://t.co/2s82dFDLQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933096905053241568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933087408301707665",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至福...这个月以来遇到的最好的事情\n喜欢的漫画..动画化了！！ https://t.co/2s82dFDLQh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933087406007431168"
+          ]
+        },
+        "author_id": "395215863",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1933087408301707665",
+        "created_at": "2025-06-12T09:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T10:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933087408301707665"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "愛してるゲームを終わらせたい",
+              "probability": 0.5655,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 43,
+              "tag": "愛してるゲームを終わらせたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RpK1cMsdfe",
+              "end": 82,
+              "expanded_url": "https://x.com/domoto64/status/1933087408301707665/photo/1",
+              "media_key": "3_1933087406007431168",
+              "start": 59,
+              "url": "https://t.co/RpK1cMsdfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933087408301707665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 253,
+          "impression_count": 78221,
+          "like_count": 4482,
+          "quote_count": 291,
+          "reply_count": 144,
+          "retweet_count": 1316
+        },
+        "reply_settings": "everyone",
+        "text": "「愛してるゲームを終わらせたい」\n✨TVアニメ化決定です！！✨🎉\n大大大感謝！！！😂\n#愛してるゲームを終わらせたい https://t.co/RpK1cMsdfe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3036,
+          "following_count": 2665,
+          "like_count": 27450,
+          "listed_count": 13,
+          "media_count": 566,
+          "tweet_count": 6419
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-21T09:52:15.000Z",
+        "description": "漫画家■『愛してるゲームを終わらせたい』毎月第３金曜日更新■ネクロマンス全５巻■りぶねす全12巻\n■SNS、書籍まとめ→https://t.co/JeLBsRrR1N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/doumoto",
+                "end": 83,
+                "expanded_url": "https://lit.link/doumoto",
+                "start": 60,
+                "url": "https://t.co/JeLBsRrR1N"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ydoumoto.com",
+                "end": 23,
+                "expanded_url": "https://ydoumoto.com/",
+                "start": 0,
+                "url": "https://t.co/ZJ2BSyqPZj"
+              }
+            ]
+          }
+        },
+        "id": "395215863",
+        "location": "関西→関東",
+        "name": "堂本裕貴@愛してるゲームを終わらせたい",
+        "pinned_tweet_id": "1476749107184439298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1556250554523070464/YgW_NXJo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147115,
+          "following_count": 486,
+          "like_count": 8796,
+          "listed_count": 849,
+          "media_count": 2960,
+          "tweet_count": 23186
+        },
+        "url": "https://t.co/ZJ2BSyqPZj",
+        "username": "domoto64",
+        "verified": true
+      }
+    ]
+  }
+}

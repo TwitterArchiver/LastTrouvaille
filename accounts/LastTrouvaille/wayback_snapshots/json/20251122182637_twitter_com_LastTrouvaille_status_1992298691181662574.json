@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1990191789442318514",
+    "created_at": "2025-11-22T18:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T19:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992298691181662574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1278831792540139523",
+          "start": 0,
+          "username": "miike_hrk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992298691181662574",
+    "in_reply_to_user_id": "1278831792540139523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990191789442318514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miike_hrk 写的好好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1838,
+        "media_key": "3_1990191785784852480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G56U4nqbQAAejXD.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1990191789442318514",
+        "created_at": "2025-11-22T18:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T19:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992298691181662574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1278831792540139523",
+              "start": 0,
+              "username": "miike_hrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992298691181662574",
+        "in_reply_to_user_id": "1278831792540139523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990191789442318514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miike_hrk 写的好好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990191785784852480"
+          ]
+        },
+        "author_id": "1278831792540139523",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1990191789442318514",
+        "created_at": "2025-11-16T22:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T23:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990191789442318514"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "申鶴"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "閒雲"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "原神"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "璃月"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4N1cyc7AaT",
+              "end": 117,
+              "expanded_url": "https://x.com/miike_hrk/status/1990191789442318514/photo/1",
+              "media_key": "3_1990191785784852480",
+              "start": 94,
+              "url": "https://t.co/4N1cyc7AaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990191789442318514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1615,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【絕雲間訪仙不遇】\n雲深不見隱人蹤，空倚蒼岩聽亂松。\n風入古林秋瑟瑟，泉流曲澗響淙淙。\n尋真路杳山煙重，問法堂閒日影濃。\n遙想吹笙緱嶺上，月明何處覓仙峰。\n#申鶴 #閒雲 #原神 #璃月 https://t.co/4N1cyc7AaT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，年初和年中驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3611,
+          "following_count": 2768,
+          "like_count": 34413,
+          "listed_count": 13,
+          "media_count": 748,
+          "tweet_count": 7686
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-02T23:24:04.000Z",
+        "description": "Security & Banking (China Everbright)｜Cosplayer｜Tourette's Syndrome｜CFA & FRM｜SP500 ETF Trading Analyst",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@MiikeHaruka",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@MiikeHaruka",
+                "start": 0,
+                "url": "https://t.co/11RmQkFsQh"
+              }
+            ]
+          }
+        },
+        "id": "1278831792540139523",
+        "location": "Yabao Road, Beijing, China",
+        "name": "❀雲堇はるか❀",
+        "pinned_tweet_id": "1990191789442318514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923486647221616646/jewlxugo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3288,
+          "following_count": 380,
+          "like_count": 30072,
+          "listed_count": 10,
+          "media_count": 10318,
+          "tweet_count": 42743
+        },
+        "url": "https://t.co/11RmQkFsQh",
+        "username": "miike_hrk",
+        "verified": false
+      }
+    ]
+  }
+}

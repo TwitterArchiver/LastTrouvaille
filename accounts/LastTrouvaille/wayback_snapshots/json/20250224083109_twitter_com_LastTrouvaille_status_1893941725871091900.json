@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1893907941482176716",
+    "created_at": "2025-02-24T08:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T09:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893941725871091900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841801152381558784",
+          "start": 0,
+          "username": "Amemiya_Hasumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893941725871091900",
+    "in_reply_to_user_id": "1841801152381558784",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893907941482176716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amemiya_Hasumi 😗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1893907941482176716",
+        "created_at": "2025-02-24T08:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T09:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893941725871091900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841801152381558784",
+              "start": 0,
+              "username": "Amemiya_Hasumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893941725871091900",
+        "in_reply_to_user_id": "1841801152381558784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893907941482176716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amemiya_Hasumi 😗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841801152381558784",
+        "conversation_id": "1893907941482176716",
+        "created_at": "2025-02-24T06:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T07:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893907941482176716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/elysia89642952…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/elysia89642952/status/1893879603220840734",
+              "start": 100,
+              "url": "https://t.co/81mCxfCm4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893907941482176716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 980,
+          "like_count": 23,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893879603220840734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小莲好感度等级（留言即可询问）\n8.小莲会和你一起开银趴，见面完可能掉落小礼物\n11.见面完可能掉落大礼物\n14.🤤🥵同床共枕\n17.小莲会为了见你而特地去某个地方\n20.小莲做事会特地考虑你的感受 https://t.co/81mCxfCm4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ 这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2012,
+          "following_count": 2193,
+          "like_count": 14408,
+          "listed_count": 7,
+          "media_count": 272,
+          "tweet_count": 3533
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T11:23:15.000Z",
+        "description": "「Et in Arcadia Ego./我曾在阿卡迪亚。」\n「如果有一天，你听见我的心跳，希望你也能够知道。」\n严禁敏感政治，偶尔是男娘。\nNGL：https://t.co/g6LzpRMyzA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasumi57321",
+                "end": 97,
+                "expanded_url": "https://ngl.link/hasumi57321",
+                "start": 74,
+                "url": "https://t.co/g6LzpRMyzA"
+              }
+            ]
+          }
+        },
+        "id": "1841801152381558784",
+        "location": "永恆之地 翁法羅斯",
+        "name": "雨宮 蓮見",
+        "pinned_tweet_id": "1871596096461713573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879195526870315008/bleIv9uh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3240,
+          "following_count": 1563,
+          "like_count": 20886,
+          "listed_count": 5,
+          "media_count": 662,
+          "tweet_count": 4814
+        },
+        "username": "Amemiya_Hasumi",
+        "verified": true
+      }
+    ]
+  }
+}

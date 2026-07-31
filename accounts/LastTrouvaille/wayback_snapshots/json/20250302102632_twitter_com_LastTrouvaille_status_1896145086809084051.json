@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1896085672945127820",
+    "created_at": "2025-03-02T10:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T11:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896145086809084051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1694068450220744707",
+          "start": 0,
+          "username": "Z_YS26293"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896145086809084051",
+    "in_reply_to_user_id": "1694068450220744707",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896143420235866198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z_YS26293 150"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1896085672945127820",
+        "created_at": "2025-03-02T10:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T11:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896145086809084051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1694068450220744707",
+              "start": 0,
+              "username": "Z_YS26293"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896145086809084051",
+        "in_reply_to_user_id": "1694068450220744707",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896143420235866198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z_YS26293 150"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694068450220744707",
+        "conversation_id": "1896085672945127820",
+        "created_at": "2025-03-02T10:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T11:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896143420235866198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896143420235866198",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896085672945127820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 191"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ here's Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2038,
+          "following_count": 2249,
+          "like_count": 15092,
+          "listed_count": 7,
+          "media_count": 286,
+          "tweet_count": 3721
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T19:26:15.000Z",
+        "description": "🇨🇳大学生一名/会玩音游的都是大神/有时会转帖插画/#maimai #Arcaea #CHUNITHM #Phigros #プロセカ/PCR BA HBR 星铁/Bilibili同名/互fo🉑/小号：①bluesky：https://t.co/XjEX0sUhIc  ②@YydS97OwO\n［日语绝赞学习中］",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 26,
+                "tag": "maimai"
+              },
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "Arcaea"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "tag": "CHUNITHM"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "tag": "Phigros"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "プロセカ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 145,
+                "start": 135,
+                "username": "YydS97OwO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ys1230.bsky.social",
+                "end": 132,
+                "expanded_url": "http://ys1230.bsky.social",
+                "start": 109,
+                "url": "https://t.co/XjEX0sUhIc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/2EYEfVr",
+                "end": 23,
+                "expanded_url": "https://b23.tv/2EYEfVr",
+                "start": 0,
+                "url": "https://t.co/31KLSn1fkz"
+              }
+            ]
+          }
+        },
+        "id": "1694068450220744707",
+        "name": "游笙さん",
+        "pinned_tweet_id": "1854553242308686210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831365569427468290/ZUd6XzGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 2101,
+          "like_count": 54753,
+          "listed_count": 6,
+          "media_count": 2184,
+          "tweet_count": 19846
+        },
+        "url": "https://t.co/31KLSn1fkz",
+        "username": "Z_YS26293",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1888538882033233951",
+    "created_at": "2025-02-11T00:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T01:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889112102901883119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1749865277179977728",
+          "start": 0,
+          "username": "daozi81"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889112102901883119",
+    "in_reply_to_user_id": "1749865277179977728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889006646464225721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daozi81 是感觉错了喔\n不会那么容易就死掉的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1888538882033233951",
+        "created_at": "2025-02-11T00:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T01:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889112102901883119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1749865277179977728",
+              "start": 0,
+              "username": "daozi81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889112102901883119",
+        "in_reply_to_user_id": "1749865277179977728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889006646464225721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daozi81 是感觉错了喔\n不会那么容易就死掉的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749865277179977728",
+        "conversation_id": "1888538882033233951",
+        "created_at": "2025-02-10T17:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T18:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889006646464225721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889006646464225721",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888538882033233951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille CC，我感觉我快死了怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 2042,
+          "like_count": 12745,
+          "listed_count": 7,
+          "media_count": 243,
+          "tweet_count": 3277
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T18:42:58.000Z",
+        "description": "这就是老二次元的实力",
+        "id": "1749865277179977728",
+        "name": "道茈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848837937552887809/L-fmqTA0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 20,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 94
+        },
+        "username": "daozi81",
+        "verified": false
+      }
+    ]
+  }
+}

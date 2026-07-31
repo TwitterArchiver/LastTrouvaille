@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1977842962869711091",
+    "created_at": "2025-10-13T22:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T23:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977861483686965658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1039749086851813377",
+          "start": 0,
+          "username": "cocoa_plala"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977861483686965658",
+    "in_reply_to_user_id": "1039749086851813377",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977842962869711091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cocoa_plala 食べないよりはましだ😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1977842962869711091",
+        "created_at": "2025-10-13T22:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T23:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977861483686965658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1039749086851813377",
+              "start": 0,
+              "username": "cocoa_plala"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977861483686965658",
+        "in_reply_to_user_id": "1039749086851813377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977842962869711091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cocoa_plala 食べないよりはましだ😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1039749086851813377",
+        "conversation_id": "1977842962869711091",
+        "created_at": "2025-10-13T21:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T22:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977842962869711091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LastTrouvaille…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/LastTrouvaille/status/1977705101830553671",
+              "start": 14,
+              "url": "https://t.co/JRrzyOpiWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977842962869711091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977705101830553671",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "これ美味しいのかな？(汗) https://t.co/JRrzyOpiWQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3382,
+          "following_count": 2696,
+          "like_count": 31723,
+          "listed_count": 12,
+          "media_count": 700,
+          "tweet_count": 7318
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-12T05:34:34.000Z",
+        "description": "事故照会？(違\n\n応援してます→\nハーブティーの店みみちゃ@33cha_cafe \nhttps://t.co/tGZ8lZtf6v\n\nチューリーと ふしぎな仲間たち | CANON（カノン）@tuley_canon  #pixiv https://t.co/KCaqHi2vXT…",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 109,
+                "tag": "pixiv"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "33cha_cafe"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "tuley_canon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "store.33cha.cafe",
+                "end": 65,
+                "expanded_url": "http://store.33cha.cafe",
+                "start": 42,
+                "url": "https://t.co/tGZ8lZtf6v"
+              },
+              {
+                "display_url": "pixiv.net/artworks/98489",
+                "end": 139,
+                "expanded_url": "http://pixiv.net/artworks/98489",
+                "start": 116,
+                "url": "https://t.co/KCaqHi2vXT"
+              }
+            ]
+          }
+        },
+        "id": "1039749086851813377",
+        "location": "新潟 長岡市",
+        "name": "ひなた丸",
+        "pinned_tweet_id": "1962269532422320428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695475573186019328/DUcwQiJT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 297,
+          "like_count": 487031,
+          "listed_count": 5,
+          "media_count": 713,
+          "tweet_count": 88591
+        },
+        "username": "cocoa_plala",
+        "verified": false
+      }
+    ]
+  }
+}

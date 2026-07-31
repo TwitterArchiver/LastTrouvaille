@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1880290913727226114",
+    "created_at": "2025-01-18T03:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T04:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880459652632310113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1142269209138720769",
+          "start": 0,
+          "username": "2SJ7ntKBdEtTKrM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880459652632310113",
+    "in_reply_to_user_id": "1142269209138720769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880290913727226114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2SJ7ntKBdEtTKrM 麦麦可爱ww\n捏捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1880290913727226114",
+        "created_at": "2025-01-18T03:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T04:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880459652632310113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1142269209138720769",
+              "start": 0,
+              "username": "2SJ7ntKBdEtTKrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880459652632310113",
+        "in_reply_to_user_id": "1142269209138720769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880290913727226114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2SJ7ntKBdEtTKrM 麦麦可爱ww\n捏捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880290907465084930"
+          ]
+        },
+        "author_id": "1142269209138720769",
+        "conversation_id": "1880290913727226114",
+        "created_at": "2025-01-17T16:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T17:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880290913727226114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YCf0tU88CO",
+              "end": 30,
+              "expanded_url": "https://x.com/2SJ7ntKBdEtTKrM/status/1880290913727226114/photo/1",
+              "media_key": "3_1880290907465084930",
+              "start": 7,
+              "url": "https://t.co/YCf0tU88CO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880290913727226114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1001,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小裙子。。。 https://t.co/YCf0tU88CO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 2186,
+          "like_count": 10409,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 2589
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-22T03:12:56.000Z",
+        "description": "重度抑郁（？）+轻度焦虑（？）中....",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2sj7ntkbdettkrm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2sj7ntkbdettkrm",
+                "start": 0,
+                "url": "https://t.co/5Fim7CNIiI"
+              }
+            ]
+          }
+        },
+        "id": "1142269209138720769",
+        "location": "骨灰",
+        "name": "不爱吃麦当劳の魔法使",
+        "pinned_tweet_id": "1870069230437278187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870305357547089923/Dx9_kwyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 570,
+          "like_count": 15573,
+          "listed_count": 3,
+          "media_count": 31,
+          "tweet_count": 2625
+        },
+        "url": "https://t.co/5Fim7CNIiI",
+        "username": "2SJ7ntKBdEtTKrM",
+        "verified": false
+      }
+    ]
+  }
+}

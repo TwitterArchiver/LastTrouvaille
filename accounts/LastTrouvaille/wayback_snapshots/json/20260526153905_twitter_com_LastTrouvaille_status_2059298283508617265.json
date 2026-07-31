@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2059296120296358102",
+    "created_at": "2026-05-26T15:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059298283508617265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1376745203508211713",
+          "start": 0,
+          "username": "Vj1MgBu4qQJueGM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059298283508617265",
+    "in_reply_to_user_id": "1376745203508211713",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059297626085077323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vj1MgBu4qQJueGM ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2059296120296358102",
+        "created_at": "2026-05-26T15:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059298283508617265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1376745203508211713",
+              "start": 0,
+              "username": "Vj1MgBu4qQJueGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059298283508617265",
+        "in_reply_to_user_id": "1376745203508211713",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059297626085077323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vj1MgBu4qQJueGM ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1376745203508211713",
+        "conversation_id": "2059296120296358102",
+        "created_at": "2026-05-26T15:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059297626085077323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059297626085077323",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059296120296358102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille -swap 小熊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦，叫妈妈姐姐也行（不是）‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖不许键政🚫‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7RpK"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4315,
+          "following_count": 2874,
+          "like_count": 46824,
+          "listed_count": 14,
+          "media_count": 965,
+          "tweet_count": 9108
+        },
+        "url": "https://t.co/TWu8nv7RpK",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-30T03:57:02.000Z",
+        "description": "活着只是为了打发时间\n欢迎互fo，想加好友的私信\n有什么想问的可以匿名：\nhttps://t.co/lxErKunU9F",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vj1mgbu4qqjuegm",
+                "end": 60,
+                "expanded_url": "http://ngl.link/vj1mgbu4qqjuegm",
+                "start": 37,
+                "url": "https://t.co/lxErKunU9F"
+              }
+            ]
+          }
+        },
+        "id": "1376745203508211713",
+        "location": "wuhan",
+        "name": "心",
+        "pinned_tweet_id": "1941425673048031725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011843571494871040/l7Kx-qbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 751,
+          "like_count": 14919,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1567
+        },
+        "username": "Vj1MgBu4qQJueGM",
+        "verified": false
+      }
+    ]
+  }
+}

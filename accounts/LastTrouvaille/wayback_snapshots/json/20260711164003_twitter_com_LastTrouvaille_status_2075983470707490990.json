@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2075983470707490990",
+    "created_at": "2026-07-11T16:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075983470707490990"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075983470707490990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小学一走就是一天，初中一走就是一周，高中一走就是一个月，大学一走就是半年，打工一走就是一年，人生一走就是一辈子\n到底什么样的终点，才配得上人生的颠沛流离\n是回家前的喜悦，回家后的无聊，离家时的不舍，还是离家后的想念\n目之所及皆回忆，心之所想皆过往\n故乡承载不了肉体，远方承载不了灵魂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2075983470707490990",
+        "created_at": "2026-07-11T16:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075983470707490990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075983470707490990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小学一走就是一天，初中一走就是一周，高中一走就是一个月，大学一走就是半年，打工一走就是一年，人生一走就是一辈子\n到底什么样的终点，才配得上人生的颠沛流离\n是回家前的喜悦，回家后的无聊，离家时的不舍，还是离家后的想念\n目之所及皆回忆，心之所想皆过往\n故乡承载不了肉体，远方承载不了灵魂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4538,
+          "following_count": 2902,
+          "like_count": 49816,
+          "listed_count": 14,
+          "media_count": 1017,
+          "tweet_count": 9418
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

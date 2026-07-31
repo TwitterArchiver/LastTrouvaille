@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963163050397356032",
+        "3_1963163050451857408",
+        "3_1963163050606989312"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1963163055040397596",
+    "created_at": "2025-09-03T08:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T09:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963163055040397596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9CDvyxS9N0",
+          "end": 161,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1963163055040397596/photo/1",
+          "media_key": "3_1963163050397356032",
+          "start": 138,
+          "url": "https://t.co/9CDvyxS9N0"
+        },
+        {
+          "display_url": "pic.x.com/9CDvyxS9N0",
+          "end": 161,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1963163055040397596/photo/1",
+          "media_key": "3_1963163050451857408",
+          "start": 138,
+          "url": "https://t.co/9CDvyxS9N0"
+        },
+        {
+          "display_url": "pic.x.com/9CDvyxS9N0",
+          "end": 161,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1963163055040397596/photo/1",
+          "media_key": "3_1963163050606989312",
+          "start": 138,
+          "url": "https://t.co/9CDvyxS9N0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963163055040397596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "p1：其实还好（？），没有的话那就用国语嘛\n当然啦如果有人能用粤语的话我也会很开心的w\np2&amp;p3：喜欢不是一件随随便便的事情呢\n一直以来我对这些事情都很慎重，不会因为被喜欢而喜欢，也不会因为喜欢而毫无止境（思考\n但是真要说起来的话，其实咱也不知道要怎么回答（挠头） https://t.co/9CDvyxS9N0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 795,
+        "media_key": "3_1963163050397356032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz6OZJ8bUAA9A46.jpg",
+        "width": 1252
+      },
+      {
+        "height": 811,
+        "media_key": "3_1963163050451857408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz6OZKJa8AA4xMl.jpg",
+        "width": 1252
+      },
+      {
+        "height": 795,
+        "media_key": "3_1963163050606989312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz6OZKuaEAAKCmJ.jpg",
+        "width": 1252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963163050397356032",
+            "3_1963163050451857408",
+            "3_1963163050606989312"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "1963163055040397596",
+        "created_at": "2025-09-03T08:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T09:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963163055040397596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9CDvyxS9N0",
+              "end": 161,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1963163055040397596/photo/1",
+              "media_key": "3_1963163050397356032",
+              "start": 138,
+              "url": "https://t.co/9CDvyxS9N0"
+            },
+            {
+              "display_url": "pic.x.com/9CDvyxS9N0",
+              "end": 161,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1963163055040397596/photo/1",
+              "media_key": "3_1963163050451857408",
+              "start": 138,
+              "url": "https://t.co/9CDvyxS9N0"
+            },
+            {
+              "display_url": "pic.x.com/9CDvyxS9N0",
+              "end": 161,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1963163055040397596/photo/1",
+              "media_key": "3_1963163050606989312",
+              "start": 138,
+              "url": "https://t.co/9CDvyxS9N0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963163055040397596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1：其实还好（？），没有的话那就用国语嘛\n当然啦如果有人能用粤语的话我也会很开心的w\np2&amp;p3：喜欢不是一件随随便便的事情呢\n一直以来我对这些事情都很慎重，不会因为被喜欢而喜欢，也不会因为喜欢而毫无止境（思考\n但是真要说起来的话，其实咱也不知道要怎么回答（挠头） https://t.co/9CDvyxS9N0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3217,
+          "following_count": 2784,
+          "like_count": 29900,
+          "listed_count": 13,
+          "media_count": 661,
+          "tweet_count": 7038
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

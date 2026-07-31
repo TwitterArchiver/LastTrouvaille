@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1876818864194940961",
+    "created_at": "2025-01-08T12:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T13:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876970309540036974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1737053348740603904",
+          "start": 0,
+          "username": "shiroko2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876970309540036974",
+    "in_reply_to_user_id": "1737053348740603904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876968135909159240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiroko2024 赛博白子，每次见到都会觉得是在边骑自行车边发消息（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1876818864194940961",
+        "created_at": "2025-01-08T12:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T13:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876970309540036974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1737053348740603904",
+              "start": 0,
+              "username": "shiroko2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876970309540036974",
+        "in_reply_to_user_id": "1737053348740603904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876968135909159240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiroko2024 赛博白子，每次见到都会觉得是在边骑自行车边发消息（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737053348740603904",
+        "conversation_id": "1876818864194940961",
+        "created_at": "2025-01-08T12:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T13:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876968135909159240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876968135909159240",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876818864194940961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 17"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 1990,
+          "like_count": 9408,
+          "listed_count": 4,
+          "media_count": 180,
+          "tweet_count": 2300
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T10:13:24.000Z",
+        "description": "白子单推人！！！\n妈妈 @kurioshifio | 好朋友 @GlimpseAbyss | 爱你 @squirrelGUW | 老婆 @MeowSakur76073 | 极端人士魔怔人和粉红退散|友跨LGBT的顺直",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "kurioshifio"
+              },
+              {
+                "end": 44,
+                "start": 31,
+                "username": "GlimpseAbyss"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "squirrelGUW"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "MeowSakur76073"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/shirok…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/shiroko2024.bsky.social",
+                "start": 0,
+                "url": "https://t.co/ourvdZc0Xc"
+              }
+            ]
+          }
+        },
+        "id": "1737053348740603904",
+        "location": "阿拜多斯职业高中",
+        "name": "砂狼白子",
+        "pinned_tweet_id": "1867208961969246582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875317236514299904/IPNM0RdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3385,
+          "following_count": 1044,
+          "like_count": 114631,
+          "listed_count": 11,
+          "media_count": 996,
+          "tweet_count": 7829
+        },
+        "url": "https://t.co/ourvdZc0Xc",
+        "username": "shiroko2024",
+        "verified": false
+      }
+    ]
+  }
+}

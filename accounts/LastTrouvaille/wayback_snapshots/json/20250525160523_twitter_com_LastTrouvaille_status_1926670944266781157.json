@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1926145198888829352",
+    "created_at": "2025-05-25T16:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T17:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926670944266781157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1808883154083852288",
+          "start": 0,
+          "username": "lipuxizi7071638"
+        },
+        {
+          "end": 30,
+          "id": "1393911554869956609",
+          "start": 17,
+          "username": "msk_tsubami3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926670944266781157",
+    "in_reply_to_user_id": "1808883154083852288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926670202558693530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lipuxizi7071638 @msk_tsubami3 两位都很可爱的说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1926145198888829352",
+        "created_at": "2025-05-25T16:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T17:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926670944266781157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1808883154083852288",
+              "start": 0,
+              "username": "lipuxizi7071638"
+            },
+            {
+              "end": 30,
+              "id": "1393911554869956609",
+              "start": 17,
+              "username": "msk_tsubami3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926670944266781157",
+        "in_reply_to_user_id": "1808883154083852288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926670202558693530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lipuxizi7071638 @msk_tsubami3 两位都很可爱的说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808883154083852288",
+        "conversation_id": "1926145198888829352",
+        "created_at": "2025-05-25T16:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T17:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926670202558693530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1393911554869956609",
+              "start": 0,
+              "username": "msk_tsubami3"
+            },
+            {
+              "end": 29,
+              "id": "1691242509815754754",
+              "start": 14,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926670202558693530",
+        "in_reply_to_user_id": "1393911554869956609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926661866828234861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@msk_tsubami3 @LastTrouvaille 孩子你很可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2870,
+          "following_count": 2650,
+          "like_count": 25149,
+          "listed_count": 12,
+          "media_count": 530,
+          "tweet_count": 5995
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T15:18:59.000Z",
+        "description": "ꪔ͈̮   ꪔ̤̫    ꪔ  ᙏ̤̫͚   ꪔ̤̫    ꪔ̤̱   ꪔ̤̥    ᙏ̤̫͚   ꪔ̤̮  ꪔ̤̥    ᙏ̤̫͚   ꪔ̤̮   ᙏ̤",
+        "id": "1808883154083852288",
+        "location": "无",
+        "name": "小鱼块",
+        "pinned_tweet_id": "1922942411061289036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926231816261754880/oq072hZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1909,
+          "following_count": 458,
+          "like_count": 6031,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 2049
+        },
+        "username": "lipuxizi7071638",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-16T12:49:59.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/msk_tsubami3",
+                "end": 23,
+                "expanded_url": "https://ngl.link/msk_tsubami3",
+                "start": 0,
+                "url": "https://t.co/Sp1jnMvdRj"
+              }
+            ]
+          }
+        },
+        "id": "1393911554869956609",
+        "location": "Nyakoneko Planet",
+        "name": "みさきなつき*",
+        "pinned_tweet_id": "1904724490413891721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922264253316190208/Rp2ntVDm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 647,
+          "like_count": 10630,
+          "listed_count": 3,
+          "media_count": 2,
+          "tweet_count": 1718
+        },
+        "url": "https://t.co/Sp1jnMvdRj",
+        "username": "msk_tsubami3",
+        "verified": false
+      }
+    ]
+  }
+}

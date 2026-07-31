@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1881888750340608251",
+    "created_at": "2025-01-22T02:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T03:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881896430106976287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1865050179617067008",
+          "start": 0,
+          "username": "AyaStellaria"
+        },
+        {
+          "end": 25,
+          "id": "1646550974553522183",
+          "start": 14,
+          "username": "yeziyu7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881896430106976287",
+    "in_reply_to_user_id": "1865050179617067008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881892956917178499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyaStellaria @yeziyu7777 戳戳你俩w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1881888750340608251",
+        "created_at": "2025-01-22T02:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T03:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881896430106976287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1865050179617067008",
+              "start": 0,
+              "username": "AyaStellaria"
+            },
+            {
+              "end": 25,
+              "id": "1646550974553522183",
+              "start": 14,
+              "username": "yeziyu7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881896430106976287",
+        "in_reply_to_user_id": "1865050179617067008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881892956917178499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyaStellaria @yeziyu7777 戳戳你俩w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865050179617067008",
+        "conversation_id": "1881888750340608251",
+        "created_at": "2025-01-22T02:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T03:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881892956917178499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1646550974553522183",
+              "start": 0,
+              "username": "yeziyu7777"
+            },
+            {
+              "end": 27,
+              "id": "1691242509815754754",
+              "start": 12,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881892956917178499",
+        "in_reply_to_user_id": "1646550974553522183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881892793574183119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeziyu7777 @lastTrouvaille 戳戳叶子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻丨说话爱带括号勿怪)丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 2235,
+          "like_count": 10712,
+          "listed_count": 4,
+          "media_count": 209,
+          "tweet_count": 2682
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T15:06:56.000Z",
+        "description": "他们的悲伤化成了灰，散落在无情的大海中",
+        "id": "1865050179617067008",
+        "name": "凛御",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881721554477953024/L7A0VqrL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 427,
+          "like_count": 7984,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 2355
+        },
+        "username": "AyaStellaria",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T16:28:58.000Z",
+        "description": "这里是小叶or叶子｜ADHD｜拒绝见证｜社恐 喜欢贴贴｜睡觉爱好者｜笨蛋日常 搞砸是常态｜如果你能主动找我聊天，咱会很高兴😽\n关注可爱的孩子@LiuSuK_Arcaea🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "LiuSuK_Arcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yeziyu7771",
+                "end": 23,
+                "expanded_url": "http://ngl.link/yeziyu7771",
+                "start": 0,
+                "url": "https://t.co/omZuBL0LWf"
+              }
+            ]
+          }
+        },
+        "id": "1646550974553522183",
+        "name": "永远の叶_",
+        "pinned_tweet_id": "1880522246063833547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867602918427463680/KzKit7HV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 493,
+          "like_count": 32043,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 3355
+        },
+        "url": "https://t.co/omZuBL0LWf",
+        "username": "yeziyu7777",
+        "verified": false
+      }
+    ]
+  }
+}

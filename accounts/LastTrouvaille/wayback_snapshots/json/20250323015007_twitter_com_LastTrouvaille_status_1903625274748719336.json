@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1903452618263032301",
+    "created_at": "2025-03-23T01:50:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T02:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903625274748719336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1824038624234795008",
+          "start": 0,
+          "username": "Yzzz6603"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903625274748719336",
+    "in_reply_to_user_id": "1824038624234795008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903623877168701940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yzzz6603 本店不允许退单（笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1903452618263032301",
+        "created_at": "2025-03-23T01:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T02:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903625274748719336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1824038624234795008",
+              "start": 0,
+              "username": "Yzzz6603"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903625274748719336",
+        "in_reply_to_user_id": "1824038624234795008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903623877168701940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yzzz6603 本店不允许退单（笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824038624234795008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1903452618263032301",
+        "created_at": "2025-03-23T01:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T02:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903623877168701940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903623877168701940",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903623506711150911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 补药哇 我开玩笑的 来一杯免费的🍵可以吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2191,
+          "following_count": 2695,
+          "like_count": 17915,
+          "listed_count": 9,
+          "media_count": 361,
+          "tweet_count": 4313
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T11:01:21.000Z",
+        "description": "不礼貌回关❌｜本人很吵｜点赞狂魔｜互动狂魔｜喜欢夸夸和被夸夸｜第五人格启动｜",
+        "id": "1824038624234795008",
+        "location": "放下助人情结",
+        "name": "愐春",
+        "pinned_tweet_id": "1898766794686665212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899785699190251520/EUsZHx1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 120,
+          "like_count": 8822,
+          "listed_count": 3,
+          "media_count": 205,
+          "tweet_count": 2279
+        },
+        "username": "Yzzz6603",
+        "verified": false
+      }
+    ]
+  }
+}

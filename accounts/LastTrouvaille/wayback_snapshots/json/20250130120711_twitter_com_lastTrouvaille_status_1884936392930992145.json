@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1884878320162189451",
+    "created_at": "2025-01-30T12:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T13:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884936392930992145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1825458190328205313",
+          "start": 0,
+          "username": "Azusa235121329"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884936392930992145",
+    "in_reply_to_user_id": "1825458190328205313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884878320162189451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Azusa235121329 申请把小寻带回家🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1884878320162189451",
+        "created_at": "2025-01-30T12:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T13:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884936392930992145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1825458190328205313",
+              "start": 0,
+              "username": "Azusa235121329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884936392930992145",
+        "in_reply_to_user_id": "1825458190328205313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884878320162189451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Azusa235121329 申请把小寻带回家🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884878046731341824"
+          ]
+        },
+        "author_id": "1825458190328205313",
+        "conversation_id": "1884878320162189451",
+        "created_at": "2025-01-30T08:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T09:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884878320162189451"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "男娘"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "女装"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "波奇"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lxEGuHoBN2",
+              "end": 50,
+              "expanded_url": "https://x.com/Azusa235121329/status/1884878320162189451/photo/1",
+              "media_key": "3_1884878046731341824",
+              "start": 27,
+              "url": "https://t.co/lxEGuHoBN2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884878320162189451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 5801,
+          "like_count": 183,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "主播下海了，请多多为我捧场🥲 #男娘 #女装 #波奇 https://t.co/lxEGuHoBN2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1903,
+          "following_count": 2429,
+          "like_count": 11808,
+          "listed_count": 6,
+          "media_count": 219,
+          "tweet_count": 2854
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T09:02:12.000Z",
+        "description": "忙啊，忙点好啊（我是个笨蛋，Q群请加78370253",
+        "id": "1825458190328205313",
+        "location": "黑山基地研究所",
+        "name": "小寻爱吃麦当当（求fo版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868227241848545280/ZW0p_sqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 161,
+          "like_count": 1380,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 223
+        },
+        "username": "Azusa235121329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1887541010873659451",
+    "created_at": "2025-02-07T00:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T01:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887665019606999266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1851095833371922432",
+          "start": 0,
+          "username": "Triones0726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887665019606999266",
+    "in_reply_to_user_id": "1851095833371922432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887542060745716180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Triones0726 小宝没有错哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1887541010873659451",
+        "created_at": "2025-02-07T00:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T01:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887665019606999266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1851095833371922432",
+              "start": 0,
+              "username": "Triones0726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887665019606999266",
+        "in_reply_to_user_id": "1851095833371922432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887542060745716180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Triones0726 小宝没有错哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851095833371922432",
+        "conversation_id": "1887541010873659451",
+        "created_at": "2025-02-06T16:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T17:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887542060745716180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887542060745716180",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887541010873659451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 补药抑郁啊啊啊啊呜呜我错了我不该总是找cc倾诉负能量的😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖别忘了多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 2059,
+          "like_count": 12398,
+          "listed_count": 7,
+          "media_count": 233,
+          "tweet_count": 3075
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T02:57:02.000Z",
+        "description": "如果眼睛会说话，那每个点进我主页的宝宝都会收到我的三千遍“我爱你”💝",
+        "id": "1851095833371922432",
+        "location": "下水道",
+        "name": "Triones（敏感肌）",
+        "pinned_tweet_id": "1857127967975199225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859582321201930240/OC63pees_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 153,
+          "like_count": 298,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 622
+        },
+        "username": "Triones0726",
+        "verified": false
+      }
+    ]
+  }
+}

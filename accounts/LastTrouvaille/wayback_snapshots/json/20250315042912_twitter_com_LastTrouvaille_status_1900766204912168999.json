@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900766202617831424"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1900766204912168999",
+    "created_at": "2025-03-15T04:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T05:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900766204912168999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jhQeigQH1L",
+          "end": 94,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1900766204912168999/photo/1",
+          "media_key": "3_1900766202617831424",
+          "start": 71,
+          "url": "https://t.co/jhQeigQH1L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900766204912168999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实真的好在意和我聊天的对方\n如果是喜欢的话，我能带来开心与爱\n如果是讨厌的话，我不想自己带来的是烦躁和打扰，但即便这样我也依然会默默在意你 https://t.co/jhQeigQH1L"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1900766204912168999].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1900766204912168999",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1900766204912168999"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 890,
+        "media_key": "3_1900766202617831424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmDgymQaoAAlUj-.jpg",
+        "width": 929
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链推荐是动画巡礼和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2131,
+          "following_count": 2551,
+          "like_count": 16943,
+          "listed_count": 7,
+          "media_count": 327,
+          "tweet_count": 4066
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

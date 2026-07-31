@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2075522492131897406",
+    "created_at": "2026-07-10T11:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075540489219305967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1514956074549448712",
+          "start": 0,
+          "username": "GlunekiKCA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075540489219305967",
+    "in_reply_to_user_id": "1514956074549448712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075522492131897406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlunekiKCA 猪咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 648,
+        "media_key": "3_2075522490093506560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM28tUlbkAAweYs.jpg",
+        "width": 452
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2075522492131897406",
+        "created_at": "2026-07-10T11:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075540489219305967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1514956074549448712",
+              "start": 0,
+              "username": "GlunekiKCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075540489219305967",
+        "in_reply_to_user_id": "1514956074549448712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075522492131897406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlunekiKCA 猪咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075522490093506560"
+          ]
+        },
+        "author_id": "1514956074549448712",
+        "conversation_id": "2075522492131897406",
+        "created_at": "2026-07-10T10:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075522492131897406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wBpOKsRBud",
+              "end": 80,
+              "expanded_url": "https://x.com/GlunekiKCA/status/2075522492131897406/photo/1",
+              "media_key": "3_2075522490093506560",
+              "start": 57,
+              "url": "https://t.co/wBpOKsRBud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075522492131897406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你已经错过萤火虫，错过bw，连chinajoy你也错过了，那你绝对不能再错过全国猪博会，这个夏天，推友在青岛等你 https://t.co/wBpOKsRBud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4537,
+          "following_count": 2901,
+          "like_count": 49720,
+          "listed_count": 14,
+          "media_count": 1017,
+          "tweet_count": 9417
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T13:17:41.000Z",
+        "description": "你好，远道而来的朋友～这里是江朝,是无情的发图机器/大学牲在读ing/乐子人ing/对大部分人保持包容心态，大家都是朋友嘛/偶尔碎碎念注意⚠️   老登@KiminTW_Offical | 小账@sumeng_kelami |绿咪@lamte15072",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "KiminTW_Offical"
+              },
+              {
+                "end": 111,
+                "start": 97,
+                "username": "sumeng_kelami"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lamte15072"
+              }
+            ]
+          }
+        },
+        "id": "1514956074549448712",
+        "location": "永夏之梦",
+        "name": "江朝",
+        "pinned_tweet_id": "2074097305465356785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063618248851456/VdnNmWC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6235,
+          "following_count": 1543,
+          "like_count": 95377,
+          "listed_count": 29,
+          "media_count": 4839,
+          "tweet_count": 41290
+        },
+        "url": "",
+        "username": "GlunekiKCA",
+        "verified": false
+      }
+    ]
+  }
+}

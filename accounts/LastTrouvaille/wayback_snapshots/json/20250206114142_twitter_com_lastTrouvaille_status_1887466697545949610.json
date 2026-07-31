@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1887447862860222946",
+    "created_at": "2025-02-06T11:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T12:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887466697545949610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1282832893304242178",
+          "start": 0,
+          "username": "baihui_Ke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887466697545949610",
+    "in_reply_to_user_id": "1282832893304242178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887448208907116817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baihui_Ke 删点不常用的？👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1887447862860222946",
+        "created_at": "2025-02-06T11:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T12:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887466697545949610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1282832893304242178",
+              "start": 0,
+              "username": "baihui_Ke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887466697545949610",
+        "in_reply_to_user_id": "1282832893304242178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887448208907116817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baihui_Ke 删点不常用的？👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1282832893304242178",
+        "conversation_id": "1887447862860222946",
+        "created_at": "2025-02-06T10:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T11:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887448208907116817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887448208907116817",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887447862860222946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille QQ表情还有上限，前几天刚整理完😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖别忘了多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 2056,
+          "like_count": 12586,
+          "listed_count": 7,
+          "media_count": 231,
+          "tweet_count": 3062
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-14T00:23:01.000Z",
+        "description": "貌似是个简介丨喜欢打游戏吹口哨和吉他，多少粘点东方丨fgo/方舟/红烧天堂/mhwi 丨发癫和视奸请见谅丨没了",
+        "id": "1282832893304242178",
+        "location": "距离你4.3km",
+        "name": "白灰ke",
+        "pinned_tweet_id": "1878718832031957274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881665951592218624/VyqOx__i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 810,
+          "like_count": 1239,
+          "listed_count": 5,
+          "media_count": 127,
+          "tweet_count": 1046
+        },
+        "username": "baihui_Ke",
+        "verified": false
+      }
+    ]
+  }
+}

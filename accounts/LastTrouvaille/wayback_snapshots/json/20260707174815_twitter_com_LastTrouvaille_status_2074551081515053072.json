@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2074484861424058508",
+    "created_at": "2026-07-07T17:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074551081515053072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999000974913130496",
+          "start": 0,
+          "username": "AyanamiRikako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074551081515053072",
+    "in_reply_to_user_id": "1999000974913130496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074484861424058508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyanamiRikako 可爱莲莲\n贴贴~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074484858492227584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoM_NpbEAAwIe1.jpg",
+        "width": 1097
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2074484861424058508",
+        "created_at": "2026-07-07T17:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074551081515053072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999000974913130496",
+              "start": 0,
+              "username": "AyanamiRikako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074551081515053072",
+        "in_reply_to_user_id": "1999000974913130496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074484861424058508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyanamiRikako 可爱莲莲\n贴贴~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074484858492227584"
+          ]
+        },
+        "author_id": "1999000974913130496",
+        "conversation_id": "2074484861424058508",
+        "created_at": "2026-07-07T13:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074484861424058508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wMahpaYenC",
+              "end": 48,
+              "expanded_url": "https://x.com/AyanamiRikako/status/2074484861424058508/photo/1",
+              "media_key": "3_2074484858492227584",
+              "start": 25,
+              "url": "https://t.co/wMahpaYenC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074484861424058508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 789,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "凑妈天下第一！\n很早之前就想出凑妈了，终于圆梦w https://t.co/wMahpaYenC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4540,
+          "following_count": 2945,
+          "like_count": 49612,
+          "listed_count": 14,
+          "media_count": 1016,
+          "tweet_count": 9408
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:19:11.000Z",
+        "description": "「将眼泪与过往一同埋葬。」\n我是可可，或者小莲☆\ncoser/摄影，常驻广东，足控，偶尔是男娘，性取向女。\n拒绝任何键政\n坑：异环 崩铁 方舟 绝区零 碧蓝，以及各种单机联机。\n第二人格 @Hasumi_Amemiya\n宠物兔兔 @xuexuelingling\n宠物小笨狗 @cialloi\n宠物男娘 @miwu0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 94,
+                "username": "Hasumi_Amemiya"
+              },
+              {
+                "end": 130,
+                "start": 115,
+                "username": "xuexuelingling"
+              },
+              {
+                "end": 145,
+                "start": 137,
+                "username": "cialloi"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "miwu0721"
+              }
+            ]
+          }
+        },
+        "id": "1999000974913130496",
+        "location": "罗德岛第一舰桥大学",
+        "name": "雨宫莲见☆",
+        "pinned_tweet_id": "1999145703264993496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012517878830911488/aJai91DU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 234,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 326
+        },
+        "url": "",
+        "username": "AyanamiRikako",
+        "verified": false
+      }
+    ]
+  }
+}

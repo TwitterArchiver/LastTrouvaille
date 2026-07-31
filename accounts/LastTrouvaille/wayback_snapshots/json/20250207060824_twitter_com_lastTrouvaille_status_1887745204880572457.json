@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1887685942242386352",
+    "created_at": "2025-02-07T06:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T07:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887745204880572457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1363826773176188934",
+          "start": 0,
+          "username": "huige545"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887745204880572457",
+    "in_reply_to_user_id": "1363826773176188934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887742302854300135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huige545 舔舔w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1887685942242386352",
+        "created_at": "2025-02-07T06:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T07:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887745204880572457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1363826773176188934",
+              "start": 0,
+              "username": "huige545"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887745204880572457",
+        "in_reply_to_user_id": "1363826773176188934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887742302854300135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huige545 舔舔w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363826773176188934",
+        "conversation_id": "1887685942242386352",
+        "created_at": "2025-02-07T05:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T06:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887742302854300135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887742302854300135",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887696419244626039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 你好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖别忘了多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 2038,
+          "like_count": 12423,
+          "listed_count": 7,
+          "media_count": 236,
+          "tweet_count": 3123
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T12:23:45.000Z",
+        "description": "理应在最后的最后不说告别 | 是电子幽灵 | chat:https://t.co/qdcf50qYvk |繁华落尽，长日归寂",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/huige233",
+                "end": 51,
+                "expanded_url": "http://t.me/huige233",
+                "start": 28,
+                "url": "https://t.co/qdcf50qYvk"
+              }
+            ]
+          }
+        },
+        "id": "1363826773176188934",
+        "location": "一片死寂的荒地",
+        "name": "huige",
+        "pinned_tweet_id": "1860278144823099607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580632136566001664/3QWYOP4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 797,
+          "like_count": 13547,
+          "listed_count": 11,
+          "media_count": 928,
+          "tweet_count": 10135
+        },
+        "username": "huige545",
+        "verified": false
+      }
+    ]
+  }
+}

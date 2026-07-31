@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2059296120296358102",
+    "created_at": "2026-05-26T15:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059298119649747295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1762125306301976576",
+          "start": 0,
+          "username": "LisLyAr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059298119649747295",
+    "in_reply_to_user_id": "1762125306301976576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059297057744269589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LisLyAr 因为累"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2059296120296358102",
+        "created_at": "2026-05-26T15:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059298119649747295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1762125306301976576",
+              "start": 0,
+              "username": "LisLyAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059298119649747295",
+        "in_reply_to_user_id": "1762125306301976576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059297057744269589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LisLyAr 因为累"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762125306301976576",
+        "conversation_id": "2059296120296358102",
+        "created_at": "2026-05-26T15:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059297057744269589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059297057744269589",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059296120296358102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 难道是身体的柔软度不支持弯腰拍到脚底x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦，叫妈妈姐姐也行（不是）‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖不许键政🚫‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7RpK"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4315,
+          "following_count": 2874,
+          "like_count": 46822,
+          "listed_count": 14,
+          "media_count": 965,
+          "tweet_count": 9105
+        },
+        "url": "https://t.co/TWu8nv7RpK",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T14:39:55.000Z",
+        "description": "啊哈哈……",
+        "id": "1762125306301976576",
+        "name": "Lisar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052050157764808704/yilE96Uo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 349,
+          "like_count": 4539,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1551
+        },
+        "username": "LisLyAr",
+        "verified": false
+      }
+    ]
+  }
+}

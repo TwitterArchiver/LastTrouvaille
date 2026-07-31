@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1938276761382621628",
+    "created_at": "2025-06-27T05:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T06:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938469070745276484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1397545413876469771",
+          "start": 0,
+          "username": "sayowakabi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938469070745276484",
+    "in_reply_to_user_id": "1397545413876469771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938276761382621628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sayowakabi 生日快乐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1938276761382621628",
+        "created_at": "2025-06-27T05:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T06:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938469070745276484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1397545413876469771",
+              "start": 0,
+              "username": "sayowakabi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938469070745276484",
+        "in_reply_to_user_id": "1397545413876469771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938276761382621628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sayowakabi 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397545413876469771",
+        "conversation_id": "1938276761382621628",
+        "created_at": "2025-06-26T16:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T17:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938276761382621628"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938276761382621628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1188,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "祝我生日快樂❗️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3064,
+          "following_count": 2708,
+          "like_count": 28325,
+          "listed_count": 12,
+          "media_count": 585,
+          "tweet_count": 6554
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-26T13:29:58.000Z",
+        "description": "為了成為真正的大惡魔，目標是讓十萬個人失戀的墮天使💔 配信Tag：#若日放送中 FanName：#哇僕從 FanArt：#若日写真 迷因Tag：#若日不是芥末 剪輯Tag：#若日短編 ママたち：@itswasuutsu (イラスト) @shiner_ouo (Live2D)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 33,
+                "tag": "若日放送中"
+              },
+              {
+                "end": 52,
+                "start": 48,
+                "tag": "哇僕從"
+              },
+              {
+                "end": 65,
+                "start": 60,
+                "tag": "若日写真"
+              },
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "若日不是芥末"
+              },
+              {
+                "end": 91,
+                "start": 86,
+                "tag": "若日短編"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 109,
+                "start": 97,
+                "username": "itswasuutsu"
+              },
+              {
+                "end": 128,
+                "start": 117,
+                "username": "shiner_ouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/sayowakabi",
+                "end": 23,
+                "expanded_url": "https://potofu.me/sayowakabi",
+                "start": 0,
+                "url": "https://t.co/A2alF9k6fN"
+              }
+            ]
+          }
+        },
+        "id": "1397545413876469771",
+        "name": "朔夜わかび💔(本物)",
+        "pinned_tweet_id": "1777295622967906738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833466164045090816/S1gJWrfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 357,
+          "like_count": 5330,
+          "listed_count": 6,
+          "media_count": 177,
+          "tweet_count": 1403
+        },
+        "url": "https://t.co/A2alF9k6fN",
+        "username": "sayowakabi",
+        "verified": false
+      }
+    ]
+  }
+}

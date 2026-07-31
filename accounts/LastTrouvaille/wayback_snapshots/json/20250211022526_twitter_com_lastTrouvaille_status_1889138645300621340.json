@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1889121267988693501",
+    "created_at": "2025-02-11T02:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T03:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889138645300621340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1802884729412161537",
+          "start": 0,
+          "username": "Realze47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889138645300621340",
+    "in_reply_to_user_id": "1802884729412161537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889122893554180425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Realze47 是这样啊🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1889121267988693501",
+        "created_at": "2025-02-11T02:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T03:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889138645300621340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1802884729412161537",
+              "start": 0,
+              "username": "Realze47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889138645300621340",
+        "in_reply_to_user_id": "1802884729412161537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889122893554180425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Realze47 是这样啊🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802884729412161537",
+        "conversation_id": "1889121267988693501",
+        "created_at": "2025-02-11T01:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T02:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889122893554180425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889122893554180425",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889121936065900577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 糖就是雌二醇，商品名补佳乐\nod是overdose\nhrt应该是hormone replacement therapy就是通过吃药之类的行为提升自己体内被指派性别以外的另一性别的性激素含量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1938,
+          "following_count": 2049,
+          "like_count": 12765,
+          "listed_count": 7,
+          "media_count": 243,
+          "tweet_count": 3284
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T02:03:20.000Z",
+        "description": "保持该有的风度/\n可以叫我小真 具体叫什么我不介意/\n里世界@realse47 /\n提问箱https://t.co/MMy5M8atnS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "realse47"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/realze47",
+                "end": 68,
+                "expanded_url": "https://ngl.link/realze47",
+                "start": 45,
+                "url": "https://t.co/MMy5M8atnS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Realze47",
+                "end": 23,
+                "expanded_url": "http://t.me/Realze47",
+                "start": 0,
+                "url": "https://t.co/43JfcipN70"
+              }
+            ]
+          }
+        },
+        "id": "1802884729412161537",
+        "location": "steam 1676635613",
+        "name": "Realze",
+        "pinned_tweet_id": "1888935270516711484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866848592046198788/QCTQyI0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 172,
+          "like_count": 71233,
+          "listed_count": 4,
+          "media_count": 247,
+          "tweet_count": 4992
+        },
+        "url": "https://t.co/43JfcipN70",
+        "username": "Realze47",
+        "verified": false
+      }
+    ]
+  }
+}

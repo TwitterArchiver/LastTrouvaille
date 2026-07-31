@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2000042875753775472",
+    "created_at": "2025-12-14T04:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T05:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000066215491121200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1320375851267993600",
+          "start": 0,
+          "username": "Nathana24002227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000066215491121200",
+    "in_reply_to_user_id": "1320375851267993600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000058544104919068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nathana24002227 我就是有点委屈吧..\n怎么自己老是遇到这样的事情呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1285,
+        "media_key": "3_2000058535494000640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8GipCoboAAz41S.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2000042875753775472",
+        "created_at": "2025-12-14T04:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T05:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000066215491121200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1320375851267993600",
+              "start": 0,
+              "username": "Nathana24002227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000066215491121200",
+        "in_reply_to_user_id": "1320375851267993600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000058544104919068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nathana24002227 我就是有点委屈吧..\n怎么自己老是遇到这样的事情呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000058535494000640"
+          ]
+        },
+        "author_id": "1320375851267993600",
+        "conversation_id": "2000042875753775472",
+        "created_at": "2025-12-14T04:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T05:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000058544104919068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P0KliS8clu",
+              "end": 165,
+              "expanded_url": "https://x.com/Nathana24002227/status/2000058544104919068/photo/1",
+              "media_key": "3_2000058535494000640",
+              "start": 142,
+              "url": "https://t.co/P0KliS8clu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000058544104919068",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000042875753775472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 每个人都有追逐自己想要的事物的权利，你其实已经做得很好了，只不过你的真心话来的是他人的忽视，这也是自己没有办法控制的事情，所以你并没有错，正像你说的人生中有离别，我们可以放下，他不能让这样的人过分的打扰我们的生活，毕竟他可能不值得让你如此的哀伤和忧愁 https://t.co/P0KliS8clu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖穗&沪‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7RpK"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3668,
+          "following_count": 2789,
+          "like_count": 36279,
+          "listed_count": 13,
+          "media_count": 777,
+          "tweet_count": 7948
+        },
+        "url": "https://t.co/TWu8nv7RpK",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-25T14:45:15.000Z",
+        "description": "好奇心，阅读，体验新鲜事物，虚无主义，还有想不到别的了！\nEN/FR/JP/KR苦手\n\n天然+腹黑赛高！！！！！\n人要向前看，才会有未来\n幸福不会走过来，所以你要走过去。\nしあわせは 歩いてこない，だから歩いて ゆくんだね。",
+        "id": "1320375851267993600",
+        "location": "Canada",
+        "name": "Nanimonai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984579774656778240/ImMM0Tzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 1027,
+          "like_count": 21208,
+          "listed_count": 10,
+          "media_count": 10,
+          "tweet_count": 14386
+        },
+        "username": "Nathana24002227",
+        "verified": false
+      }
+    ]
+  }
+}

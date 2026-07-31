@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2005607942838723047",
+    "created_at": "2025-12-29T15:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T16:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005657553196470508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1943699809933963264",
+          "start": 0,
+          "username": "SetsuGlow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005657553196470508",
+    "in_reply_to_user_id": "1943699809933963264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005618875778695220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SetsuGlow 是的~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2005607942838723047",
+        "created_at": "2025-12-29T15:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T16:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005657553196470508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1943699809933963264",
+              "start": 0,
+              "username": "SetsuGlow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005657553196470508",
+        "in_reply_to_user_id": "1943699809933963264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005618875778695220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SetsuGlow 是的~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943699809933963264",
+        "conversation_id": "2005607942838723047",
+        "created_at": "2025-12-29T12:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T13:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005618875778695220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005618875778695220",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005607942838723047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 食物的怨念~~~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，叫CC就好啦‖INFP-T‖天秤‖有点双（？）‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)熟的话不时话痨(雾)‖偶尔写诗填词‖穗&沪‖会内耗emo‖不许键政！！！‖中粤英👌🏻‖网链是提问箱和miku↓‖请和我做朋友！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3712,
+          "following_count": 2793,
+          "like_count": 38066,
+          "listed_count": 13,
+          "media_count": 818,
+          "tweet_count": 8187
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T15:52:13.000Z",
+        "description": "|cosplay / JK•LO / 碎碎念 / 清水推 /♂️|                            \n谢谢你的喜欢和关注 / 老二刺螈 / 错峰单休社畜 / 逞强i人 / 骗子勿扰 / 非同 / 拒键政 /",
+        "id": "1943699809933963264",
+        "location": "时间有限的白日梦碎片",
+        "name": "雪灯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968861885132050432/puesYqW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 471,
+          "like_count": 8910,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 2501
+        },
+        "username": "SetsuGlow",
+        "verified": true
+      }
+    ]
+  }
+}

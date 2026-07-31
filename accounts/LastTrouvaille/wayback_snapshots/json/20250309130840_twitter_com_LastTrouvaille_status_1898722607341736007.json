@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1898695688806093171",
+    "created_at": "2025-03-09T13:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T14:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898722607341736007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1794617194954850304",
+          "start": 0,
+          "username": "Baixiaoming8964"
+        },
+        {
+          "end": 28,
+          "id": "1773877435748270080",
+          "start": 17,
+          "username": "manakaao68"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898722607341736007",
+    "in_reply_to_user_id": "1794617194954850304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898695688806093171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Baixiaoming8964 @manakaao68 有的，我现在就fo）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1898695665607393280",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GlmFpe0aQAASsAm.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GlmFpe0aQAASsAm.mp4"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1898695688806093171",
+        "created_at": "2025-03-09T13:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T14:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898722607341736007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794617194954850304",
+              "start": 0,
+              "username": "Baixiaoming8964"
+            },
+            {
+              "end": 28,
+              "id": "1773877435748270080",
+              "start": 17,
+              "username": "manakaao68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898722607341736007",
+        "in_reply_to_user_id": "1794617194954850304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898695688806093171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baixiaoming8964 @manakaao68 有的，我现在就fo）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1898695665607393280"
+          ]
+        },
+        "author_id": "1794617194954850304",
+        "conversation_id": "1898695688806093171",
+        "created_at": "2025-03-09T11:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T12:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898695688806093171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pmz2Zo4mqM",
+              "end": 51,
+              "expanded_url": "https://x.com/Baixiaoming8964/status/1898695688806093171/photo/1",
+              "media_key": "16_1898695665607393280",
+              "start": 28,
+              "url": "https://t.co/Pmz2Zo4mqM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898695688806093171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 236,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "除了鉴证、暴论、吃糖、发腿\n还有什么更快的涨粉方法吗？ https://t.co/Pmz2Zo4mqM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链推荐是动画巡礼和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anitabi.cn",
+                "end": 23,
+                "expanded_url": "https://anitabi.cn/",
+                "start": 0,
+                "url": "https://t.co/ASAIm8Wyd2"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2085,
+          "following_count": 2426,
+          "like_count": 15899,
+          "listed_count": 7,
+          "media_count": 310,
+          "tweet_count": 3925
+        },
+        "url": "https://t.co/ASAIm8Wyd2",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T06:31:28.000Z",
+        "description": "08年高中生 | 简中/正體/English | 历政地亡命文科生 | 快品尝国宾酒尊尼获加 | 永远追随国王→@oldsddl4gunmu @diangunottosm @otto_houguoyu | 抖音:29289785213",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "oldsddl4gunmu"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "diangunottosm"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "otto_houguoyu"
+              }
+            ]
+          }
+        },
+        "id": "1794617194954850304",
+        "location": "吉吉国国立圣育强高中",
+        "name": "白小铭",
+        "pinned_tweet_id": "1885586996456022412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841787288042213376/jqs_VZtV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 467,
+          "like_count": 4659,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 2240
+        },
+        "username": "Baixiaoming8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T00:59:05.000Z",
+        "description": "真中あおです 谢绝政治 杭州公交中之人 永远的杭州151路无轨电车 @heiwawomamore\n里推/ @ND5_0179 永远的面码姐姐@TianqiChen666\n/可爱宝宝 @xieshenmone8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 34,
+                "username": "heiwawomamore"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "ND5_0179"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "TianqiChen666"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "xieshenmone8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hzbus.com.cn",
+                "end": 23,
+                "expanded_url": "https://www.hzbus.com.cn/",
+                "start": 0,
+                "url": "https://t.co/6ccqwCfA2Q"
+              }
+            ]
+          }
+        },
+        "id": "1773877435748270080",
+        "location": "杭州公交集団",
+        "name": "小小の真中あお^_^🐳⭐️🎄🍥🍧🍟🍕🌮🍩🍡🍨",
+        "pinned_tweet_id": "1898270971775402001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895006025335369728/ab0LKTim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 3937,
+          "like_count": 22201,
+          "listed_count": 8,
+          "media_count": 1300,
+          "tweet_count": 24963
+        },
+        "url": "https://t.co/6ccqwCfA2Q",
+        "username": "manakaao68",
+        "verified": false
+      }
+    ]
+  }
+}

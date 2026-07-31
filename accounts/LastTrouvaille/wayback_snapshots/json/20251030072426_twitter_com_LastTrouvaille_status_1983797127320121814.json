@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1983757352424894469",
+    "created_at": "2025-10-30T07:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T08:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983797127320121814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1718887354826637312",
+          "start": 0,
+          "username": "MeowSakur76073"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983797127320121814",
+    "in_reply_to_user_id": "1718887354826637312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983760227624456499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowSakur76073 抱抱小樱😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1983757352424894469",
+        "created_at": "2025-10-30T07:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T08:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983797127320121814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1718887354826637312",
+              "start": 0,
+              "username": "MeowSakur76073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983797127320121814",
+        "in_reply_to_user_id": "1718887354826637312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983760227624456499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowSakur76073 抱抱小樱😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718887354826637312",
+        "conversation_id": "1983757352424894469",
+        "created_at": "2025-10-30T04:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983760227624456499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983760227624456499",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983757352424894469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 抱抱CC姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，年初和年中驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3427,
+          "following_count": 2723,
+          "like_count": 32679,
+          "listed_count": 12,
+          "media_count": 717,
+          "tweet_count": 7444
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-30T07:08:23.000Z",
+        "description": "黑暗的角落闪烁点点荧光，在屏幕里窥探无法得到的幸福。a walking dead｜self heater｜bisexual |🦊| @cangshengsunset",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "cangshengsunset"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meowsakur76073…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meowsakur7607356428",
+                "start": 0,
+                "url": "https://t.co/MDv9HA9aPa"
+              }
+            ]
+          }
+        },
+        "id": "1718887354826637312",
+        "location": "Heaven",
+        "name": "Meow Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889690311200481284/v8dC5B1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 2217,
+          "like_count": 33341,
+          "listed_count": 4,
+          "media_count": 740,
+          "tweet_count": 11520
+        },
+        "url": "https://t.co/MDv9HA9aPa",
+        "username": "MeowSakur76073",
+        "verified": false
+      }
+    ]
+  }
+}

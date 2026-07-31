@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1897222779369619706",
+    "created_at": "2025-03-05T10:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T11:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897238308947935561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1751613061587468288",
+          "start": 0,
+          "username": "hosh1no_shizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897238308947935561",
+    "in_reply_to_user_id": "1751613061587468288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897222779369619706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hosh1no_shizuku 有点羡慕能喝酒的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1897222763267706880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlRKDSBbUAAbsyW.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1897222779369619706",
+        "created_at": "2025-03-05T10:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T11:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897238308947935561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1751613061587468288",
+              "start": 0,
+              "username": "hosh1no_shizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897238308947935561",
+        "in_reply_to_user_id": "1751613061587468288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897222779369619706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hosh1no_shizuku 有点羡慕能喝酒的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897222763267706880"
+          ]
+        },
+        "author_id": "1751613061587468288",
+        "conversation_id": "1897222779369619706",
+        "created_at": "2025-03-05T09:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T10:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897222779369619706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BEfSyRenf4",
+              "end": 68,
+              "expanded_url": "https://x.com/hosh1no_shizuku/status/1897222779369619706/photo/1",
+              "media_key": "3_1897222763267706880",
+              "start": 45,
+              "url": "https://t.co/BEfSyRenf4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897222779369619706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1688,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉寒假喝了很多红酒耐受性变强了\n\n以前这种鸡尾酒和一罐就发疯了 现在干了两罐都没啥事w https://t.co/BEfSyRenf4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ here's Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫🚫🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2048,
+          "following_count": 2297,
+          "like_count": 15328,
+          "listed_count": 7,
+          "media_count": 295,
+          "tweet_count": 3823
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T14:28:03.000Z",
+        "description": "🇨🇳 // 19岁 // 男娘小雫参见喵！// 喜欢编曲🎵画画🎨和穿女装～ // 清水系 不搞黄 不吃🍬 不接委托 不线下 不谈 不扩列 不开🚪// 全网同名 主要活跃在B站 // 可在QQ音乐/网易云/Pixiv @LanziiLove找到我的音乐和绘画作品",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1751613061587468288",
+        "name": "星野雫丶Shizuku",
+        "pinned_tweet_id": "1896810892433768918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894250059786588160/_ASAO7bp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18269,
+          "following_count": 67,
+          "like_count": 75,
+          "listed_count": 42,
+          "media_count": 26,
+          "tweet_count": 703
+        },
+        "username": "hosh1no_shizuku",
+        "verified": false
+      }
+    ]
+  }
+}

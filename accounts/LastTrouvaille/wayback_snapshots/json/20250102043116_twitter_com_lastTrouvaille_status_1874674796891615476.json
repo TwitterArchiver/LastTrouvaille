@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1874644639371993251",
+    "created_at": "2025-01-02T04:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T05:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874674796891615476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1406393254099124224",
+          "start": 0,
+          "username": "Astrid_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874674796891615476",
+    "in_reply_to_user_id": "1406393254099124224",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874674737873658169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Astrid_ovo 😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1874644639371993251",
+        "created_at": "2025-01-02T04:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T05:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874674796891615476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1406393254099124224",
+              "start": 0,
+              "username": "Astrid_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874674796891615476",
+        "in_reply_to_user_id": "1406393254099124224",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874674737873658169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Astrid_ovo 😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1406393254099124224",
+        "conversation_id": "1874644639371993251",
+        "created_at": "2025-01-02T04:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T05:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874674737873658169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874674737873658169",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874674125060689945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 豪！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 1855,
+          "like_count": 8670,
+          "listed_count": 4,
+          "media_count": 172,
+          "tweet_count": 2122
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-19T23:27:48.000Z",
+        "description": "meme😇",
+        "id": "1406393254099124224",
+        "location": "阴暗潮湿的下水道",
+        "name": "Alc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794702435812048896/OTS1dNbo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 349,
+          "like_count": 4609,
+          "listed_count": 4,
+          "media_count": 583,
+          "tweet_count": 1263
+        },
+        "username": "Astrid_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

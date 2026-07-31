@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2081227361257918488",
+    "created_at": "2026-07-26T06:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T07:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081269435168612525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1081598077897793537",
+          "start": 0,
+          "username": "3miaomiao_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081269435168612525",
+    "in_reply_to_user_id": "1081598077897793537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081247696594288701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3miaomiao_qwq 请吃✓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2081227361257918488",
+        "created_at": "2026-07-26T06:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081269435168612525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1081598077897793537",
+              "start": 0,
+              "username": "3miaomiao_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081269435168612525",
+        "in_reply_to_user_id": "1081598077897793537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081247696594288701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3miaomiao_qwq 请吃✓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081598077897793537",
+        "conversation_id": "2081227361257918488",
+        "created_at": "2026-07-26T05:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081247696594288701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081247696594288701",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081227361257918488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 美食我先吃😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4548,
+          "following_count": 2919,
+          "like_count": 50573,
+          "listed_count": 14,
+          "media_count": 1023,
+          "tweet_count": 9464
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-05T17:07:31.000Z",
+        "description": "是三喵｜Gender: cat｜绝赞 hrt & rle 中｜灵活就业 ing｜世界上第一可爱的猪咪 @Luchan_Moeri｜想要很多钱和很多爱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Luchan_Moeri"
+              }
+            ]
+          }
+        },
+        "id": "1081598077897793537",
+        "location": "Flying to the air",
+        "name": "🔥🐈",
+        "pinned_tweet_id": "2067918414996508674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063803709428264960/qC2_aicB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2713,
+          "following_count": 1050,
+          "like_count": 7480,
+          "listed_count": 7,
+          "media_count": 1322,
+          "tweet_count": 8355
+        },
+        "url": "",
+        "username": "3miaomiao_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1878808616272335203",
+    "created_at": "2025-01-13T15:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T16:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878827618075869620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1739472736693735424",
+          "start": 0,
+          "username": "guo_lao32576"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878827618075869620",
+    "in_reply_to_user_id": "1739472736693735424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878812713142669514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guo_lao32576 好喔w\nCC收到desu！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1878808616272335203",
+        "created_at": "2025-01-13T15:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T16:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878827618075869620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1739472736693735424",
+              "start": 0,
+              "username": "guo_lao32576"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878827618075869620",
+        "in_reply_to_user_id": "1739472736693735424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878812713142669514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guo_lao32576 好喔w\nCC收到desu！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739472736693735424",
+        "conversation_id": "1878808616272335203",
+        "created_at": "2025-01-13T14:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T15:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878812713142669514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878812713142669514",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878808616272335203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 诶..注意安全w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 2071,
+          "like_count": 10036,
+          "listed_count": 4,
+          "media_count": 194,
+          "tweet_count": 2477
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T02:26:43.000Z",
+        "description": "「承载着梦的脆弱心灵」",
+        "id": "1739472736693735424",
+        "name": "月下缭乱",
+        "pinned_tweet_id": "1874733400810250358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866358782495997952/S86GkZsv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 331,
+          "like_count": 956,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 779
+        },
+        "username": "guo_lao32576",
+        "verified": false
+      }
+    ]
+  }
+}

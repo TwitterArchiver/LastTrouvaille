@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1896594268162343081",
+    "created_at": "2025-03-04T02:19:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T03:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896747333624471555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1534399985634234371",
+          "start": 0,
+          "username": "c21368619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896747333624471555",
+    "in_reply_to_user_id": "1534399985634234371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896621951600472269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c21368619 总算是有能和本人的实际联系上的推文了（感叹）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1896594268162343081",
+        "created_at": "2025-03-04T02:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T03:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896747333624471555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1534399985634234371",
+              "start": 0,
+              "username": "c21368619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896747333624471555",
+        "in_reply_to_user_id": "1534399985634234371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896621951600472269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c21368619 总算是有能和本人的实际联系上的推文了（感叹）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534399985634234371",
+        "conversation_id": "1896594268162343081",
+        "created_at": "2025-03-03T18:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T19:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896621951600472269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896621951600472269",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896594268162343081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 很好看啦看到CC的字感觉更加亲切惹w\n第一次（抄id）给了CC喵(•ૢ⚈͒⌄⚈͒•ૢ)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ here's Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 2270,
+          "like_count": 15201,
+          "listed_count": 7,
+          "media_count": 291,
+          "tweet_count": 3781
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T05:00:47.000Z",
+        "description": "喜欢一切可爱的事物｜如果你也喜欢我的话…就像我喜欢你时那样开心吧",
+        "id": "1534399985634234371",
+        "location": "最終列車は25時",
+        "name": "c酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534451890217291776/EIh_JkXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 602,
+          "like_count": 4614,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 1582
+        },
+        "username": "c21368619",
+        "verified": false
+      }
+    ]
+  }
+}

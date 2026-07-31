@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979508737262940160",
+        "3_1979508730526937088"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1979508744208916531",
+    "created_at": "2025-10-18T11:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T12:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979508744208916531"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lSci1XROMQ",
+          "end": 42,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1979508744208916531/photo/1",
+          "media_key": "3_1979508737262940160",
+          "start": 19,
+          "url": "https://t.co/lSci1XROMQ"
+        },
+        {
+          "display_url": "pic.x.com/lSci1XROMQ",
+          "end": 42,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1979508744208916531/photo/1",
+          "media_key": "3_1979508730526937088",
+          "start": 19,
+          "url": "https://t.co/lSci1XROMQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979508744208916531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天是健康的晚饭~\n还有超好喝的橙汁 https://t.co/lSci1XROMQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1979508737262940160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3igtWpW8AAhSIn.jpg",
+        "width": 4096
+      },
+      {
+        "height": 684,
+        "media_key": "3_1979508730526937088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3igs9jXsAAcJXE.jpg",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979508737262940160",
+            "3_1979508730526937088"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1979508744208916531",
+        "created_at": "2025-10-18T11:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T12:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979508744208916531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lSci1XROMQ",
+              "end": 42,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1979508744208916531/photo/1",
+              "media_key": "3_1979508737262940160",
+              "start": 19,
+              "url": "https://t.co/lSci1XROMQ"
+            },
+            {
+              "display_url": "pic.x.com/lSci1XROMQ",
+              "end": 42,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1979508744208916531/photo/1",
+              "media_key": "3_1979508730526937088",
+              "start": 19,
+              "url": "https://t.co/lSci1XROMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979508744208916531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是健康的晚饭~\n还有超好喝的橙汁 https://t.co/lSci1XROMQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，年初和年中驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3407,
+          "following_count": 2714,
+          "like_count": 32027,
+          "listed_count": 12,
+          "media_count": 708,
+          "tweet_count": 7361
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

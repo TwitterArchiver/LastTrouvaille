@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1886712913681113491",
+    "created_at": "2025-02-04T11:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T12:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886735262304088362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1851327101946953728",
+          "start": 0,
+          "username": "060105o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886735262304088362",
+    "in_reply_to_user_id": "1851327101946953728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886712913681113491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@060105o 好好休息\n记得多喝点热水👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1886712913681113491",
+        "created_at": "2025-02-04T11:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T12:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886735262304088362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1851327101946953728",
+              "start": 0,
+              "username": "060105o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886735262304088362",
+        "in_reply_to_user_id": "1851327101946953728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886712913681113491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@060105o 好好休息\n记得多喝点热水👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851327101946953728",
+        "conversation_id": "1886712913681113491",
+        "created_at": "2025-02-04T09:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T10:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886712913681113491"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886712913681113491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们想试试38度的我吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 2507,
+          "like_count": 12504,
+          "listed_count": 6,
+          "media_count": 228,
+          "tweet_count": 3019
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T18:16:07.000Z",
+        "description": "哇咔/e人/双向情感障碍/自残/o冰块/羽毛球/跳舞/06/164cm 50kg/双性恋/生活推/夹娃娃/治愈/满怀希望就会所向披靡/希望可以和更多的人成为朋友 一起聊天给你带来乐趣 /是一个刚接触推的小小白 /即使你没有米但是你真诚有趣有分享生活的欲望你依然可以和我成为朋友( *^-^)ρ(*╯^╰)༶ඬ༝ඬ༶",
+        "id": "1851327101946953728",
+        "location": "🚪20r",
+        "name": "哇咔",
+        "pinned_tweet_id": "1878507664684261834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855710973828702208/HGKYxt_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 202,
+          "like_count": 5233,
+          "listed_count": 2,
+          "media_count": 620,
+          "tweet_count": 3830
+        },
+        "username": "060105o",
+        "verified": false
+      }
+    ]
+  }
+}

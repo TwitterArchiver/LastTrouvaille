@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2053999609681437100",
+    "created_at": "2026-05-12T01:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T02:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054004451439194607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1305129071563534337",
+          "start": 0,
+          "username": "Ikyozi_SiYou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054004451439194607",
+    "in_reply_to_user_id": "1305129071563534337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054000827476627640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ikyozi_SiYou 重新安装了也没有用qaq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2053999609681437100",
+        "created_at": "2026-05-12T01:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T02:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054004451439194607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1305129071563534337",
+              "start": 0,
+              "username": "Ikyozi_SiYou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054004451439194607",
+        "in_reply_to_user_id": "1305129071563534337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054000827476627640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ikyozi_SiYou 重新安装了也没有用qaq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1305129071563534337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10028889887",
+              "name": "Google Play"
+            }
+          }
+        ],
+        "conversation_id": "2053999609681437100",
+        "created_at": "2026-05-12T00:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T01:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054000827476627640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054000827476627640",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053999609681437100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 要不要试试重新安装Google play（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦‖INFP-T‖轻抑‖今天也有变得更温柔可爱一点‖中粤英日‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4070,
+          "following_count": 2849,
+          "like_count": 45652,
+          "listed_count": 14,
+          "media_count": 944,
+          "tweet_count": 8899
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-13T13:00:03.000Z",
+        "description": "明月入怀，载月明归。｜a.k.a 似盈｜思柚 | 可以和我互fo呢! ｜ 小柚子 @Cloudy_partly_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "Cloudy_partly_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ikyozi_cn",
+                "end": 23,
+                "expanded_url": "https://t.me/ikyozi_cn",
+                "start": 0,
+                "url": "https://t.co/RpEkndCDmL"
+              }
+            ]
+          }
+        },
+        "id": "1305129071563534337",
+        "location": "Tientsin, CN",
+        "name": "IKYoZi",
+        "pinned_tweet_id": "2026996520369983940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049085813452075009/a78vy44r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 398,
+          "like_count": 12152,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 1150
+        },
+        "url": "https://t.co/RpEkndCDmL",
+        "username": "Ikyozi_SiYou",
+        "verified": false
+      }
+    ]
+  }
+}

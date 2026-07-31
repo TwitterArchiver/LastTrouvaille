@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2077995231098880387",
+    "created_at": "2026-07-17T13:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T14:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078110173235982372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "708412944",
+          "start": 0,
+          "username": "hottokekii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078110173235982372",
+    "in_reply_to_user_id": "708412944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078001810451906992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hottokekii 会不会也有点关系呢\n不过我也不是很清楚诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2077995231098880387",
+        "created_at": "2026-07-17T13:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078110173235982372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "708412944",
+              "start": 0,
+              "username": "hottokekii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078110173235982372",
+        "in_reply_to_user_id": "708412944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078001810451906992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hottokekii 会不会也有点关系呢\n不过我也不是很清楚诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "708412944",
+        "conversation_id": "2077995231098880387",
+        "created_at": "2026-07-17T06:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078001810451906992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078001810451906992",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077995231098880387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 欸欸在香港吃过同名店耶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4529,
+          "following_count": 2909,
+          "like_count": 50220,
+          "listed_count": 14,
+          "media_count": 1018,
+          "tweet_count": 9438
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-21T05:19:15.000Z",
+        "description": "呼呼呼呼呼",
+        "id": "708412944",
+        "name": "ホットケーキーす",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789190223026597888/s1KBggI4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 587,
+          "like_count": 14529,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 506
+        },
+        "url": "",
+        "username": "hottokekii",
+        "verified": false
+      }
+    ]
+  }
+}

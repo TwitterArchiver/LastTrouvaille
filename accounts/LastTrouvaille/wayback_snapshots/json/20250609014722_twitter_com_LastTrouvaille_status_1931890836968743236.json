@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1931883854924800030",
+    "created_at": "2025-06-09T01:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T02:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931890836968743236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1117281463710277633",
+          "start": 0,
+          "username": "utashimoshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931890836968743236",
+    "in_reply_to_user_id": "1117281463710277633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931883854924800030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@utashimoshi 诗诗姐早安"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1931883854924800030].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1931883854924800030",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1931883854924800030"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1931883854924800030",
+        "created_at": "2025-06-09T01:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T02:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931890836968743236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1117281463710277633",
+              "start": 0,
+              "username": "utashimoshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931890836968743236",
+        "in_reply_to_user_id": "1117281463710277633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931883854924800030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@utashimoshi 诗诗姐早安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2930,
+          "following_count": 2758,
+          "like_count": 26852,
+          "listed_count": 13,
+          "media_count": 559,
+          "tweet_count": 6292
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-14T04:20:33.000Z",
+        "description": "有个很可爱的人，正在读我的简介/infp/脾气超好，不会炸毛",
+        "id": "1117281463710277633",
+        "location": "御花会",
+        "name": "诗霜子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821847256791969799/JHZDhShS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 29082,
+          "following_count": 1971,
+          "like_count": 71146,
+          "listed_count": 48,
+          "media_count": 1449,
+          "tweet_count": 39943
+        },
+        "username": "utashimoshi",
+        "verified": false
+      }
+    ]
+  }
+}

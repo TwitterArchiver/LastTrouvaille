@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1896443448456311249",
+    "created_at": "2025-03-03T11:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T12:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896517943896514875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1814482728739655683",
+          "start": 0,
+          "username": "sonunsy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896517943896514875",
+    "in_reply_to_user_id": "1814482728739655683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896479625771171963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sonunsy 开抄！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1896443448456311249",
+        "created_at": "2025-03-03T11:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T12:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896517943896514875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1814482728739655683",
+              "start": 0,
+              "username": "sonunsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896517943896514875",
+        "in_reply_to_user_id": "1814482728739655683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896479625771171963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sonunsy 开抄！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814482728739655683",
+        "conversation_id": "1896443448456311249",
+        "created_at": "2025-03-03T08:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T09:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896479625771171963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896479625771171963",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896443448456311249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 抄抄我的（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ here's Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2047,
+          "following_count": 2270,
+          "like_count": 15122,
+          "listed_count": 7,
+          "media_count": 287,
+          "tweet_count": 3743
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T02:09:39.000Z",
+        "description": "希望在看的小可爱每天开心🥰🥰🥰/喜欢可爱和有趣的事物/超喜欢和小可爱贴贴抱抱(^.^)/友跨/二次元喜欢看番/喜欢听音乐欢迎分享音乐/超级友善不会炸毛/可以接受小可爱的瑟瑟骚扰，有烦心事也欢迎找我，我会尽我所能帮助你/有两只猫猫，正在烦恼如何让它们交配……喜欢交朋友，欢迎来fo我看到会回fo欢迎来提问↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lsymoom",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lsymoom",
+                "start": 0,
+                "url": "https://t.co/2u8ExMedJY"
+              }
+            ]
+          }
+        },
+        "id": "1814482728739655683",
+        "name": "沫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814483227983392768/4LKoIvVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 741,
+          "like_count": 17689,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 1836
+        },
+        "url": "https://t.co/2u8ExMedJY",
+        "username": "sonunsy",
+        "verified": false
+      }
+    ]
+  }
+}

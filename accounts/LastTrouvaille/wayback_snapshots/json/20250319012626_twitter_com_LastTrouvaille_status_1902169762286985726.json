@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902169759770406912"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1902169762286985726",
+    "created_at": "2025-03-19T01:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T02:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902169762286985726"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/50rJVSKmCl",
+          "end": 168,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1902169762286985726/photo/1",
+          "media_key": "3_1902169759770406912",
+          "start": 145,
+          "url": "https://t.co/50rJVSKmCl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902169762286985726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎呀哎呀，本来是打算就玩一小会推就跑路的，所以没怎么给墙内联络嘞（随时准备跑路x）\n然后本身也有这样的习惯，不太喜欢圈子混一起，要是我把墙内的公开出来的话就真的是准备退推了（） \n虽然这样说，但是如果想防失联的话也可以把联系方式给我？ww（感觉有点双标是怎么回事） \n总之大家一定要好好的 https://t.co/50rJVSKmCl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1902169762286985726].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1902169762286985726",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1902169762286985726"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 728,
+        "media_key": "3_1902169759770406912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmXdUYGa8AAutBG.jpg",
+        "width": 490
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2176,
+          "following_count": 2613,
+          "like_count": 17469,
+          "listed_count": 8,
+          "media_count": 340,
+          "tweet_count": 4187
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

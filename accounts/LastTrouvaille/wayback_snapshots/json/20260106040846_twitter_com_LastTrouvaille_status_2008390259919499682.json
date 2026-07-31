@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2007997062231818282",
+    "created_at": "2026-01-06T04:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T05:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008390259919499682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008390259919499682",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008387204364861617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar vico也是超级超级好！！🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2007997062231818282",
+        "created_at": "2026-01-06T04:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T05:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008390259919499682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008390259919499682",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008387204364861617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar vico也是超级超级好！！🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868205822511288320",
+        "conversation_id": "2007997062231818282",
+        "created_at": "2026-01-06T03:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T04:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008387204364861617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008387204364861617",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008210014134300715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 也是一个敏感细腻的人呢 超级善良 是vico在中推很好的朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，叫CC就好啦‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)熟的话不时话痨(雾)‖偶尔写诗填词‖穗&沪‖会内耗emo‖不许键政！！！‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园or纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3743,
+          "following_count": 2799,
+          "like_count": 38669,
+          "listed_count": 14,
+          "media_count": 829,
+          "tweet_count": 8250
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "本公司提示 吸烟有害健康 请勿在禁烟场所吸烟 尽早戒烟有益健康 戒烟可减少对健康的伤害",
+        "id": "1868205822511288320",
+        "location": "我来自我爸金叶",
+        "name": "万宝胃",
+        "pinned_tweet_id": "1995735816644055184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005423161458954240/F8ZcPAiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4429,
+          "following_count": 306,
+          "like_count": 23176,
+          "listed_count": 13,
+          "media_count": 965,
+          "tweet_count": 13799
+        },
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

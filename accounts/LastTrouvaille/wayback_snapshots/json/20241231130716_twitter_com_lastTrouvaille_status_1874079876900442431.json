@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1874076052768907325",
+    "created_at": "2024-12-31T13:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T14:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874079876900442431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1700910135584178176",
+          "start": 0,
+          "username": "gufkda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874079876900442431",
+    "in_reply_to_user_id": "1700910135584178176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874076052768907325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gufkda 好可爱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1874076052768907325",
+        "created_at": "2024-12-31T13:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T14:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874079876900442431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1700910135584178176",
+              "start": 0,
+              "username": "gufkda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874079876900442431",
+        "in_reply_to_user_id": "1700910135584178176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874076052768907325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gufkda 好可爱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874076047593123840",
+            "3_1874076047593132032"
+          ]
+        },
+        "author_id": "1700910135584178176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1874076052768907325",
+        "created_at": "2024-12-31T12:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T13:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874076052768907325"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 2,
+              "tag": "ホシノ"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "ブルアカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3XNpyTmSNk",
+              "end": 36,
+              "expanded_url": "https://x.com/gufkda/status/1874076052768907325/photo/1",
+              "media_key": "3_1874076047593123840",
+              "start": 13,
+              "url": "https://t.co/3XNpyTmSNk"
+            },
+            {
+              "display_url": "pic.x.com/3XNpyTmSNk",
+              "end": 36,
+              "expanded_url": "https://x.com/gufkda/status/1874076052768907325/photo/1",
+              "media_key": "3_1874076047593132032",
+              "start": 13,
+              "url": "https://t.co/3XNpyTmSNk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874076052768907325",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 651,
+          "like_count": 26,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "😴\n#ホシノ\n#ブルアカ https://t.co/3XNpyTmSNk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 1801,
+          "like_count": 8277,
+          "listed_count": 4,
+          "media_count": 169,
+          "tweet_count": 2038
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T16:32:40.000Z",
+        "description": "안녕하세요",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spinspin.net/gufkda",
+                "end": 23,
+                "expanded_url": "https://spinspin.net/gufkda",
+                "start": 0,
+                "url": "https://t.co/UvKuVUXTFg"
+              }
+            ]
+          }
+        },
+        "id": "1700910135584178176",
+        "name": "교",
+        "pinned_tweet_id": "1874076052768907325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822728262906470400/MYEJnZ31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 211,
+          "like_count": 6635,
+          "listed_count": 4,
+          "media_count": 7,
+          "tweet_count": 816
+        },
+        "url": "https://t.co/UvKuVUXTFg",
+        "username": "gufkda",
+        "verified": false
+      }
+    ]
+  }
+}

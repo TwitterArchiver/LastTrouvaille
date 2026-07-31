@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2080984559500644352"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "2080984592601997638",
+    "created_at": "2026-07-25T11:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080984592601997638"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PVNiNKnaDy",
+          "end": 63,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2080984592601997638/video/1",
+          "media_key": "7_2080984559500644352",
+          "start": 40,
+          "url": "https://t.co/PVNiNKnaDy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080984592601997638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "情人团聚的小心愿\n离开一段开一段新一段\n人间的圆虽则是不够缘\n而有生一天会遇见 https://t.co/PVNiNKnaDy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 94644,
+        "height": 720,
+        "media_key": "7_2080984559500644352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2080984559500644352/pu/img/xrQEj9rkx0ErbGgX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080984559500644352/pu/vid/avc1/406x270/QFEbSfEoOoBfXBI-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080984559500644352/pu/vid/avc1/542x360/eRuogFeKvJvvVAPo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080984559500644352/pu/vid/avc1/1086x720/8nqPbIe7swnZ9e36.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2080984559500644352/pu/pl/hbMSffN43gPrQ898.m3u8?tag=12"
+          }
+        ],
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2080984559500644352"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2080984592601997638",
+        "created_at": "2026-07-25T11:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080984592601997638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PVNiNKnaDy",
+              "end": 63,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2080984592601997638/video/1",
+              "media_key": "7_2080984559500644352",
+              "start": 40,
+              "url": "https://t.co/PVNiNKnaDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080984592601997638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "情人团聚的小心愿\n离开一段开一段新一段\n人间的圆虽则是不够缘\n而有生一天会遇见 https://t.co/PVNiNKnaDy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4529,
+          "following_count": 2920,
+          "like_count": 50604,
+          "listed_count": 14,
+          "media_count": 1022,
+          "tweet_count": 9458
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

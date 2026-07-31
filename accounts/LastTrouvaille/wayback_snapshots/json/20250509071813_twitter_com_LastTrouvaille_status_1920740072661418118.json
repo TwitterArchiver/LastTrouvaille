@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1920496019542061262",
+    "created_at": "2025-05-09T07:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T08:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920740072661418118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767829598417620992",
+          "start": 0,
+          "username": "128Gchichichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920740072661418118",
+    "in_reply_to_user_id": "1767829598417620992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920735570554134774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@128Gchichichi 就是嘛，自己玩的开心就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1920496019542061262",
+        "created_at": "2025-05-09T07:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T08:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920740072661418118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767829598417620992",
+              "start": 0,
+              "username": "128Gchichichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920740072661418118",
+        "in_reply_to_user_id": "1767829598417620992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920735570554134774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@128Gchichichi 就是嘛，自己玩的开心就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767829598417620992",
+        "conversation_id": "1920496019542061262",
+        "created_at": "2025-05-09T07:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T08:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920735570554134774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920735570554134774",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920496019542061262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 竞技类游戏都这样的吧，原先玩辅助碰上很菜的射手真的想骂人但是现在也看开了，游戏嘛怎么让自己高兴怎么来呗（后来就去玩中路了）。现在玩枪战游戏老是被自己的伪人操作逗笑😗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2777,
+          "following_count": 2768,
+          "like_count": 23474,
+          "listed_count": 12,
+          "media_count": 493,
+          "tweet_count": 5627
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T08:26:59.000Z",
+        "description": "enfp 快乐小狗 纯情女高 土豆教和姜魔王势不两立！ 网瘾少女/碎碎念    入门🚪预约陪玩/纯绿",
+        "id": "1767829598417620992",
+        "location": "香香的梦里",
+        "name": "今天的胃是128G！",
+        "pinned_tweet_id": "1902188142880518533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767831460457975808/klbRwYqf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 185,
+          "like_count": 875,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 767
+        },
+        "username": "128Gchichichi",
+        "verified": false
+      }
+    ]
+  }
+}

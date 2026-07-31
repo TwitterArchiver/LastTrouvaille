@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2061467752250921433",
+    "created_at": "2026-06-01T23:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T00:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061592161070833741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061592161070833741",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061467752250921433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 萌w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061467749210071040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvN_uuXIAAQj7r.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2061467752250921433",
+        "created_at": "2026-06-01T23:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T00:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061592161070833741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061592161070833741",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061467752250921433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 萌w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061467749210071040"
+          ]
+        },
+        "author_id": "965583779380129792",
+        "conversation_id": "2061467752250921433",
+        "created_at": "2026-06-01T15:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061467752250921433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x1oqTFuqjS",
+              "end": 48,
+              "expanded_url": "https://x.com/mario_2333/status/2061467752250921433/photo/1",
+              "media_key": "3_2061467749210071040",
+              "start": 25,
+              "url": "https://t.co/x1oqTFuqjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061467752250921433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2157,
+          "like_count": 139,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "变成儿童祝你儿童节快乐(⁠*⁠´⁠ω⁠｀⁠*⁠) https://t.co/x1oqTFuqjS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖不许键政🚫‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille3",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille3",
+                "start": 0,
+                "url": "https://t.co/8rca0idckk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4507,
+          "following_count": 2875,
+          "like_count": 47188,
+          "listed_count": 14,
+          "media_count": 979,
+          "tweet_count": 9232
+        },
+        "url": "https://t.co/8rca0idckk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我🥰 | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | 私信可能看不到非常抱歉qwq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8AZ2t"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+2",
+        "name": "🍭Mario🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3610,
+          "following_count": 268,
+          "like_count": 50911,
+          "listed_count": 17,
+          "media_count": 1060,
+          "tweet_count": 16698
+        },
+        "url": "https://t.co/pjgtS8AZ2t",
+        "username": "mario_2333",
+        "verified": true
+      }
+    ]
+  }
+}

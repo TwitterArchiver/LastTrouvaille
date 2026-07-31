@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1880479138399809744",
+    "created_at": "2025-01-18T06:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T07:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880509445916225796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841847755691745280",
+          "start": 0,
+          "username": "jimi_yang22770"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880509445916225796",
+    "in_reply_to_user_id": "1841847755691745280",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880508635450863621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jimi_yang22770 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1880479138399809744",
+        "created_at": "2025-01-18T06:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T07:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880509445916225796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841847755691745280",
+              "start": 0,
+              "username": "jimi_yang22770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880509445916225796",
+        "in_reply_to_user_id": "1841847755691745280",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880508635450863621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jimi_yang22770 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841847755691745280",
+        "conversation_id": "1880479138399809744",
+        "created_at": "2025-01-18T06:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T07:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880508635450863621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880508635450863621",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880508345460879862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 好好好🥺\nCC妈妈别激动（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 2201,
+          "like_count": 10473,
+          "listed_count": 4,
+          "media_count": 206,
+          "tweet_count": 2612
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T14:28:28.000Z",
+        "description": "可以直接叫我姓氏\n🇭🇰\n政治左傾（社會民主主義）\n友跨 男\n 我不搞基（）\n  ENTJ  \n間歇性極端\n  喜歡運動（现已成宅男）\n\n怎么你们都那么变态，我跟不上节奏啊",
+        "id": "1841847755691745280",
+        "location": "永远在你们身边哦（我就在你身后看着你(｡･ω･｡)ﾉ♡）",
+        "name": "楊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879717151269122048/XRMSx7d4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 866,
+          "like_count": 24948,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 4714
+        },
+        "username": "jimi_yang22770",
+        "verified": false
+      }
+    ]
+  }
+}

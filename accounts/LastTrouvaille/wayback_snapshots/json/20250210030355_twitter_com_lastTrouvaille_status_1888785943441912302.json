@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1888538882033233951",
+    "created_at": "2025-02-10T03:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T04:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888785943441912302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1794147619234803712",
+          "start": 0,
+          "username": "yinbaimingyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888785943441912302",
+    "in_reply_to_user_id": "1794147619234803712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888712300158488590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinbaimingyue 下学期再说（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1888538882033233951",
+        "created_at": "2025-02-10T03:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T04:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888785943441912302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1794147619234803712",
+              "start": 0,
+              "username": "yinbaimingyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888785943441912302",
+        "in_reply_to_user_id": "1794147619234803712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888712300158488590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinbaimingyue 下学期再说（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888712297625034753"
+          ]
+        },
+        "author_id": "1794147619234803712",
+        "conversation_id": "1888538882033233951",
+        "created_at": "2025-02-09T22:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T23:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888712300158488590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0G8svgWCW",
+              "end": 48,
+              "expanded_url": "https://x.com/yinbaimingyue/status/1888712300158488590/photo/1",
+              "media_key": "3_1888712297625034753",
+              "start": 25,
+              "url": "https://t.co/A0G8svgWCW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888712300158488590",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888538882033233951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 能给我发腿照看吗 https://t.co/A0G8svgWCW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1938,
+          "following_count": 2062,
+          "like_count": 12627,
+          "listed_count": 7,
+          "media_count": 241,
+          "tweet_count": 3259
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T23:25:11.000Z",
+        "description": "将心高举在天空，让爱意化成淡淡月光。",
+        "id": "1794147619234803712",
+        "name": "银白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878489014715760641/xKxv-Sq-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 184,
+          "like_count": 3767,
+          "listed_count": 1,
+          "media_count": 581,
+          "tweet_count": 1236
+        },
+        "username": "yinbaimingyue",
+        "verified": false
+      }
+    ]
+  }
+}

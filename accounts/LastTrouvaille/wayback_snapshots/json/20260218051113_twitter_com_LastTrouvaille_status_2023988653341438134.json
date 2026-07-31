@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2023970902929506619",
+    "created_at": "2026-02-18T05:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T06:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023988653341438134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1502278264210878466",
+          "start": 0,
+          "username": "Taiga0u0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023988653341438134",
+    "in_reply_to_user_id": "1502278264210878466",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023980944806605291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Taiga0u0 ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2023970902929506619",
+        "created_at": "2026-02-18T05:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023988653341438134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1502278264210878466",
+              "start": 0,
+              "username": "Taiga0u0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023988653341438134",
+        "in_reply_to_user_id": "1502278264210878466",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023980944806605291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Taiga0u0 ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502278264210878466",
+        "conversation_id": "2023970902929506619",
+        "created_at": "2026-02-18T04:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023980944806605291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023980944806605291",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023970902929506619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 我自带碗筷🤤🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，叫CC就好🫶‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)熟的话不时话痨(雾)‖穗&沪‖会内耗emo‖不许键政🚫！！！‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7RpK"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3878,
+          "following_count": 2849,
+          "like_count": 41602,
+          "listed_count": 14,
+          "media_count": 874,
+          "tweet_count": 8549
+        },
+        "url": "https://t.co/TWu8nv7RpK",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-11T13:40:31.000Z",
+        "description": "🍋",
+        "id": "1502278264210878466",
+        "location": "事已至此 先睡觉吧",
+        "name": "逢坂轻柠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709205277701271552/fqPvZBdH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3104,
+          "following_count": 1327,
+          "like_count": 31997,
+          "listed_count": 7,
+          "media_count": 1555,
+          "tweet_count": 7439
+        },
+        "username": "Taiga0u0",
+        "verified": false
+      }
+    ]
+  }
+}

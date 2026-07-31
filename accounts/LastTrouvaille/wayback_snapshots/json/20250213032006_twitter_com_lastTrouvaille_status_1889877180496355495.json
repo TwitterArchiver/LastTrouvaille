@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1889775835194028055",
+    "created_at": "2025-02-13T03:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T04:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889877180496355495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1762120281626415104",
+          "start": 0,
+          "username": "X_jvzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889877180496355495",
+    "in_reply_to_user_id": "1762120281626415104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889775835194028055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X_jvzhi 有时候我也在纠结这个（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1889775835194028055",
+        "created_at": "2025-02-13T03:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T04:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889877180496355495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1762120281626415104",
+              "start": 0,
+              "username": "X_jvzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889877180496355495",
+        "in_reply_to_user_id": "1762120281626415104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889775835194028055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X_jvzhi 有时候我也在纠结这个（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1889775834157965312"
+          ]
+        },
+        "author_id": "1762120281626415104",
+        "conversation_id": "1889775835194028055",
+        "created_at": "2025-02-12T20:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T21:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889775835194028055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889775835194028055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想发梗图赚点流量，但是又不符合这个账号的风格欸，好纠结_(:з」∠)_"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Nice to meet you~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 2065,
+          "like_count": 12837,
+          "listed_count": 6,
+          "media_count": 245,
+          "tweet_count": 3311
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T14:19:56.000Z",
+        "description": "好耶～放飞自我啦～",
+        "id": "1762120281626415104",
+        "name": "橘枳",
+        "pinned_tweet_id": "1886692793537433697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872202164141178880/U1rrhR63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 111,
+          "like_count": 19033,
+          "listed_count": 7,
+          "media_count": 150,
+          "tweet_count": 6943
+        },
+        "username": "X_jvzhi",
+        "verified": false
+      }
+    ]
+  }
+}

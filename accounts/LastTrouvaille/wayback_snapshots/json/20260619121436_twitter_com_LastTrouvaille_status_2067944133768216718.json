@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2067662162546614695",
+    "created_at": "2026-06-19T12:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067944133768216718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2054775406511996928",
+          "start": 0,
+          "username": "fCvPzItfCD19994"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067944133768216718",
+    "in_reply_to_user_id": "2054775406511996928",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067921700369645594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fCvPzItfCD19994 ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2067662162546614695",
+        "created_at": "2026-06-19T12:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067944133768216718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2054775406511996928",
+              "start": 0,
+              "username": "fCvPzItfCD19994"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067944133768216718",
+        "in_reply_to_user_id": "2054775406511996928",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067921700369645594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fCvPzItfCD19994 ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054775406511996928",
+        "conversation_id": "2067662162546614695",
+        "created_at": "2026-06-19T10:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067921700369645594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067921700369645594",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067662162546614695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 要是有个投影仪，来点冰镇小酒小烧烤，小沙发一躺依偎在怀里广告时间互相犯贱或者亲吻ohhhhhhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】叫CC就好‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖不许键政🚫‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille3",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille3",
+                "start": 0,
+                "url": "https://t.co/8rca0idckk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4509,
+          "following_count": 2906,
+          "like_count": 48037,
+          "listed_count": 14,
+          "media_count": 1001,
+          "tweet_count": 9309
+        },
+        "url": "https://t.co/8rca0idckk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T04:07:10.000Z",
+        "description": "看到这句话的陌生人天天开心",
+        "id": "2054775406511996928",
+        "name": "不要烦恼",
+        "pinned_tweet_id": "2058966863686840329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057807747975139328/jmehqwjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 36,
+          "like_count": 593,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "fCvPzItfCD19994",
+        "verified": false
+      }
+    ]
+  }
+}

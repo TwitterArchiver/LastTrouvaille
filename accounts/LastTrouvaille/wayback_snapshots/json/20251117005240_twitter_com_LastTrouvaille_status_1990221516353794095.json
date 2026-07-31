@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990221513262551041"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1990221516353794095",
+    "created_at": "2025-11-17T00:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T01:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990221516353794095"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5DXcVmsOAH",
+          "end": 23,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1990221516353794095/photo/1",
+          "media_key": "3_1990221513262551041",
+          "start": 0,
+          "url": "https://t.co/5DXcVmsOAH"
+        },
+        {
+          "display_url": "x.com/hitomi_kashiwa…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/hitomi_kashiwa/status/1989650606320197673",
+          "start": 24,
+          "url": "https://t.co/GgFcymeSnH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990221516353794095",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989650606320197673",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/5DXcVmsOAH https://t.co/GgFcymeSnH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1356,
+        "media_key": "3_1990221513262551041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G56v6_Ja0AE35TF.jpg",
+        "width": 960
+      },
+      {
+        "height": 1752,
+        "media_key": "3_1989650601006047232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5yorhQboAAB5Za.jpg",
+        "width": 1240
+      },
+      {
+        "height": 1557,
+        "media_key": "3_1989650600997654532",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5yorhObkAQxuvG.jpg",
+        "width": 1102
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990221513262551041"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "1990221516353794095",
+        "created_at": "2025-11-17T00:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T01:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990221516353794095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5DXcVmsOAH",
+              "end": 23,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1990221516353794095/photo/1",
+              "media_key": "3_1990221513262551041",
+              "start": 0,
+              "url": "https://t.co/5DXcVmsOAH"
+            },
+            {
+              "display_url": "x.com/hitomi_kashiwa…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/hitomi_kashiwa/status/1989650606320197673",
+              "start": 24,
+              "url": "https://t.co/GgFcymeSnH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990221516353794095",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989650606320197673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/5DXcVmsOAH https://t.co/GgFcymeSnH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989650601006047232",
+            "3_1989650600997654532"
+          ]
+        },
+        "author_id": "2826296869",
+        "conversation_id": "1989650606320197673",
+        "created_at": "2025-11-15T11:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T12:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989650606320197673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yjKiN4SsPB",
+              "end": 39,
+              "expanded_url": "https://x.com/hitomi_kashiwa/status/1989650606320197673/photo/1",
+              "media_key": "3_1989650601006047232",
+              "start": 16,
+              "url": "https://t.co/yjKiN4SsPB"
+            },
+            {
+              "display_url": "pic.x.com/yjKiN4SsPB",
+              "end": 39,
+              "expanded_url": "https://x.com/hitomi_kashiwa/status/1989650606320197673/photo/1",
+              "media_key": "3_1989650600997654532",
+              "start": 16,
+              "url": "https://t.co/yjKiN4SsPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989650606320197673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6557,
+          "impression_count": 959400,
+          "like_count": 41300,
+          "quote_count": 130,
+          "reply_count": 51,
+          "retweet_count": 2458
+        },
+        "reply_settings": "everyone",
+        "text": "最近クラスメイトがグイグイくる https://t.co/yjKiN4SsPB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，年初和年中驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3604,
+          "following_count": 2779,
+          "like_count": 34162,
+          "listed_count": 13,
+          "media_count": 736,
+          "tweet_count": 7631
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-22T12:13:04.000Z",
+        "description": "絵描きます",
+        "id": "2826296869",
+        "name": "かしわ@C107 2日目ふ21b",
+        "pinned_tweet_id": "1981683357730939383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913236201630502912/74q4hni-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103419,
+          "following_count": 947,
+          "like_count": 109466,
+          "listed_count": 853,
+          "media_count": 358,
+          "tweet_count": 52890
+        },
+        "username": "hitomi_kashiwa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2062702043224215553"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "2062702086136144079",
+    "created_at": "2026-06-05T01:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T02:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062702086136144079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sHvgUBfhIw",
+          "end": 129,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2062702086136144079/video/1",
+          "media_key": "7_2062702043224215553",
+          "start": 106,
+          "url": "https://t.co/sHvgUBfhIw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062702086136144079",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "成為遺憾的小心願\n誠心許願一千段都甘願\n如果保存幸福一段\n這一段都一樣暖\n縱使譜不上美滿的，圓的線\n————\n人生没有圆满，但你总会是wonderful you\n————\n想要做到完美\n可惜最后弹错了一个音节（ https://t.co/sHvgUBfhIw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 99799,
+        "height": 720,
+        "media_key": "7_2062702043224215553",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062702043224215553/pu/img/zC4hF5i8fafJezN-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062702043224215553/pu/vid/avc1/404x270/C4UWG37bFWbMoKWz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062702043224215553/pu/vid/avc1/538x360/UerTtMb1mrjHzsxV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062702043224215553/pu/vid/avc1/1078x720/raU17qyUhQIU79gE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062702043224215553/pu/pl/Ju8FwLF287CMsKIM.m3u8?tag=12"
+          }
+        ],
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062702043224215553"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2062702086136144079",
+        "created_at": "2026-06-05T01:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062702086136144079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sHvgUBfhIw",
+              "end": 129,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2062702086136144079/video/1",
+              "media_key": "7_2062702043224215553",
+              "start": 106,
+              "url": "https://t.co/sHvgUBfhIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062702086136144079",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成為遺憾的小心願\n誠心許願一千段都甘願\n如果保存幸福一段\n這一段都一樣暖\n縱使譜不上美滿的，圓的線\n————\n人生没有圆满，但你总会是wonderful you\n————\n想要做到完美\n可惜最后弹错了一个音节（ https://t.co/sHvgUBfhIw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖不许键政🚫‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille3",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille3",
+                "start": 0,
+                "url": "https://t.co/8rca0idckk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4503,
+          "following_count": 2884,
+          "like_count": 47284,
+          "listed_count": 14,
+          "media_count": 982,
+          "tweet_count": 9243
+        },
+        "url": "https://t.co/8rca0idckk",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

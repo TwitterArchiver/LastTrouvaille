@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077995221699506177",
+        "3_2077995221871464448"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2077995231098880387",
+    "created_at": "2026-07-17T05:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T06:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077995231098880387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4SE3MnGTZN",
+          "end": 145,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2077995231098880387/photo/1",
+          "media_key": "3_2077995221699506177",
+          "start": 122,
+          "url": "https://t.co/4SE3MnGTZN"
+        },
+        {
+          "display_url": "pic.x.com/4SE3MnGTZN",
+          "end": 145,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2077995231098880387/photo/1",
+          "media_key": "3_2077995221871464448",
+          "start": 122,
+          "url": "https://t.co/4SE3MnGTZN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077995231098880387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "探店第三期（？）\n今天去了莲香楼吃中午饭~\n虽然名气不如广州酒家和陶陶居\n但是莲香楼在老一辈人记忆里还是很有名的\n点了一份叉烧肠粉，皮蛋瘦肉粥还有猪肝烧麦\n整体口感还是很可以的呢\n出品很地道，让CC想起来小时候的味道了\n哎呀哎呀，真有点怀念呀 https://t.co/4SE3MnGTZN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077995221699506177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNaFpPpbsAEXPMR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 468,
+        "media_key": "3_2077995221871464448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNaFpQSbkAA2eES.jpg",
+        "width": 591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077995221699506177",
+            "3_2077995221871464448"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077995231098880387",
+        "created_at": "2026-07-17T05:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077995231098880387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4SE3MnGTZN",
+              "end": 145,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2077995231098880387/photo/1",
+              "media_key": "3_2077995221699506177",
+              "start": 122,
+              "url": "https://t.co/4SE3MnGTZN"
+            },
+            {
+              "display_url": "pic.x.com/4SE3MnGTZN",
+              "end": 145,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2077995231098880387/photo/1",
+              "media_key": "3_2077995221871464448",
+              "start": 122,
+              "url": "https://t.co/4SE3MnGTZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077995231098880387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "探店第三期（？）\n今天去了莲香楼吃中午饭~\n虽然名气不如广州酒家和陶陶居\n但是莲香楼在老一辈人记忆里还是很有名的\n点了一份叉烧肠粉，皮蛋瘦肉粥还有猪肝烧麦\n整体口感还是很可以的呢\n出品很地道，让CC想起来小时候的味道了\n哎呀哎呀，真有点怀念呀 https://t.co/4SE3MnGTZN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4529,
+          "following_count": 2910,
+          "like_count": 50178,
+          "listed_count": 14,
+          "media_count": 1018,
+          "tweet_count": 9434
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

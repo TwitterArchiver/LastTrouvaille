@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1949530936250618128",
+    "created_at": "2025-07-28T07:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T08:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949741018858836025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1871177296763314176",
+          "start": 0,
+          "username": "Allknowbody2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949741018858836025",
+    "in_reply_to_user_id": "1871177296763314176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949707114097582428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allknowbody2 为啥呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1949530936250618128",
+        "created_at": "2025-07-28T07:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T08:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949741018858836025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1871177296763314176",
+              "start": 0,
+              "username": "Allknowbody2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949741018858836025",
+        "in_reply_to_user_id": "1871177296763314176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949707114097582428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allknowbody2 为啥呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871177296763314176",
+        "conversation_id": "1949530936250618128",
+        "created_at": "2025-07-28T05:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T06:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949707114097582428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949707114097582428",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949530936250618128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 我有有姐姐，感觉还是太……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3215,
+          "following_count": 2692,
+          "like_count": 29496,
+          "listed_count": 12,
+          "media_count": 620,
+          "tweet_count": 6802
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T12:53:32.000Z",
+        "description": "大号@allknowbody 因为忘记密码不用了，b人是因为你该b，火影忍者手游超影3000分，没人比我更懂木柜子👆🏻朴正熙吧黄牌🐞友泛右友好，私信互粉小号@hvyjbhjj78253 亲友墙：@elysia19990926\n@Arishia_404 @X_user_17900 @ElP15_ 萝莉@wcecya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "allknowbody"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "hvyjbhjj78253"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "elysia19990926"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "Arishia_404"
+              },
+              {
+                "end": 139,
+                "start": 126,
+                "username": "X_user_17900"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "ElP15_"
+              },
+              {
+                "end": 157,
+                "start": 150,
+                "username": "wcecya"
+              }
+            ]
+          }
+        },
+        "id": "1871177296763314176",
+        "location": "神圣泰拉",
+        "name": "喜欢百合の特别周（私信互粉）",
+        "pinned_tweet_id": "1880093417642021216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946155015380361216/PIn1J9hm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 618,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 4483,
+          "tweet_count": 11124
+        },
+        "username": "Allknowbody2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1906219354381046116",
+    "created_at": "2025-03-30T07:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T08:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906248648020935153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1282832893304242178",
+          "start": 0,
+          "username": "baihui_Ke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906248648020935153",
+    "in_reply_to_user_id": "1282832893304242178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906219952832655749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baihui_Ke 原来是香片吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1906219354381046116",
+        "created_at": "2025-03-30T07:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T08:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906248648020935153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1282832893304242178",
+              "start": 0,
+              "username": "baihui_Ke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906248648020935153",
+        "in_reply_to_user_id": "1282832893304242178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906219952832655749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baihui_Ke 原来是香片吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1282832893304242178",
+        "conversation_id": "1906219354381046116",
+        "created_at": "2025-03-30T05:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T06:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906219952832655749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906219952832655749",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906219354381046116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 感觉好多车都挂这个香片🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 2642,
+          "like_count": 18469,
+          "listed_count": 12,
+          "media_count": 383,
+          "tweet_count": 4466
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-14T00:23:01.000Z",
+        "description": "01年丨我喜欢你==",
+        "id": "1282832893304242178",
+        "location": "距离你2.3km",
+        "name": "白灰",
+        "pinned_tweet_id": "1890054887813296135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903083071718735872/gs2mJHLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 1116,
+          "like_count": 10036,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 4595
+        },
+        "username": "baihui_Ke",
+        "verified": false
+      }
+    ]
+  }
+}

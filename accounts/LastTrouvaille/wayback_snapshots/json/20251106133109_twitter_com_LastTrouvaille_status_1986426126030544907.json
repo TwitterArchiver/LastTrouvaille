@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1986426045114060997",
+    "created_at": "2025-11-06T13:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T14:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986426126030544907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "One Last Kiss 卢浮宫生成器 风格 图片转线稿 封面生成 宇多田光 神奇海螺实验室",
+          "display_url": "lab.magiconch.com/one-last-image/",
+          "end": 23,
+          "expanded_url": "https://lab.magiconch.com/one-last-image/",
+          "start": 0,
+          "status": 200,
+          "title": "One Last Image - 卢浮宫生成器 - One Last Kiss 风格 封面生成 图片转线稿 - 神奇海螺实验室",
+          "unwound_url": "https://lab.magiconch.com/one-last-image/",
+          "url": "https://t.co/m5wsvd0VG7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986426126030544907",
+    "in_reply_to_user_id": "1691242509815754754",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986426045114060997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/m5wsvd0VG7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1720,
+        "media_key": "3_1986426039921504256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Ez9XIbcAAYFdU.jpg",
+        "width": 1730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1986426045114060997",
+        "created_at": "2025-11-06T13:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T14:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986426126030544907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "One Last Kiss 卢浮宫生成器 风格 图片转线稿 封面生成 宇多田光 神奇海螺实验室",
+              "display_url": "lab.magiconch.com/one-last-image/",
+              "end": 23,
+              "expanded_url": "https://lab.magiconch.com/one-last-image/",
+              "start": 0,
+              "status": 200,
+              "title": "One Last Image - 卢浮宫生成器 - One Last Kiss 风格 封面生成 图片转线稿 - 神奇海螺实验室",
+              "unwound_url": "https://lab.magiconch.com/one-last-image/",
+              "url": "https://t.co/m5wsvd0VG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986426126030544907",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986426045114060997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/m5wsvd0VG7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986426039921504256"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "1986426045114060997",
+        "created_at": "2025-11-06T13:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T14:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986426045114060997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2jYjaDRbHw",
+              "end": 54,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1986426045114060997/photo/1",
+              "media_key": "3_1986426039921504256",
+              "start": 31,
+              "url": "https://t.co/2jYjaDRbHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986426045114060997",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "This is my own \"one last kiss\" https://t.co/2jYjaDRbHw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，年初和年中驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3562,
+          "following_count": 2751,
+          "like_count": 33803,
+          "listed_count": 12,
+          "media_count": 728,
+          "tweet_count": 7560
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

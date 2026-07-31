@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1880648874639213027",
+    "created_at": "2025-01-18T16:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T17:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880650372798431368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1737053348740603904",
+          "start": 0,
+          "username": "shiroko2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880650372798431368",
+    "in_reply_to_user_id": "1737053348740603904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880648874639213027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiroko2024 何止是好看🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1880648874639213027",
+        "created_at": "2025-01-18T16:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T17:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880650372798431368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1737053348740603904",
+              "start": 0,
+              "username": "shiroko2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880650372798431368",
+        "in_reply_to_user_id": "1737053348740603904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880648874639213027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiroko2024 何止是好看🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880648870562271232"
+          ]
+        },
+        "author_id": "1737053348740603904",
+        "conversation_id": "1880648874639213027",
+        "created_at": "2025-01-18T16:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T17:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880648874639213027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ANgVjpKiZc",
+              "end": 30,
+              "expanded_url": "https://x.com/shiroko2024/status/1880648874639213027/photo/1",
+              "media_key": "3_1880648870562271232",
+              "start": 7,
+              "url": "https://t.co/ANgVjpKiZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880648874639213027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个好看一些 https://t.co/ANgVjpKiZc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 2208,
+          "like_count": 10509,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 2624
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T10:13:24.000Z",
+        "description": "白子单推人！！！\n妈妈 @kurioshifio | 好朋友 @GlimpseAbyss | 爱你 @squirrelGUW | 老婆 @MeowSakur76073 | 极端人士魔怔人和粉红退散|友跨LGBT的顺直",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "kurioshifio"
+              },
+              {
+                "end": 44,
+                "start": 31,
+                "username": "GlimpseAbyss"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "squirrelGUW"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "MeowSakur76073"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/shirok…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/shiroko2024.bsky.social",
+                "start": 0,
+                "url": "https://t.co/ourvdZc0Xc"
+              }
+            ]
+          }
+        },
+        "id": "1737053348740603904",
+        "location": "阿拜多斯职业高中",
+        "name": "砂狼白子",
+        "pinned_tweet_id": "1867208961969246582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880203717175390208/mHgrm5CH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3625,
+          "following_count": 1071,
+          "like_count": 120836,
+          "listed_count": 11,
+          "media_count": 1047,
+          "tweet_count": 8449
+        },
+        "url": "https://t.co/ourvdZc0Xc",
+        "username": "shiroko2024",
+        "verified": false
+      }
+    ]
+  }
+}

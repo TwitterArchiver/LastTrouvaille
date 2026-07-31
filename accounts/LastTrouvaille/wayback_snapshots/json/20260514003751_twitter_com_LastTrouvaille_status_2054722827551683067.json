@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2052584357349728631",
+    "created_at": "2026-05-14T00:37:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T01:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054722827551683067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1899865930467074048",
+          "start": 0,
+          "username": "_Dopingdancer_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054722827551683067",
+    "in_reply_to_user_id": "1899865930467074048",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054684554104107354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Dopingdancer_ 🙏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2052584357349728631",
+        "created_at": "2026-05-14T00:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054722827551683067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1899865930467074048",
+              "start": 0,
+              "username": "_Dopingdancer_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054722827551683067",
+        "in_reply_to_user_id": "1899865930467074048",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054684554104107354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Dopingdancer_ 🙏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899865930467074048",
+        "conversation_id": "2052584357349728631",
+        "created_at": "2026-05-13T22:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T23:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054684554104107354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054684554104107354",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052584357349728631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 创造一个没有早八的世界……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦‖INFP-T‖轻抑‖今天也有变得更温柔可爱一点‖中粤英日‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4068,
+          "following_count": 2849,
+          "like_count": 45775,
+          "listed_count": 14,
+          "media_count": 946,
+          "tweet_count": 8911
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T16:53:01.000Z",
+        "description": "请将更多更多的爱给予我吧\n爱发电:https://t.co/BDsaLrcA4a\n🚪5r，置顶qq群内相册有全图鉴，不定时更新",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ifdian.net/a/NAMIDAdayo",
+                "end": 40,
+                "expanded_url": "https://ifdian.net/a/NAMIDAdayo",
+                "start": 17,
+                "url": "https://t.co/BDsaLrcA4a"
+              }
+            ]
+          }
+        },
+        "id": "1899865930467074048",
+        "location": "神域",
+        "name": "SUI",
+        "pinned_tweet_id": "1956041755780112621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899868434198126592/eJbRP7jS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3399,
+          "following_count": 286,
+          "like_count": 2134,
+          "listed_count": 14,
+          "media_count": 359,
+          "tweet_count": 699
+        },
+        "username": "_Dopingdancer_",
+        "verified": false
+      }
+    ]
+  }
+}

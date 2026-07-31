@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2013832461071909226",
+    "created_at": "2026-01-21T07:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T08:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013871465939247106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1270562151212568576",
+          "start": 0,
+          "username": "CCaramelbabe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013871465939247106",
+    "in_reply_to_user_id": "1270562151212568576",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013832461071909226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCaramelbabe 🥹🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2013832461071909226",
+        "created_at": "2026-01-21T07:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T08:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013871465939247106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1270562151212568576",
+              "start": 0,
+              "username": "CCaramelbabe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013871465939247106",
+        "in_reply_to_user_id": "1270562151212568576",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013832461071909226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCaramelbabe 🥹🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1270562151212568576",
+        "conversation_id": "2013832461071909226",
+        "created_at": "2026-01-21T04:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T05:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013832461071909226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lasttrouvaille…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/lasttrouvaille/status/2013247774100541654",
+              "start": 24,
+              "url": "https://t.co/GSsK3aTOwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013832461071909226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013247774100541654",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "羡慕… 被这么懂… infp 真的会大哭😭😭😭 https://t.co/GSsK3aTOwY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，叫CC就好🫶妈妈姐姐也行（划掉‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)熟的话不时话痨(雾)‖偶尔写诗填词‖穗&沪‖会内耗emo‖不许键政🚫！！！‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园or纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3777,
+          "following_count": 2833,
+          "like_count": 39662,
+          "listed_count": 14,
+          "media_count": 847,
+          "tweet_count": 8391
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-10T03:43:28.000Z",
+        "description": "🇸🇬 INFP-T 🦋🫧 白羊｜plus size｜ 碎碎念大王 ｜ pay to unlock dm 💕",
+        "id": "1270562151212568576",
+        "location": "🚪rm388 / Sgd66",
+        "name": "mochiiii",
+        "pinned_tweet_id": "2013583512075481596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010391299070017536/idJcWXUj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32990,
+          "following_count": 136,
+          "like_count": 6879,
+          "listed_count": 11,
+          "media_count": 70,
+          "tweet_count": 23596
+        },
+        "username": "CCaramelbabe",
+        "verified": false
+      }
+    ]
+  }
+}

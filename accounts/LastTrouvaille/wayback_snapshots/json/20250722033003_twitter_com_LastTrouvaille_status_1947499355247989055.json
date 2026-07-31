@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1947436656065450231",
+    "created_at": "2025-07-22T03:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T04:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947499355247989055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1657288224451203073",
+          "start": 0,
+          "username": "Cialloi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947499355247989055",
+    "in_reply_to_user_id": "1657288224451203073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 22,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947436656065450231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cialloi 早安耶宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_1947436652168691712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwavUTMXQAA776p.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1947436656065450231",
+        "created_at": "2025-07-22T03:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T04:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947499355247989055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1657288224451203073",
+              "start": 0,
+              "username": "Cialloi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947499355247989055",
+        "in_reply_to_user_id": "1657288224451203073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947436656065450231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cialloi 早安耶宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947436652168691712"
+          ]
+        },
+        "author_id": "1657288224451203073",
+        "conversation_id": "1947436656065450231",
+        "created_at": "2025-07-21T23:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T00:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947436656065450231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ai1UGecGfE",
+              "end": 29,
+              "expanded_url": "https://x.com/Cialloi/status/1947436656065450231/photo/1",
+              "media_key": "3_1947436652168691712",
+              "start": 6,
+              "url": "https://t.co/Ai1UGecGfE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947436656065450231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家早安哦 https://t.co/Ai1UGecGfE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3205,
+          "following_count": 2682,
+          "like_count": 29323,
+          "listed_count": 12,
+          "media_count": 613,
+          "tweet_count": 6759
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T07:34:48.000Z",
+        "description": "耶耶的主人@_NekoMoonLight",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "_NekoMoonLight"
+              }
+            ]
+          }
+        },
+        "id": "1657288224451203073",
+        "name": "耶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947034406641680386/MMZVPs1U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 599,
+          "like_count": 51361,
+          "listed_count": 7,
+          "media_count": 320,
+          "tweet_count": 12800
+        },
+        "username": "Cialloi",
+        "verified": false
+      }
+    ]
+  }
+}

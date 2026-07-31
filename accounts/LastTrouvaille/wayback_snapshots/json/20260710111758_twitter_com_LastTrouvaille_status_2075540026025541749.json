@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2075466936914428217",
+    "created_at": "2026-07-10T11:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075540026025541749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1363826773176188934",
+          "start": 0,
+          "username": "huige545"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075540026025541749",
+    "in_reply_to_user_id": "1363826773176188934",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075539551125377102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huige545 好吃呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2075466936914428217",
+        "created_at": "2026-07-10T11:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075540026025541749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1363826773176188934",
+              "start": 0,
+              "username": "huige545"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075540026025541749",
+        "in_reply_to_user_id": "1363826773176188934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075539551125377102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huige545 好吃呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363826773176188934",
+        "conversation_id": "2075466936914428217",
+        "created_at": "2026-07-10T11:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075539551125377102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075539551125377102",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075466936914428217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 这店真的好吃嘛(存疑)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4537,
+          "following_count": 2901,
+          "like_count": 49719,
+          "listed_count": 14,
+          "media_count": 1017,
+          "tweet_count": 9416
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T12:23:45.000Z",
+        "description": "理应在最后的最后不说告别 | 是电子幽灵 | chat: https://t.co/qdcf50qqFM |Comme tu veux",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/huige233",
+                "end": 52,
+                "expanded_url": "http://t.me/huige233",
+                "start": 29,
+                "url": "https://t.co/qdcf50qqFM"
+              }
+            ]
+          }
+        },
+        "id": "1363826773176188934",
+        "location": "一片死寂的荒地",
+        "name": "huige",
+        "pinned_tweet_id": "1860278144823099607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930209817706278912/EbzMEQRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 977,
+          "like_count": 16008,
+          "listed_count": 11,
+          "media_count": 969,
+          "tweet_count": 12058
+        },
+        "url": "",
+        "username": "huige545",
+        "verified": true
+      }
+    ]
+  }
+}

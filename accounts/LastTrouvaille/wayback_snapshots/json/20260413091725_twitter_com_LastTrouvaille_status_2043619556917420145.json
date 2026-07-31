@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2043567487955132464",
+    "created_at": "2026-04-13T09:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T10:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043619556917420145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1677369315388174336",
+          "start": 0,
+          "username": "UR_Part_of_Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043619556917420145",
+    "in_reply_to_user_id": "1677369315388174336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043568048356069383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UR_Part_of_Me 买！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2043567487955132464",
+        "created_at": "2026-04-13T09:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T10:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043619556917420145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1677369315388174336",
+              "start": 0,
+              "username": "UR_Part_of_Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043619556917420145",
+        "in_reply_to_user_id": "1677369315388174336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043568048356069383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UR_Part_of_Me 买！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677369315388174336",
+        "conversation_id": "2043567487955132464",
+        "created_at": "2026-04-13T05:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043568048356069383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043568048356069383",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043567487955132464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 这个超可爱，我还在纠结要不要买呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦‖INFP-T‖轻抑‖今天也有朝着变得更温柔迈出步伐‖中粤英‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4045,
+          "following_count": 2858,
+          "like_count": 44970,
+          "listed_count": 15,
+          "media_count": 923,
+          "tweet_count": 8803
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T17:29:58.000Z",
+        "description": "我多不好意思这乱七八糟的人生你竟一直在看我\n我是男生，谢谢你的喜欢\n最爱听@soulboy_KFong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 37,
+                "username": "soulboy_KFong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sumlemon",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sumlemon",
+                "start": 0,
+                "url": "https://t.co/UBjh2Kkiv5"
+              }
+            ]
+          }
+        },
+        "id": "1677369315388174336",
+        "location": "你的心中",
+        "name": "AAA人类观测员鱼蛋🍋",
+        "pinned_tweet_id": "2034332823482728696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042090677149003776/7sMaur5Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 110,
+          "like_count": 8574,
+          "listed_count": 3,
+          "media_count": 339,
+          "tweet_count": 3314
+        },
+        "url": "https://t.co/UBjh2Kkiv5",
+        "username": "UR_Part_of_Me",
+        "verified": false
+      }
+    ]
+  }
+}

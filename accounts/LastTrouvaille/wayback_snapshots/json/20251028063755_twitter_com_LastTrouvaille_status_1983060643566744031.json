@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1982852128373981193",
+    "created_at": "2025-10-28T06:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T07:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983060643566744031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1153921233445986304",
+          "start": 0,
+          "username": "shirumesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983060643566744031",
+    "in_reply_to_user_id": "1153921233445986304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982852128373981193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shirumesu 那像我这种怎么办呢\n每天都是“好想要有人陪我啊”然后打开私聊界面后因为不知道要和谁说什么而打退堂鼓（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1982852128373981193",
+        "created_at": "2025-10-28T06:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T07:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983060643566744031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1153921233445986304",
+              "start": 0,
+              "username": "shirumesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983060643566744031",
+        "in_reply_to_user_id": "1153921233445986304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982852128373981193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirumesu 那像我这种怎么办呢\n每天都是“好想要有人陪我啊”然后打开私聊界面后因为不知道要和谁说什么而打退堂鼓（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153921233445986304",
+        "conversation_id": "1982852128373981193",
+        "created_at": "2025-10-27T16:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T17:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982852128373981193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982852128373981193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女性经常给人一种需要陪伴的感觉是生物本能吗\n\n还是我太偏差了（）\n我真感觉我自己包括身边男的都是水水群得了 小窗真没意思吧x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，年初和年中驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3426,
+          "following_count": 2720,
+          "like_count": 32416,
+          "listed_count": 12,
+          "media_count": 714,
+          "tweet_count": 7400
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T06:53:55.000Z",
+        "description": "我oc，希露梅斯·莉莉丝·菲利欧露，巡礼魔女，愿歌赫姆的星光永不消逝/是infp～包健全的/fo无依据随缘看心情/祝你开心～",
+        "id": "1153921233445986304",
+        "location": "魔女之家",
+        "name": "希露梅斯",
+        "pinned_tweet_id": "1936780239897870805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977795066950471680/vx5I975C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 44,
+          "like_count": 25468,
+          "listed_count": 6,
+          "media_count": 446,
+          "tweet_count": 14084
+        },
+        "username": "shirumesu",
+        "verified": false
+      }
+    ]
+  }
+}

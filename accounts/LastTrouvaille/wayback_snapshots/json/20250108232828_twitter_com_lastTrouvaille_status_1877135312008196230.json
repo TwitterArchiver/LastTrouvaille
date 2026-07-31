@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1877130210509754796",
+    "created_at": "2025-01-08T23:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T00:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877135312008196230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Ak1raQ_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877135312008196230",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877130210509754796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ak1raQ_love 咱没有喔🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1877130210509754796].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1877130210509754796",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1877130210509754796"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1877130210509754796",
+        "created_at": "2025-01-08T23:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T00:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877135312008196230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877135312008196230",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877130210509754796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 咱没有喔🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 1999,
+          "like_count": 9529,
+          "listed_count": 4,
+          "media_count": 180,
+          "tweet_count": 2316
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🥺♥️/🥰A sweet soul/🏳️‍⚧️Non-Cisgender/🌈Inclusivity & Love/😖Mood swings/☺️You all make me less lonely!/⚠️Following≠Agreeing/Private:@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtfxyn.news",
+                "end": 23,
+                "expanded_url": "https://mtfxyn.news",
+                "start": 0,
+                "url": "https://t.co/0auRNqezHn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "🐱阿棄𝕄𝕖𝕠𝕨",
+        "pinned_tweet_id": "1874813579230367962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 835,
+          "like_count": 104195,
+          "listed_count": 3,
+          "media_count": 721,
+          "tweet_count": 3786
+        },
+        "url": "https://t.co/0auRNqezHn",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

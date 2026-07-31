@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1879096199879561362",
+    "created_at": "2025-01-14T09:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T10:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879096283476230398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1754399168850972672",
+          "start": 0,
+          "username": "hotcat9269_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879096283476230398",
+    "in_reply_to_user_id": "1754399168850972672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879096199879561362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hotcat9269_2 臉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1879096199879561362",
+        "created_at": "2025-01-14T09:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T10:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879096283476230398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1754399168850972672",
+              "start": 0,
+              "username": "hotcat9269_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879096283476230398",
+        "in_reply_to_user_id": "1754399168850972672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879096199879561362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hotcat9269_2 臉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754399168850972672",
+        "conversation_id": "1879096199879561362",
+        "created_at": "2025-01-14T09:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T10:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879096199879561362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879096199879561362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們每次說的「揉揉」揉的到底是哪？😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 2087,
+          "like_count": 10068,
+          "listed_count": 4,
+          "media_count": 195,
+          "tweet_count": 2491
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T06:59:00.000Z",
+        "description": "💜魔族🥰 I 不和智力發育不完全的生物對線",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/hc69.b…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/hc69.bsky.social",
+                "start": 0,
+                "url": "https://t.co/KRAUUIzMGb"
+              }
+            ]
+          }
+        },
+        "id": "1754399168850972672",
+        "location": "大日本帝国 | 台灣國",
+        "name": "不稱職的二次元",
+        "pinned_tweet_id": "1864923043069595917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869740191851945984/VTZjJEfU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 3216,
+          "like_count": 20783,
+          "listed_count": 7,
+          "media_count": 528,
+          "tweet_count": 3171
+        },
+        "url": "https://t.co/KRAUUIzMGb",
+        "username": "hotcat9269_2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1982846643562263017",
+    "created_at": "2025-10-27T17:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T18:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982856338326859933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1881792419135356928",
+          "start": 0,
+          "username": "awaandqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982856338326859933",
+    "in_reply_to_user_id": "1881792419135356928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982846643562263017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@awaandqwq 好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982846583747018752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4R8dlxWgAAJc2J.jpg",
+        "width": 1675
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1982846583751192576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4R8dlyWMAASKE_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1194,
+        "media_key": "3_1982846583931609088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4R8dmdXIAAIpJA.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1279,
+        "media_key": "3_1982846583767994368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4R8dl2WkAAqgFO.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1982846643562263017",
+        "created_at": "2025-10-27T17:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T18:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982856338326859933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1881792419135356928",
+              "start": 0,
+              "username": "awaandqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982856338326859933",
+        "in_reply_to_user_id": "1881792419135356928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982846643562263017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@awaandqwq 好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982846583747018752",
+            "3_1982846583751192576",
+            "3_1982846583931609088",
+            "3_1982846583767994368"
+          ]
+        },
+        "author_id": "1881792419135356928",
+        "conversation_id": "1982846643562263017",
+        "created_at": "2025-10-27T16:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T17:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982846643562263017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gn94V3FP9J",
+              "end": 48,
+              "expanded_url": "https://x.com/awaandqwq/status/1982846643562263017/photo/1",
+              "media_key": "3_1982846583747018752",
+              "start": 25,
+              "url": "https://t.co/gn94V3FP9J"
+            },
+            {
+              "display_url": "pic.x.com/gn94V3FP9J",
+              "end": 48,
+              "expanded_url": "https://x.com/awaandqwq/status/1982846643562263017/photo/1",
+              "media_key": "3_1982846583751192576",
+              "start": 25,
+              "url": "https://t.co/gn94V3FP9J"
+            },
+            {
+              "display_url": "pic.x.com/gn94V3FP9J",
+              "end": 48,
+              "expanded_url": "https://x.com/awaandqwq/status/1982846643562263017/photo/1",
+              "media_key": "3_1982846583931609088",
+              "start": 25,
+              "url": "https://t.co/gn94V3FP9J"
+            },
+            {
+              "display_url": "pic.x.com/gn94V3FP9J",
+              "end": 48,
+              "expanded_url": "https://x.com/awaandqwq/status/1982846643562263017/photo/1",
+              "media_key": "3_1982846583767994368",
+              "start": 25,
+              "url": "https://t.co/gn94V3FP9J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982846643562263017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "继续求夸…什么时候才能有人看见我给我点赞啊呜呜🥹 https://t.co/gn94V3FP9J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，年初和年中驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3426,
+          "following_count": 2716,
+          "like_count": 32366,
+          "listed_count": 12,
+          "media_count": 714,
+          "tweet_count": 7398
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T19:54:26.000Z",
+        "description": "高校2年生、ベースが弾けて、“東方project”が好きで友達を作りたい",
+        "id": "1881792419135356928",
+        "location": "Atlanta, GA",
+        "name": "博麗霊夢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881792872476770304/4u4Ps2AI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 127,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 70
+        },
+        "username": "awaandqwq",
+        "verified": false
+      }
+    ]
+  }
+}

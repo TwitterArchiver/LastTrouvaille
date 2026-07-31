@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1893723756524159387",
+    "created_at": "2025-02-24T02:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T03:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893848653837594746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1248637653001494529",
+          "start": 0,
+          "username": "Fomalhautawa"
+        },
+        {
+          "end": 26,
+          "id": "1765825463103139840",
+          "start": 14,
+          "username": "BetulaMnc08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893848653837594746",
+    "in_reply_to_user_id": "1248637653001494529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893724163048624422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fomalhautawa @BetulaMnc08 正确的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1893723756524159387",
+        "created_at": "2025-02-24T02:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T03:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893848653837594746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Fomalhautawa"
+            },
+            {
+              "end": 26,
+              "id": "1765825463103139840",
+              "start": 14,
+              "username": "BetulaMnc08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893848653837594746",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893724163048624422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fomalhautawa @BetulaMnc08 正确的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248637653001494529",
+        "conversation_id": "1893723756524159387",
+        "created_at": "2025-02-23T18:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T19:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893724163048624422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "BetulaMnc08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893724163048624422",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893723756524159387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BetulaMnc08 想要钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ 这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 2188,
+          "like_count": 14356,
+          "listed_count": 7,
+          "media_count": 271,
+          "tweet_count": 3512
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "你好哦，姓师怎么称呼都行，现居上海。/\n发些日常·食物·抽象，偶尔会说点怪话。/\n私信评论都会互动哦，我很温和的，请随意。/\n经常会清理一些推文，望见谅。/\n愿你喜乐安康。",
+        "id": "1248637653001494529",
+        "location": "萱华轩",
+        "name": "S𝖍𝖎𝖘𝖜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891505068354277376/GWmucr4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 231,
+          "like_count": 81145,
+          "listed_count": 8,
+          "media_count": 49,
+          "tweet_count": 18416
+        },
+        "username": "Fomalhautawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "樺/啪轉生 | 不可回收垃圾 | 音樂、神秘學、語言學愛好 | 電波系 | 老年人體質 | 米其林負五星大廚",
+        "id": "1765825463103139840",
+        "location": "大狸貓的肚子裡",
+        "name": "ㄏㄏㄏㄏㄏㄏㄏㄏㄏㄏ樺樹汁",
+        "pinned_tweet_id": "1893288888006832242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893673870537723904/Htw30Y2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 266,
+          "like_count": 6420,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 2639
+        },
+        "username": "BetulaMnc08",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1885892991963021765",
+    "created_at": "2025-02-02T10:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T11:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885995200469950569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1549964508344754176",
+          "start": 0,
+          "username": "sukan_520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885995200469950569",
+    "in_reply_to_user_id": "1549964508344754176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885990548349329464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sukan_520 素勘肝论文辛苦啦🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1885990548349329464].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1885990548349329464",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1885990548349329464"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1885892991963021765",
+        "created_at": "2025-02-02T10:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T11:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885995200469950569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1549964508344754176",
+              "start": 0,
+              "username": "sukan_520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885995200469950569",
+        "in_reply_to_user_id": "1549964508344754176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885990548349329464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sukan_520 素勘肝论文辛苦啦🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 2465,
+          "like_count": 12096,
+          "listed_count": 6,
+          "media_count": 222,
+          "tweet_count": 2928
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T03:48:38.000Z",
+        "description": "「人间骄阳正好，风过林梢，彼时他们正当年少」\n锁推ing随缘开放｜可能淡推｜\n请眼熟置顶~以及来看看提问箱吧↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sukan_520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sukan_520",
+                "start": 0,
+                "url": "https://t.co/VOJCW70OpI"
+              }
+            ]
+          }
+        },
+        "id": "1549964508344754176",
+        "location": "离你的心5.20cm",
+        "name": "素勘（肝论文！）",
+        "pinned_tweet_id": "1868147605643120646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872350518988984320/dXEgIVjg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 501,
+          "like_count": 32300,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 2937
+        },
+        "url": "https://t.co/VOJCW70OpI",
+        "username": "sukan_520",
+        "verified": false
+      }
+    ]
+  }
+}

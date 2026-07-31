@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896037849012506624",
+        "3_1896037846760222720"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1896037854192812083",
+    "created_at": "2025-03-02T03:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T04:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896037854192812083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/87dA9Zv2B0",
+          "end": 61,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1896037854192812083/photo/1",
+          "media_key": "3_1896037849012506624",
+          "start": 38,
+          "url": "https://t.co/87dA9Zv2B0"
+        },
+        {
+          "display_url": "pic.x.com/87dA9Zv2B0",
+          "end": 61,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1896037854192812083/photo/1",
+          "media_key": "3_1896037846760222720",
+          "start": 38,
+          "url": "https://t.co/87dA9Zv2B0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896037854192812083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早饭是冷冷的奥利奥和温热的牛奶\n昨晚孵蛋一样把牛奶放进被窝里肉体加热一晚上 https://t.co/87dA9Zv2B0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1896037854192812083].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1896037854192812083",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1896037854192812083"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1896037849012506624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlAUYMcWEAA8y4j.jpg",
+        "width": 4096
+      },
+      {
+        "height": 504,
+        "media_key": "3_1896037846760222720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlAUYEDW8AAaE8T.jpg",
+        "width": 718
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ here's Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 2248,
+          "like_count": 15054,
+          "listed_count": 7,
+          "media_count": 286,
+          "tweet_count": 3696
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

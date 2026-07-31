@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890057654300807168"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1890057657958227983",
+    "created_at": "2025-02-13T15:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T16:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890057657958227983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PIqUdaUgxb",
+          "end": 178,
+          "expanded_url": "https://x.com/lastTrouvaille/status/1890057657958227983/photo/1",
+          "media_key": "3_1890057654300807168",
+          "start": 155,
+          "url": "https://t.co/PIqUdaUgxb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890057657958227983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“你在哪”“你回个头”\n“为什么你每次都能找到我呢”\n在这段关系里\n会有时开心，有时心痛\n有时想放弃，但是又不舍得\n“其实...你喜欢我哪里？”\n我希望我爱的人，是我最好的朋友\n我们不需要100%一样\n但是我们都愿意\n在爱情里互相学习，一起成长\n遇到什么困难，都会一起面对\n这就是我的答案\n情人节快乐\n我爱你 https://t.co/PIqUdaUgxb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1890057657958227983].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1890057657958227983",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1890057657958227983"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 474,
+        "media_key": "3_1890057654300807168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjrVbDGbkAAEtbX.jpg",
+        "width": 681
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Nice to meet you~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1956,
+          "following_count": 2088,
+          "like_count": 12942,
+          "listed_count": 6,
+          "media_count": 246,
+          "tweet_count": 3319
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

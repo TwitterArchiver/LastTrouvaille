@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1880269455558902129",
+    "created_at": "2025-01-18T05:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T06:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880487158336880983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1427883714902593538",
+          "start": 0,
+          "username": "iIQEFr1PJ9yaW5Q"
+        },
+        {
+          "end": 27,
+          "id": "1153921233445986304",
+          "start": 17,
+          "username": "shirumesu"
+        },
+        {
+          "end": 42,
+          "id": "1639894055948816387",
+          "start": 28,
+          "username": "sakumamutsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880487158336880983",
+    "in_reply_to_user_id": "1427883714902593538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880486333526995276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iIQEFr1PJ9yaW5Q @shirumesu @sakumamutsuki 关注龟纪是因为头像\n都是蓝箱的同好！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1880269455558902129",
+        "created_at": "2025-01-18T05:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T06:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880487158336880983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1427883714902593538",
+              "start": 0,
+              "username": "iIQEFr1PJ9yaW5Q"
+            },
+            {
+              "end": 27,
+              "id": "1153921233445986304",
+              "start": 17,
+              "username": "shirumesu"
+            },
+            {
+              "end": 42,
+              "id": "1639894055948816387",
+              "start": 28,
+              "username": "sakumamutsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880487158336880983",
+        "in_reply_to_user_id": "1427883714902593538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880486333526995276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iIQEFr1PJ9yaW5Q @shirumesu @sakumamutsuki 关注龟纪是因为头像\n都是蓝箱的同好！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427883714902593538",
+        "conversation_id": "1880269455558902129",
+        "created_at": "2025-01-18T05:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T06:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880486333526995276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1153921233445986304",
+              "start": 0,
+              "username": "shirumesu"
+            },
+            {
+              "end": 25,
+              "id": "1639894055948816387",
+              "start": 11,
+              "username": "sakumamutsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880486333526995276",
+        "in_reply_to_user_id": "1153921233445986304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880485979343188188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirumesu @sakumamutsuki 我真沒有交過女朋友😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 2200,
+          "like_count": 10451,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 2600
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-18T06:43:11.000Z",
+        "description": "我真不是同😭那些事情是被逼著做的🥲",
+        "id": "1427883714902593538",
+        "location": "你媽床上",
+        "name": "龟纪",
+        "pinned_tweet_id": "1880408314150023659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873407963270148096/L9xFWCpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 1353,
+          "like_count": 24547,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 4415
+        },
+        "username": "iIQEFr1PJ9yaW5Q",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T06:53:55.000Z",
+        "description": "我oc，希露梅斯·莉莉丝·菲利欧露，巡礼魔女，愿歌赫姆的星光永不消逝/是infp～/私信闲聊树洞都欢迎吧？/因为需要“正在关注”时间线，不一定回fo抱歉！（要回fo可以说！）/祝你开心～",
+        "id": "1153921233445986304",
+        "location": "卡梅利亚大森林远郊",
+        "name": "希露梅斯",
+        "pinned_tweet_id": "1846484419571519622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869417660737548288/hIoqCtVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 35,
+          "like_count": 10583,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 5801
+        },
+        "username": "shirumesu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T07:36:33.000Z",
+        "description": "=kayo丨一直逃避下去就好了。丨天天犯中二病。欢迎收看《中二病也要活下去》｜和我吵就是你对，少管我丨夸夸bot。补药骂我丨负能垢：@nightensio｜全世界最好的瀟茉樣@yashio_ruirui （和她掰了的和我互取）丨和某二字id玩得好的请b我。和我比较熟我就溺爱。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "nightensio"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "yashio_ruirui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kayo1126_/",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kayo1126_/",
+                "start": 0,
+                "url": "https://t.co/Anuu9ef1ih"
+              }
+            ]
+          }
+        },
+        "id": "1639894055948816387",
+        "location": "Kowloon City District",
+        "name": "你什麼錯都沒有哦",
+        "pinned_tweet_id": "1879922098875044025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877869671317450752/43Mj_rnL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 849,
+          "like_count": 12594,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 4304
+        },
+        "url": "https://t.co/Anuu9ef1ih",
+        "username": "sakumamutsuki",
+        "verified": false
+      }
+    ]
+  }
+}

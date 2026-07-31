@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1990356837783478555",
+    "created_at": "2025-11-17T22:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T23:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990544379484999955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753419726582345728",
+          "start": 0,
+          "username": "GravitySwiss"
+        },
+        {
+          "end": 22,
+          "id": "1507794054511497219",
+          "start": 14,
+          "username": "Miyu__Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990544379484999955",
+    "in_reply_to_user_id": "1753419726582345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990454141752332763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GravitySwiss @Miyu__Z 两个可爱宝宝我抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 192,
+        "media_key": "3_1990454139512635392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5-DfndbQAAl4KM.jpg",
+        "width": 204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1990356837783478555",
+        "created_at": "2025-11-17T22:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T23:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990544379484999955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753419726582345728",
+              "start": 0,
+              "username": "GravitySwiss"
+            },
+            {
+              "end": 22,
+              "id": "1507794054511497219",
+              "start": 14,
+              "username": "Miyu__Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990544379484999955",
+        "in_reply_to_user_id": "1753419726582345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990454141752332763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GravitySwiss @Miyu__Z 两个可爱宝宝我抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990454139512635392"
+          ]
+        },
+        "author_id": "1753419726582345728",
+        "conversation_id": "1990356837783478555",
+        "created_at": "2025-11-17T16:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T17:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990454141752332763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1507794054511497219",
+              "start": 0,
+              "username": "Miyu__Z"
+            },
+            {
+              "end": 24,
+              "id": "1691242509815754754",
+              "start": 9,
+              "username": "LastTrouvaille"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WgrwWlBhnL",
+              "end": 48,
+              "expanded_url": "https://x.com/GravitySwiss/status/1990454141752332763/photo/1",
+              "media_key": "3_1990454139512635392",
+              "start": 25,
+              "url": "https://t.co/WgrwWlBhnL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990454141752332763",
+        "in_reply_to_user_id": "1507794054511497219",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990453685827346820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyu__Z @LastTrouvaille https://t.co/WgrwWlBhnL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，年初和年中驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3606,
+          "following_count": 2778,
+          "like_count": 34181,
+          "listed_count": 13,
+          "media_count": 738,
+          "tweet_count": 7637
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T14:07:38.000Z",
+        "description": "Власть рождает паразитов. Да здравствует анархия!\nСмерть буржуям!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "otomad.wiki",
+                "end": 23,
+                "expanded_url": "https://otomad.wiki/",
+                "start": 0,
+                "url": "https://t.co/eEO2O5kmpg"
+              }
+            ]
+          }
+        },
+        "id": "1753419726582345728",
+        "location": "Κωνσταντινούπολις",
+        "name": "GravitySwiss",
+        "pinned_tweet_id": "1940446075699282266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753431245357543424/KxUIQ4O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2699,
+          "following_count": 3119,
+          "like_count": 140316,
+          "listed_count": 16,
+          "media_count": 1883,
+          "tweet_count": 42602
+        },
+        "url": "https://t.co/eEO2O5kmpg",
+        "username": "GravitySwiss",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T18:58:19.000Z",
+        "description": "争取成为人类|| 里账，看情况放人: @fuzhu514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "fuzhu514"
+              }
+            ]
+          }
+        },
+        "id": "1507794054511497219",
+        "location": "顺直郭楠一个...",
+        "name": "芝士腐竹喵",
+        "pinned_tweet_id": "1925480913326199111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889702352804048896/z7Vp24cQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1734,
+          "following_count": 298,
+          "like_count": 16261,
+          "listed_count": 8,
+          "media_count": 144,
+          "tweet_count": 3335
+        },
+        "username": "Miyu__Z",
+        "verified": false
+      }
+    ]
+  }
+}

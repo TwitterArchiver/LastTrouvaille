@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2053780736902336747",
+    "created_at": "2026-05-11T13:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053825850928398470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1193167151596634112",
+          "start": 0,
+          "username": "KiminTW_Offical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053825850928398470",
+    "in_reply_to_user_id": "1193167151596634112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053790858621956591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiminTW_Offical 味道很不错！！明天继续吃w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2053780736902336747",
+        "created_at": "2026-05-11T13:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053825850928398470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1193167151596634112",
+              "start": 0,
+              "username": "KiminTW_Offical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053825850928398470",
+        "in_reply_to_user_id": "1193167151596634112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053790858621956591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiminTW_Offical 味道很不错！！明天继续吃w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1193167151596634112",
+        "conversation_id": "2053780736902336747",
+        "created_at": "2026-05-11T10:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053790858621956591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053790858621956591",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053780736902336747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 好好吃的樣子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦‖INFP-T‖轻抑‖今天也有变得更温柔可爱一点‖中粤英日‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4071,
+          "following_count": 2848,
+          "like_count": 45646,
+          "listed_count": 14,
+          "media_count": 944,
+          "tweet_count": 8897
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-09T14:03:22.000Z",
+        "description": "男|台中人|時政基本評論|生活推為主|威權壬|暫退役男|藍綠白和無腦粉紅勿擾 \n好哥們@AyanamiRikako 廚子@GlunekiKCA  小綠@lamte15072 老保之友 @caswerlebel05",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "AyanamiRikako"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "GlunekiKCA"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "lamte15072"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "caswerlebel05"
+              }
+            ]
+          }
+        },
+        "id": "1193167151596634112",
+        "location": "東亞防禦倡議協議組織（E.A.D.I）",
+        "name": "拉斯普金不是阿金🇨🇳🇹🇼",
+        "pinned_tweet_id": "1959219877324947468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045470547686072320/92XdLV7N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20910,
+          "following_count": 2948,
+          "like_count": 319338,
+          "listed_count": 32,
+          "media_count": 6101,
+          "tweet_count": 61712
+        },
+        "username": "KiminTW_Offical",
+        "verified": false
+      }
+    ]
+  }
+}

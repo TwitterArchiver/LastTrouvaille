@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1888108395254964470",
+    "created_at": "2025-02-09T03:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T04:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888432189454631067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841801152381558784",
+          "start": 0,
+          "username": "Amemiya_Hasumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888432189454631067",
+    "in_reply_to_user_id": "1841801152381558784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888108395254964470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amemiya_Hasumi 蓝白碗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1888108395254964470",
+        "created_at": "2025-02-09T03:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T04:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888432189454631067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841801152381558784",
+              "start": 0,
+              "username": "Amemiya_Hasumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888432189454631067",
+        "in_reply_to_user_id": "1841801152381558784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888108395254964470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amemiya_Hasumi 蓝白碗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841801152381558784",
+        "conversation_id": "1888108395254964470",
+        "created_at": "2025-02-08T06:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T07:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888108395254964470"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888108395254964470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你内库是什么颜色？虽然听起来很唐突，甚至有些失礼，但请允许我解释一下。\n人类对于美丽的事物总是充满求知欲，在身心都被你俘获之后，却依旧愿意更深地了解你，这种品格很难不为之称赞。\n所以，我不得不再提出这个问题：你的内库是什么颜色？可惜囿于认知水平的局限，只能停留在想象。\n是紫色的吗？像是普罗旺斯盛开的薰衣草花海般芬芳。\n是红色的吗？如罗曼尼红酒灌溉的长河一样纯粹馥郁。\n是白色的吗？宛如鸢尾花在法兰西王室旗帜上圣洁绽放。\n......\n哦，你内库的颜色。\n还有什么能比你牵起我更深的惆怅？\n你像是拉普兰的极光，如梦荡漾。\n你像是哈雷彗星的锋芒，璀璨辉煌。\n你像是朦胧晨曦的登场，耀眼明亮。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3962,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "你内库是什么颜色？虽然听起来很唐突，甚至有些失礼，但请允许我解释一下。\n人类对于美丽的事物总是充满求知欲，在身心都被你俘获之后，却依旧愿意更深地了解你，这种品格很难不为之称赞。\n所以，我不得不再提出这个问题：你的内库是什么颜色？可惜囿于认知水平的局限，只能停留在想象。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 2058,
+          "like_count": 12567,
+          "listed_count": 7,
+          "media_count": 239,
+          "tweet_count": 3235
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T11:23:15.000Z",
+        "description": "「Et in Arcadia Ego./我曾在阿卡迪亚。」\n偶尔是男娘。\nNGL：https://t.co/g6LzpRMyzA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasumi57321",
+                "end": 64,
+                "expanded_url": "https://ngl.link/hasumi57321",
+                "start": 41,
+                "url": "https://t.co/g6LzpRMyzA"
+              }
+            ]
+          }
+        },
+        "id": "1841801152381558784",
+        "name": "雨宮 蓮見",
+        "pinned_tweet_id": "1871596096461713573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879195526870315008/bleIv9uh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 1343,
+          "like_count": 15328,
+          "listed_count": 6,
+          "media_count": 515,
+          "tweet_count": 3533
+        },
+        "username": "Amemiya_Hasumi",
+        "verified": true
+      }
+    ]
+  }
+}

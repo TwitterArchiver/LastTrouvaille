@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1986752292931186762",
+    "created_at": "2025-11-07T12:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T13:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986767006952202391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1691090887424819200",
+          "start": 0,
+          "username": "Bandim77SAYA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986767006952202391",
+    "in_reply_to_user_id": "1691090887424819200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986752292931186762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bandim77SAYA 内圈诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1986752281669484544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5JcrIWbQAApOyr.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1986752292931186762",
+        "created_at": "2025-11-07T12:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T13:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986767006952202391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1691090887424819200",
+              "start": 0,
+              "username": "Bandim77SAYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986767006952202391",
+        "in_reply_to_user_id": "1691090887424819200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986752292931186762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bandim77SAYA 内圈诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986752281669484544"
+          ]
+        },
+        "author_id": "1691090887424819200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1986752292931186762",
+        "created_at": "2025-11-07T11:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T12:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986752292931186762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/NTlTOCfpLT"
+            },
+            {
+              "display_url": "pic.x.com/IzNl0sf3og",
+              "end": 64,
+              "expanded_url": "https://x.com/Bandim77SAYA/status/1986752292931186762/photo/1",
+              "media_key": "3_1986752281669484544",
+              "start": 41,
+              "url": "https://t.co/IzNl0sf3og"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986752292931186762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/NTlTOCfpLT https://t.co/IzNl0sf3og"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，年初和年中驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3584,
+          "following_count": 2752,
+          "like_count": 33920,
+          "listed_count": 12,
+          "media_count": 728,
+          "tweet_count": 7577
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T14:14:30.000Z",
+        "description": "@MengSanba54477 爱你，只爱你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "MengSanba54477"
+              }
+            ]
+          }
+        },
+        "id": "1691090887424819200",
+        "location": "在你床上",
+        "name": "半减⑦./",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980420784204955648/hPpI_rT3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 455,
+          "like_count": 2825,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1932
+        },
+        "username": "Bandim77SAYA",
+        "verified": false
+      }
+    ]
+  }
+}

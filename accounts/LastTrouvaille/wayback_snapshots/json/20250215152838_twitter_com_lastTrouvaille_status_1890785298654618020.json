@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890785295538499584"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1890785298654618020",
+    "created_at": "2025-02-15T15:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T16:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890785298654618020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bc7jW9SKlH",
+          "end": 81,
+          "expanded_url": "https://x.com/lastTrouvaille/status/1890785298654618020/photo/1",
+          "media_key": "3_1890785295538499584",
+          "start": 58,
+          "url": "https://t.co/Bc7jW9SKlH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890785298654618020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“说谢谢的次数越多，人就会越温柔；”\n“说对不起的次数越多，人就会越聪明；”\n“说再见的次数越多，人就会越懂爱。” https://t.co/Bc7jW9SKlH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1890785298654618020].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1890785298654618020",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1890785298654618020"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1304,
+        "media_key": "3_1890785295538499584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj1rNV8asAAeDhV.jpg",
+        "width": 1284
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Nice to meet you~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1960,
+          "following_count": 2101,
+          "like_count": 13023,
+          "listed_count": 6,
+          "media_count": 249,
+          "tweet_count": 3326
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

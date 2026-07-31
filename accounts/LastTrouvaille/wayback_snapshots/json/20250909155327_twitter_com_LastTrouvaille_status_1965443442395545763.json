@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1965348409889751499",
+    "created_at": "2025-09-09T15:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T16:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965443442395545763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1576459441863819264",
+          "start": 0,
+          "username": "jdnyzjsbudjdjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965443442395545763",
+    "in_reply_to_user_id": "1576459441863819264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965442762289152451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jdnyzjsbudjdjd 这也太扰民了（皱眉）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1965348409889751499",
+        "created_at": "2025-09-09T15:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T16:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965443442395545763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1576459441863819264",
+              "start": 0,
+              "username": "jdnyzjsbudjdjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965443442395545763",
+        "in_reply_to_user_id": "1576459441863819264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965442762289152451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jdnyzjsbudjdjd 这也太扰民了（皱眉）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576459441863819264",
+        "conversation_id": "1965348409889751499",
+        "created_at": "2025-09-09T15:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T16:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965442762289152451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965442762289152451",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965348409889751499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 羡慕只剩下自己，我这会刚被人吵醒，最近公寓搬来个喜欢半夜开麦克风唱歌的，隔着几堵墙都能把我吵醒😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3245,
+          "following_count": 2706,
+          "like_count": 30141,
+          "listed_count": 12,
+          "media_count": 671,
+          "tweet_count": 7106
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T06:30:05.000Z",
+        "description": "含糖 深柜 社恐",
+        "id": "1576459441863819264",
+        "location": "火星",
+        "name": "mtf小乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803422825195380737/gK2bo1aX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 110,
+          "like_count": 2471,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 3619
+        },
+        "username": "jdnyzjsbudjdjd",
+        "verified": false
+      }
+    ]
+  }
+}

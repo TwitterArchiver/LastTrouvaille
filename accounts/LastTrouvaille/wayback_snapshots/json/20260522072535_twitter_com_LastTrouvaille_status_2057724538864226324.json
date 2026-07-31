@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2057625551851208933",
+    "created_at": "2026-05-22T07:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T08:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057724538864226324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1718275785948286976",
+          "start": 0,
+          "username": "Tinkles_12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057724538864226324",
+    "in_reply_to_user_id": "1718275785948286976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057674160978186648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tinkles_12 请（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2057625551851208933",
+        "created_at": "2026-05-22T07:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T08:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057724538864226324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1718275785948286976",
+              "start": 0,
+              "username": "Tinkles_12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057724538864226324",
+        "in_reply_to_user_id": "1718275785948286976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057674160978186648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tinkles_12 请（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718275785948286976",
+        "conversation_id": "2057625551851208933",
+        "created_at": "2026-05-22T04:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057674160978186648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057674160978186648",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057625551851208933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 摸摸😋🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦，叫妈妈姐姐也行（不是）‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖不许键政🚫‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4091,
+          "following_count": 2854,
+          "like_count": 46253,
+          "listed_count": 13,
+          "media_count": 954,
+          "tweet_count": 8971
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-28T14:37:47.000Z",
+        "description": "无趣且乏味，但这就是我。\n我喜欢变态，但我不是变态。\n小帮手 @kitsunezk_ri   我蝶→ @IXXA00    \n种族矛盾和立场分歧可以随时代化解，但是正邪永不两立。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "kitsunezk_ri"
+              },
+              {
+                "end": 58,
+                "start": 51,
+                "username": "IXXA00"
+              }
+            ]
+          }
+        },
+        "id": "1718275785948286976",
+        "location": "哥谭市阿卡姆学院",
+        "name": "丨鎮魂丨Tinkles",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008732031925325824/0NrrOM5j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 1715,
+          "like_count": 135941,
+          "listed_count": 15,
+          "media_count": 363,
+          "tweet_count": 19891
+        },
+        "username": "Tinkles_12",
+        "verified": false
+      }
+    ]
+  }
+}

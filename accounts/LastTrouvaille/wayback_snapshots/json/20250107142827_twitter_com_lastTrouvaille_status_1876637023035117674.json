@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1876623981379223831",
+    "created_at": "2025-01-07T14:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T15:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876637023035117674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1791742055359889408",
+          "start": 0,
+          "username": "Kushal_PatCREPE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876637023035117674",
+    "in_reply_to_user_id": "1791742055359889408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876623981379223831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kushal_PatCREPE 好耶！上圈了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1876623981379223831",
+        "created_at": "2025-01-07T14:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T15:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876637023035117674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1791742055359889408",
+              "start": 0,
+              "username": "Kushal_PatCREPE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876637023035117674",
+        "in_reply_to_user_id": "1791742055359889408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876623981379223831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kushal_PatCREPE 好耶！上圈了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876623976836866048"
+          ]
+        },
+        "author_id": "1791742055359889408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1876623981379223831",
+        "created_at": "2025-01-07T13:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T14:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876623981379223831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1875579689269350400/r-viI-VU?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1875579689269350400/r-viI-VU?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/pT7G8KjNyf"
+            },
+            {
+              "display_url": "pic.x.com/lk6EkfY6KH",
+              "end": 64,
+              "expanded_url": "https://x.com/Kushal_PatCREPE/status/1876623981379223831/photo/1",
+              "media_key": "3_1876623976836866048",
+              "start": 41,
+              "url": "https://t.co/lk6EkfY6KH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876623981379223831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/pT7G8KjNyf https://t.co/lk6EkfY6KH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1638,
+          "following_count": 1963,
+          "like_count": 9263,
+          "listed_count": 4,
+          "media_count": 178,
+          "tweet_count": 2250
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T08:06:15.000Z",
+        "description": "帕大人的日常/闺蜜@XUEBIICE/喜欢的人@Ziverk2/帕的提问箱https://t.co/5CPB7GOTG8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "XUEBIICE"
+              },
+              {
+                "end": 31,
+                "start": 23,
+                "username": "Ziverk2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kusha_patcrepe",
+                "end": 60,
+                "expanded_url": "http://ngl.link/kusha_patcrepe",
+                "start": 37,
+                "url": "https://t.co/5CPB7GOTG8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/EeQQRMrvdC",
+                "end": 23,
+                "expanded_url": "https://discord.gg/EeQQRMrvdC",
+                "start": 0,
+                "url": "https://t.co/dQUw2Iqk3U"
+              }
+            ]
+          }
+        },
+        "id": "1791742055359889408",
+        "location": "Earth",
+        "name": "帕_PAT",
+        "pinned_tweet_id": "1859464661684584590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862112385512755200/xnipnO5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 284,
+          "like_count": 1134,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 487
+        },
+        "url": "https://t.co/dQUw2Iqk3U",
+        "username": "Kushal_PatCREPE",
+        "verified": false
+      }
+    ]
+  }
+}

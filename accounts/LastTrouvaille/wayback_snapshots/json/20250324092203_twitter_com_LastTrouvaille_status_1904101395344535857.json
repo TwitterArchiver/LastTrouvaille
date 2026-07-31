@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1904059196754083865",
+    "created_at": "2025-03-24T09:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T10:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904101395344535857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "872113640064786432",
+          "start": 0,
+          "username": "ChariseStever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904101395344535857",
+    "in_reply_to_user_id": "872113640064786432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904059196754083865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChariseStever 加我一个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1904058666531381248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmyTROIbYAAJbiG.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1904059196754083865",
+        "created_at": "2025-03-24T09:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T10:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904101395344535857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "872113640064786432",
+              "start": 0,
+              "username": "ChariseStever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904101395344535857",
+        "in_reply_to_user_id": "872113640064786432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904059196754083865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChariseStever 加我一个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904058666531381248"
+          ]
+        },
+        "author_id": "872113640064786432",
+        "conversation_id": "1904059196754083865",
+        "created_at": "2025-03-24T06:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T07:32:16.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904058668448096656",
+          "1904059126767825178",
+          "1904059196754083865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v512r0AsvB",
+              "end": 43,
+              "expanded_url": "https://x.com/ChariseStever/status/1904059196754083865/photo/1",
+              "media_key": "3_1904058666531381248",
+              "start": 20,
+              "url": "https://t.co/v512r0AsvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904059196754083865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 609,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "透明到只有两圈 甚至认不到的人在上面😭 https://t.co/v512r0AsvB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2201,
+          "following_count": 2716,
+          "like_count": 18105,
+          "listed_count": 11,
+          "media_count": 367,
+          "tweet_count": 4373
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-06T15:31:09.000Z",
+        "description": "Goblin/Imp 感兴趣的领域: Information Retrieval (信息检索）& Recommender Systems （推荐系统）",
+        "id": "872113640064786432",
+        "name": "nil",
+        "pinned_tweet_id": "1348310125023412224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530459917060120576/MxIH3gkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 69,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 268
+        },
+        "username": "ChariseStever",
+        "verified": true
+      }
+    ]
+  }
+}

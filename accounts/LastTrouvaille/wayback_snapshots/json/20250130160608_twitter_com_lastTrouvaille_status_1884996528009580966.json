@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1884812892446273725",
+    "created_at": "2025-01-30T16:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T17:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884996528009580966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1750804799031824384",
+          "start": 0,
+          "username": "lizi5202"
+        },
+        {
+          "end": 19,
+          "id": "1647216504851537920",
+          "start": 10,
+          "username": "TimChirs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884996528009580966",
+    "in_reply_to_user_id": "1750804799031824384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884881977859576243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizi5202 @TimChirs 支配恶魔虽迟但到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1884812892446273725",
+        "created_at": "2025-01-30T16:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T17:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884996528009580966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1750804799031824384",
+              "start": 0,
+              "username": "lizi5202"
+            },
+            {
+              "end": 19,
+              "id": "1647216504851537920",
+              "start": 10,
+              "username": "TimChirs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884996528009580966",
+        "in_reply_to_user_id": "1750804799031824384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884881977859576243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizi5202 @TimChirs 支配恶魔虽迟但到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750804799031824384",
+        "conversation_id": "1884812892446273725",
+        "created_at": "2025-01-30T08:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T09:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884881977859576243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647216504851537920",
+              "start": 0,
+              "username": "TimChirs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884881977859576243",
+        "in_reply_to_user_id": "1647216504851537920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2826,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884812892446273725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TimChirs 他接下来会被你们打！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1905,
+          "following_count": 2438,
+          "like_count": 11891,
+          "listed_count": 6,
+          "media_count": 219,
+          "tweet_count": 2864
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T08:56:14.000Z",
+        "description": "道德上有问题.jpg",
+        "id": "1750804799031824384",
+        "location": "你好",
+        "name": "漓梓（go一辈子）",
+        "pinned_tweet_id": "1884374841501049059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870709592155619328/TM8eQYzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 1142,
+          "like_count": 9258,
+          "listed_count": 3,
+          "media_count": 344,
+          "tweet_count": 3463
+        },
+        "username": "lizi5202",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T12:33:24.000Z",
+        "description": "错误，简介无法显示",
+        "id": "1647216504851537920",
+        "name": "Lau.🌟",
+        "pinned_tweet_id": "1824077813097582832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883403890814484480/qxGJOFFA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 1300,
+          "like_count": 19394,
+          "listed_count": 4,
+          "media_count": 767,
+          "tweet_count": 2670
+        },
+        "username": "TimChirs",
+        "verified": false
+      }
+    ]
+  }
+}

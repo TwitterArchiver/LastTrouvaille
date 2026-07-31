@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1895756898991030782",
+    "created_at": "2025-03-01T09:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T10:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895761586201235831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1751613061587468288",
+          "start": 0,
+          "username": "hosh1no_shizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895761586201235831",
+    "in_reply_to_user_id": "1751613061587468288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895756898991030782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hosh1no_shizuku 我的天好可爱\n真的是男孩子吗\n根本不信啊🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1895756884260364288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk8U15LXIAA1QKG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1895756898991030782",
+        "created_at": "2025-03-01T09:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T10:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895761586201235831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1751613061587468288",
+              "start": 0,
+              "username": "hosh1no_shizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895761586201235831",
+        "in_reply_to_user_id": "1751613061587468288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895756898991030782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hosh1no_shizuku 我的天好可爱\n真的是男孩子吗\n根本不信啊🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895756884260364288"
+          ]
+        },
+        "author_id": "1751613061587468288",
+        "conversation_id": "1895756898991030782",
+        "created_at": "2025-03-01T08:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T09:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895756898991030782"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "男娘"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "伪娘"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "femboy"
+            },
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A2fvHZIsvJ",
+              "end": 73,
+              "expanded_url": "https://x.com/hosh1no_shizuku/status/1895756898991030782/photo/1",
+              "media_key": "3_1895756884260364288",
+              "start": 50,
+              "url": "https://t.co/A2fvHZIsvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895756898991030782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1046,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你怎么知道电专的食堂里开了第二家麦麦\n\n一校两麦的含金量\n#男娘 #伪娘 #femboy #男の娘 https://t.co/A2fvHZIsvJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ here's Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2034,
+          "following_count": 2246,
+          "like_count": 15025,
+          "listed_count": 7,
+          "media_count": 284,
+          "tweet_count": 3684
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T14:28:03.000Z",
+        "description": "🇨🇳成都人 // 19岁 // UESTC计算机院大一小男娘小雫参见喵！// 主修计算机💻辅修数学🔢 喜欢编曲🎵画画🎨和穿女装～ // 不吃🍬 不接委托 不线下 不谈 不扩列 不开🚪// 全网同名 主要活跃在B站 // 可在QQ音乐/网易云/Pixiv @LanziiLove找到我的音乐和绘画作品",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 127,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1751613061587468288",
+        "name": "星野雫丶Shizuku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894250059786588160/_ASAO7bp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8992,
+          "following_count": 55,
+          "like_count": 62,
+          "listed_count": 23,
+          "media_count": 34,
+          "tweet_count": 260
+        },
+        "username": "hosh1no_shizuku",
+        "verified": false
+      }
+    ]
+  }
+}

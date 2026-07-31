@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003063809796345856",
+        "3_2003063806331883520"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2003063816092078214",
+    "created_at": "2025-12-22T11:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T12:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003063816092078214"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6osOkJnaqt",
+          "end": 62,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2003063816092078214/photo/1",
+          "media_key": "3_2003063809796345856",
+          "start": 39,
+          "url": "https://t.co/6osOkJnaqt"
+        },
+        {
+          "display_url": "pic.x.com/6osOkJnaqt",
+          "end": 62,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2003063816092078214/photo/1",
+          "media_key": "3_2003063806331883520",
+          "start": 39,
+          "url": "https://t.co/6osOkJnaqt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003063816092078214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天晚上吃猪脚饭喔\n不过不是隆江的那种猪脚饭\n感觉那种太肥腻了\n这种就刚刚好 https://t.co/6osOkJnaqt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2003063809796345856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8xP7B1aEAAM4ZQ.jpg",
+        "width": 4096
+      },
+      {
+        "height": 706,
+        "media_key": "3_2003063806331883520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8xP607akAA_W5B.jpg",
+        "width": 792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003063809796345856",
+            "3_2003063806331883520"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2003063816092078214",
+        "created_at": "2025-12-22T11:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T12:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003063816092078214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6osOkJnaqt",
+              "end": 62,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2003063816092078214/photo/1",
+              "media_key": "3_2003063809796345856",
+              "start": 39,
+              "url": "https://t.co/6osOkJnaqt"
+            },
+            {
+              "display_url": "pic.x.com/6osOkJnaqt",
+              "end": 62,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2003063816092078214/photo/1",
+              "media_key": "3_2003063806331883520",
+              "start": 39,
+              "url": "https://t.co/6osOkJnaqt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003063816092078214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天晚上吃猪脚饭喔\n不过不是隆江的那种猪脚饭\n感觉那种太肥腻了\n这种就刚刚好 https://t.co/6osOkJnaqt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖双‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖偶尔写点诗词‖穗&沪‖会内耗emo‖不许键政！！！‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3700,
+          "following_count": 2783,
+          "like_count": 37473,
+          "listed_count": 12,
+          "media_count": 802,
+          "tweet_count": 8091
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

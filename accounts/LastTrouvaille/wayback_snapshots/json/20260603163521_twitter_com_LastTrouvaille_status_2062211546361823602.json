@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062211544281444352"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "2062211546361823602",
+    "created_at": "2026-06-03T16:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062211546361823602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sg24OpUfus",
+          "end": 106,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2062211546361823602/photo/1",
+          "media_key": "3_2062211544281444352",
+          "start": 83,
+          "url": "https://t.co/sg24OpUfus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062211546361823602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然意识到自己\n好像相当长时间没有和别人道晚安了\n感觉是压力大，又忙\n最近睡眠变差了点\n身体也是，变差了好多\n一直都不舒服（倒）\n不过睡觉是最重要的！\n大家晚安安~ https://t.co/sg24OpUfus"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 740,
+        "media_key": "3_2062211544281444352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5yeTSa8AA7f_0.jpg",
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062211544281444352"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2062211546361823602",
+        "created_at": "2026-06-03T16:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062211546361823602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sg24OpUfus",
+              "end": 106,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2062211546361823602/photo/1",
+              "media_key": "3_2062211544281444352",
+              "start": 83,
+              "url": "https://t.co/sg24OpUfus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062211546361823602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然意识到自己\n好像相当长时间没有和别人道晚安了\n感觉是压力大，又忙\n最近睡眠变差了点\n身体也是，变差了好多\n一直都不舒服（倒）\n不过睡觉是最重要的！\n大家晚安安~ https://t.co/sg24OpUfus"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】称呼CC就好啦‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖不许键政🚫‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille3",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille3",
+                "start": 0,
+                "url": "https://t.co/8rca0idckk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4506,
+          "following_count": 2876,
+          "like_count": 47228,
+          "listed_count": 14,
+          "media_count": 981,
+          "tweet_count": 9240
+        },
+        "url": "https://t.co/8rca0idckk",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

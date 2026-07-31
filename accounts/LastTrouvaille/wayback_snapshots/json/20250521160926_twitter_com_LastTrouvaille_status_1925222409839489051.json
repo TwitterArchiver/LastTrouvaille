@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1925184929253704108",
+    "created_at": "2025-05-21T16:09:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T17:09:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925222409839489051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1766320228940554240",
+          "start": 0,
+          "username": "brit_soonie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925222409839489051",
+    "in_reply_to_user_id": "1766320228940554240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925184929253704108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brit_soonie （举手）"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1925184929253704108].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1925184929253704108",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1925184929253704108"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1925184929253704108",
+        "created_at": "2025-05-21T16:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T17:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925222409839489051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1766320228940554240",
+              "start": 0,
+              "username": "brit_soonie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925222409839489051",
+        "in_reply_to_user_id": "1766320228940554240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925184929253704108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brit_soonie （举手）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2838,
+          "following_count": 2630,
+          "like_count": 24851,
+          "listed_count": 12,
+          "media_count": 522,
+          "tweet_count": 5934
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T04:29:04.000Z",
+        "description": "|ISFP|碎碎念 互粉🥰",
+        "id": "1766320228940554240",
+        "name": "icy",
+        "pinned_tweet_id": "1912117497987567970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901167148489469955/FCrepOSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 97,
+          "like_count": 834,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 480
+        },
+        "username": "brit_soonie",
+        "verified": false
+      }
+    ]
+  }
+}

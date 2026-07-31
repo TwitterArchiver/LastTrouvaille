@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1900211305321292109",
+    "created_at": "2025-03-13T16:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T17:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900221816972730741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880791371155722240",
+          "start": 0,
+          "username": "likzq90647"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900221816972730741",
+    "in_reply_to_user_id": "1880791371155722240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900211305321292109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@likzq90647 竟然有我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1900211303232491520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl7oHM9a0AAXGa1.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1900211305321292109",
+        "created_at": "2025-03-13T16:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T17:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900221816972730741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880791371155722240",
+              "start": 0,
+              "username": "likzq90647"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900221816972730741",
+        "in_reply_to_user_id": "1880791371155722240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900211305321292109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@likzq90647 竟然有我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900211303232491520"
+          ]
+        },
+        "author_id": "1880791371155722240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1900211305321292109",
+        "created_at": "2025-03-13T15:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T16:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900211305321292109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1898584008855818240/m20rzGsp?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1898584008855818240/m20rzGsp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/GPiPLzXlPs"
+            },
+            {
+              "display_url": "pic.x.com/MMu8iuV4BE",
+              "end": 64,
+              "expanded_url": "https://x.com/likzq90647/status/1900211305321292109/photo/1",
+              "media_key": "3_1900211303232491520",
+              "start": 41,
+              "url": "https://t.co/MMu8iuV4BE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900211305321292109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/GPiPLzXlPs https://t.co/MMu8iuV4BE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链推荐是动画巡礼和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2124,
+          "following_count": 2534,
+          "like_count": 16709,
+          "listed_count": 7,
+          "media_count": 325,
+          "tweet_count": 4042
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T01:36:36.000Z",
+        "description": "w3wmc infp 禁政 初中生 才15🌚 摄影/音游 欢迎互fo 交友 友跨👇匿名问答",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/likzq30",
+                "end": 23,
+                "expanded_url": "https://ngl.link/likzq30",
+                "start": 0,
+                "url": "https://t.co/5V6s9lgsl5"
+              }
+            ]
+          }
+        },
+        "id": "1880791371155722240",
+        "location": "World Edge",
+        "name": "Xiao Zhai Not Found",
+        "pinned_tweet_id": "1899317087228567995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895044064288088066/5yqB7KSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 428,
+          "like_count": 755,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 364
+        },
+        "url": "https://t.co/5V6s9lgsl5",
+        "username": "likzq90647",
+        "verified": false
+      }
+    ]
+  }
+}

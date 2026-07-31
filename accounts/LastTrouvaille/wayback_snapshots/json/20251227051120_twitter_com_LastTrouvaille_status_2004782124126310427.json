@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004782119797882882"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "2004782124126310427",
+    "created_at": "2025-12-27T05:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T06:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004782124126310427"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gnkra99rFL",
+          "end": 170,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2004782124126310427/photo/1",
+          "media_key": "3_2004782119797882882",
+          "start": 147,
+          "url": "https://t.co/Gnkra99rFL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004782124126310427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯..其实CC我有时候也会这样\n我的话..\n如果真的在意他们的话那就先稳住自己，尽量不要想太多？w\n毕竟可能对方也在忙\n然后再找个你最想要联系的朋友联系一下，如果对方回了那就顺势下去，没有的话也没关系，把精力放回到自己身上就好\n毕竟友谊有时候就像弹簧，一紧一松的\n但是最重要的还是让自己舒服哦 https://t.co/Gnkra99rFL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1563,
+        "media_key": "3_2004782119797882882",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Jqt1abgAIBCom.jpg",
+        "width": 1252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004782119797882882"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2004782124126310427",
+        "created_at": "2025-12-27T05:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004782124126310427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gnkra99rFL",
+              "end": 170,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2004782124126310427/photo/1",
+              "media_key": "3_2004782119797882882",
+              "start": 147,
+              "url": "https://t.co/Gnkra99rFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004782124126310427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯..其实CC我有时候也会这样\n我的话..\n如果真的在意他们的话那就先稳住自己，尽量不要想太多？w\n毕竟可能对方也在忙\n然后再找个你最想要联系的朋友联系一下，如果对方回了那就顺势下去，没有的话也没关系，把精力放回到自己身上就好\n毕竟友谊有时候就像弹簧，一紧一松的\n但是最重要的还是让自己舒服哦 https://t.co/Gnkra99rFL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，叫CC就好啦‖INFP-T‖天秤‖有点双（？）‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)熟的话不时话痨(雾)‖偶尔写诗填词‖穗&沪‖会内耗emo‖不许键政！！！‖中粤英👌🏻‖网链是提问箱和miku↓‖请和我做朋友！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3703,
+          "following_count": 2802,
+          "like_count": 37937,
+          "listed_count": 13,
+          "media_count": 812,
+          "tweet_count": 8163
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

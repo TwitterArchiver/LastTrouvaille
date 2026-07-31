@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1940208202244923592",
+    "created_at": "2025-07-02T01:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T02:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940225807164875174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1838109690930352128",
+          "start": 0,
+          "username": "NeroPaomo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940225807164875174",
+    "in_reply_to_user_id": "1838109690930352128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940208717108310069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeroPaomo 厨师长我要每天吃）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1094,
+        "media_key": "3_1940208705447800832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu0BibZWMAA3Z3i.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1940208202244923592",
+        "created_at": "2025-07-02T01:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T02:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940225807164875174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1838109690930352128",
+              "start": 0,
+              "username": "NeroPaomo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940225807164875174",
+        "in_reply_to_user_id": "1838109690930352128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940208717108310069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeroPaomo 厨师长我要每天吃）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940208705447800832"
+          ]
+        },
+        "author_id": "1838109690930352128",
+        "conversation_id": "1940208202244923592",
+        "created_at": "2025-07-02T00:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T01:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940208717108310069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/62cGDmtDsh",
+              "end": 54,
+              "expanded_url": "https://x.com/NeroPaomo/status/1940208717108310069/photo/1",
+              "media_key": "3_1940208705447800832",
+              "start": 31,
+              "url": "https://t.co/62cGDmtDsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940208717108310069",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940208202244923592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 给我哥布林厨师长也来一口尝尝 https://t.co/62cGDmtDsh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3069,
+          "following_count": 2725,
+          "like_count": 28468,
+          "listed_count": 12,
+          "media_count": 591,
+          "tweet_count": 6594
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-23T06:54:46.000Z",
+        "description": "这里是哥布林厨师长的万千化身之一，喜欢可以fo我一个厨师长，想吃啥都可以私信问问厨师长，厨师长会把从勇者手上（网上毛到的）偷来的好东西发给你。厨师长平常还喜欢转帖可爱的和有趣的推，喜欢的也可以fo厨师长一起看。",
+        "id": "1838109690930352128",
+        "location": "部落里的后厨",
+        "name": "哥布林厨师长PaoMaoNero（互fo部落里的每一个孩子",
+        "pinned_tweet_id": "1937523811299246117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937555338116636672/wYmpM8hR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 384,
+          "like_count": 7659,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 1867
+        },
+        "username": "NeroPaomo",
+        "verified": false
+      }
+    ]
+  }
+}

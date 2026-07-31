@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1904830128074744237",
+    "created_at": "2025-03-27T10:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T11:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905200347431207252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1806735924258377728",
+          "start": 0,
+          "username": "AwAii777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905200347431207252",
+    "in_reply_to_user_id": "1806735924258377728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905196366181412917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AwAii777 啊啊啊啊没有没有，我还以为你被某些人歧视什么的🥹本身挺不喜欢这些事所以就叨叨几句\n其实如果实在实在没办法上本科的话也可以挑个好的大专读，以后也可以专升本，而且一些好的大专国家会给政策，感觉挺吃香的还（有认识的人在读"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1904830128074744237",
+        "created_at": "2025-03-27T10:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T11:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905200347431207252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1806735924258377728",
+              "start": 0,
+              "username": "AwAii777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905200347431207252",
+        "in_reply_to_user_id": "1806735924258377728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905196366181412917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AwAii777 啊啊啊啊没有没有，我还以为你被某些人歧视什么的🥹本身挺不喜欢这些事所以就叨叨几句\n其实如果实在实在没办法上本科的话也可以挑个好的大专读，以后也可以专升本，而且一些好的大专国家会给政策，感觉挺吃香的还（有认识的人在读"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806735924258377728",
+        "conversation_id": "1904830128074744237",
+        "created_at": "2025-03-27T09:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T10:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905196366181412917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905196366181412917",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905067539048309181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 没有歧视呃啊 我在歧视我自己躺了两年😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2211,
+          "following_count": 2624,
+          "like_count": 18346,
+          "listed_count": 12,
+          "media_count": 378,
+          "tweet_count": 4429
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T17:06:49.000Z",
+        "description": "高中肄业低学历//无性别人类//自由选择的权利是我的天赋人权//里账:@TTHoiKawaiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 35,
+                "username": "TTHoiKawaiii"
+              }
+            ]
+          }
+        },
+        "id": "1806735924258377728",
+        "location": "浪漫冰冷華北",
+        "name": "草莓麥旋風🐹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875947068558376960/fk5paLWd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 439,
+          "like_count": 3844,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 4091
+        },
+        "username": "AwAii777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1878471020094587321",
+    "created_at": "2025-01-12T16:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T17:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878472617952174172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1680247071608303616",
+          "start": 0,
+          "username": "AsdQWD358224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878472617952174172",
+    "in_reply_to_user_id": "1680247071608303616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878471020094587321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsdQWD358224 面面？！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1878471020094587321",
+        "created_at": "2025-01-12T16:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T17:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878472617952174172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680247071608303616",
+              "start": 0,
+              "username": "AsdQWD358224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878472617952174172",
+        "in_reply_to_user_id": "1680247071608303616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878471020094587321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsdQWD358224 面面？！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878471016709812224"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1878471020094587321",
+        "created_at": "2025-01-12T15:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T16:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878471020094587321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uouv6pAdZD",
+              "end": 171,
+              "expanded_url": "https://x.com/AsdQWD358224/status/1878471020094587321/photo/1",
+              "media_key": "3_1878471016709812224",
+              "start": 148,
+              "url": "https://t.co/uouv6pAdZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878471020094587321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "亚硝酸钠\nwww……味道真的好恶心呢\n哼哼～不过还是全部喝下去啦～\n  我下辈子还来中国🇨🇳！\nwww…请不要来干预我啦～\n把精力送给那些更加需要的人身上吧～\n这个计量不可能救得回来啦～\n更何况已经喝下20分钟了呢～\n抱抱你们～\n*^◎^*\n一杯为生活、一杯为父母\n最后……再见啦！\n爱你们哟！ https://t.co/uouv6pAdZD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688,
+          "following_count": 2057,
+          "like_count": 9959,
+          "listed_count": 4,
+          "media_count": 191,
+          "tweet_count": 2451
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/茄皇牛肉面半生推/LGBT+友善/生理性别男性/07年17岁/高三在读/无政治倾向/重度抑郁+焦虑/汉族/拒绝建政喵～/喜欢猫猫/对任何人都友善（除了支黑）/生活推/成都刷新/可以喊我“面面”/泛性恋/长相和电棍一样/\n@morrrrrrrling  一个特别好的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "morrrrrrrling"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜",
+        "pinned_tweet_id": "1877554130635395229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791920961547354112/mi5G0FY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 2085,
+          "like_count": 25407,
+          "listed_count": 2,
+          "media_count": 355,
+          "tweet_count": 4518
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      }
+    ]
+  }
+}

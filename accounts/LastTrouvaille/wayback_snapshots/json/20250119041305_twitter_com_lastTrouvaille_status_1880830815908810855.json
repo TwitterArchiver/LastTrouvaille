@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1880661995843973597",
+    "created_at": "2025-01-19T04:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T05:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880830815908810855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1545787268501106688",
+          "start": 0,
+          "username": "zzzChumo"
+        },
+        {
+          "end": 20,
+          "id": "1759847001351393280",
+          "start": 10,
+          "username": "kewenly12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880830815908810855",
+    "in_reply_to_user_id": "1545787268501106688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880661995843973597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzChumo @kewenly12 喵~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1880661995843973597",
+        "created_at": "2025-01-19T04:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T05:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880830815908810855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545787268501106688",
+              "start": 0,
+              "username": "zzzChumo"
+            },
+            {
+              "end": 20,
+              "id": "1759847001351393280",
+              "start": 10,
+              "username": "kewenly12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880830815908810855",
+        "in_reply_to_user_id": "1545787268501106688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880661995843973597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzChumo @kewenly12 喵~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545787268501106688",
+        "conversation_id": "1880661995843973597",
+        "created_at": "2025-01-18T17:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T18:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880661995843973597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1759847001351393280",
+              "start": 17,
+              "username": "kewenly12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880661995843973597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 890,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在说话染上了结尾带“喵”的口癖\n@kewenly12 干的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 2212,
+          "like_count": 10540,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 2633
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T15:09:53.000Z",
+        "description": "有双相会发癫/中 Eng/版权头图非请勿用/术术人/人称代词随意 但更倾向she her/三代目/逃生舱 @whatisnickidk/情商为0不会说话/智商为0放弃思考/刷机佬/热衷于收集各种电子垃圾/四分之一个技术宅/错字受/沉迷刷推无法自拔/这个人懒死了，什么都没写 (⁠°∀⁠。)（？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "whatisnickidk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzcm.fun",
+                "end": 23,
+                "expanded_url": "http://zzcm.fun",
+                "start": 0,
+                "url": "https://t.co/W0n01joHsj"
+              }
+            ]
+          }
+        },
+        "id": "1545787268501106688",
+        "location": "在家里蹲着",
+        "name": "初墨也是墨初不是中初🍥🧊🍔🍟🍜🍣🍦🍕🍧🍡🍑🍉🍍🍛🧁🍪🍩",
+        "pinned_tweet_id": "1880632094151569895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545787816457564160/zAiXJmcH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 793,
+          "like_count": 54155,
+          "listed_count": 1,
+          "media_count": 476,
+          "tweet_count": 2263
+        },
+        "url": "https://t.co/W0n01joHsj",
+        "username": "zzzChumo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-20T07:46:52.000Z",
+        "description": "大家的互联网朋友，可以叫我墨水喵或者墨墨/mtx/友一切/互fo/超级内向社恐人类🥺/刚满19岁😋/涉猎广泛捏/不键政对政治什么的不感兴趣嗯嗯/权当pyq发/做的不好的话对不起呜呜/blue sky↓↓↓每日更新吃货墨墨的日常😋，欢迎灌注喵～↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/inkwen…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/inkwenly12.bsky.social",
+                "start": 0,
+                "url": "https://t.co/EvkxqUc2Dq"
+              }
+            ]
+          }
+        },
+        "id": "1759847001351393280",
+        "name": "inkwenly🍤🍛🍇🍼🌮🍥",
+        "pinned_tweet_id": "1851652958989209872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836618631251382272/1gtyaij0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 779,
+          "like_count": 23525,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 2151
+        },
+        "url": "https://t.co/EvkxqUc2Dq",
+        "username": "kewenly12",
+        "verified": false
+      }
+    ]
+  }
+}

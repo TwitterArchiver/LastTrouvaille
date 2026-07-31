@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1892858440885612968",
+    "created_at": "2025-02-21T09:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T10:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892866301040967774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1650134867424976896",
+          "start": 0,
+          "username": "_Tojita_Sekai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892866301040967774",
+    "in_reply_to_user_id": "1650134867424976896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892862980796403850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Tojita_Sekai 啊啊啊啊水清也很好的！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1892858440885612968",
+        "created_at": "2025-02-21T09:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T10:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892866301040967774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1650134867424976896",
+              "start": 0,
+              "username": "_Tojita_Sekai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892866301040967774",
+        "in_reply_to_user_id": "1650134867424976896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892862980796403850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Tojita_Sekai 啊啊啊啊水清也很好的！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650134867424976896",
+        "conversation_id": "1892858440885612968",
+        "created_at": "2025-02-21T09:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T10:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892862980796403850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            },
+            {
+              "end": 25,
+              "id": "1620145978950176768",
+              "start": 16,
+              "username": "Inori090"
+            },
+            {
+              "end": 36,
+              "id": "1779578813338533888",
+              "start": 26,
+              "username": "luna_muen"
+            },
+            {
+              "end": 46,
+              "id": "1363826773176188934",
+              "start": 37,
+              "username": "huige545"
+            },
+            {
+              "end": 63,
+              "id": "1376745203508211713",
+              "start": 47,
+              "username": "Vj1MgBu4qQJueGM"
+            },
+            {
+              "end": 72,
+              "id": "1762120281626415104",
+              "start": 64,
+              "username": "X_jvzhi"
+            },
+            {
+              "end": 83,
+              "id": "1534399985634234371",
+              "start": 73,
+              "username": "c21368619"
+            },
+            {
+              "end": 95,
+              "id": "1646550974553522183",
+              "start": 84,
+              "username": "yeziyu7777"
+            },
+            {
+              "end": 107,
+              "id": "1267812046097117186",
+              "start": 96,
+              "username": "Utsuho_223"
+            },
+            {
+              "end": 122,
+              "id": "1504799211799265282",
+              "start": 108,
+              "username": "LiuSuK_Arcaea"
+            },
+            {
+              "end": 137,
+              "id": "1822910760873537536",
+              "start": 123,
+              "username": "KoJikaXiaoLu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892862980796403850",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892858440885612968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille @Inori090 @luna_muen @huige545 @Vj1MgBu4qQJueGM @X_jvzhi @c21368619 @yeziyu7777 @Utsuho_223 @LiuSuK_Arcaea @KoJikaXiaoLu_ 我真得和你爆了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ 这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 2182,
+          "like_count": 14091,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 3445
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T13:49:51.000Z",
+        "description": "雨世界好玩，星露谷好玩，Arcaea也好玩，我每天玩玩玩玩玩玩，然后@_FiniteWorld是好猫猫，@canitastevenom是大杂鱼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "_FiniteWorld"
+              },
+              {
+                "end": 67,
+                "start": 52,
+                "username": "canitastevenom"
+              }
+            ]
+          }
+        },
+        "id": "1650134867424976896",
+        "location": "Unreal life",
+        "name": "Chinsu",
+        "pinned_tweet_id": "1887523850667368611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868314598102994944/Xq504l8Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 265,
+          "like_count": 7946,
+          "listed_count": 4,
+          "media_count": 132,
+          "tweet_count": 3365
+        },
+        "username": "_Tojita_Sekai",
+        "verified": false
+      }
+    ]
+  }
+}

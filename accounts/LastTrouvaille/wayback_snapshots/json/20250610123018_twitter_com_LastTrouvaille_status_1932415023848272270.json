@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1932354197347070272",
+    "created_at": "2025-06-10T12:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T13:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932415023848272270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1448819933970796556",
+          "start": 0,
+          "username": "NyaCatNyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932415023848272270",
+    "in_reply_to_user_id": "1448819933970796556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932410180286992752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyaCatNyan 要不是学校要求我也不想剪😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1932354197347070272",
+        "created_at": "2025-06-10T12:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T13:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932415023848272270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448819933970796556",
+              "start": 0,
+              "username": "NyaCatNyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932415023848272270",
+        "in_reply_to_user_id": "1448819933970796556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932410180286992752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaCatNyan 要不是学校要求我也不想剪😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448819933970796556",
+        "conversation_id": "1932354197347070272",
+        "created_at": "2025-06-10T12:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T13:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932410180286992752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932410180286992752",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932354197347070272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 所以咱坚决不剪（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2955,
+          "following_count": 2648,
+          "like_count": 27158,
+          "listed_count": 13,
+          "media_count": 564,
+          "tweet_count": 6357
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-15T01:16:24.000Z",
+        "description": "随机转推bot/转点梗图/转点小萝莉/想要病娇贫乳猫耳白丝长发异色瞳可爱小萝莉（碎碎念）",
+        "id": "1448819933970796556",
+        "location": "1公里附近",
+        "name": "おきび よどみ",
+        "pinned_tweet_id": "1897656335464116575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925016544704397312/nXk0w-nA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 432,
+          "like_count": 830,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 2235
+        },
+        "username": "NyaCatNyan",
+        "verified": false
+      }
+    ]
+  }
+}

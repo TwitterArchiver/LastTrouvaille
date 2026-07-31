@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1891155994429849824",
+    "created_at": "2025-02-17T03:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T04:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891331830520963528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1667865236559519745",
+          "start": 0,
+          "username": "whoosh_ikuna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891331830520963528",
+    "in_reply_to_user_id": "1667865236559519745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891155994429849824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whoosh_ikuna 生日快乐！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1891155994429849824",
+        "created_at": "2025-02-17T03:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T04:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891331830520963528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1667865236559519745",
+              "start": 0,
+              "username": "whoosh_ikuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891331830520963528",
+        "in_reply_to_user_id": "1667865236559519745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891155994429849824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whoosh_ikuna 生日快乐！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891155991334731776"
+          ]
+        },
+        "author_id": "1667865236559519745",
+        "conversation_id": "1891155994429849824",
+        "created_at": "2025-02-16T16:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T17:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891155994429849824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sj93xqvY8C",
+              "end": 31,
+              "expanded_url": "https://x.com/whoosh_ikuna/status/1891155994429849824/photo/1",
+              "media_key": "3_1891155991334731776",
+              "start": 8,
+              "url": "https://t.co/Sj93xqvY8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891155994429849824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2888,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 64,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天，17岁。 https://t.co/Sj93xqvY8C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Nice to meet you~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961,
+          "following_count": 2104,
+          "like_count": 13047,
+          "listed_count": 6,
+          "media_count": 251,
+          "tweet_count": 3338
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T12:04:05.000Z",
+        "description": "我希望有总一天，能够合奏属于我们自己的歌曲。",
+        "id": "1667865236559519745",
+        "location": "鹅卵石小径",
+        "name": "小屑",
+        "pinned_tweet_id": "1889713661008290135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887909616069263367/6-QriO00_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 1354,
+          "like_count": 140172,
+          "listed_count": 7,
+          "media_count": 850,
+          "tweet_count": 6824
+        },
+        "username": "whoosh_ikuna",
+        "verified": false
+      }
+    ]
+  }
+}

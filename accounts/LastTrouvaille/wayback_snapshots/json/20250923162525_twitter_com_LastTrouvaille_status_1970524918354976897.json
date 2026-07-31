@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1970524918354976897",
+    "created_at": "2025-09-23T16:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T17:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970524918354976897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kujoamani/stat…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/kujoamani/status/1970090687313137885",
+          "start": 50,
+          "url": "https://t.co/mD68qXfuu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970524918354976897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970090687313137885",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉没有比这两位的cos更还原的了( ´ρ`)\n咱真的很喜欢小薰子\n但是CC在现实里其实是保科昴（ https://t.co/mD68qXfuu0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3895,
+        "media_key": "3_1970090675334164480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1crB_6aMAAbdVb.jpg",
+        "width": 2921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1970524918354976897",
+        "created_at": "2025-09-23T16:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T17:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970524918354976897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kujoamani/stat…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/kujoamani/status/1970090687313137885",
+              "start": 50,
+              "url": "https://t.co/mD68qXfuu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970524918354976897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970090687313137885",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉没有比这两位的cos更还原的了( ´ρ`)\n咱真的很喜欢小薰子\n但是CC在现实里其实是保科昴（ https://t.co/mD68qXfuu0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970090675334164480"
+          ]
+        },
+        "author_id": "3222125203",
+        "conversation_id": "1970090687313137885",
+        "created_at": "2025-09-22T11:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T12:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970090687313137885"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "薫子",
+              "probability": 0.8272,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 3,
+              "normalized_text": "昴",
+              "probability": 0.6655,
+              "start": 3,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7TsoTl7JT",
+              "end": 29,
+              "expanded_url": "https://x.com/kujoamani/status/1970090687313137885/photo/1",
+              "media_key": "3_1970090675334164480",
+              "start": 6,
+              "url": "https://t.co/J7TsoTl7JT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970090687313137885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1516,
+          "impression_count": 434094,
+          "like_count": 27578,
+          "quote_count": 131,
+          "reply_count": 54,
+          "retweet_count": 2167
+        },
+        "reply_settings": "everyone",
+        "text": "薫子と昴🌸 https://t.co/J7TsoTl7JT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3327,
+          "following_count": 2694,
+          "like_count": 30783,
+          "listed_count": 12,
+          "media_count": 682,
+          "tweet_count": 7202
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-21T08:08:08.000Z",
+        "description": "japanese cosplayer 158cmさぶ→(@kujoamaniJr)ご依頼はこちらまで✉️【info@cosmix.jp】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "kujoamaniJr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kujoamani",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kujoamani",
+                "start": 0,
+                "url": "https://t.co/aZpK7HE0ZF"
+              }
+            ]
+          }
+        },
+        "id": "3222125203",
+        "location": "Cosmix所属",
+        "name": "あまに☁️☪️",
+        "pinned_tweet_id": "1968963958385078572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926915043389542400/57kkmVIw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127823,
+          "following_count": 903,
+          "like_count": 5904,
+          "listed_count": 642,
+          "media_count": 390,
+          "tweet_count": 14114
+        },
+        "url": "https://t.co/aZpK7HE0ZF",
+        "username": "kujoamani",
+        "verified": true
+      }
+    ]
+  }
+}

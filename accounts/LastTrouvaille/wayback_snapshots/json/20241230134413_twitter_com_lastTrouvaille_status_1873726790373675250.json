@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1873387375306637665",
+    "created_at": "2024-12-30T13:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T14:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873726790373675250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1534399985634234371",
+          "start": 0,
+          "username": "c21368619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873726790373675250",
+    "in_reply_to_user_id": "1534399985634234371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873725368668221843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c21368619 天...\n被感动到了\n谢谢c酱🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1873387375306637665",
+        "created_at": "2024-12-30T13:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T14:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873726790373675250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1534399985634234371",
+              "start": 0,
+              "username": "c21368619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873726790373675250",
+        "in_reply_to_user_id": "1534399985634234371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873725368668221843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c21368619 天...\n被感动到了\n谢谢c酱🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534399985634234371",
+        "conversation_id": "1873387375306637665",
+        "created_at": "2024-12-30T13:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T14:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873725368668221843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873725368668221843",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873387375306637665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 如果谁能拥有CC这样的妈妈或者姐姐\n那么ta的童年一定会很幸福\n这也是第一次看见CC就很亲切的原因\n不只是因为我们的名字里都有C\n而是感受到了CC那份想要分享自己的爱\n做大家包容温暖的港湾的美好愿景\n如果爱CC需要理由\n一定是因为我在CC眼眸的倒影里看见了自己幸福的笑容"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 1791,
+          "like_count": 8124,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 2002
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T05:00:47.000Z",
+        "description": "喜欢一切可爱的事物｜如果你也喜欢我的话…就像我喜欢你时那样开心吧",
+        "id": "1534399985634234371",
+        "location": "最終列車は25時",
+        "name": "c酱",
+        "pinned_tweet_id": "1870753788207976582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534451890217291776/EIh_JkXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 408,
+          "like_count": 608,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 369
+        },
+        "username": "c21368619",
+        "verified": false
+      }
+    ]
+  }
+}

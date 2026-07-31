@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1875144952352739770",
+    "created_at": "2025-01-03T16:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T17:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875218506343739728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1826536169800437760",
+          "start": 0,
+          "username": "SQ100722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875218506343739728",
+    "in_reply_to_user_id": "1826536169800437760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875144952352739770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SQ100722 另外那个是金星嘞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1875144952352739770",
+        "created_at": "2025-01-03T16:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T17:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875218506343739728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1826536169800437760",
+              "start": 0,
+              "username": "SQ100722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875218506343739728",
+        "in_reply_to_user_id": "1826536169800437760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875144952352739770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SQ100722 另外那个是金星嘞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875144945318895616"
+          ]
+        },
+        "author_id": "1826536169800437760",
+        "conversation_id": "1875144952352739770",
+        "created_at": "2025-01-03T11:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T12:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875144952352739770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8CMATQ3VA",
+              "end": 29,
+              "expanded_url": "https://x.com/SQ100722/status/1875144952352739770/photo/1",
+              "media_key": "3_1875144945318895616",
+              "start": 6,
+              "url": "https://t.co/a8CMATQ3VA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875144952352739770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 423,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咋有两个🤔 https://t.co/a8CMATQ3VA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 1866,
+          "like_count": 8840,
+          "listed_count": 4,
+          "media_count": 174,
+          "tweet_count": 2161
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T08:25:55.000Z",
+        "description": "♂/10/丑人/里@pharaoh420_sq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "pharaoh420_sq"
+              }
+            ]
+          }
+        },
+        "id": "1826536169800437760",
+        "location": "镇海区公园",
+        "name": "2727",
+        "pinned_tweet_id": "1857013735069536347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860217293416071168/Q6ft89Dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 434,
+          "like_count": 12742,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 1020
+        },
+        "username": "SQ100722",
+        "verified": false
+      }
+    ]
+  }
+}

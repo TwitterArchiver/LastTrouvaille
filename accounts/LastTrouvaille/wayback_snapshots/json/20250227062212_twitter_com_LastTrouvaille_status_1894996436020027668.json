@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1894995505656308173",
+    "created_at": "2025-02-27T06:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T07:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894996436020027668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597157388330536960",
+          "start": 0,
+          "username": "Praesepe_F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894996436020027668",
+    "in_reply_to_user_id": "1597157388330536960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894995505656308173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Praesepe_F 好可爱呜呜\n（最近流量确实好差）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1894995497645154309",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkxgXXAaoAUgSbh.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1894995505656308173",
+        "created_at": "2025-02-27T06:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T07:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894996436020027668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597157388330536960",
+              "start": 0,
+              "username": "Praesepe_F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894996436020027668",
+        "in_reply_to_user_id": "1597157388330536960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894995505656308173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Praesepe_F 好可爱呜呜\n（最近流量确实好差）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894995497645154309"
+          ]
+        },
+        "author_id": "1597157388330536960",
+        "conversation_id": "1894995505656308173",
+        "created_at": "2025-02-27T06:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T07:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894995505656308173"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7w8X1qU7Q",
+              "end": 44,
+              "expanded_url": "https://x.com/Praesepe_F/status/1894995505656308173/photo/1",
+              "media_key": "3_1894995497645154309",
+              "start": 21,
+              "url": "https://t.co/p7w8X1qU7Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894995505656308173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喂！在看什么呢！（最近流量好差）\n#伪娘 https://t.co/p7w8X1qU7Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ here's Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 2218,
+          "like_count": 14785,
+          "listed_count": 7,
+          "media_count": 282,
+          "tweet_count": 3632
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T09:16:20.000Z",
+        "description": "也许这夏日终有一别 粥皮小群604405403 小号@Renkno_F 哈基米@Uye19_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "Renkno_F"
+              },
+              {
+                "end": 46,
+                "start": 39,
+                "username": "Uye19_"
+              }
+            ]
+          }
+        },
+        "id": "1597157388330536960",
+        "location": "阿戈尔水世界",
+        "name": "椰椰斯卡蒂",
+        "pinned_tweet_id": "1884940074393149495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846204922972590083/C6AcVZ1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5870,
+          "following_count": 521,
+          "like_count": 7798,
+          "listed_count": 21,
+          "media_count": 227,
+          "tweet_count": 2568
+        },
+        "username": "Praesepe_F",
+        "verified": false
+      }
+    ]
+  }
+}

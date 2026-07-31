@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1919293652657975783",
+    "created_at": "2025-05-05T07:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T08:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919296252446998716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1694068450220744707",
+          "start": 0,
+          "username": "YS97OwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919296252446998716",
+    "in_reply_to_user_id": "1694068450220744707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919296057357349217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YS97OwO 是这个\nUN07023599993"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1919293652657975783",
+        "created_at": "2025-05-05T07:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T08:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919296252446998716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1694068450220744707",
+              "start": 0,
+              "username": "YS97OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919296252446998716",
+        "in_reply_to_user_id": "1694068450220744707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919296057357349217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YS97OwO 是这个\nUN07023599993"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694068450220744707",
+        "conversation_id": "1919293652657975783",
+        "created_at": "2025-05-05T07:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T08:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919296057357349217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919296057357349217",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919293652657975783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 给个用户名，我帮你举报"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2675,
+          "following_count": 2721,
+          "like_count": 22807,
+          "listed_count": 12,
+          "media_count": 483,
+          "tweet_count": 5448
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T19:26:15.000Z",
+        "description": "🇨🇳大学生一名/轻小说&漫画🥰/#maimai #Arcaea #CHUNITHM #Phigros #プロセカ/PCR BA HBR 星铁 Pokemon/Bilibili同名/互fo🉑/小号：①bluesky：https://t.co/XjEX0sUhIc  ②@ys97O_O（里）\n［日语绝赞学习中］",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 16,
+                "tag": "maimai"
+              },
+              {
+                "end": 31,
+                "start": 24,
+                "tag": "Arcaea"
+              },
+              {
+                "end": 41,
+                "start": 32,
+                "tag": "CHUNITHM"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "Phigros"
+              },
+              {
+                "end": 56,
+                "start": 51,
+                "tag": "プロセカ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 141,
+                "start": 133,
+                "username": "ys97O_O"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ys1230.bsky.social",
+                "end": 130,
+                "expanded_url": "http://ys1230.bsky.social",
+                "start": 107,
+                "url": "https://t.co/XjEX0sUhIc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/2EYEfVr",
+                "end": 23,
+                "expanded_url": "https://b23.tv/2EYEfVr",
+                "start": 0,
+                "url": "https://t.co/31KLSn1fkz"
+              }
+            ]
+          }
+        },
+        "id": "1694068450220744707",
+        "name": "游笙",
+        "pinned_tweet_id": "1854553242308686210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831365569427468290/ZUd6XzGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 3216,
+          "like_count": 67702,
+          "listed_count": 8,
+          "media_count": 2580,
+          "tweet_count": 23705
+        },
+        "url": "https://t.co/31KLSn1fkz",
+        "username": "YS97OwO",
+        "verified": false
+      }
+    ]
+  }
+}

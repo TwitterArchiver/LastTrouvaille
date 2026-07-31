@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2012353807913722233",
+    "created_at": "2026-01-17T02:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T03:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012353807913722233"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/n0velart/statu…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/n0velart/status/2008307714825547841",
+          "start": 30,
+          "url": "https://t.co/FTUpaYlUaT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012353807913722233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008307714825547841",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "受不了了wwww\n从来没有见过那么对我xp的图✧˖°（咳） https://t.co/FTUpaYlUaT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2008307710480314375",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G97xOOLbcAcl1ug.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2012353807913722233",
+        "created_at": "2026-01-17T02:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T03:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012353807913722233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/n0velart/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/n0velart/status/2008307714825547841",
+              "start": 30,
+              "url": "https://t.co/FTUpaYlUaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012353807913722233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008307714825547841",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "受不了了wwww\n从来没有见过那么对我xp的图✧˖°（咳） https://t.co/FTUpaYlUaT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008307710480314375"
+          ]
+        },
+        "author_id": "1890713764221083648",
+        "conversation_id": "2008307714825547841",
+        "created_at": "2026-01-05T22:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T23:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008307714825547841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bjfgf9mmiF",
+              "end": 28,
+              "expanded_url": "https://x.com/n0velart/status/2008307714825547841/photo/1",
+              "media_key": "3_2008307710480314375",
+              "start": 5,
+              "url": "https://t.co/Bjfgf9mmiF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008307714825547841",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3429,
+          "impression_count": 346154,
+          "like_count": 26568,
+          "quote_count": 30,
+          "reply_count": 19,
+          "retweet_count": 982
+        },
+        "reply_settings": "everyone",
+        "text": "need https://t.co/Bjfgf9mmiF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，叫CC就好啦‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)熟的话不时话痨(雾)‖偶尔写诗填词‖穗&沪‖会内耗emo‖不许键政！！！‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园or纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3752,
+          "following_count": 2818,
+          "like_count": 39223,
+          "listed_count": 14,
+          "media_count": 836,
+          "tweet_count": 8311
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T10:44:33.000Z",
+        "description": "ᴅᴀɪʟʏ ᴅᴏꜱᴇ ᴏꜰ ʟᴏᴠᴇ @youknowmearound",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "youknowmearound"
+              }
+            ]
+          }
+        },
+        "id": "1890713764221083648",
+        "name": "𝒩𝒪𝒱𝐸𝐿 ᥫ᭡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010439823455330304/vJfeY0O5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68996,
+          "following_count": 204,
+          "like_count": 8910,
+          "listed_count": 82,
+          "media_count": 462,
+          "tweet_count": 769
+        },
+        "username": "n0velart",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964136635194626048",
+        "3_1964136634674511872",
+        "3_1964136634787778561"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1964136637681848546",
+    "created_at": "2025-09-06T01:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T02:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964136637681848546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CceImsWVIv",
+          "end": 167,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1964136637681848546/photo/1",
+          "media_key": "3_1964136635194626048",
+          "start": 144,
+          "url": "https://t.co/CceImsWVIv"
+        },
+        {
+          "display_url": "pic.x.com/CceImsWVIv",
+          "end": 167,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1964136637681848546/photo/1",
+          "media_key": "3_1964136634674511872",
+          "start": 144,
+          "url": "https://t.co/CceImsWVIv"
+        },
+        {
+          "display_url": "pic.x.com/CceImsWVIv",
+          "end": 167,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1964136637681848546/photo/1",
+          "media_key": "3_1964136634787778561",
+          "start": 144,
+          "url": "https://t.co/CceImsWVIv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964136637681848546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "p1：摸摸，这不是你的错\n即使他人都不可信，也要去相信自己呀，只有自己才是最真实的不是吗\n现在的痛苦不是因为别的，而是因为曾经真心实意地信任过、投入过，而这本身就很珍贵呀😽所以给自己一点时间吧，多给予自己一点应得的温柔\np2：嗯呢，去吧去吧，祝前程似锦~\np3：这不重要啦，能被喜欢就好 https://t.co/CceImsWVIv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 907,
+        "media_key": "3_1964136635194626048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ID3P8bUAA8haT.jpg",
+        "width": 1252
+      },
+      {
+        "height": 811,
+        "media_key": "3_1964136634674511872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ID3OAbAAAH3Sr.jpg",
+        "width": 1252
+      },
+      {
+        "height": 795,
+        "media_key": "3_1964136634787778561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ID3ObbUAEt41n.jpg",
+        "width": 1252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964136635194626048",
+            "3_1964136634674511872",
+            "3_1964136634787778561"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "1964136637681848546",
+        "created_at": "2025-09-06T01:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T02:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964136637681848546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CceImsWVIv",
+              "end": 167,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1964136637681848546/photo/1",
+              "media_key": "3_1964136635194626048",
+              "start": 144,
+              "url": "https://t.co/CceImsWVIv"
+            },
+            {
+              "display_url": "pic.x.com/CceImsWVIv",
+              "end": 167,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1964136637681848546/photo/1",
+              "media_key": "3_1964136634674511872",
+              "start": 144,
+              "url": "https://t.co/CceImsWVIv"
+            },
+            {
+              "display_url": "pic.x.com/CceImsWVIv",
+              "end": 167,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1964136637681848546/photo/1",
+              "media_key": "3_1964136634787778561",
+              "start": 144,
+              "url": "https://t.co/CceImsWVIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964136637681848546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1：摸摸，这不是你的错\n即使他人都不可信，也要去相信自己呀，只有自己才是最真实的不是吗\n现在的痛苦不是因为别的，而是因为曾经真心实意地信任过、投入过，而这本身就很珍贵呀😽所以给自己一点时间吧，多给予自己一点应得的温柔\np2：嗯呢，去吧去吧，祝前程似锦~\np3：这不重要啦，能被喜欢就好 https://t.co/CceImsWVIv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3224,
+          "following_count": 2674,
+          "like_count": 29983,
+          "listed_count": 13,
+          "media_count": 664,
+          "tweet_count": 7049
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

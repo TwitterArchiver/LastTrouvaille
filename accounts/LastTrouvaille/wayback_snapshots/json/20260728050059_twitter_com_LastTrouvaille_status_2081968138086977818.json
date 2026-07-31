@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2081781671402275316",
+    "created_at": "2026-07-28T05:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T06:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081968138086977818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1790702582018777088",
+          "start": 0,
+          "username": "wi9511465880"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081968138086977818",
+    "in_reply_to_user_id": "1790702582018777088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081959557451108619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wi9511465880 抱抱哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2081781671402275316",
+        "created_at": "2026-07-28T05:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081968138086977818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1790702582018777088",
+              "start": 0,
+              "username": "wi9511465880"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081968138086977818",
+        "in_reply_to_user_id": "1790702582018777088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081959557451108619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wi9511465880 抱抱哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790702582018777088",
+        "conversation_id": "2081781671402275316",
+        "created_at": "2026-07-28T04:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081959557451108619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081959557451108619",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081781671402275316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 喵呜…抱抱喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4673,
+          "following_count": 2931,
+          "like_count": 50829,
+          "listed_count": 14,
+          "media_count": 1026,
+          "tweet_count": 9519
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T11:15:47.000Z",
+        "description": "是笨蛋/驻🇭🇰/游戏不常玩/包容性强/偶尔会炸负能/夜猫子喵/是猫猫/无聊无聊无聊/妹妹@wi98114/友🏳️‍⚧️🏳️‍🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "wi98114"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "win95.com",
+                "end": 23,
+                "expanded_url": "http://www.win95.com",
+                "start": 0,
+                "url": "https://t.co/HYBZQtva1S"
+              }
+            ]
+          }
+        },
+        "id": "1790702582018777088",
+        "location": "香港特別行政區",
+        "name": "wi95114🇨🇳🇭🇰🇲🇴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919082551983161344/poKFLzQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 236,
+          "like_count": 1527,
+          "listed_count": 4,
+          "media_count": 133,
+          "tweet_count": 1299
+        },
+        "url": "https://t.co/HYBZQtva1S",
+        "username": "wi9511465880",
+        "verified": false
+      }
+    ]
+  }
+}

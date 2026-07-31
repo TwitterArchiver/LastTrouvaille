@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1961109441815957858",
+    "created_at": "2025-08-29T01:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T02:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961241966584422444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1704173056690900993",
+          "start": 0,
+          "username": "suvoroy06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961241966584422444",
+    "in_reply_to_user_id": "1704173056690900993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961109441815957858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suvoroy06 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1961109441815957858",
+        "created_at": "2025-08-29T01:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T02:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961241966584422444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1704173056690900993",
+              "start": 0,
+              "username": "suvoroy06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961241966584422444",
+        "in_reply_to_user_id": "1704173056690900993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961109441815957858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suvoroy06 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704173056690900993",
+        "conversation_id": "1961109441815957858",
+        "created_at": "2025-08-28T16:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T17:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961109441815957858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961109441815957858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 412,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被取代了，对吧。\n悲惨但又自作自受的遭遇。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3218,
+          "following_count": 2749,
+          "like_count": 29774,
+          "listed_count": 13,
+          "media_count": 654,
+          "tweet_count": 7002
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T16:38:25.000Z",
+        "description": "Sub/抖M 是别人的atm，钱包，也是你的主人 收回血奴，恶劣，喜欢耍人，并且会直接索要m的钱（门槛15）门牌：444340936",
+        "id": "1704173056690900993",
+        "name": "秋月信咲",
+        "pinned_tweet_id": "1850929661632823319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848756731251462150/qZAsBxvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 586,
+          "like_count": 11861,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 729
+        },
+        "username": "suvoroy06",
+        "verified": false
+      }
+    ]
+  }
+}

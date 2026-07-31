@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2004179612788826322",
+    "created_at": "2025-12-25T17:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T18:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004240897924640780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "751359726898688000",
+          "start": 0,
+          "username": "RealAkemiHomura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004240897924640780",
+    "in_reply_to_user_id": "751359726898688000",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004185495656595900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RealAkemiHomura qaq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2004179612788826322",
+        "created_at": "2025-12-25T17:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T18:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004240897924640780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "751359726898688000",
+              "start": 0,
+              "username": "RealAkemiHomura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004240897924640780",
+        "in_reply_to_user_id": "751359726898688000",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004185495656595900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RealAkemiHomura qaq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "751359726898688000",
+        "conversation_id": "2004179612788826322",
+        "created_at": "2025-12-25T13:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T14:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004185495656595900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004185495656595900",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004179612788826322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 雷电法王"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，叫CC就好啦‖INFP-T‖天秤‖有点双（？）‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)熟的话不时话痨(雾)‖偶尔写诗填词‖穗&沪‖会内耗emo‖不许键政！！！‖中粤英👌🏻‖网链是提问箱和miku↓‖请和我做朋友！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3704,
+          "following_count": 2801,
+          "like_count": 37827,
+          "listed_count": 12,
+          "media_count": 809,
+          "tweet_count": 8145
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-08T10:18:13.000Z",
+        "description": "自言自语不受待见的🤡；读书channel https://t.co/bxzb94PVj6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/homura_grand_a…",
+                "end": 44,
+                "expanded_url": "https://t.me/homura_grand_archives",
+                "start": 21,
+                "url": "https://t.co/bxzb94PVj6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "homura.live",
+                "end": 23,
+                "expanded_url": "http://homura.live",
+                "start": 0,
+                "url": "https://t.co/igsRzGmWGY"
+              }
+            ]
+          }
+        },
+        "id": "751359726898688000",
+        "location": "🚪88",
+        "name": "Akemi Homua",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860270287205679104/Q4XqmQsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5706,
+          "following_count": 657,
+          "like_count": 74235,
+          "listed_count": 36,
+          "media_count": 5311,
+          "tweet_count": 32593
+        },
+        "url": "https://t.co/igsRzGmWGY",
+        "username": "RealAkemiHomura",
+        "verified": false
+      }
+    ]
+  }
+}

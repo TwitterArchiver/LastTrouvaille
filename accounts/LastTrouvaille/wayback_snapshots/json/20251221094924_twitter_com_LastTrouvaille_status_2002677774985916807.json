@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2002611103982121288",
+    "created_at": "2025-12-21T09:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T10:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002677774985916807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753419726582345728",
+          "start": 0,
+          "username": "GravitySwiss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002677774985916807",
+    "in_reply_to_user_id": "1753419726582345728",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002673708947951620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GravitySwiss swiss🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2002611103982121288",
+        "created_at": "2025-12-21T09:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T10:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002677774985916807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753419726582345728",
+              "start": 0,
+              "username": "GravitySwiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002677774985916807",
+        "in_reply_to_user_id": "1753419726582345728",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002673708947951620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GravitySwiss swiss🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753419726582345728",
+        "conversation_id": "2002611103982121288",
+        "created_at": "2025-12-21T09:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T10:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002673708947951620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002673708947951620",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002611103982121288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 抱抱CC🫂🫂我陪你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖双‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖偶尔写点诗词‖穗&沪‖会内耗emo‖不许键政！！！‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3698,
+          "following_count": 2783,
+          "like_count": 37333,
+          "listed_count": 12,
+          "media_count": 798,
+          "tweet_count": 8079
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T14:07:38.000Z",
+        "description": "Власть рождает паразитов. Да здравствует анархия!\nСмерть буржуям!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "otomad.wiki",
+                "end": 23,
+                "expanded_url": "https://otomad.wiki/",
+                "start": 0,
+                "url": "https://t.co/eEO2O5kmpg"
+              }
+            ]
+          }
+        },
+        "id": "1753419726582345728",
+        "location": "Κωνσταντινούπολις",
+        "name": "GravitySwiss",
+        "pinned_tweet_id": "1940446075699282266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753431245357543424/KxUIQ4O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 3134,
+          "like_count": 142793,
+          "listed_count": 14,
+          "media_count": 1938,
+          "tweet_count": 43412
+        },
+        "url": "https://t.co/eEO2O5kmpg",
+        "username": "GravitySwiss",
+        "verified": false
+      }
+    ]
+  }
+}

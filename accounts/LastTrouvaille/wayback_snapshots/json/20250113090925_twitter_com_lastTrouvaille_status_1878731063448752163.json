@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1878725487209365909",
+    "created_at": "2025-01-13T09:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T10:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878731063448752163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1534399985634234371",
+          "start": 0,
+          "username": "c21368619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878731063448752163",
+    "in_reply_to_user_id": "1534399985634234371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878725487209365909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c21368619 内圈！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1878725487209365909",
+        "created_at": "2025-01-13T09:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T10:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878731063448752163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1534399985634234371",
+              "start": 0,
+              "username": "c21368619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878731063448752163",
+        "in_reply_to_user_id": "1534399985634234371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878725487209365909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c21368619 内圈！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878725482264354816"
+          ]
+        },
+        "author_id": "1534399985634234371",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1878725487209365909",
+        "created_at": "2025-01-13T08:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T09:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878725487209365909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1878121643999895553/jbfDdDWM?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1878121643999895553/jbfDdDWM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/gtrmRV6ip9"
+            },
+            {
+              "display_url": "pic.x.com/kkX1bWMUe4",
+              "end": 64,
+              "expanded_url": "https://x.com/c21368619/status/1878725487209365909/photo/1",
+              "media_key": "3_1878725482264354816",
+              "start": 41,
+              "url": "https://t.co/kkX1bWMUe4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878725487209365909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/gtrmRV6ip9 https://t.co/kkX1bWMUe4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 2068,
+          "like_count": 10015,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 2461
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T05:00:47.000Z",
+        "description": "喜欢一切可爱的事物｜如果你也喜欢我的话…就像我喜欢你时那样开心吧",
+        "id": "1534399985634234371",
+        "location": "最終列車は25時",
+        "name": "c酱",
+        "pinned_tweet_id": "1870753788207976582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534451890217291776/EIh_JkXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 462,
+          "like_count": 1247,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 569
+        },
+        "username": "c21368619",
+        "verified": false
+      }
+    ]
+  }
+}

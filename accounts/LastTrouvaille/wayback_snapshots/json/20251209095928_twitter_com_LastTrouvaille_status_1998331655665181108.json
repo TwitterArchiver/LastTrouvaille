@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998331653413109760"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1998331655665181108",
+    "created_at": "2025-12-09T09:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T10:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998331655665181108"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uLWCtOLH4h",
+          "end": 168,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1998331655665181108/photo/1",
+          "media_key": "3_1998331653413109760",
+          "start": 145,
+          "url": "https://t.co/uLWCtOLH4h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998331655665181108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不懂洗热水澡的人有难了\n在低温空气中被冰冻了一天\n进到澡间后手颤抖却又迫不及待想要打开水阀\n从花洒喷涌而出的热水浇灌在早已皲裂的皮肤上\n虽然开始可能会被烫到\n但随着热水的滋润，身体逐渐回暖\n紧接着被随之而来的蒸汽所裹挟\n仿佛劳累了一天后扑倒在某人温暖的怀抱中\n那一瞬方才能感受到人生的真谛 https://t.co/uLWCtOLH4h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 530,
+        "media_key": "3_1998331653413109760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7uADRkbgAAs_Fo.jpg",
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998331653413109760"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "1998331655665181108",
+        "created_at": "2025-12-09T09:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T10:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998331655665181108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uLWCtOLH4h",
+              "end": 168,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1998331655665181108/photo/1",
+              "media_key": "3_1998331653413109760",
+              "start": 145,
+              "url": "https://t.co/uLWCtOLH4h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998331655665181108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不懂洗热水澡的人有难了\n在低温空气中被冰冻了一天\n进到澡间后手颤抖却又迫不及待想要打开水阀\n从花洒喷涌而出的热水浇灌在早已皲裂的皮肤上\n虽然开始可能会被烫到\n但随着热水的滋润，身体逐渐回暖\n紧接着被随之而来的蒸汽所裹挟\n仿佛劳累了一天后扑倒在某人温暖的怀抱中\n那一瞬方才能感受到人生的真谛 https://t.co/uLWCtOLH4h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖穗&沪‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3666,
+          "following_count": 2800,
+          "like_count": 35906,
+          "listed_count": 13,
+          "media_count": 767,
+          "tweet_count": 7856
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

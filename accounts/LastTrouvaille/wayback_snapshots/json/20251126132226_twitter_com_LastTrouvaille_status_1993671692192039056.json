@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1993670357736411355",
+    "created_at": "2025-11-26T13:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T14:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993671692192039056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1528551852195074049",
+          "start": 0,
+          "username": "zzruantang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993671692192039056",
+    "in_reply_to_user_id": "1528551852195074049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993670357736411355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzruantang_ 好看咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993670354758463489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rwn-6a8AEfQyL.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1993670357736411355",
+        "created_at": "2025-11-26T13:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T14:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993671692192039056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1528551852195074049",
+              "start": 0,
+              "username": "zzruantang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993671692192039056",
+        "in_reply_to_user_id": "1528551852195074049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993670357736411355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzruantang_ 好看咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993670354758463489"
+          ]
+        },
+        "author_id": "1528551852195074049",
+        "conversation_id": "1993670357736411355",
+        "created_at": "2025-11-26T13:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T14:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993670357736411355"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "jk制服"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "白丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4xUJypKOqm",
+              "end": 40,
+              "expanded_url": "https://x.com/zzruantang_/status/1993670357736411355/photo/1",
+              "media_key": "3_1993670354758463489",
+              "start": 17,
+              "url": "https://t.co/4xUJypKOqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993670357736411355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 63,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "校供模式启动\n#jk制服 #白丝 https://t.co/4xUJypKOqm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，年初和年中驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3634,
+          "following_count": 2802,
+          "like_count": 34757,
+          "listed_count": 13,
+          "media_count": 750,
+          "tweet_count": 7732
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T01:43:29.000Z",
+        "description": "是♂，欢迎聊天但是不要下头，性取向正常超喜欢JK",
+        "id": "1528551852195074049",
+        "name": "🍬软糖",
+        "pinned_tweet_id": "1977591019156975788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975110053477949440/19fdVk1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26510,
+          "following_count": 104,
+          "like_count": 1172,
+          "listed_count": 83,
+          "media_count": 170,
+          "tweet_count": 870
+        },
+        "username": "zzruantang_",
+        "verified": false
+      }
+    ]
+  }
+}

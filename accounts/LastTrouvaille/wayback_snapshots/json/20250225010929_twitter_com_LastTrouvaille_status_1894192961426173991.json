@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1894047718508466269",
+    "created_at": "2025-02-25T01:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T02:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894192961426173991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1504799211799265282",
+          "start": 0,
+          "username": "LiuSuK_Arcaea"
+        },
+        {
+          "end": 26,
+          "id": "1646550974553522183",
+          "start": 15,
+          "username": "yeziyu7777"
+        },
+        {
+          "end": 40,
+          "id": "1842895382839537664",
+          "start": 27,
+          "username": "_FiniteWorld"
+        },
+        {
+          "end": 55,
+          "id": "1822910760873537536",
+          "start": 41,
+          "username": "KoJikaXiaoLu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894192961426173991",
+    "in_reply_to_user_id": "1504799211799265282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894047718508466269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuSuK_Arcaea @yeziyu7777 @_FiniteWorld @KoJikaXiaoLu_ 刚入推印象最深的就是你们四个🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1894047718508466269",
+        "created_at": "2025-02-25T01:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T02:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894192961426173991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK_Arcaea"
+            },
+            {
+              "end": 26,
+              "id": "1646550974553522183",
+              "start": 15,
+              "username": "yeziyu7777"
+            },
+            {
+              "end": 40,
+              "id": "1842895382839537664",
+              "start": 27,
+              "username": "_FiniteWorld"
+            },
+            {
+              "end": 55,
+              "id": "1822910760873537536",
+              "start": 41,
+              "username": "KoJikaXiaoLu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894192961426173991",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894047718508466269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK_Arcaea @yeziyu7777 @_FiniteWorld @KoJikaXiaoLu_ 刚入推印象最深的就是你们四个🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1894047718508466269",
+        "created_at": "2025-02-24T15:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T16:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894047718508466269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1646550974553522183",
+              "start": 7,
+              "username": "yeziyu7777"
+            },
+            {
+              "end": 33,
+              "id": "1842895382839537664",
+              "start": 20,
+              "username": "_FiniteWorld"
+            },
+            {
+              "end": 49,
+              "id": "1822910760873537536",
+              "start": 35,
+              "username": "KoJikaXiaoLu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/QiuMing_74/sta…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/QiuMing_74/status/1893976186868425104",
+              "start": 50,
+              "url": "https://t.co/XiYwzvNEjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894047718508466269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 199,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893976186868425104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想贴贴的人：\n@yeziyu7777 \n@_FiniteWorld \n@KoJikaXiaoLu_ https://t.co/XiYwzvNEjK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ here's Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013,
+          "following_count": 2203,
+          "like_count": 14488,
+          "listed_count": 7,
+          "media_count": 274,
+          "tweet_count": 3569
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男 |08｜Arknights | 崩壊:スターレイル| Arcaea | MaimaiDX | 東方Project | VOCALOID | Galgame |Like @yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k94158",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k94158",
+                "start": 0,
+                "url": "https://t.co/vFrWPupjta"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "👾",
+        "name": "☆流苏☆",
+        "pinned_tweet_id": "1865970707970351307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889910313207934976/O3by_sVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 1178,
+          "like_count": 23764,
+          "listed_count": 8,
+          "media_count": 662,
+          "tweet_count": 13205
+        },
+        "url": "https://t.co/vFrWPupjta",
+        "username": "LiuSuK_Arcaea",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T16:28:58.000Z",
+        "description": "这里是小叶or叶子｜ADHD｜拒绝见证｜社恐 喜欢贴贴？）｜睡觉爱好者｜笨蛋日常 搞砸是常态｜互fo随意 欢迎来互动～\n喜欢可爱的孩子@LiuSuK_Arcaea🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "LiuSuK_Arcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yeziyu7771",
+                "end": 23,
+                "expanded_url": "http://ngl.link/yeziyu7771",
+                "start": 0,
+                "url": "https://t.co/omZuBL0LWf"
+              }
+            ]
+          }
+        },
+        "id": "1646550974553522183",
+        "name": "永远の叶_",
+        "pinned_tweet_id": "1878053205659287658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885366874554462208/Qb0vmESD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 536,
+          "like_count": 47991,
+          "listed_count": 7,
+          "media_count": 323,
+          "tweet_count": 5286
+        },
+        "url": "https://t.co/omZuBL0LWf",
+        "username": "yeziyu7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-06T11:51:19.000Z",
+        "description": "为生而战 | 比彩梦还饿\nMinecraft | 崩坏：星穹铁道 | Arcaea\nVue | React | Ktor | Fabric | Bukkit",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "finiteworld.moe",
+                "end": 23,
+                "expanded_url": "http://finiteworld.moe",
+                "start": 0,
+                "url": "https://t.co/zlgMX0zv9M"
+              }
+            ]
+          }
+        },
+        "id": "1842895382839537664",
+        "location": "匹诺康尼",
+        "name": "Finite World",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845397247950979072/E2dL3s1c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 535,
+          "like_count": 2852,
+          "listed_count": 4,
+          "media_count": 31,
+          "tweet_count": 1483
+        },
+        "url": "https://t.co/zlgMX0zv9M",
+        "username": "_FiniteWorld",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T08:19:35.000Z",
+        "description": "你好~我叫小鹿！放飞自我喽～～｜重力max｜精神病一个｜不爱看我的内容就b谢谢｜里：@A_SadDeer（脸熟给过）｜好朋友：@qinglongxiangmo @｜关注可爱宝宝谢谢喵：@wu_tong6460と@morrrrrrrling｜最好的小雨：@l1ny99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "A_SadDeer"
+              },
+              {
+                "end": 79,
+                "start": 63,
+                "username": "qinglongxiangmo"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "wu_tong6460"
+              },
+              {
+                "end": 119,
+                "start": 105,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 133,
+                "start": 126,
+                "username": "l1ny99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoLu_qwq",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoLu_qwq",
+                "start": 0,
+                "url": "https://t.co/PT5uxd3Qjn"
+              }
+            ]
+          }
+        },
+        "id": "1822910760873537536",
+        "location": "🚪和平共处 互相尊重 友好交流 ",
+        "name": "-小鹿小鹿-🦌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893001973193932800/do7IHgFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 1264,
+          "like_count": 19237,
+          "listed_count": 10,
+          "media_count": 427,
+          "tweet_count": 7595
+        },
+        "url": "https://t.co/PT5uxd3Qjn",
+        "username": "KoJikaXiaoLu_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1876818864194940961",
+    "created_at": "2025-01-08T10:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T11:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876933132529643667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1248637653001494529",
+          "start": 0,
+          "username": "Fomalhautawa"
+        },
+        {
+          "end": 27,
+          "id": "1753419726582345728",
+          "start": 14,
+          "username": "GravitySwiss"
+        },
+        {
+          "end": 41,
+          "id": "1792513167974957056",
+          "start": 28,
+          "username": "GlimpseAbyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876933132529643667",
+    "in_reply_to_user_id": "1248637653001494529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876926025801621896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fomalhautawa @GravitySwiss @GlimpseAbyss 草（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1876818864194940961",
+        "created_at": "2025-01-08T10:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T11:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876933132529643667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Fomalhautawa"
+            },
+            {
+              "end": 27,
+              "id": "1753419726582345728",
+              "start": 14,
+              "username": "GravitySwiss"
+            },
+            {
+              "end": 41,
+              "id": "1792513167974957056",
+              "start": 28,
+              "username": "GlimpseAbyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876933132529643667",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876926025801621896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fomalhautawa @GravitySwiss @GlimpseAbyss 草（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248637653001494529",
+        "conversation_id": "1876818864194940961",
+        "created_at": "2025-01-08T09:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T10:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876926025801621896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753419726582345728",
+              "start": 0,
+              "username": "GravitySwiss"
+            },
+            {
+              "end": 27,
+              "id": "1792513167974957056",
+              "start": 14,
+              "username": "GlimpseAbyss"
+            },
+            {
+              "end": 43,
+              "id": "1691242509815754754",
+              "start": 28,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876926025801621896",
+        "in_reply_to_user_id": "1753419726582345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876924724288086371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GravitySwiss @GlimpseAbyss @lastTrouvaille 怎么被luna转发了笑死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 1980,
+          "like_count": 9350,
+          "listed_count": 4,
+          "media_count": 180,
+          "tweet_count": 2288
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "涩话和色话主播。\n夜间出没的吸血鬼捏。\n随缘互fo。\n是很中性的性冷淡誒。\n所以背景图片是开玩笑的哦（笑",
+        "id": "1248637653001494529",
+        "name": "Shisw",
+        "pinned_tweet_id": "1875935849508184468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875076041364172800/C2ihpkuO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 109,
+          "like_count": 12586,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 3158
+        },
+        "username": "Fomalhautawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T14:07:38.000Z",
+        "description": "open your eyes for the next ∅'s",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "otomad.wiki",
+                "end": 23,
+                "expanded_url": "https://otomad.wiki/",
+                "start": 0,
+                "url": "https://t.co/eEO2O5kmpg"
+              }
+            ]
+          }
+        },
+        "id": "1753419726582345728",
+        "location": "Κωνσταντινούπολις",
+        "name": "GravitySwiss",
+        "pinned_tweet_id": "1862881003628622022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753431245357543424/KxUIQ4O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 2067,
+          "like_count": 62974,
+          "listed_count": 8,
+          "media_count": 862,
+          "tweet_count": 16980
+        },
+        "url": "https://t.co/eEO2O5kmpg",
+        "username": "GravitySwiss",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-20T11:10:32.000Z",
+        "description": "",
+        "id": "1792513167974957056",
+        "name": "ℒ𝓊𝓃𝒶",
+        "pinned_tweet_id": "1874325044048146764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874324999248781312/I2pmENOf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 269,
+          "like_count": 15218,
+          "listed_count": 2,
+          "media_count": 1301,
+          "tweet_count": 9688
+        },
+        "username": "GlimpseAbyss",
+        "verified": false
+      }
+    ]
+  }
+}

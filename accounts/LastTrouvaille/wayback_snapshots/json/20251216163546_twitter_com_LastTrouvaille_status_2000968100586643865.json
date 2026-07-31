@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2000961338303242752",
+    "created_at": "2025-12-16T16:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T17:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000968100586643865"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000968100586643865",
+    "in_reply_to_user_id": "1691242509815754754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000961338303242752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我只是想打个哈欠而已，怎么哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "我接受了，你不会知道，也不需要知道，在这一年即将结束的时候，我和你也结束了",
+        "height": 2119,
+        "media_key": "3_2000961334423515136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8TXu2ua8AAJ8oQ.jpg",
+        "width": 1052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2000961338303242752",
+        "created_at": "2025-12-16T16:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T17:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000968100586643865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000968100586643865",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000961338303242752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我只是想打个哈欠而已，怎么哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000961334423515136"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2000961338303242752",
+        "created_at": "2025-12-16T16:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T17:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000961338303242752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhRf82zUeO",
+              "end": 167,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2000961338303242752/photo/1",
+              "media_key": "3_2000961334423515136",
+              "start": 144,
+              "url": "https://t.co/hhRf82zUeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000961338303242752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 79,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我循着你的眼神痕迹\n怎么不断提醒\n所有那些曾经复杂的旋律\n陷在这漩涡之间没办法逃离\n忘不掉的，是先离开的\n我是没有资格，挽留你的双手\n紧紧拥抱着你的冷漠没力气\n揭开所有你留的难题\n想念你的呼吸\n我才失去你给的那些难忘的\n一瞬间掉落的泪只想牵着你不放\n什么都都没说不能够再重头\n我只能离开 https://t.co/hhRf82zUeO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖双‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖偶尔写点诗词‖穗&沪‖会内耗emo‖不许键政！！！‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3680,
+          "following_count": 2784,
+          "like_count": 36658,
+          "listed_count": 13,
+          "media_count": 786,
+          "tweet_count": 7995
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

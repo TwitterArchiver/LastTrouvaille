@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1941431528242008307",
+    "created_at": "2025-07-05T11:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T12:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941452286359896288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510447851507261445",
+          "start": 0,
+          "username": "LanziiLove"
+        },
+        {
+          "end": 21,
+          "id": "1915622690653954048",
+          "start": 12,
+          "username": "dexy0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941452286359896288",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941431528242008307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanziiLove @dexy0306 甜甜甜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1941431515315142656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvFZrVIbgAAhd4P.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1154,
+        "media_key": "3_1941431515491041280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvFZrVyXgAA0tr3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1941431528242008307",
+        "created_at": "2025-07-05T11:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T12:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941452286359896288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 21,
+              "id": "1915622690653954048",
+              "start": 12,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941452286359896288",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941431528242008307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @dexy0306 甜甜甜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941431515315142656",
+            "3_1941431515491041280"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1941431528242008307",
+        "created_at": "2025-07-05T09:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T10:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941431528242008307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1915622690653954048",
+              "start": 13,
+              "username": "dexy0306"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fZgnNj7y9P",
+              "end": 89,
+              "expanded_url": "https://x.com/LanziiLove/status/1941431528242008307/photo/1",
+              "media_key": "3_1941431515315142656",
+              "start": 66,
+              "url": "https://t.co/fZgnNj7y9P"
+            },
+            {
+              "display_url": "pic.x.com/fZgnNj7y9P",
+              "end": 89,
+              "expanded_url": "https://x.com/LanziiLove/status/1941431528242008307/photo/1",
+              "media_key": "3_1941431515491041280",
+              "start": 66,
+              "url": "https://t.co/fZgnNj7y9P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941431528242008307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2634,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今天穿地雷系去熊猫基地玩了@dexy0306 \n堪比爬山 又热路又远 我还穿的小皮鞋\n🫠\n\n（累死了懒得P图了直接发原相机了😵‍💫 https://t.co/fZgnNj7y9P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3133,
+          "following_count": 2674,
+          "like_count": 28585,
+          "listed_count": 12,
+          "media_count": 594,
+          "tweet_count": 6641
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "dexy0306"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17143,
+          "following_count": 815,
+          "like_count": 827,
+          "listed_count": 46,
+          "media_count": 212,
+          "tweet_count": 1230
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915673915411881988/qqYyNevC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 2,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 26
+        },
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1917555674302800269",
+    "created_at": "2025-04-30T12:30:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T13:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917557165965111399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "894527973839192064",
+          "start": 0,
+          "username": "KokodayoCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917557165965111399",
+    "in_reply_to_user_id": "894527973839192064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917556052083761418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KokodayoCN 因为最近生活不是那么有趣，本身也没有那么的可爱，所以只能发点吃的馋推友了\n（原来我已经变成吃播推主了吗x）\n不对等等，对着食物什么的这也太吓人了！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1917555674302800269",
+        "created_at": "2025-04-30T12:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T13:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917557165965111399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "894527973839192064",
+              "start": 0,
+              "username": "KokodayoCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917557165965111399",
+        "in_reply_to_user_id": "894527973839192064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917556052083761418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KokodayoCN 因为最近生活不是那么有趣，本身也没有那么的可爱，所以只能发点吃的馋推友了\n（原来我已经变成吃播推主了吗x）\n不对等等，对着食物什么的这也太吓人了！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "894527973839192064",
+        "conversation_id": "1917555674302800269",
+        "created_at": "2025-04-30T12:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T13:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917556052083761418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917556052083761418",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917555674302800269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 因为cc一天到晚发吃的\n所以那些人是不是看到吃的就能出来..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2528,
+          "following_count": 2604,
+          "like_count": 21784,
+          "listed_count": 14,
+          "media_count": 465,
+          "tweet_count": 5216
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-07T11:57:43.000Z",
+        "description": "⚑ Canada state-affiliated personnel\nUndergrad at UofT(St George)\n旅行者。死打游戏的。最爱的@sutanghentian，主人@tkXMyhiffmTZELN\nBluesky: https://t.co/H6PUDzcTTp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "sutanghentian"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "tkXMyhiffmTZELN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kokoda…",
+                "end": 144,
+                "expanded_url": "https://bsky.app/profile/kokodayo.us",
+                "start": 121,
+                "url": "https://t.co/H6PUDzcTTp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kokodayo.us",
+                "end": 23,
+                "expanded_url": "https://www.kokodayo.us",
+                "start": 0,
+                "url": "https://t.co/9v78GoBNYc"
+              }
+            ]
+          }
+        },
+        "id": "894527973839192064",
+        "location": "University of Toronto",
+        "name": "Kokodayo",
+        "pinned_tweet_id": "1916472135641710864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888882607334760448/fFskye87_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7227,
+          "following_count": 370,
+          "like_count": 38150,
+          "listed_count": 11,
+          "media_count": 3338,
+          "tweet_count": 19473
+        },
+        "url": "https://t.co/9v78GoBNYc",
+        "username": "KokodayoCN",
+        "verified": true
+      }
+    ]
+  }
+}

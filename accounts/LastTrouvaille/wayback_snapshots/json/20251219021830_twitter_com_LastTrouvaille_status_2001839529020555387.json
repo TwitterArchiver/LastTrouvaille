@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2001830720696914274",
+    "created_at": "2025-12-19T02:18:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T03:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001839529020555387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600619546",
+          "start": 0,
+          "username": "Rinni_Candy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001839529020555387",
+    "in_reply_to_user_id": "1600619546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001830720696914274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinni_Candy 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2001830720696914274",
+        "created_at": "2025-12-19T02:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T03:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001839529020555387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600619546",
+              "start": 0,
+              "username": "Rinni_Candy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001839529020555387",
+        "in_reply_to_user_id": "1600619546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001830720696914274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinni_Candy 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600619546",
+        "conversation_id": "2001830720696914274",
+        "created_at": "2025-12-19T01:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T02:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001830720696914274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001830720696914274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早餐喝了点凉的牛奶…肚子疼…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖双‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖偶尔写点诗词‖穗&沪‖会内耗emo‖不许键政！！！‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3692,
+          "following_count": 2790,
+          "like_count": 37073,
+          "listed_count": 13,
+          "media_count": 790,
+          "tweet_count": 8039
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-17T10:15:25.000Z",
+        "description": "=琳依//梨依 | 记录破碎日常的手帐 | ff14 | r-18内容注意 | 超喜欢的铃铃宝宝@xuexuelingling | 可爱的小猫@retijk_miqo | 我唯一的比翼鸟@yi_xin26569",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "xuexuelingling"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "retijk_miqo"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "yi_xin26569"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rinni_candy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rinni_candy",
+                "start": 0,
+                "url": "https://t.co/JTj1rNs5uu"
+              }
+            ]
+          }
+        },
+        "id": "1600619546",
+        "location": "若要匿名提问请访问→",
+        "name": "梨依糖_",
+        "pinned_tweet_id": "1999340254969627032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991424611624640512/asuQ4wLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2765,
+          "following_count": 101,
+          "like_count": 4386,
+          "listed_count": 23,
+          "media_count": 222,
+          "tweet_count": 1277
+        },
+        "url": "https://t.co/JTj1rNs5uu",
+        "username": "Rinni_Candy",
+        "verified": true
+      }
+    ]
+  }
+}

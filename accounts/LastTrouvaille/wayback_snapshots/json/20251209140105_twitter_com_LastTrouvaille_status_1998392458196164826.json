@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1998331655665181108",
+    "created_at": "2025-12-09T14:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T15:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998392458196164826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1671759681260523526",
+          "start": 0,
+          "username": "N31303"
+        },
+        {
+          "end": 21,
+          "id": "1744296665312362496",
+          "start": 8,
+          "username": "yunshn125943"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998392458196164826",
+    "in_reply_to_user_id": "1671759681260523526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998373605407907936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N31303 @yunshn125943 而且会有点痒\n所以每次洗完澡都得赶紧涂护肤露"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1998331655665181108",
+        "created_at": "2025-12-09T14:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T15:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998392458196164826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1671759681260523526",
+              "start": 0,
+              "username": "N31303"
+            },
+            {
+              "end": 21,
+              "id": "1744296665312362496",
+              "start": 8,
+              "username": "yunshn125943"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998392458196164826",
+        "in_reply_to_user_id": "1671759681260523526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998373605407907936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N31303 @yunshn125943 而且会有点痒\n所以每次洗完澡都得赶紧涂护肤露"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671759681260523526",
+        "conversation_id": "1998331655665181108",
+        "created_at": "2025-12-09T12:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T13:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998373605407907936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            },
+            {
+              "end": 29,
+              "id": "1744296665312362496",
+              "start": 16,
+              "username": "yunshn125943"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998373605407907936",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998371178566869447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille @yunshn125943 洗完以后要擦护肤霜的，不然脸上都会干巴的难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖穗&沪‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3668,
+          "following_count": 2800,
+          "like_count": 35930,
+          "listed_count": 13,
+          "media_count": 767,
+          "tweet_count": 7867
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T05:59:14.000Z",
+        "description": "不用在意我…我就到处看看                                            不定时水一点劣质推文",
+        "id": "1671759681260523526",
+        "name": "晴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958727311618187267/spjfn74e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 487,
+          "like_count": 538,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1224
+        },
+        "username": "N31303",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T09:55:16.000Z",
+        "description": "还是喜欢热可可还有干燥的风",
+        "id": "1744296665312362496",
+        "name": "佐倉瀬津美",
+        "pinned_tweet_id": "1997302827405005146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998041086673956864/0NXdZzcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 55,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 63
+        },
+        "username": "yunshn125943",
+        "verified": false
+      }
+    ]
+  }
+}

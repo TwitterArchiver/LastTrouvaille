@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886708180966580224"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1886708184288522275",
+    "created_at": "2025-02-04T09:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T10:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886708184288522275"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jftyjt6Wyn",
+          "end": 67,
+          "expanded_url": "https://x.com/lastTrouvaille/status/1886708184288522275/photo/1",
+          "media_key": "3_1886708180966580224",
+          "start": 44,
+          "url": "https://t.co/jftyjt6Wyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886708184288522275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从2025年开始初中再也没有00后了\n大家都在不知不觉中长大了呢\n肆式的青春，好怀念啊 https://t.co/jftyjt6Wyn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1886708184288522275].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1886708184288522275",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1886708184288522275"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1886708180966580224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi7vGClWIAA6t2-.jpg",
+        "width": 2133
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1925,
+          "following_count": 2501,
+          "like_count": 12478,
+          "listed_count": 6,
+          "media_count": 228,
+          "tweet_count": 3013
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

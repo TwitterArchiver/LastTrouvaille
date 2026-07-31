@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1880405380817461587",
+    "created_at": "2025-01-18T04:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T05:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880479787988423112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1754023103339094016",
+          "start": 0,
+          "username": "zhangcw04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880479787988423112",
+    "in_reply_to_user_id": "1754023103339094016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880405380817461587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangcw04 肉沫炒青瓜味饺子皮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1880405380817461587",
+        "created_at": "2025-01-18T04:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T05:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880479787988423112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1754023103339094016",
+              "start": 0,
+              "username": "zhangcw04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880479787988423112",
+        "in_reply_to_user_id": "1754023103339094016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880405380817461587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangcw04 肉沫炒青瓜味饺子皮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880405322583666689"
+          ]
+        },
+        "author_id": "1754023103339094016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1880405380817461587",
+        "created_at": "2025-01-18T00:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T01:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880405380817461587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K9xXDEHQtU",
+              "end": 31,
+              "expanded_url": "https://x.com/zhangcw04/status/1880405380817461587/photo/1",
+              "media_key": "3_1880405322583666689",
+              "start": 8,
+              "url": "https://t.co/K9xXDEHQtU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880405380817461587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1204,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜这是啥菜？ https://t.co/K9xXDEHQtU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 2200,
+          "like_count": 10448,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 2599
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T06:04:44.000Z",
+        "description": "美食",
+        "id": "1754023103339094016",
+        "name": "白雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754321141446115328/C3N53vHU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5841,
+          "following_count": 5776,
+          "like_count": 4780,
+          "listed_count": 7,
+          "media_count": 1460,
+          "tweet_count": 4263
+        },
+        "username": "zhangcw04",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892097847916625922",
+        "3_1892097848000606208",
+        "3_1892097848780484608",
+        "3_1892097851838144512"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1892097855298383879",
+    "created_at": "2025-02-19T06:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T07:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892097855298383879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HMfGVpEWUA",
+          "end": 40,
+          "expanded_url": "https://x.com/lastTrouvaille/status/1892097855298383879/photo/1",
+          "media_key": "3_1892097847916625922",
+          "start": 17,
+          "url": "https://t.co/HMfGVpEWUA"
+        },
+        {
+          "display_url": "pic.x.com/HMfGVpEWUA",
+          "end": 40,
+          "expanded_url": "https://x.com/lastTrouvaille/status/1892097855298383879/photo/1",
+          "media_key": "3_1892097848000606208",
+          "start": 17,
+          "url": "https://t.co/HMfGVpEWUA"
+        },
+        {
+          "display_url": "pic.x.com/HMfGVpEWUA",
+          "end": 40,
+          "expanded_url": "https://x.com/lastTrouvaille/status/1892097855298383879/photo/1",
+          "media_key": "3_1892097848780484608",
+          "start": 17,
+          "url": "https://t.co/HMfGVpEWUA"
+        },
+        {
+          "display_url": "pic.x.com/HMfGVpEWUA",
+          "end": 40,
+          "expanded_url": "https://x.com/lastTrouvaille/status/1892097855298383879/photo/1",
+          "media_key": "3_1892097851838144512",
+          "start": 17,
+          "url": "https://t.co/HMfGVpEWUA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892097855298383879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么不是放库拉拉或者政委（？） https://t.co/HMfGVpEWUA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1892097855298383879].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1892097855298383879",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1892097855298383879"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1516,
+        "media_key": "3_1892097847916625922",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkIU98laAAIp62T.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1539,
+        "media_key": "3_1892097848000606208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkIU985bcAAg1wM.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1553,
+        "media_key": "3_1892097848780484608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkIU9_zXcAAPC0J.jpg",
+        "width": 960
+      },
+      {
+        "height": 707,
+        "media_key": "3_1892097851838144512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkIU-LMXoAAVWpV.jpg",
+        "width": 785
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Nice to meet you~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1966,
+          "following_count": 2147,
+          "like_count": 13271,
+          "listed_count": 6,
+          "media_count": 257,
+          "tweet_count": 3369
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

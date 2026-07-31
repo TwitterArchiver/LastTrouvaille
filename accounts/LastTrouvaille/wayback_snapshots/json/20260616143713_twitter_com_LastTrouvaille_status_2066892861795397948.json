@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2066836799822119121",
+    "created_at": "2026-06-16T14:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T15:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066892861795397948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1493237924997046275",
+          "start": 0,
+          "username": "Sora_dong1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066892861795397948",
+    "in_reply_to_user_id": "1493237924997046275",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066836799822119121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sora_dong1 好好看ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066836796420575233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7hHaNa0AEVCGn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2066836799822119121",
+        "created_at": "2026-06-16T14:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066892861795397948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1493237924997046275",
+              "start": 0,
+              "username": "Sora_dong1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066892861795397948",
+        "in_reply_to_user_id": "1493237924997046275",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066836799822119121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sora_dong1 好好看ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066836796420575233"
+          ]
+        },
+        "author_id": "1493237924997046275",
+        "conversation_id": "2066836799822119121",
+        "created_at": "2026-06-16T10:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066836799822119121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o2ddIGXPIg",
+              "end": 23,
+              "expanded_url": "https://x.com/Sora_dong1/status/2066836799822119121/photo/1",
+              "media_key": "3_2066836796420575233",
+              "start": 0,
+              "url": "https://t.co/o2ddIGXPIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066836799822119121",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 243,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/o2ddIGXPIg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】叫CC就好‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖不许键政🚫‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille3",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille3",
+                "start": 0,
+                "url": "https://t.co/8rca0idckk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4498,
+          "following_count": 2939,
+          "like_count": 47876,
+          "listed_count": 14,
+          "media_count": 996,
+          "tweet_count": 9287
+        },
+        "url": "https://t.co/8rca0idckk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T14:57:26.000Z",
+        "description": "全平台同名 🚪52好友位/pyq/不陪聊 入🚪可购图包 cos定制 纯馋人 不卖 不🈷️",
+        "id": "1493237924997046275",
+        "location": "🚪52只回口令",
+        "name": "咕冬瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064814073024569344/AqYQS_T9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 66,
+          "like_count": 118,
+          "listed_count": 13,
+          "media_count": 9,
+          "tweet_count": 22
+        },
+        "username": "Sora_dong1",
+        "verified": false
+      }
+    ]
+  }
+}

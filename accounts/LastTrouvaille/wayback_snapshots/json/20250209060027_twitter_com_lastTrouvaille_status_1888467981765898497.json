@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1888108395254964470",
+    "created_at": "2025-02-09T06:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T07:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888467981765898497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1802884729412161537",
+          "start": 0,
+          "username": "Realze47"
+        },
+        {
+          "end": 25,
+          "id": "1841801152381558784",
+          "start": 10,
+          "username": "Amemiya_Hasumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888467981765898497",
+    "in_reply_to_user_id": "1802884729412161537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888454603081232442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Realze47 @Amemiya_Hasumi 不要说话，继续吃（划掉）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1888108395254964470",
+        "created_at": "2025-02-09T06:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T07:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888467981765898497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1802884729412161537",
+              "start": 0,
+              "username": "Realze47"
+            },
+            {
+              "end": 25,
+              "id": "1841801152381558784",
+              "start": 10,
+              "username": "Amemiya_Hasumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888467981765898497",
+        "in_reply_to_user_id": "1802884729412161537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888454603081232442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Realze47 @Amemiya_Hasumi 不要说话，继续吃（划掉）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802884729412161537",
+        "conversation_id": "1888108395254964470",
+        "created_at": "2025-02-09T05:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T06:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888454603081232442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            },
+            {
+              "end": 31,
+              "id": "1841801152381558784",
+              "start": 16,
+              "username": "Amemiya_Hasumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888454603081232442",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888432189454631067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille @Amemiya_Hasumi 不要把我餐巾颜色挂出来😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 2061,
+          "like_count": 12580,
+          "listed_count": 7,
+          "media_count": 239,
+          "tweet_count": 3238
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T02:03:20.000Z",
+        "description": "保持该有的风度/\n可以叫我小真 具体叫什么我不介意/\n里世界@realse47 /\n提问箱https://t.co/MMy5M8atnS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "realse47"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/realze47",
+                "end": 68,
+                "expanded_url": "https://ngl.link/realze47",
+                "start": 45,
+                "url": "https://t.co/MMy5M8atnS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Realze47",
+                "end": 23,
+                "expanded_url": "http://t.me/Realze47",
+                "start": 0,
+                "url": "https://t.co/43JfcipN70"
+              }
+            ]
+          }
+        },
+        "id": "1802884729412161537",
+        "location": "steam 1676635613",
+        "name": "Realze",
+        "pinned_tweet_id": "1887841528883687845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866848592046198788/QCTQyI0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 173,
+          "like_count": 69887,
+          "listed_count": 4,
+          "media_count": 239,
+          "tweet_count": 4844
+        },
+        "url": "https://t.co/43JfcipN70",
+        "username": "Realze47",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T11:23:15.000Z",
+        "description": "「Et in Arcadia Ego./我曾在阿卡迪亚。」\n偶尔是男娘。\nNGL：https://t.co/g6LzpRMyzA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasumi57321",
+                "end": 64,
+                "expanded_url": "https://ngl.link/hasumi57321",
+                "start": 41,
+                "url": "https://t.co/g6LzpRMyzA"
+              }
+            ]
+          }
+        },
+        "id": "1841801152381558784",
+        "name": "雨宮 蓮見",
+        "pinned_tweet_id": "1871596096461713573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879195526870315008/bleIv9uh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 1344,
+          "like_count": 15334,
+          "listed_count": 6,
+          "media_count": 517,
+          "tweet_count": 3537
+        },
+        "username": "Amemiya_Hasumi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1886051593625510396",
+    "created_at": "2025-02-03T05:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T06:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886291796705284096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1669305436254932993",
+          "start": 0,
+          "username": "arslanter13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886291796705284096",
+    "in_reply_to_user_id": "1669305436254932993",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886277973734830489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arslanter13 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1886051593625510396",
+        "created_at": "2025-02-03T05:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T06:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886291796705284096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1669305436254932993",
+              "start": 0,
+              "username": "arslanter13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886291796705284096",
+        "in_reply_to_user_id": "1669305436254932993",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886277973734830489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arslanter13 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886277971549519872"
+          ]
+        },
+        "author_id": "1669305436254932993",
+        "conversation_id": "1886051593625510396",
+        "created_at": "2025-02-03T04:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T05:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886277973734830489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tiYOczsFY9",
+              "end": 45,
+              "expanded_url": "https://x.com/arslanter13/status/1886277973734830489/photo/1",
+              "media_key": "3_1886277971549519872",
+              "start": 22,
+              "url": "https://t.co/tiYOczsFY9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886277973734830489",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886051593625510396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 並非不可能 https://t.co/tiYOczsFY9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 2473,
+          "like_count": 12180,
+          "listed_count": 6,
+          "media_count": 224,
+          "tweet_count": 2959
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T11:27:02.000Z",
+        "description": "這是一個煙鬼酒鬼，一個在世界盡頭掙扎的偏執狂，一個得不到救贖的可憐人",
+        "id": "1669305436254932993",
+        "location": "海邊",
+        "name": "阿与华",
+        "pinned_tweet_id": "1865001701893386694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791518994018766850/PcZ6d9iA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 662,
+          "like_count": 11235,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1149
+        },
+        "username": "arslanter13",
+        "verified": false
+      }
+    ]
+  }
+}

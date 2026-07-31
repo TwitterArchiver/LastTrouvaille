@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1897870740403503354",
+    "created_at": "2025-03-07T05:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T06:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897887962530291970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1723329693733294080",
+          "start": 0,
+          "username": "Skystar_meow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897887962530291970",
+    "in_reply_to_user_id": "1723329693733294080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897879868303720483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Skystar_meow 我倒是经常痛击队友（目移）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1897870740403503354",
+        "created_at": "2025-03-07T05:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T06:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897887962530291970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1723329693733294080",
+              "start": 0,
+              "username": "Skystar_meow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897887962530291970",
+        "in_reply_to_user_id": "1723329693733294080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897879868303720483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Skystar_meow 我倒是经常痛击队友（目移）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723329693733294080",
+        "conversation_id": "1897870740403503354",
+        "created_at": "2025-03-07T05:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T06:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897879868303720483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897879868303720483",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897870740403503354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 想到之前不小心扣到別人的頭()"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anitabi.cn",
+                "end": 23,
+                "expanded_url": "https://anitabi.cn/",
+                "start": 0,
+                "url": "https://t.co/ASAIm8Wyd2"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 2356,
+          "like_count": 15558,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 3863
+        },
+        "url": "https://t.co/ASAIm8Wyd2",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T13:19:58.000Z",
+        "description": "處於焦慮的小貓/05 mtf/she her/夢想是沉浸在起司世界/可愛呆貓貓、老公、主人 @yqng143579 /\n\nbs: @starmeow.bsky.social /提問箱喵 https://t.co/0R3MWCmDNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "yqng143579"
+              },
+              {
+                "end": 74,
+                "start": 65,
+                "username": "starmeow"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/skystar_meow",
+                "end": 116,
+                "expanded_url": "https://ngl.link/skystar_meow",
+                "start": 93,
+                "url": "https://t.co/0R3MWCmDNd"
+              }
+            ]
+          }
+        },
+        "id": "1723329693733294080",
+        "location": "大貓咪起司天堂",
+        "name": "Lilith_Cat🍥",
+        "pinned_tweet_id": "1838144801340010679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859862701297762305/FAt77NOW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 174,
+          "like_count": 3870,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 2100
+        },
+        "username": "Skystar_meow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006366380367699968",
+        "3_2006366380598460417",
+        "3_2006366380426457088",
+        "3_2006366381017845760"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2006366387355500946",
+    "created_at": "2025-12-31T14:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T15:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006366387355500946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0aFDDu1JQa",
+          "end": 166,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2006366387355500946/photo/1",
+          "media_key": "3_2006366380367699968",
+          "start": 143,
+          "url": "https://t.co/0aFDDu1JQa"
+        },
+        {
+          "display_url": "pic.x.com/0aFDDu1JQa",
+          "end": 166,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2006366387355500946/photo/1",
+          "media_key": "3_2006366380598460417",
+          "start": 143,
+          "url": "https://t.co/0aFDDu1JQa"
+        },
+        {
+          "display_url": "pic.x.com/0aFDDu1JQa",
+          "end": 166,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2006366387355500946/photo/1",
+          "media_key": "3_2006366380426457088",
+          "start": 143,
+          "url": "https://t.co/0aFDDu1JQa"
+        },
+        {
+          "display_url": "pic.x.com/0aFDDu1JQa",
+          "end": 166,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2006366387355500946/photo/1",
+          "media_key": "3_2006366381017845760",
+          "start": 143,
+          "url": "https://t.co/0aFDDu1JQa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006366387355500946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2025年最后一天的隐藏节目\n尝试当一次坏孩子ww\n去了师师推荐的小酒馆\n这还是CC长这么大以来第一次喝酒\n果然和猜测的一样，自己真的喝不了太多\n店里灯光昏黄，街道上人来人往\n虽然最后还是一个人\n不过至少我还有我自己\n醉于流年，醉于某个世俗眉眼\n余生很短，报团取暖\n余生很长，各自成光 https://t.co/0aFDDu1JQa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2006366380367699968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gLl78aYAAuUsY.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2006366380598460417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gLl8zbgAEIYSL.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2006366380426457088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gLl8Ka8AAVZPo.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2006366381017845760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gLl-Xa0AAKgJ4.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006366380367699968",
+            "3_2006366380598460417",
+            "3_2006366380426457088",
+            "3_2006366381017845760"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2006366387355500946",
+        "created_at": "2025-12-31T14:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T15:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006366387355500946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0aFDDu1JQa",
+              "end": 166,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2006366387355500946/photo/1",
+              "media_key": "3_2006366380367699968",
+              "start": 143,
+              "url": "https://t.co/0aFDDu1JQa"
+            },
+            {
+              "display_url": "pic.x.com/0aFDDu1JQa",
+              "end": 166,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2006366387355500946/photo/1",
+              "media_key": "3_2006366380598460417",
+              "start": 143,
+              "url": "https://t.co/0aFDDu1JQa"
+            },
+            {
+              "display_url": "pic.x.com/0aFDDu1JQa",
+              "end": 166,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2006366387355500946/photo/1",
+              "media_key": "3_2006366380426457088",
+              "start": 143,
+              "url": "https://t.co/0aFDDu1JQa"
+            },
+            {
+              "display_url": "pic.x.com/0aFDDu1JQa",
+              "end": 166,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2006366387355500946/photo/1",
+              "media_key": "3_2006366381017845760",
+              "start": 143,
+              "url": "https://t.co/0aFDDu1JQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006366387355500946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2025年最后一天的隐藏节目\n尝试当一次坏孩子ww\n去了师师推荐的小酒馆\n这还是CC长这么大以来第一次喝酒\n果然和猜测的一样，自己真的喝不了太多\n店里灯光昏黄，街道上人来人往\n虽然最后还是一个人\n不过至少我还有我自己\n醉于流年，醉于某个世俗眉眼\n余生很短，报团取暖\n余生很长，各自成光 https://t.co/0aFDDu1JQa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，叫CC就好啦‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)熟的话不时话痨(雾)‖偶尔写诗填词‖穗&沪‖会内耗emo‖不许键政！！！‖中粤英👌🏻‖网链是提问箱和miku↓‖请和这般恶劣的我做朋友吧orz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园or纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3713,
+          "following_count": 2794,
+          "like_count": 38189,
+          "listed_count": 13,
+          "media_count": 821,
+          "tweet_count": 8194
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

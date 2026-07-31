@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1879536043990609932",
+    "created_at": "2025-01-15T14:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T15:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879541250673852709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683441735144439808",
+          "start": 0,
+          "username": "TheSolipsism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879541250673852709",
+    "in_reply_to_user_id": "1683441735144439808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879536043990609932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheSolipsism 晚安喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1879536043990609932",
+        "created_at": "2025-01-15T14:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T15:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879541250673852709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683441735144439808",
+              "start": 0,
+              "username": "TheSolipsism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879541250673852709",
+        "in_reply_to_user_id": "1683441735144439808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879536043990609932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheSolipsism 晚安喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683441735144439808",
+        "conversation_id": "1879536043990609932",
+        "created_at": "2025-01-15T14:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T15:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879536043990609932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879536043990609932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡觉了喵，晚安喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1790,
+          "following_count": 2138,
+          "like_count": 10221,
+          "listed_count": 4,
+          "media_count": 199,
+          "tweet_count": 2546
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:39:28.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥2024.4.20/持“證”ADHD/178cm57kg/A-Level🇭🇰/birth:2008.5/需要促智/美白/减肥/HRT等药物找@Minokakay喵 tg同名/舞萌w3神人/VOCALOID/Sis:@beijieyoufengle “愿我们所有人都能到达理想的彼岸”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Minokakay"
+              },
+              {
+                "end": 133,
+                "start": 117,
+                "username": "beijieyoufengle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/AG5sVAiJgj"
+              }
+            ]
+          }
+        },
+        "id": "1683441735144439808",
+        "location": "https://b23.tv/jzX4Sbm",
+        "name": "翎.𝟙𝕞𝕞∅ℝ𝕥𝕒𝕃🍥",
+        "pinned_tweet_id": "1841737663013118000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879353361637769216/oY2gzXcB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4118,
+          "following_count": 1535,
+          "like_count": 75873,
+          "listed_count": 10,
+          "media_count": 2341,
+          "tweet_count": 18901
+        },
+        "url": "https://t.co/AG5sVAiJgj",
+        "username": "TheSolipsism",
+        "verified": false
+      }
+    ]
+  }
+}

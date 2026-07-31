@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2076520872601587962",
+    "created_at": "2026-07-13T04:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076522087595040937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1416486564255846406",
+          "start": 0,
+          "username": "qyMinusk9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076522087595040937",
+    "in_reply_to_user_id": "1416486564255846406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076520872601587962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qyMinusk9 可爱青鱼请务必保持w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 760,
+        "media_key": "3_2076520865785876480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFIub3akAAAI3M.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2076520872601587962",
+        "created_at": "2026-07-13T04:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076522087595040937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1416486564255846406",
+              "start": 0,
+              "username": "qyMinusk9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076522087595040937",
+        "in_reply_to_user_id": "1416486564255846406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076520872601587962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qyMinusk9 可爱青鱼请务必保持w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076520865785876480"
+          ]
+        },
+        "author_id": "1416486564255846406",
+        "conversation_id": "2076520872601587962",
+        "created_at": "2026-07-13T04:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076520872601587962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BC7BNUB87b",
+              "end": 30,
+              "expanded_url": "https://x.com/qyMinusk9/status/2076520872601587962/photo/1",
+              "media_key": "3_2076520865785876480",
+              "start": 7,
+              "url": "https://t.co/BC7BNUB87b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076520872601587962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 516,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黑暗的过去… https://t.co/BC7BNUB87b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4538,
+          "following_count": 2903,
+          "like_count": 49956,
+          "listed_count": 14,
+          "media_count": 1017,
+          "tweet_count": 9425
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-17T19:55:01.000Z",
+        "description": "日常🥤 /喜多郁代🎸/ 摸鱼🐟/绘画🎨/拒绝键政🚫/ 原画师🖌️/私信回关扩列OK➕/ Daily 🥤 / Kita Ikuyo 🎸/微エロ/百合/AI学习禁止！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/14154401",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/14154401",
+                "start": 0,
+                "url": "https://t.co/rsiIqazzKu"
+              }
+            ]
+          }
+        },
+        "id": "1416486564255846406",
+        "location": "AI学習❌無断転載❌",
+        "name": "大青鱼🐟",
+        "pinned_tweet_id": "1753690770484469987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794798583482560512/ZFUIzjqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95042,
+          "following_count": 2268,
+          "like_count": 14832,
+          "listed_count": 492,
+          "media_count": 531,
+          "tweet_count": 4056
+        },
+        "url": "https://t.co/rsiIqazzKu",
+        "username": "qyMinusk9",
+        "verified": false
+      }
+    ]
+  }
+}

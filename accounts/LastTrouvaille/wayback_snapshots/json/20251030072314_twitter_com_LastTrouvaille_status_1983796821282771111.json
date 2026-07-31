@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1983765991369937313",
+    "created_at": "2025-10-30T07:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T08:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983796821282771111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1956295307886788608",
+          "start": 0,
+          "username": "Huiiiiiii2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983796821282771111",
+    "in_reply_to_user_id": "1956295307886788608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983765991369937313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huiiiiiii2025 不不不，有人用21的那些字眼说我的话我真的会生气的emm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_1983765982951960582",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4fApqta8AYfBoH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1983765991369937313",
+        "created_at": "2025-10-30T07:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T08:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983796821282771111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1956295307886788608",
+              "start": 0,
+              "username": "Huiiiiiii2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983796821282771111",
+        "in_reply_to_user_id": "1956295307886788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983765991369937313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huiiiiiii2025 不不不，有人用21的那些字眼说我的话我真的会生气的emm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983765982951960582"
+          ]
+        },
+        "author_id": "1956295307886788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1983765991369937313",
+        "created_at": "2025-10-30T05:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T06:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983765991369937313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KsBDo2QxlH",
+              "end": 199,
+              "expanded_url": "https://x.com/Huiiiiiii2025/status/1983765991369937313/photo/1",
+              "media_key": "3_1983765982951960582",
+              "start": 176,
+              "url": "https://t.co/KsBDo2QxlH"
+            },
+            {
+              "display_url": "x.com/huiiiiiii2025/…",
+              "end": 223,
+              "expanded_url": "https://twitter.com/huiiiiiii2025/status/1983763685685522531",
+              "start": 200,
+              "url": "https://t.co/lSfANdvbr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983765991369937313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983763685685522531",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "17. 不是好回憶\n18.”我也不知道为什么作业不见了”（绝对不是因为我扔了\n19. 京剧猫，现在没出了，\n20. 不合適（）\n21.傻閪臭閪？\n22. 有但忘了（）\n23. 没有变化\n24.emm，没上课在辅导室睡着了，社工为我披上被子\n25. 不知道，我是双子\n26.？\n27. 米老鼠？\n28. 不知道，\n29. 没有呢\n30. 不知道回不回好 https://t.co/KsBDo2QxlH https://t.co/lSfANdvbr7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，年初和年中驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3427,
+          "following_count": 2723,
+          "like_count": 32674,
+          "listed_count": 12,
+          "media_count": 717,
+          "tweet_count": 7440
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T10:02:13.000Z",
+        "description": "好孩子（？）｜香港人｜是女生｜Mai眾｜acg爱好者｜infp?｜我在打第五人格｜欢迎一起玩🥰🥰🥰",
+        "id": "1956295307886788608",
+        "location": "北極星",
+        "name": "小灰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979825136850153472/ZDPRqtYd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 362,
+          "like_count": 1210,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 587
+        },
+        "username": "Huiiiiiii2025",
+        "verified": false
+      }
+    ]
+  }
+}

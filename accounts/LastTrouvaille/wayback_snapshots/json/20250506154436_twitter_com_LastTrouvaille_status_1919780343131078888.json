@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1919751028217704759",
+    "created_at": "2025-05-06T15:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T16:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919780343131078888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510447851507261445",
+          "start": 0,
+          "username": "LanziiLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919780343131078888",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919751028217704759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanziiLove 好可爱呜呜呜呜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1919751012946214918",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqRTX__bAAYCzMH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1919751028217704759",
+        "created_at": "2025-05-06T15:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T16:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919780343131078888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919780343131078888",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919751028217704759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 好可爱呜呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919751012946214918"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1919751028217704759",
+        "created_at": "2025-05-06T13:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T14:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919751028217704759"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "男娘"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ccnxM7x48Q",
+              "end": 37,
+              "expanded_url": "https://x.com/LanziiLove/status/1919751028217704759/photo/1",
+              "media_key": "3_1919751012946214918",
+              "start": 14,
+              "url": "https://t.co/ccnxM7x48Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919751028217704759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1422,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "新假发喵\n\n#男娘 #伪娘 https://t.co/ccnxM7x48Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2759,
+          "following_count": 2741,
+          "like_count": 23014,
+          "listed_count": 12,
+          "media_count": 484,
+          "tweet_count": 5493
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "dexy0306"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12352,
+          "following_count": 713,
+          "like_count": 368,
+          "listed_count": 31,
+          "media_count": 134,
+          "tweet_count": 614
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

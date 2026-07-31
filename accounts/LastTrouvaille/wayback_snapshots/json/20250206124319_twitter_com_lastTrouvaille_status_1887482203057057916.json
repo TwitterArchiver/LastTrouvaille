@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1887447862860222946",
+    "created_at": "2025-02-06T12:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T13:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887482203057057916"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "好有毅",
+          "probability": 0.5679,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1718203142737928192",
+          "start": 0,
+          "username": "Tuotuo6uem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887482203057057916",
+    "in_reply_to_user_id": "1718203142737928192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887481457670533404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tuotuo6uem 好有毅力（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1887447862860222946",
+        "created_at": "2025-02-06T12:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T13:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887482203057057916"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "好有毅",
+              "probability": 0.5679,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1718203142737928192",
+              "start": 0,
+              "username": "Tuotuo6uem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887482203057057916",
+        "in_reply_to_user_id": "1718203142737928192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887481457670533404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tuotuo6uem 好有毅力（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1887481419405926400"
+          ]
+        },
+        "author_id": "1718203142737928192",
+        "conversation_id": "1887447862860222946",
+        "created_at": "2025-02-06T12:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T13:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887481457670533404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tD0sZtTlMu",
+              "end": 87,
+              "expanded_url": "https://x.com/Tuotuo6uem/status/1887481457670533404/photo/1",
+              "media_key": "16_1887481419405926400",
+              "start": 64,
+              "url": "https://t.co/tD0sZtTlMu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887481457670533404",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887447862860222946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 表情包就是我说话的前后摇,没有表情包我话都说不出来，然后我就专门把表情包都搬到一个手机相册里用 https://t.co/tD0sZtTlMu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖别忘了多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 2057,
+          "like_count": 12589,
+          "listed_count": 7,
+          "media_count": 232,
+          "tweet_count": 3070
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-28T09:48:58.000Z",
+        "description": "INTJ•苦逼大一医学生\n丷我是男的丷               画画的抽象大师                 𝓰𝓸𝓸𝓭 𝓶𝓸𝓻𝓷𝓲𝓷𝓰                              哀家眼里见不得脏东西👐）-匿名信箱https://t.co/gPC5hb1eie",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tuotuo6uem",
+                "end": 140,
+                "expanded_url": "https://ngl.link/tuotuo6uem",
+                "start": 117,
+                "url": "https://t.co/gPC5hb1eie"
+              }
+            ]
+          }
+        },
+        "id": "1718203142737928192",
+        "location": "China",
+        "name": "坨坨6uem✌️🐻",
+        "pinned_tweet_id": "1868915781213516171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845627611952930816/jbY3cTUh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 342,
+          "like_count": 57739,
+          "listed_count": 2,
+          "media_count": 1867,
+          "tweet_count": 7591
+        },
+        "username": "Tuotuo6uem",
+        "verified": false
+      }
+    ]
+  }
+}

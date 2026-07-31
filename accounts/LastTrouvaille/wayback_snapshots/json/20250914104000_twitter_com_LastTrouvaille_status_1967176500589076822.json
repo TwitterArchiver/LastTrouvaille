@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1967067750255522259",
+    "created_at": "2025-09-14T10:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T11:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967176500589076822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1802297456065126400",
+          "start": 0,
+          "username": "CHIHANE_OvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967176500589076822",
+    "in_reply_to_user_id": "1802297456065126400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967136482168369410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CHIHANE_OvO 抱抱云苓~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1967067750255522259",
+        "created_at": "2025-09-14T10:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T11:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967176500589076822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802297456065126400",
+              "start": 0,
+              "username": "CHIHANE_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967176500589076822",
+        "in_reply_to_user_id": "1802297456065126400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967136482168369410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CHIHANE_OvO 抱抱云苓~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802297456065126400",
+        "conversation_id": "1967067750255522259",
+        "created_at": "2025-09-14T08:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T09:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967136482168369410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967136482168369410",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967067750255522259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 抱CC，抱/"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖喜欢加括号‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3265,
+          "following_count": 2672,
+          "like_count": 30324,
+          "listed_count": 12,
+          "media_count": 673,
+          "tweet_count": 7133
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T11:09:47.000Z",
+        "description": "高三生（谁说政史生好学的）//初次见面比较面瘫 熟了之后会发现其实是脑瘫//爱玩明日方舟 鸣潮 钢铁雄心四//羽毛球又菜又爱玩//听音乐听上瘾//为什么觉得我有傲娇属性（？？？//风向星座//发癫抽象（偶尔？//补药找我键政TAT我不喜欢谈论这些//",
+        "id": "1802297456065126400",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "云苓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956036316703121408/Xm-VYkUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 1454,
+          "like_count": 5431,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1965
+        },
+        "username": "CHIHANE_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

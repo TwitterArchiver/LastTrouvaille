@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1875946517225439603",
+    "created_at": "2025-01-05T16:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T17:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875949311726657783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1706197816538988544",
+          "start": 0,
+          "username": "amiursky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875949311726657783",
+    "in_reply_to_user_id": "1706197816538988544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875946517225439603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amiursky 好可爱我的天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1875946517225439603",
+        "created_at": "2025-01-05T16:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T17:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875949311726657783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1706197816538988544",
+              "start": 0,
+              "username": "amiursky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875949311726657783",
+        "in_reply_to_user_id": "1706197816538988544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875946517225439603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amiursky 好可爱我的天"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875946510615269376"
+          ]
+        },
+        "author_id": "1706197816538988544",
+        "conversation_id": "1875946517225439603",
+        "created_at": "2025-01-05T16:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T17:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875946517225439603"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "伪娘"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nrwdpo5eYU",
+              "end": 44,
+              "expanded_url": "https://x.com/amiursky/status/1875946517225439603/photo/1",
+              "media_key": "3_1875946510615269376",
+              "start": 21,
+              "url": "https://t.co/nrwdpo5eYU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875946517225439603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好，给您来一脚（物理）\n#伪娘 #男娘 https://t.co/nrwdpo5eYU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1635,
+          "following_count": 1928,
+          "like_count": 9143,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 2229
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-25T06:44:24.000Z",
+        "description": "也许最好的就是一切刚开始的样子",
+        "id": "1706197816538988544",
+        "name": "sky",
+        "pinned_tweet_id": "1847672798258536744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833924579745726464/aYVbCrvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 6,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 13
+        },
+        "username": "amiursky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1962922739351879763",
+    "created_at": "2025-09-02T16:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T17:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962922739351879763"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LastTrouvaille…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/LastTrouvaille/status/1962859556331307253",
+          "start": 53,
+          "url": "https://t.co/zbHPtuXJyw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962922739351879763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962859556331307253",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后续是毕业的时候和同学聊起来\n同学：她和我们说过她其实喜欢你的\n我：嗯？？啊？啊...（挠了挠木鱼脑袋） https://t.co/zbHPtuXJyw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 478,
+        "media_key": "3_1962859552694530048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz16XQ5W8AAxh3Q.jpg",
+        "width": 613
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1962922739351879763",
+        "created_at": "2025-09-02T16:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T17:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962922739351879763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LastTrouvaille…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/LastTrouvaille/status/1962859556331307253",
+              "start": 53,
+              "url": "https://t.co/zbHPtuXJyw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962922739351879763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962859556331307253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续是毕业的时候和同学聊起来\n同学：她和我们说过她其实喜欢你的\n我：嗯？？啊？啊...（挠了挠木鱼脑袋） https://t.co/zbHPtuXJyw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962859552694530048"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "1962859556331307253",
+        "created_at": "2025-09-02T12:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T13:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962859556331307253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QrgMcoaxrb",
+              "end": 167,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1962859556331307253/photo/1",
+              "media_key": "3_1962859552694530048",
+              "start": 144,
+              "url": "https://t.co/QrgMcoaxrb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962859556331307253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 537,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "高二的时候四人小组一起聊天，刚好聊到占卜算卦\n后桌和我说：（叫我名字）要不要帮你算算\n于是把手递过去\n对方端详了会，又用手指在上面轻轻的画什么，然后突然把另一只手也拽了过去\n两个人就这么十指相扣了\n我抬起头，刚好对上后桌的视线，以及对方一脸满足的笑意\n现在回想起就觉得，原来这就是青春啊 https://t.co/QrgMcoaxrb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3215,
+          "following_count": 2781,
+          "like_count": 29911,
+          "listed_count": 13,
+          "media_count": 660,
+          "tweet_count": 7032
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

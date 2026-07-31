@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990356834667151360"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1990356837783478555",
+    "created_at": "2025-11-17T09:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T10:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990356837783478555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mD2Xjxi9uJ",
+          "end": 103,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1990356837783478555/photo/1",
+          "media_key": "3_1990356834667151360",
+          "start": 80,
+          "url": "https://t.co/mD2Xjxi9uJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990356837783478555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友：（转发截图）你看看这个，好好笑\n我：（凑）让我看看怎么个事..确实很有趣XD\n朋友：下面评论更有意思XD\n我：（翻找）哈哈哈哈还真..等等怎么我全都认识 https://t.co/mD2Xjxi9uJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 929,
+        "media_key": "3_1990356834667151360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58q_uqbQAASgkn.jpg",
+        "width": 723
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990356834667151360"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "1990356837783478555",
+        "created_at": "2025-11-17T09:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990356837783478555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mD2Xjxi9uJ",
+              "end": 103,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1990356837783478555/photo/1",
+              "media_key": "3_1990356834667151360",
+              "start": 80,
+              "url": "https://t.co/mD2Xjxi9uJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990356837783478555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友：（转发截图）你看看这个，好好笑\n我：（凑）让我看看怎么个事..确实很有趣XD\n朋友：下面评论更有意思XD\n我：（翻找）哈哈哈哈还真..等等怎么我全都认识 https://t.co/mD2Xjxi9uJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，年初和年中驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3603,
+          "following_count": 2777,
+          "like_count": 34178,
+          "listed_count": 13,
+          "media_count": 738,
+          "tweet_count": 7633
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

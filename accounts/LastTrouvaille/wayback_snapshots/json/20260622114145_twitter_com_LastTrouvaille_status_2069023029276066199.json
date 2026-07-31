@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2068994485263245526",
+    "created_at": "2026-06-22T11:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T12:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069023029276066199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581866233225281538",
+          "start": 0,
+          "username": "K1ta_Ikuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069023029276066199",
+    "in_reply_to_user_id": "1581866233225281538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068994485263245526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1ta_Ikuyo 喜多是天使ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1671,
+        "media_key": "3_2068994464379719680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaLgNuaUAA-sts.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1357,
+        "media_key": "3_2068994464321024000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaLgNgasAA1Icg.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068994464367165440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaLgNrawAAufLi.jpg",
+        "width": 750
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068994464337833984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaLgNkbMAAG0AI.jpg",
+        "width": 1770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2068994485263245526",
+        "created_at": "2026-06-22T11:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069023029276066199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581866233225281538",
+              "start": 0,
+              "username": "K1ta_Ikuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069023029276066199",
+        "in_reply_to_user_id": "1581866233225281538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068994485263245526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1ta_Ikuyo 喜多是天使ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068994464379719680",
+            "3_2068994464321024000",
+            "3_2068994464367165440",
+            "3_2068994464337833984"
+          ]
+        },
+        "author_id": "1581866233225281538",
+        "conversation_id": "2068994485263245526",
+        "created_at": "2026-06-22T09:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068994485263245526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rcQus920jX",
+              "end": 43,
+              "expanded_url": "https://x.com/K1ta_Ikuyo/status/2068994485263245526/photo/1",
+              "media_key": "3_2068994464379719680",
+              "start": 20,
+              "url": "https://t.co/rcQus920jX"
+            },
+            {
+              "display_url": "pic.x.com/rcQus920jX",
+              "end": 43,
+              "expanded_url": "https://x.com/K1ta_Ikuyo/status/2068994485263245526/photo/1",
+              "media_key": "3_2068994464321024000",
+              "start": 20,
+              "url": "https://t.co/rcQus920jX"
+            },
+            {
+              "display_url": "pic.x.com/rcQus920jX",
+              "end": 43,
+              "expanded_url": "https://x.com/K1ta_Ikuyo/status/2068994485263245526/photo/1",
+              "media_key": "3_2068994464367165440",
+              "start": 20,
+              "url": "https://t.co/rcQus920jX"
+            },
+            {
+              "display_url": "pic.x.com/rcQus920jX",
+              "end": 43,
+              "expanded_url": "https://x.com/K1ta_Ikuyo/status/2068994485263245526/photo/1",
+              "media_key": "3_2068994464337833984",
+              "start": 20,
+              "url": "https://t.co/rcQus920jX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068994485263245526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1724,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这种天气还愿意穿丝袜小皮鞋的一定是天使 https://t.co/rcQus920jX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】叫CC就好‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖不许键政🚫‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille3",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille3",
+                "start": 0,
+                "url": "https://t.co/8rca0idckk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4520,
+          "following_count": 2917,
+          "like_count": 48184,
+          "listed_count": 14,
+          "media_count": 1003,
+          "tweet_count": 9327
+        },
+        "url": "https://t.co/8rca0idckk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T04:34:43.000Z",
+        "description": "結束バンドのギタリスト｜❤️@N2009750000｜女子力UP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "N2009750000"
+              }
+            ]
+          }
+        },
+        "id": "1581866233225281538",
+        "location": "Tokyo Japan",
+        "name": "きた いくよ",
+        "pinned_tweet_id": "1937031572701729195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005655391951290368/i8ZUNkDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11795,
+          "following_count": 3149,
+          "like_count": 36212,
+          "listed_count": 23,
+          "media_count": 691,
+          "tweet_count": 14901
+        },
+        "url": "",
+        "username": "K1ta_Ikuyo",
+        "verified": false
+      }
+    ]
+  }
+}

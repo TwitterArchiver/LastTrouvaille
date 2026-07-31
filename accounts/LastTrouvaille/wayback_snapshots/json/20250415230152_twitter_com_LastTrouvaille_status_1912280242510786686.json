@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1911971269157028283",
+    "created_at": "2025-04-15T23:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T00:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912280242510786686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1802013771470106624",
+          "start": 0,
+          "username": "ijeyuc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912280242510786686",
+    "in_reply_to_user_id": "1802013771470106624",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912274709980590201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ijeyuc 😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1911971269157028283",
+        "created_at": "2025-04-15T23:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T00:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912280242510786686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1802013771470106624",
+              "start": 0,
+              "username": "ijeyuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912280242510786686",
+        "in_reply_to_user_id": "1802013771470106624",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912274709980590201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ijeyuc 😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802013771470106624",
+        "conversation_id": "1911971269157028283",
+        "created_at": "2025-04-15T22:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T23:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912274709980590201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912274709980590201",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911971269157028283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 写的好好🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2453,
+          "following_count": 2793,
+          "like_count": 19984,
+          "listed_count": 13,
+          "media_count": 421,
+          "tweet_count": 4882
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T16:22:30.000Z",
+        "description": "一名来自江南小城的平凡高中生 | 航天爱好者 | 平常会写现代诗 | 键政人 | 友跨 | 悲观主义者 | 邮箱cuyeji@outlook.com | 旧号@cuyeji已暴毙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 79,
+                "username": "cuyeji"
+              }
+            ]
+          }
+        },
+        "id": "1802013771470106624",
+        "location": "🇨🇳",
+        "name": "粗野荠🇺🇦🇵🇸",
+        "pinned_tweet_id": "1907827321912070616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819728089347219457/BFKDgbzx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 212,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 173
+        },
+        "username": "ijeyuc",
+        "verified": false
+      }
+    ]
+  }
+}

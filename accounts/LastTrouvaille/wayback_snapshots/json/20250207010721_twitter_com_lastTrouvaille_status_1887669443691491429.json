@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1887527199106125920",
+    "created_at": "2025-02-07T01:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T02:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887669443691491429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1632193303839121409",
+          "start": 0,
+          "username": "xioshl8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887669443691491429",
+    "in_reply_to_user_id": "1632193303839121409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887527199106125920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioshl8 一下子就感觉到油画的写实性了\n真的好好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1887527199106125920",
+        "created_at": "2025-02-07T01:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T02:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887669443691491429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1632193303839121409",
+              "start": 0,
+              "username": "xioshl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887669443691491429",
+        "in_reply_to_user_id": "1632193303839121409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887527199106125920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioshl8 一下子就感觉到油画的写实性了\n真的好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887527195876397056",
+            "3_1887527196501417988"
+          ]
+        },
+        "author_id": "1632193303839121409",
+        "conversation_id": "1887527199106125920",
+        "created_at": "2025-02-06T15:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T16:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887527199106125920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lSCV6fvPtu",
+              "end": 57,
+              "expanded_url": "https://x.com/xioshl8/status/1887527199106125920/photo/1",
+              "media_key": "3_1887527195876397056",
+              "start": 34,
+              "url": "https://t.co/lSCV6fvPtu"
+            },
+            {
+              "display_url": "pic.x.com/lSCV6fvPtu",
+              "end": 57,
+              "expanded_url": "https://x.com/xioshl8/status/1887527199106125920/photo/1",
+              "media_key": "3_1887527196501417988",
+              "start": 34,
+              "url": "https://t.co/lSCV6fvPtu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887527199106125920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "天哪，这张画终于获得了他该有的热度，我的努力换来的收获！\n感谢大家 https://t.co/lSCV6fvPtu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖别忘了多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 2060,
+          "like_count": 12399,
+          "listed_count": 7,
+          "media_count": 233,
+          "tweet_count": 3076
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T01:37:03.000Z",
+        "description": "我是推特第一洛天依😁\n一个热爱生活的普通人\n热爱骑行，绘画，种地\n喜欢看番，吃谷\n游戏有玩粥，ba\n偶尔打打屁股肉和世界计划\nwmc\n单推洛天依\n平常喜欢记录生活\n喜欢我的推u可以点点关注\n多给我的帖子点点赞\n\n我希望用有限的时间去尽可能多的体验这个世界上美好的东西",
+        "id": "1632193303839121409",
+        "name": "朝暮依依",
+        "pinned_tweet_id": "1875227119032398322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874328804799479808/ESz38N1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 283,
+          "like_count": 25034,
+          "listed_count": 3,
+          "media_count": 660,
+          "tweet_count": 2953
+        },
+        "username": "xioshl8",
+        "verified": false
+      }
+    ]
+  }
+}

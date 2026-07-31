@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1893763430722453702",
+    "created_at": "2025-02-24T08:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T09:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893941643746689342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794154221194932224",
+          "start": 0,
+          "username": "NagiVictoria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893941643746689342",
+    "in_reply_to_user_id": "1794154221194932224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893763430722453702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiVictoria 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1893763430722453702",
+        "created_at": "2025-02-24T08:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T09:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893941643746689342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794154221194932224",
+              "start": 0,
+              "username": "NagiVictoria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893941643746689342",
+        "in_reply_to_user_id": "1794154221194932224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893763430722453702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiVictoria 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794154221194932224",
+        "conversation_id": "1893763430722453702",
+        "created_at": "2025-02-23T20:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T21:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893763430722453702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/narinarimashit…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/narinarimashita/status/1893617356179755231",
+              "start": 108,
+              "url": "https://t.co/a9S06h8J94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893763430722453702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1010,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893617356179755231",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Nagi好感度等级（留言即可询问）\n8.Nagi会和你一起开银趴，见面完可能掉落小礼物\n11.见面完可能掉落大礼物\n14.🤤🥵同床共枕\n17.Nagi会为了见你而特地去某个地方\n20.Nagi做事会特地考虑你的感受 https://t.co/a9S06h8J94"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hi~ 这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖中国人🇨🇳热爱祖国和人民‖INFP‖抑郁‖性格奇怪(?)但是比较温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖包容力强毋忧踩雷‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖两个网链分别是猫猫和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2012,
+          "following_count": 2193,
+          "like_count": 14407,
+          "listed_count": 7,
+          "media_count": 272,
+          "tweet_count": 3532
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "银趴大王冲晕了   叫我naginagi可以快速刷好感度",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExTBHF"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "机厅厕所隔间",
+        "name": "Nagi 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1892987885877371042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882689504978350080/iCWHUndQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3587,
+          "following_count": 831,
+          "like_count": 15012,
+          "listed_count": 6,
+          "media_count": 1773,
+          "tweet_count": 13658
+        },
+        "url": "https://t.co/xPejExTBHF",
+        "username": "NagiVictoria",
+        "verified": false
+      }
+    ]
+  }
+}

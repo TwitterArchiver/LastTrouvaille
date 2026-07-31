@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1943687572313755820",
+    "created_at": "2025-07-12T03:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T04:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943876803577209156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1792101664117161984",
+          "start": 0,
+          "username": "Amberlona_LK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943876803577209156",
+    "in_reply_to_user_id": "1792101664117161984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943856394093867259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amberlona_LK 捏w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1943687572313755820",
+        "created_at": "2025-07-12T03:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T04:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943876803577209156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1792101664117161984",
+              "start": 0,
+              "username": "Amberlona_LK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943876803577209156",
+        "in_reply_to_user_id": "1792101664117161984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943856394093867259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amberlona_LK 捏w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792101664117161984",
+        "conversation_id": "1943687572313755820",
+        "created_at": "2025-07-12T02:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T03:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943856394093867259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943856394093867259",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943687572313755820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 揉揉~\n可爱呢🎀☘️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3173,
+          "following_count": 2705,
+          "like_count": 28945,
+          "listed_count": 12,
+          "media_count": 603,
+          "tweet_count": 6679
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T07:55:38.000Z",
+        "description": "我人其实很好的，快来跟我交朋友吧|友一切善良的小可爱|什么都讲| @bayer04fussball\nzh/es/en/de/nl/fa/ar/tr/ko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "bayer04fussball"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=B5NcWl…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/watch?v=B5NcWl75m50&feature=youtu.be",
+                "start": 0,
+                "url": "https://t.co/zyim7ZSJMl"
+              }
+            ]
+          }
+        },
+        "id": "1792101664117161984",
+        "location": "星系-NGC 6523",
+        "name": "Tuệ Quều (امبر لونا)⚜️",
+        "pinned_tweet_id": "1929004849028366398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916084605712486401/Q3JgvBvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 838,
+          "like_count": 33881,
+          "listed_count": 6,
+          "media_count": 220,
+          "tweet_count": 14683
+        },
+        "url": "https://t.co/zyim7ZSJMl",
+        "username": "Amberlona_LK",
+        "verified": false
+      }
+    ]
+  }
+}

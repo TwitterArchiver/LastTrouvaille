@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1901997776613089776",
+    "created_at": "2025-03-18T16:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T17:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902034162405785788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1723715289723092992",
+          "start": 0,
+          "username": "CharmingFurina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902034162405785788",
+    "in_reply_to_user_id": "1723715289723092992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901997776613089776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharmingFurina 月考加油！\n预祝蟾宫折挂😉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1901997776613089776",
+        "created_at": "2025-03-18T16:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T17:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902034162405785788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1723715289723092992",
+              "start": 0,
+              "username": "CharmingFurina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902034162405785788",
+        "in_reply_to_user_id": "1723715289723092992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901997776613089776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharmingFurina 月考加油！\n预祝蟾宫折挂😉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723715289723092992",
+        "conversation_id": "1901997776613089776",
+        "created_at": "2025-03-18T14:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T15:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901997776613089776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901997776613089776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位晚好，還有兩天就要月考了，大家可以鼓勵一下我麼🥰✨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2178,
+          "following_count": 2611,
+          "like_count": 17438,
+          "listed_count": 8,
+          "media_count": 338,
+          "tweet_count": 4180
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T14:52:12.000Z",
+        "description": "中推第一芙廚🥰/互fo/重慶07男高/高二/理科生/日常清水推/溫和右派 淺藍/三民主義/183cm 62kg/澀澀🥵/數學/語言學/中華&印度文化圈研究/喜歡東亞、東南亞/小乘佛教研究/只玩原神崩鐵/LGBT友好/漢英日韓泰法語ok/有自拍照🥰/小帳@Furina_Thailland/可愛亞鐵@kgdyodyi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 126,
+                "username": "Furina_Thailland"
+              },
+              {
+                "end": 157,
+                "start": 148,
+                "username": "kgdyodyi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/charmingfurina",
+                "end": 23,
+                "expanded_url": "http://ngl.link/charmingfurina",
+                "start": 0,
+                "url": "https://t.co/Y8AOwF2rRY"
+              }
+            ]
+          }
+        },
+        "id": "1723715289723092992",
+        "location": "巴亭廣場 河內 越南🇻🇳",
+        "name": "💙迷人的芙芙💙(淡推)",
+        "pinned_tweet_id": "1876404353009082663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890960804851359745/vD52AnXh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2217,
+          "following_count": 3063,
+          "like_count": 69300,
+          "listed_count": 10,
+          "media_count": 1084,
+          "tweet_count": 12668
+        },
+        "url": "https://t.co/Y8AOwF2rRY",
+        "username": "CharmingFurina",
+        "verified": false
+      }
+    ]
+  }
+}

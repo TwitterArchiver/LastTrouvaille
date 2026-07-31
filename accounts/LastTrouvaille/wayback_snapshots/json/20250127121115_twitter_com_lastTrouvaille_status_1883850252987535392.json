@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1883775272811737228",
+    "created_at": "2025-01-27T12:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T13:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883850252987535392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1812783083898515456",
+          "start": 0,
+          "username": "_but_i_love_u_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883850252987535392",
+    "in_reply_to_user_id": "1812783083898515456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883848717511602583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_but_i_love_u_ 可以喔\n以后可以每天都泡泡茶叶喝了ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1883775272811737228",
+        "created_at": "2025-01-27T12:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T13:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883850252987535392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1812783083898515456",
+              "start": 0,
+              "username": "_but_i_love_u_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883850252987535392",
+        "in_reply_to_user_id": "1812783083898515456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883848717511602583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_but_i_love_u_ 可以喔\n以后可以每天都泡泡茶叶喝了ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812783083898515456",
+        "conversation_id": "1883775272811737228",
+        "created_at": "2025-01-27T12:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T13:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883848717511602583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883848717511602583",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883843511344324637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 茶葉來了呀 …&gt;_&lt;…謝謝姐姐⋯（我可以這樣叫嗎（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1887,
+          "following_count": 2352,
+          "like_count": 11387,
+          "listed_count": 6,
+          "media_count": 215,
+          "tweet_count": 2793
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T09:35:53.000Z",
+        "description": "「但我愛你…」｜單機上網｜低浮上｜^-^",
+        "id": "1812783083898515456",
+        "location": "未來",
+        "name": "@峨眉山茶葉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882682641650262016/26RV9UNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 207,
+          "like_count": 1686,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 170
+        },
+        "username": "_but_i_love_u_",
+        "verified": false
+      }
+    ]
+  }
+}

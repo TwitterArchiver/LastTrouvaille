@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1873239279599845771",
+    "created_at": "2024-12-29T08:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T09:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873281499916845338"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "EGOIST",
+          "probability": 0.4523,
+          "start": 29,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1761964962321240064",
+          "start": 0,
+          "username": "ZiHeiHK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873281499916845338",
+    "in_reply_to_user_id": "1761964962321240064",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873239279599845771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZiHeiHK All alone with you——EGOIST"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1873239279599845771",
+        "created_at": "2024-12-29T08:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T09:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873281499916845338"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "EGOIST",
+              "probability": 0.4523,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1761964962321240064",
+              "start": 0,
+              "username": "ZiHeiHK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873281499916845338",
+        "in_reply_to_user_id": "1761964962321240064",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873239279599845771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZiHeiHK All alone with you——EGOIST"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761964962321240064",
+        "conversation_id": "1873239279599845771",
+        "created_at": "2024-12-29T05:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T06:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873239279599845771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873239279599845771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把你們最喜歡的歌發出來"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 1770,
+          "like_count": 7812,
+          "listed_count": 4,
+          "media_count": 161,
+          "tweet_count": 1948
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T04:02:54.000Z",
+        "description": "我只是為了活著而活著，不是為了什麼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "id.loyaltykp.top:2087/sub/aWRsb3lhbH…",
+                "end": 23,
+                "expanded_url": "https://id.loyaltykp.top:2087/sub/aWRsb3lhbHR5a3BhZG1pbiwxNzM0MjU1ODE2om3RmPo0p0",
+                "start": 0,
+                "url": "https://t.co/2rqLBlw317"
+              }
+            ]
+          }
+        },
+        "id": "1761964962321240064",
+        "location": "🚪38.8免費🪜➡️",
+        "name": "ZiHei",
+        "pinned_tweet_id": "1792045153437581821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785454161880100864/us82Bbpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 316,
+          "like_count": 8360,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 2787
+        },
+        "url": "https://t.co/2rqLBlw317",
+        "username": "ZiHeiHK",
+        "verified": true
+      }
+    ]
+  }
+}

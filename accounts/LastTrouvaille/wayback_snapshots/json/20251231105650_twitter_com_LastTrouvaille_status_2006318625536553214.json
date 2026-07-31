@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2006183596298563962",
+    "created_at": "2025-12-31T10:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T11:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006318625536553214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1376290750804070400",
+          "start": 0,
+          "username": "xuexuelingling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006318625536553214",
+    "in_reply_to_user_id": "1376290750804070400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006183596298563962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuexuelingling 超可爱！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2006183596298563962",
+        "created_at": "2025-12-31T10:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T11:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006318625536553214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1376290750804070400",
+              "start": 0,
+              "username": "xuexuelingling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006318625536553214",
+        "in_reply_to_user_id": "1376290750804070400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006183596298563962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuexuelingling 超可爱！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1376290750804070400",
+        "conversation_id": "2006183596298563962",
+        "created_at": "2025-12-31T02:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T03:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006183596298563962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006183596298563962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2431,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然发过一次了，还是想在今天知道大家对我的印象如何……\n想到什么说什么！哪怕是第一次见到我的也可以说一下第一印象！很想知道……哦捏噶！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，叫CC就好啦‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)熟的话不时话痨(雾)‖偶尔写诗填词‖穗&沪‖会内耗emo‖不许键政！！！‖中粤英👌🏻‖网链是提问箱和miku↓‖请和这般恶劣的我做朋友吧orz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园or纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3712,
+          "following_count": 2793,
+          "like_count": 38171,
+          "listed_count": 13,
+          "media_count": 819,
+          "tweet_count": 8192
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-28T21:51:14.000Z",
+        "description": "这里是一只铃🐱//您可能会看到的有//碎碎念//发牢骚//负面情绪//有男友//聊天⭕不要骚扰我❌\n//刀客塔 @AyanamiRikako \n良良前辈 @inorighten\n依依宝 @Rinni_Candy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "AyanamiRikako"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "username": "inorighten"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "Rinni_Candy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xuexuelingling",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xuexuelingling",
+                "start": 0,
+                "url": "https://t.co/m5UyZYOMPj"
+              }
+            ]
+          }
+        },
+        "id": "1376290750804070400",
+        "location": "距离你 37m ",
+        "name": "茳迴铃汐🍉",
+        "pinned_tweet_id": "1991167054834266540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005774925382979584/0L0RIhpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9010,
+          "following_count": 343,
+          "like_count": 5173,
+          "listed_count": 17,
+          "media_count": 283,
+          "tweet_count": 1849
+        },
+        "url": "https://t.co/m5UyZYOMPj",
+        "username": "xuexuelingling",
+        "verified": true
+      }
+    ]
+  }
+}

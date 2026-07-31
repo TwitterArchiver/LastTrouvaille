@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1887701455945277773",
+    "created_at": "2025-02-08T05:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T06:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888101060813988226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1504799211799265282",
+          "start": 0,
+          "username": "LiuSuK_Arcaea"
+        },
+        {
+          "end": 29,
+          "id": "1650134867424976896",
+          "start": 15,
+          "username": "_Tojita_Sekai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888101060813988226",
+    "in_reply_to_user_id": "1504799211799265282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888098538711826689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuSuK_Arcaea @_Tojita_Sekai CC的图都能被标敏感了？😧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1887701455945277773",
+        "created_at": "2025-02-08T05:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T06:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888101060813988226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK_Arcaea"
+            },
+            {
+              "end": 29,
+              "id": "1650134867424976896",
+              "start": 15,
+              "username": "_Tojita_Sekai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888101060813988226",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888098538711826689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK_Arcaea @_Tojita_Sekai CC的图都能被标敏感了？😧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1887701455945277773",
+        "created_at": "2025-02-08T05:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T06:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888098538711826689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            },
+            {
+              "end": 30,
+              "id": "1650134867424976896",
+              "start": 16,
+              "username": "_Tojita_Sekai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888098538711826689",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888098180652310652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille @_Tojita_Sekai cc发了什么 我没满18看不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 2047,
+          "like_count": 12468,
+          "listed_count": 7,
+          "media_count": 237,
+          "tweet_count": 3195
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "男 |08｜Arknights | 崩壊:スターレイル| Arcaea | MaimaiDX | Paradigm: Reboot | 東方Project | VOCALOID | Galgame |Like @yeziyu7777 or 小号@Waking_Shadows",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 105,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "Waking_Shadows"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k94158",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k94158",
+                "start": 0,
+                "url": "https://t.co/vFrWPupjta"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "我在杭州 欢迎面基打完舞萌然后吃个饭",
+        "name": "☆流苏☆",
+        "pinned_tweet_id": "1865970707970351307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887035940851605504/Xr5pFrLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 1046,
+          "like_count": 20915,
+          "listed_count": 8,
+          "media_count": 583,
+          "tweet_count": 10720
+        },
+        "url": "https://t.co/vFrWPupjta",
+        "username": "LiuSuK_Arcaea",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T13:49:51.000Z",
+        "description": "@_FiniteWorld是好猫猫 | @canitastevenom是大杂鱼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "_FiniteWorld"
+              },
+              {
+                "end": 35,
+                "start": 20,
+                "username": "canitastevenom"
+              }
+            ]
+          }
+        },
+        "id": "1650134867424976896",
+        "location": "我一直在",
+        "name": "Chinsu",
+        "pinned_tweet_id": "1887523850667368611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868314598102994944/Xq504l8Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 215,
+          "like_count": 6313,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 2841
+        },
+        "username": "_Tojita_Sekai",
+        "verified": false
+      }
+    ]
+  }
+}

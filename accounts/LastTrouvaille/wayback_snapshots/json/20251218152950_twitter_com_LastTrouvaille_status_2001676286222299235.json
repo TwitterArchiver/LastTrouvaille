@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2001637798718431519",
+    "created_at": "2025-12-18T15:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T16:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001676286222299235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847835560175685635",
+          "start": 0,
+          "username": "OPPOFANS114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001676286222299235",
+    "in_reply_to_user_id": "1847835560175685635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001637798718431519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OPPOFANS114514 其实是的\n因为CC的医生也是这么说的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2001637798718431519",
+        "created_at": "2025-12-18T15:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T16:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001676286222299235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847835560175685635",
+              "start": 0,
+              "username": "OPPOFANS114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001676286222299235",
+        "in_reply_to_user_id": "1847835560175685635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001637798718431519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OPPOFANS114514 其实是的\n因为CC的医生也是这么说的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847835560175685635",
+        "conversation_id": "2001637798718431519",
+        "created_at": "2025-12-18T12:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T13:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001637798718431519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001637798718431519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于我现在这样\n有人说我是双相前兆\n但我觉得不至于，我感觉只是缺爱了\n不至于双相吧😨😨😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖双‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖偶尔写点诗词‖穗&沪‖会内耗emo‖不许键政！！！‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3691,
+          "following_count": 2791,
+          "like_count": 36955,
+          "listed_count": 13,
+          "media_count": 790,
+          "tweet_count": 8035
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "OPPO粉只是累了，想休息一下啦(。_。)\n发现自己很累，不如其他人，emo情绪就多了，所以想调整一下啦(இωஇ )\n谢谢大家的关注哦，再见～(*˘︶˘*).。.:*♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/37m0RVopG5"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "name": "OPPOFANS（暂时淡推）",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000220473616138240/a4ab0Rnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 1885,
+          "like_count": 16780,
+          "listed_count": 7,
+          "media_count": 510,
+          "tweet_count": 16141
+        },
+        "url": "https://t.co/37m0RVopG5",
+        "username": "OPPOFANS114514",
+        "verified": false
+      }
+    ]
+  }
+}

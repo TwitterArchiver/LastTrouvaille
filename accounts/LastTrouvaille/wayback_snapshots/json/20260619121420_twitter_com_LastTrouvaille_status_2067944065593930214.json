@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2067662162546614695",
+    "created_at": "2026-06-19T12:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067944065593930214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1764297587404972032",
+          "start": 0,
+          "username": "Genoooeeoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067944065593930214",
+    "in_reply_to_user_id": "1764297587404972032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067921296609161566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Genoooeeoo 好可惜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2067662162546614695",
+        "created_at": "2026-06-19T12:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067944065593930214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1764297587404972032",
+              "start": 0,
+              "username": "Genoooeeoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067944065593930214",
+        "in_reply_to_user_id": "1764297587404972032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067921296609161566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Genoooeeoo 好可惜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764297587404972032",
+        "conversation_id": "2067662162546614695",
+        "created_at": "2026-06-19T10:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067921296609161566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067921296609161566",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067662162546614695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 能和相爱的人靠在一起，即使什么都不做我也会感到很幸福\n可惜属于我的那个人离开了我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】叫CC就好‖INFP-T‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）不时话痨（划掉）‖穗&沪‖中粤英‖不许键政🚫‖提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille3",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille3",
+                "start": 0,
+                "url": "https://t.co/8rca0idckk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4509,
+          "following_count": 2906,
+          "like_count": 48036,
+          "listed_count": 14,
+          "media_count": 1001,
+          "tweet_count": 9308
+        },
+        "url": "https://t.co/8rca0idckk",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T14:31:50.000Z",
+        "description": "音游重度依赖，主要玩Arcaea和Chunithm\n不开心了欢迎来找我聊天（不过我高中在读一般只在晚上凌晨出没）",
+        "id": "1764297587404972032",
+        "location": "Gray Heaven",
+        "name": "Geno",
+        "pinned_tweet_id": "2057593706514092449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065066930097287168/vJxc7J76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 511,
+          "like_count": 4913,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 206
+        },
+        "url": "",
+        "username": "Genoooeeoo",
+        "verified": false
+      }
+    ]
+  }
+}

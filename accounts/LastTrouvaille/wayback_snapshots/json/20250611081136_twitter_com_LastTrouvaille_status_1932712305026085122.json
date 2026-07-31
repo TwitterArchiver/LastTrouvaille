@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932712297862139904",
+        "3_1932712302597582854"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1932712305026085122",
+    "created_at": "2025-06-11T08:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T09:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932712305026085122"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KGcdkQqG3L",
+          "end": 78,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1932712305026085122/photo/1",
+          "media_key": "3_1932712297862139904",
+          "start": 55,
+          "url": "https://t.co/KGcdkQqG3L"
+        },
+        {
+          "display_url": "pic.x.com/KGcdkQqG3L",
+          "end": 78,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1932712305026085122/photo/1",
+          "media_key": "3_1932712302597582854",
+          "start": 55,
+          "url": "https://t.co/KGcdkQqG3L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932712305026085122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一觉醒来发现3kfo了！！\n推友圈已经从各种意义上讲成为CC第一大的圈子了\n真的真的超级感谢大家！！爱你们~ https://t.co/KGcdkQqG3L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2410,
+        "media_key": "3_1932712297862139904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtJfmE8aEAA9kJd.jpg",
+        "width": 1440
+      },
+      {
+        "height": 721,
+        "media_key": "3_1932712302597582854",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtJfmWlbMAYsxl9.jpg",
+        "width": 726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932712297862139904",
+            "3_1932712302597582854"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "1932712305026085122",
+        "created_at": "2025-06-11T08:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T09:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932712305026085122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KGcdkQqG3L",
+              "end": 78,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1932712305026085122/photo/1",
+              "media_key": "3_1932712297862139904",
+              "start": 55,
+              "url": "https://t.co/KGcdkQqG3L"
+            },
+            {
+              "display_url": "pic.x.com/KGcdkQqG3L",
+              "end": 78,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1932712305026085122/photo/1",
+              "media_key": "3_1932712302597582854",
+              "start": 55,
+              "url": "https://t.co/KGcdkQqG3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932712305026085122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一觉醒来发现3kfo了！！\n推友圈已经从各种意义上讲成为CC第一大的圈子了\n真的真的超级感谢大家！！爱你们~ https://t.co/KGcdkQqG3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3001,
+          "following_count": 2655,
+          "like_count": 27329,
+          "listed_count": 13,
+          "media_count": 566,
+          "tweet_count": 6389
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

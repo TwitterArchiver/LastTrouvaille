@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1992088293555757140",
+    "created_at": "2025-11-22T04:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T05:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992094770043433302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1236419551291568129",
+          "start": 0,
+          "username": "David__Kidoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992094770043433302",
+    "in_reply_to_user_id": "1236419551291568129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992091691910939038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@David__Kidoo 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1992088293555757140",
+        "created_at": "2025-11-22T04:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T05:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992094770043433302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1236419551291568129",
+              "start": 0,
+              "username": "David__Kidoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992094770043433302",
+        "in_reply_to_user_id": "1236419551291568129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992091691910939038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@David__Kidoo 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236419551291568129",
+        "conversation_id": "1992088293555757140",
+        "created_at": "2025-11-22T04:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T05:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992091691910939038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992091691910939038",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992088293555757140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 还可以看古见同学（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，年初和年中驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3607,
+          "following_count": 2765,
+          "like_count": 34380,
+          "listed_count": 13,
+          "media_count": 746,
+          "tweet_count": 7678
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-07T22:32:55.000Z",
+        "description": "喜欢游戏，电影，各种有趣的玩意！希望能和大家好好相处！ fan of games , movies and all funny memes and things! Looking forward to get along well with anyone!",
+        "id": "1236419551291568129",
+        "name": "Davidkiddo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522061665629474817/VO2vhVTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 568,
+          "like_count": 42798,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 6407
+        },
+        "username": "David__Kidoo",
+        "verified": false
+      }
+    ]
+  }
+}

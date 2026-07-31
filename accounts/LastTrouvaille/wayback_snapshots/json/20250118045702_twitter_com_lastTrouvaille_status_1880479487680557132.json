@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1880301322257461714",
+    "created_at": "2025-01-18T04:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T05:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880479487680557132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1679367504165240832",
+          "start": 0,
+          "username": "haishuipaobai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880479487680557132",
+    "in_reply_to_user_id": "1679367504165240832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880301322257461714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haishuipaobai 贴贴喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1880301322257461714",
+        "created_at": "2025-01-18T04:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T05:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880479487680557132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679367504165240832",
+              "start": 0,
+              "username": "haishuipaobai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880479487680557132",
+        "in_reply_to_user_id": "1679367504165240832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880301322257461714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haishuipaobai 贴贴喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880301319573164032"
+          ]
+        },
+        "author_id": "1679367504165240832",
+        "conversation_id": "1880301322257461714",
+        "created_at": "2025-01-17T17:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T18:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880301322257461714"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "男娘"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "地雷系"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "白丝袜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yhJezGw2Eg",
+              "end": 50,
+              "expanded_url": "https://x.com/haishuipaobai/status/1880301322257461714/photo/1",
+              "media_key": "3_1880301319573164032",
+              "start": 27,
+              "url": "https://t.co/yhJezGw2Eg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880301322257461714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2673,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被指到的人来我床上贴贴！\n#男娘 #地雷系 #白丝袜 https://t.co/yhJezGw2Eg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 2199,
+          "like_count": 10445,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 2598
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T05:50:09.000Z",
+        "description": "失眠，妄想症，神经衰弱",
+        "id": "1679367504165240832",
+        "location": "猫窝",
+        "name": "海泡菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856924448630476800/u48Rkya0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 75,
+          "like_count": 590,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 416
+        },
+        "username": "haishuipaobai",
+        "verified": false
+      }
+    ]
+  }
+}

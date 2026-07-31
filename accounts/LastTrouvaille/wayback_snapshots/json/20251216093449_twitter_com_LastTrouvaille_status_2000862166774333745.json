@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2000793012138660346",
+    "created_at": "2025-12-16T09:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T10:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000862166774333745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1792101664117161984",
+          "start": 0,
+          "username": "Amberlona_LK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000862166774333745",
+    "in_reply_to_user_id": "1792101664117161984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000852200357290156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amberlona_LK 谢谢泥宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2000793012138660346",
+        "created_at": "2025-12-16T09:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T10:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000862166774333745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1792101664117161984",
+              "start": 0,
+              "username": "Amberlona_LK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000862166774333745",
+        "in_reply_to_user_id": "1792101664117161984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000852200357290156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amberlona_LK 谢谢泥宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792101664117161984",
+        "conversation_id": "2000793012138660346",
+        "created_at": "2025-12-16T08:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T09:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000852200357290156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000852200357290156",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000793012138660346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 把好运分给cc\n愿好事发生喔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖双‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖偶尔写点诗词‖穗&沪‖会内耗emo‖不许键政！！！‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7jAc"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3678,
+          "following_count": 2775,
+          "like_count": 36581,
+          "listed_count": 13,
+          "media_count": 784,
+          "tweet_count": 7986
+        },
+        "url": "https://t.co/TWu8nv7jAc",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T07:55:38.000Z",
+        "description": "问社会不公，打社会不义/只要对我好，我也对你好",
+        "id": "1792101664117161984",
+        "location": "星系-NGC 6523",
+        "name": "Tuệ Quều (امبر لونا)⚜️",
+        "pinned_tweet_id": "2000320100629712953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916084605712486401/Q3JgvBvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 950,
+          "like_count": 45392,
+          "listed_count": 6,
+          "media_count": 265,
+          "tweet_count": 18625
+        },
+        "username": "Amberlona_LK",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1967933369955893412",
+    "created_at": "2025-09-18T05:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T06:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968555268117234159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1943699809933963264",
+          "start": 0,
+          "username": "SetsuGlow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968555268117234159",
+    "in_reply_to_user_id": "1943699809933963264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967933369955893412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SetsuGlow （盯）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1967933366004813826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-A-EZbEAIOjbe.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1967933369955893412",
+        "created_at": "2025-09-18T05:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T06:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968555268117234159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1943699809933963264",
+              "start": 0,
+              "username": "SetsuGlow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968555268117234159",
+        "in_reply_to_user_id": "1943699809933963264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967933369955893412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SetsuGlow （盯）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967933366004813826"
+          ]
+        },
+        "author_id": "1943699809933963264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1967933369955893412",
+        "created_at": "2025-09-16T12:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T13:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967933369955893412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1968275016203767808/0qu5Z3z8?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1968275016203767808/0qu5Z3z8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/rNp5Je5JzQ"
+            },
+            {
+              "display_url": "pic.x.com/L3qv9K65va",
+              "end": 64,
+              "expanded_url": "https://x.com/SetsuGlow/status/1967933369955893412/photo/1",
+              "media_key": "3_1967933366004813826",
+              "start": 41,
+              "url": "https://t.co/L3qv9K65va"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967933369955893412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1034,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/rNp5Je5JzQ https://t.co/L3qv9K65va"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖喜欢加括号‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3315,
+          "following_count": 2673,
+          "like_count": 30521,
+          "listed_count": 12,
+          "media_count": 676,
+          "tweet_count": 7168
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T15:52:13.000Z",
+        "description": "|cosplay / JK•LO / 碎碎念 / 清水日更 /♂️|                         \n描绘有限之梦，谢谢你的喜欢和关注 / 老二刺螈 /\n错峰单休社畜 / 逞强i人 / 害怕孤单 / 喜欢朋友们 / \n我有错请你告诉我qwq /\n不约 / 骗子勿扰 / 非同 / 拒键政 /",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/setsuglow",
+                "end": 23,
+                "expanded_url": "https://ngl.link/setsuglow",
+                "start": 0,
+                "url": "https://t.co/dA1WZ1mzq6"
+              }
+            ]
+          }
+        },
+        "id": "1943699809933963264",
+        "location": "beijing",
+        "name": "雪灯",
+        "pinned_tweet_id": "1958675862897008939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944525696652722177/lROcugeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 375,
+          "like_count": 5380,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 1617
+        },
+        "url": "https://t.co/dA1WZ1mzq6",
+        "username": "SetsuGlow",
+        "verified": true
+      }
+    ]
+  }
+}

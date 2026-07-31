@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1880479035702276149",
+    "created_at": "2025-01-18T07:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T08:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880511007472382174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1620145978950176768",
+          "start": 0,
+          "username": "Inori090"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880511007472382174",
+    "in_reply_to_user_id": "1620145978950176768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880479035702276149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inori090 侑侑已经好久没对咱撒娇了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1880479035702276149",
+        "created_at": "2025-01-18T07:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T08:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880511007472382174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1620145978950176768",
+              "start": 0,
+              "username": "Inori090"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880511007472382174",
+        "in_reply_to_user_id": "1620145978950176768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880479035702276149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inori090 侑侑已经好久没对咱撒娇了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880479032359497728"
+          ]
+        },
+        "author_id": "1620145978950176768",
+        "conversation_id": "1880479035702276149",
+        "created_at": "2025-01-18T04:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T05:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880479035702276149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VkKXNfn5MU",
+              "end": 41,
+              "expanded_url": "https://x.com/Inori090/status/1880479035702276149/photo/1",
+              "media_key": "3_1880479032359497728",
+              "start": 18,
+              "url": "https://t.co/VkKXNfn5MU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880479035702276149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就喜欢撒娇就喜欢撒娇\n我是撒娇鬼（ https://t.co/VkKXNfn5MU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫丨中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 2203,
+          "like_count": 10479,
+          "listed_count": 4,
+          "media_count": 206,
+          "tweet_count": 2614
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-30T19:44:45.000Z",
+        "description": "不过十几里，像是走了十年",
+        "id": "1620145978950176768",
+        "name": "侑",
+        "pinned_tweet_id": "1711089705767604491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751054658024747008/tUJ5Vaub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 886,
+          "like_count": 18664,
+          "listed_count": 1,
+          "media_count": 1047,
+          "tweet_count": 4541
+        },
+        "username": "Inori090",
+        "verified": false
+      }
+    ]
+  }
+}

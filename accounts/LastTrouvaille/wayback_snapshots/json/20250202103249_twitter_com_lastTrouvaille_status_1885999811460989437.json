@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1885998528075563021",
+    "created_at": "2025-02-02T10:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T11:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885999811460989437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1711034854417297408",
+          "start": 0,
+          "username": "ullsan4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885999811460989437",
+    "in_reply_to_user_id": "1711034854417297408",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885998528075563021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ullsan4 kawa！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1885998528075563021",
+        "created_at": "2025-02-02T10:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T11:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885999811460989437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1711034854417297408",
+              "start": 0,
+              "username": "ullsan4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885999811460989437",
+        "in_reply_to_user_id": "1711034854417297408",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885998528075563021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ullsan4 kawa！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885998521784180736"
+          ]
+        },
+        "author_id": "1711034854417297408",
+        "conversation_id": "1885998528075563021",
+        "created_at": "2025-02-02T10:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T11:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885998528075563021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YTJydBsp4U",
+              "end": 31,
+              "expanded_url": "https://x.com/ullsan4/status/1885998528075563021/photo/1",
+              "media_key": "3_1885998521784180736",
+              "start": 8,
+              "url": "https://t.co/YTJydBsp4U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885998528075563021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 81,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "働きません ♪ https://t.co/YTJydBsp4U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖说话爱带括号勿怪)‖私信后确认好成分就会回fo的😉3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laniakea_aawy_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/laniakea_aawy_",
+                "start": 0,
+                "url": "https://t.co/wo7F3ugI6V"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 2467,
+          "like_count": 12108,
+          "listed_count": 6,
+          "media_count": 222,
+          "tweet_count": 2934
+        },
+        "url": "https://t.co/wo7F3ugI6V",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T15:04:48.000Z",
+        "description": "🩵ゲームしかしてない @Circle_Lychee @cljukusei 塾生麻辣湯部（仮）入部 /配信者🔰 #しおのこと推しにしお@itai__nayn🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 55,
+                "tag": "しおのこと推しにしお"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "Circle_Lychee"
+              },
+              {
+                "end": 36,
+                "start": 26,
+                "username": "cljukusei"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "itai__nayn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shio1031",
+                "end": 23,
+                "expanded_url": "https://lit.link/shio1031",
+                "start": 0,
+                "url": "https://t.co/P38dH39iO2"
+              }
+            ]
+          }
+        },
+        "id": "1711034854417297408",
+        "name": "夜凪しお【サークルライチ塾生】",
+        "pinned_tweet_id": "1868649584651911499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838533881101979648/JDkaeQNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4126,
+          "following_count": 44,
+          "like_count": 4763,
+          "listed_count": 13,
+          "media_count": 120,
+          "tweet_count": 2048
+        },
+        "url": "https://t.co/P38dH39iO2",
+        "username": "ullsan4",
+        "verified": false
+      }
+    ]
+  }
+}

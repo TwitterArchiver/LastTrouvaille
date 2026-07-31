@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1993130660790518071",
+    "created_at": "2025-11-25T16:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T17:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993356349032583641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1142269209138720769",
+          "start": 0,
+          "username": "2SJ7ntKBdEtTKrM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993356349032583641",
+    "in_reply_to_user_id": "1142269209138720769",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993354778118918616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2SJ7ntKBdEtTKrM （？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1993130660790518071",
+        "created_at": "2025-11-25T16:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T17:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993356349032583641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1142269209138720769",
+              "start": 0,
+              "username": "2SJ7ntKBdEtTKrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993356349032583641",
+        "in_reply_to_user_id": "1142269209138720769",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993354778118918616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2SJ7ntKBdEtTKrM （？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1142269209138720769",
+        "conversation_id": "1993130660790518071",
+        "created_at": "2025-11-25T16:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T17:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993354778118918616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993354778118918616",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993130660790518071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 👿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，年初和年中驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KcUR3"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3628,
+          "following_count": 2788,
+          "like_count": 34619,
+          "listed_count": 13,
+          "media_count": 750,
+          "tweet_count": 7721
+        },
+        "url": "https://t.co/cjyY2KcUR3",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-22T03:12:56.000Z",
+        "description": "中度抑郁（？）+轻度焦虑（？）中....                                       魔法喵：@owl8964cat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "owl8964cat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2sj7ntkbdettkrm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2sj7ntkbdettkrm",
+                "start": 0,
+                "url": "https://t.co/5Fim7CNIiI"
+              }
+            ]
+          }
+        },
+        "id": "1142269209138720769",
+        "name": "不爱吃麦当劳の魔法使",
+        "pinned_tweet_id": "1984854737418928503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919772351656558595/dFSkHTIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 598,
+          "like_count": 20525,
+          "listed_count": 4,
+          "media_count": 140,
+          "tweet_count": 3831
+        },
+        "url": "https://t.co/5Fim7CNIiI",
+        "username": "2SJ7ntKBdEtTKrM",
+        "verified": false
+      }
+    ]
+  }
+}

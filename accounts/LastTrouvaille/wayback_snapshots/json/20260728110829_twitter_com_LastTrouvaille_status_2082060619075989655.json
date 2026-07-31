@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2082052661898285220",
+    "created_at": "2026-07-28T11:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082060619075989655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778989851226071040",
+          "start": 0,
+          "username": "HXD3C0679"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082060619075989655",
+    "in_reply_to_user_id": "1778989851226071040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082052661898285220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HXD3C0679 贴贴😌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1986,
+        "media_key": "3_2082052583083196416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTvywpbwAAOoi9.jpg",
+        "width": 2560
+      },
+      {
+        "height": 2167,
+        "media_key": "3_2082052583074775040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTvywnbQAAqcDg.jpg",
+        "width": 1861
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2082052661898285220",
+        "created_at": "2026-07-28T11:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082060619075989655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778989851226071040",
+              "start": 0,
+              "username": "HXD3C0679"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082060619075989655",
+        "in_reply_to_user_id": "1778989851226071040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082052661898285220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HXD3C0679 贴贴😌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082052583083196416",
+            "3_2082052583074775040"
+          ]
+        },
+        "author_id": "1778989851226071040",
+        "conversation_id": "2082052661898285220",
+        "created_at": "2026-07-28T10:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082052661898285220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dsVCSILB2Z",
+              "end": 39,
+              "expanded_url": "https://x.com/HXD3C0679/status/2082052661898285220/photo/1",
+              "media_key": "3_2082052583083196416",
+              "start": 16,
+              "url": "https://t.co/dsVCSILB2Z"
+            },
+            {
+              "display_url": "pic.x.com/dsVCSILB2Z",
+              "end": 39,
+              "expanded_url": "https://x.com/HXD3C0679/status/2082052661898285220/photo/1",
+              "media_key": "3_2082052583074775040",
+              "start": 16,
+              "url": "https://t.co/dsVCSILB2Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082052661898285220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是解暑的全套奶油雪糕哦😋😇 https://t.co/dsVCSILB2Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4679,
+          "following_count": 2946,
+          "like_count": 50931,
+          "listed_count": 14,
+          "media_count": 1029,
+          "tweet_count": 9531
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T03:33:42.000Z",
+        "description": "SUBARU Crosstrek 25、 Lexus ES200饲养员&VOLVO S90临时支配使用🤑\n啥也不是，怕被查水表，搞个小圈子和小伙伴们继续吹牛逼😇👀\n本号只是个发图的，有奇奇怪怪想法的请出门左拐，看黄、揩油、下头男、抽象逼一律格杀勿论😶‍🌫️🥱",
+        "id": "1778989851226071040",
+        "name": "小Megumichan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778993407043756032/xUP3bs3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 289,
+          "like_count": 9352,
+          "listed_count": 2,
+          "media_count": 2552,
+          "tweet_count": 6773
+        },
+        "url": "",
+        "username": "HXD3C0679",
+        "verified": false
+      }
+    ]
+  }
+}

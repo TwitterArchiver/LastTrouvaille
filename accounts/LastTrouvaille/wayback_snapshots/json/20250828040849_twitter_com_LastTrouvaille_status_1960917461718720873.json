@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960917413714911234",
+        "3_1960917413312258050"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1960917461718720873",
+    "created_at": "2025-08-28T04:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T05:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960917461718720873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eMUU9f5kZv",
+          "end": 170,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1960917461718720873/photo/1",
+          "media_key": "3_1960917413714911234",
+          "start": 147,
+          "url": "https://t.co/eMUU9f5kZv"
+        },
+        {
+          "display_url": "pic.x.com/eMUU9f5kZv",
+          "end": 170,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1960917461718720873/photo/1",
+          "media_key": "3_1960917413312258050",
+          "start": 147,
+          "url": "https://t.co/eMUU9f5kZv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960917461718720873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "搬宿舍时翻找到前任送的礼物\n尘封的记忆一下子又涌入脑海\n比起分手的伤心\n和知道对方有新欢的歇斯底里\n如今旧事重提只剩下释怀\n我曾经怪过对方和自己，也怪过异地\n不过现在想想\n可能也只是没有那么强大的爱吧\n那时的我自以为成熟\n但现在我也不断成长\n送的漫画恰是最刀的两集\n或是早已注定\n亦是命运使然 https://t.co/eMUU9f5kZv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1960917413714911234",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzaT_5Za4AIF3Co.jpg",
+        "width": 4096
+      },
+      {
+        "height": 939,
+        "media_key": "3_1960917413312258050",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzaT_35a4AIa2s8.jpg",
+        "width": 729
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960917413714911234",
+            "3_1960917413312258050"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1960917461718720873",
+        "created_at": "2025-08-28T04:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T05:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960917461718720873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eMUU9f5kZv",
+              "end": 170,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1960917461718720873/photo/1",
+              "media_key": "3_1960917413714911234",
+              "start": 147,
+              "url": "https://t.co/eMUU9f5kZv"
+            },
+            {
+              "display_url": "pic.x.com/eMUU9f5kZv",
+              "end": 170,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1960917461718720873/photo/1",
+              "media_key": "3_1960917413312258050",
+              "start": 147,
+              "url": "https://t.co/eMUU9f5kZv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960917461718720873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搬宿舍时翻找到前任送的礼物\n尘封的记忆一下子又涌入脑海\n比起分手的伤心\n和知道对方有新欢的歇斯底里\n如今旧事重提只剩下释怀\n我曾经怪过对方和自己，也怪过异地\n不过现在想想\n可能也只是没有那么强大的爱吧\n那时的我自以为成熟\n但现在我也不断成长\n送的漫画恰是最刀的两集\n或是早已注定\n亦是命运使然 https://t.co/eMUU9f5kZv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3219,
+          "following_count": 2734,
+          "like_count": 29719,
+          "listed_count": 12,
+          "media_count": 652,
+          "tweet_count": 6988
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

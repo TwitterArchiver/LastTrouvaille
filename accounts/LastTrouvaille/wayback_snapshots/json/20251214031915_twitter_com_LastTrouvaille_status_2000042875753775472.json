@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2000042875753775472",
+    "created_at": "2025-12-14T03:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T04:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000042875753775472"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LastTrouvaille…",
+          "end": 170,
+          "expanded_url": "https://twitter.com/LastTrouvaille/status/1999852938299404748",
+          "start": 147,
+          "url": "https://t.co/79jgq9shmQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000042875753775472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999852938299404748",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也不懂自己为什么会那么大反应\n不就是又和某人做不成朋友嘛\n不论时间长短人生终有离别\n既然你能主动找我\n那也能抛弃我去找别人\n这样浅显的道理我也懂\n可能是我太贪心太敏感了吧\n但是一想到自己原来\n那么的脆弱无助卑微不被重视\n就觉得原来像自己这样的人\n其实不配奢求什么\n觉得自己好恶心\n恶心到想吐 https://t.co/79jgq9shmQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2000042875753775472",
+        "created_at": "2025-12-14T03:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000042875753775472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LastTrouvaille…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/LastTrouvaille/status/1999852938299404748",
+              "start": 147,
+              "url": "https://t.co/79jgq9shmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000042875753775472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999852938299404748",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也不懂自己为什么会那么大反应\n不就是又和某人做不成朋友嘛\n不论时间长短人生终有离别\n既然你能主动找我\n那也能抛弃我去找别人\n这样浅显的道理我也懂\n可能是我太贪心太敏感了吧\n但是一想到自己原来\n那么的脆弱无助卑微不被重视\n就觉得原来像自己这样的人\n其实不配奢求什么\n觉得自己好恶心\n恶心到想吐 https://t.co/79jgq9shmQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1999852938299404748",
+        "created_at": "2025-12-13T14:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T15:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999852938299404748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999852938299404748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3884,
+          "like_count": 104,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实我真的很笨\n很容易就被骗到\n以为内心足够的封闭\n能够好好的保护好自己\n等到放下警惕去关心的时候\n却发现对方早就毫不在意了\n玩玩而已\n我怎么当真了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以简称CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖穗&沪‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille1",
+                "start": 0,
+                "url": "https://t.co/TWu8nv7RpK"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3670,
+          "following_count": 2789,
+          "like_count": 36259,
+          "listed_count": 13,
+          "media_count": 777,
+          "tweet_count": 7945
+        },
+        "url": "https://t.co/TWu8nv7RpK",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

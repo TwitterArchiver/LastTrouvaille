@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1888538882033233951",
+    "created_at": "2025-02-11T06:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T07:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889195260682870812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1741762886522056704",
+          "start": 0,
+          "username": "Iris0258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889195260682870812",
+    "in_reply_to_user_id": "1741762886522056704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889149620825272456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iris0258 是msk的推送问题（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1888538882033233951",
+        "created_at": "2025-02-11T06:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T07:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889195260682870812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1741762886522056704",
+              "start": 0,
+              "username": "Iris0258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889195260682870812",
+        "in_reply_to_user_id": "1741762886522056704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889149620825272456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iris0258 是msk的推送问题（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741762886522056704",
+        "conversation_id": "1888538882033233951",
+        "created_at": "2025-02-11T03:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T04:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889149620825272456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889149620825272456",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888538882033233951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 受关注度和互动程度不高是我的问题吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政哒咩！‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939,
+          "following_count": 2050,
+          "like_count": 12774,
+          "listed_count": 7,
+          "media_count": 244,
+          "tweet_count": 3292
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T10:07:01.000Z",
+        "description": "WE'RE BACK！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iris0258",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iris0258",
+                "start": 0,
+                "url": "https://t.co/CX3O8giyOk"
+              }
+            ]
+          }
+        },
+        "id": "1741762886522056704",
+        "location": "哈尔滨",
+        "name": "Iris",
+        "pinned_tweet_id": "1855321324165734662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746005497658916864/eByYkFd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 369,
+          "like_count": 13520,
+          "listed_count": 0,
+          "media_count": 671,
+          "tweet_count": 5043
+        },
+        "url": "https://t.co/CX3O8giyOk",
+        "username": "Iris0258",
+        "verified": false
+      }
+    ]
+  }
+}

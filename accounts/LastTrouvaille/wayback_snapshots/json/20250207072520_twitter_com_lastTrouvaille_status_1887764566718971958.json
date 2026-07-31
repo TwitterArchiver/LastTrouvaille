@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1887748039324147881",
+    "created_at": "2025-02-07T07:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T08:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887764566718971958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1239915471945838593",
+          "start": 0,
+          "username": "wtxycCO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887764566718971958",
+    "in_reply_to_user_id": "1239915471945838593",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887763842715066741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtxycCO 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1887748039324147881",
+        "created_at": "2025-02-07T07:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T08:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887764566718971958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239915471945838593",
+              "start": 0,
+              "username": "wtxycCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887764566718971958",
+        "in_reply_to_user_id": "1239915471945838593",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887763842715066741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtxycCO 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239915471945838593",
+        "conversation_id": "1887748039324147881",
+        "created_at": "2025-02-07T07:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T08:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887763842715066741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887763842715066741",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887760424327852044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 谢谢你呀～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "Hello~这里是Cream Cheese，可以叫我CC，叫妈妈姐姐也行(小声)‖中国人🇨🇳热爱祖国和人民‖INFP‖性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖包容力极强毋忧踩雷‖偶尔emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖记得多夸夸我噢♪~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.niucodata.com/cat/cat.php",
+                "end": 23,
+                "expanded_url": "https://m.niucodata.com/cat/cat.php",
+                "start": 0,
+                "url": "https://t.co/Jo9gHka6ej"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 2041,
+          "like_count": 12430,
+          "listed_count": 7,
+          "media_count": 236,
+          "tweet_count": 3136
+        },
+        "url": "https://t.co/Jo9gHka6ej",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-17T14:04:30.000Z",
+        "description": "喵喵 是不太健康的小药娘喵 重重重重庆大学在读 会记录很多生活小感受 就当是个人日记好啦 （推特抱抱王(づ′▽`)づ",
+        "id": "1239915471945838593",
+        "location": "多瑙联邦",
+        "name": "Cld🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876923727348428800/Oim2ub4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 199,
+          "like_count": 946,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 277
+        },
+        "username": "wtxycCO",
+        "verified": false
+      }
+    ]
+  }
+}

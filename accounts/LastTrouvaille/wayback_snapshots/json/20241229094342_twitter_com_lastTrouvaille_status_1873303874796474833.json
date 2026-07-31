@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1873072486092554587",
+    "created_at": "2024-12-29T09:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T10:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873303874796474833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1081598077897793537",
+          "start": 0,
+          "username": "ny3a_is_a_cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873303874796474833",
+    "in_reply_to_user_id": "1081598077897793537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873299485968994585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ny3a_is_a_cat 猫猫也可爱捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1873072486092554587",
+        "created_at": "2024-12-29T09:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T10:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873303874796474833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1081598077897793537",
+              "start": 0,
+              "username": "ny3a_is_a_cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873303874796474833",
+        "in_reply_to_user_id": "1081598077897793537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873299485968994585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ny3a_is_a_cat 猫猫也可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081598077897793537",
+        "conversation_id": "1873072486092554587",
+        "created_at": "2024-12-29T09:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T10:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873299485968994585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873299485968994585",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873072486092554587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille cc 姐姐可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 1774,
+          "like_count": 7848,
+          "listed_count": 4,
+          "media_count": 162,
+          "tweet_count": 1956
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-05T17:07:31.000Z",
+        "description": "是三喵｜Non-binary｜请用 she/they/cat 称呼我｜Telegram 同名｜小可爱 @Luchan_Moeri｜可爱的妹妹 @0xSorrowRain｜里世界 @sannya_meow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Luchan_Moeri"
+              },
+              {
+                "end": 84,
+                "start": 71,
+                "username": "0xSorrowRain"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "sannya_meow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ny3a.github.io",
+                "end": 23,
+                "expanded_url": "https://ny3a.github.io/",
+                "start": 0,
+                "url": "https://t.co/3O5tluttIp"
+              }
+            ]
+          }
+        },
+        "id": "1081598077897793537",
+        "location": "Neko Planet",
+        "name": "☘️🐈",
+        "pinned_tweet_id": "1847457034616340890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659025679101603840/nQ2itHq3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2599,
+          "following_count": 1097,
+          "like_count": 7798,
+          "listed_count": 6,
+          "media_count": 1205,
+          "tweet_count": 7062
+        },
+        "url": "https://t.co/3O5tluttIp",
+        "username": "ny3a_is_a_cat",
+        "verified": false
+      }
+    ]
+  }
+}

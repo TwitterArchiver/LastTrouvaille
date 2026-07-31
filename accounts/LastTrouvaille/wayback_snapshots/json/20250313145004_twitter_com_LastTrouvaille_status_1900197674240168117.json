@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1899841061654347776"
+      ],
+      "media_source_tweet_id": [
+        "1899841064347070513"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1900197674240168117",
+    "created_at": "2025-03-13T14:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T15:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900197674240168117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1691242509815754754",
+          "start": 3,
+          "username": "LastTrouvaille"
+        }
+      ],
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/lasttrouvaille",
+          "end": 43,
+          "expanded_url": "https://ngl.link/lasttrouvaille",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/1899480591705464832/sIBZrhfD?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1899480591705464832/sIBZrhfD?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 20,
+          "status": 200,
+          "title": "@LastTrouvaille: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/lasttrouvaille",
+          "url": "https://t.co/GxH6Agv15C"
+        },
+        {
+          "display_url": "pic.x.com/sDhAoahpc4",
+          "end": 76,
+          "expanded_url": "https://x.com/LastTrouvaille/status/1899841064347070513/photo/1",
+          "media_key": "3_1899841061654347776",
+          "start": 53,
+          "url": "https://t.co/sDhAoahpc4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900197674240168117",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899841064347070513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LastTrouvaille: https://t.co/GxH6Agv15C\n提问箱放主页了喵 https://t.co/sDhAoahpc4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1900197674240168117].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1900197674240168117",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1900197674240168117"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 709,
+        "media_key": "3_1899841061654347776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl2XYTmbwAAQkmH.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899841061654347776"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "1899841064347070513",
+        "created_at": "2025-03-12T15:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T16:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899841064347070513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/lasttrouvaille",
+              "end": 23,
+              "expanded_url": "https://ngl.link/lasttrouvaille",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/1899480591705464832/sIBZrhfD?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1899480591705464832/sIBZrhfD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "@LastTrouvaille: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/lasttrouvaille",
+              "url": "https://t.co/GxH6Agv15C"
+            },
+            {
+              "display_url": "pic.x.com/sDhAoahpc4",
+              "end": 56,
+              "expanded_url": "https://x.com/LastTrouvaille/status/1899841064347070513/photo/1",
+              "media_key": "3_1899841061654347776",
+              "start": 33,
+              "url": "https://t.co/sDhAoahpc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899841064347070513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GxH6Agv15C\n提问箱放主页了喵 https://t.co/sDhAoahpc4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链推荐是动画巡礼和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126,
+          "following_count": 2529,
+          "like_count": 16671,
+          "listed_count": 7,
+          "media_count": 325,
+          "tweet_count": 4040
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

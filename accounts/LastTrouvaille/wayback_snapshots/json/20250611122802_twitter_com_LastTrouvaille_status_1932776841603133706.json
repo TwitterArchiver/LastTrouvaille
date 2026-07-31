@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1932712305026085122",
+    "created_at": "2025-06-11T12:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T13:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932776841603133706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1836420929611796486",
+          "start": 0,
+          "username": "M2_machinery"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932776841603133706",
+    "in_reply_to_user_id": "1836420929611796486",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932772179151892621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M2_machinery 谢谢yousa~"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1932772179151892621].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1932772179151892621",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1932772179151892621"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1932712305026085122",
+        "created_at": "2025-06-11T12:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T13:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932776841603133706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1836420929611796486",
+              "start": 0,
+              "username": "M2_machinery"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932776841603133706",
+        "in_reply_to_user_id": "1836420929611796486",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932772179151892621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M2_machinery 谢谢yousa~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园 纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3015,
+          "following_count": 2660,
+          "like_count": 27374,
+          "listed_count": 13,
+          "media_count": 566,
+          "tweet_count": 6405
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T15:04:34.000Z",
+        "description": "",
+        "id": "1836420929611796486",
+        "name": "Yousa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924494324286603264/HOO2qkhq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 1709,
+          "like_count": 44335,
+          "listed_count": 4,
+          "media_count": 1337,
+          "tweet_count": 19254
+        },
+        "username": "M2_machinery",
+        "verified": false
+      }
+    ]
+  }
+}

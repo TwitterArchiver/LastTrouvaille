@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1902570900802896024",
+    "created_at": "2025-03-20T12:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T13:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902704445349392739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862933126466666496",
+          "start": 0,
+          "username": "moremoreagain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902704445349392739",
+    "in_reply_to_user_id": "1862933126466666496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902699918655197569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moremoreagain 因为胃不好（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1902570900802896024",
+        "created_at": "2025-03-20T12:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T13:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902704445349392739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862933126466666496",
+              "start": 0,
+              "username": "moremoreagain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902704445349392739",
+        "in_reply_to_user_id": "1862933126466666496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902699918655197569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moremoreagain 因为胃不好（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862933126466666496",
+        "conversation_id": "1902570900802896024",
+        "created_at": "2025-03-20T12:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T13:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902699918655197569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902699918655197569",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902699833179205903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 好自律😭👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖INFP‖抑郁‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)而且话痨(雾)‖常驻上海，两假驻广州‖常emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&墓地",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892180082770477056/GxTesZ7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2181,
+          "following_count": 2659,
+          "like_count": 17688,
+          "listed_count": 8,
+          "media_count": 349,
+          "tweet_count": 4244
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "来推特发癫｜偶尔抽象｜日记推（阴湿之物）｜礼（窝）貌（囊）｜不关心政治｜我从不否认自己是傻逼｜互联网重度依赖｜不要跟我私信“你好”，不会回复的\nhttps://t.co/jLUjmSEaHT提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moremoreagain",
+                "end": 95,
+                "expanded_url": "https://ngl.link/moremoreagain",
+                "start": 72,
+                "url": "https://t.co/jLUjmSEaHT"
+              }
+            ]
+          }
+        },
+        "id": "1862933126466666496",
+        "name": "琥珀",
+        "pinned_tweet_id": "1884931805645803882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863409830171742208/hTjZ4qQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 652,
+          "like_count": 31142,
+          "listed_count": 4,
+          "media_count": 323,
+          "tweet_count": 12920
+        },
+        "username": "moremoreagain",
+        "verified": false
+      }
+    ]
+  }
+}

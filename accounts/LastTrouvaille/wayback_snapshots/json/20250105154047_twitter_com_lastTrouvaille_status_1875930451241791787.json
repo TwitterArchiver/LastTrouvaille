@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1875928680909897926",
+    "created_at": "2025-01-05T15:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T16:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875930451241791787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870022570353012736",
+          "start": 0,
+          "username": "kukudejiaxibei"
+        },
+        {
+          "end": 27,
+          "id": "1831709757406666753",
+          "start": 16,
+          "username": "QiuMing_74"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875930451241791787",
+    "in_reply_to_user_id": "1870022570353012736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875928680909897926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukudejiaxibei @QiuMing_74 48了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1875928680909897926",
+        "created_at": "2025-01-05T15:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T16:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875930451241791787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870022570353012736",
+              "start": 0,
+              "username": "kukudejiaxibei"
+            },
+            {
+              "end": 27,
+              "id": "1831709757406666753",
+              "start": 16,
+              "username": "QiuMing_74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875930451241791787",
+        "in_reply_to_user_id": "1870022570353012736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875928680909897926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukudejiaxibei @QiuMing_74 48了喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875928497375555584"
+          ]
+        },
+        "author_id": "1870022570353012736",
+        "conversation_id": "1875928680909897926",
+        "created_at": "2025-01-05T15:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T16:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875928680909897926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R6suGpoZsb",
+              "end": 60,
+              "expanded_url": "https://x.com/kukudejiaxibei/status/1875928680909897926/photo/1",
+              "media_key": "3_1875928497375555584",
+              "start": 37,
+              "url": "https://t.co/R6suGpoZsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875928680909897926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我靠，快要50了，感谢大家的了！感谢！\nemm，走，我请你喝赛博啤酒（） https://t.co/R6suGpoZsb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 1922,
+          "like_count": 9061,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 2198
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T08:25:12.000Z",
+        "description": "06年/INFJ+处女座/HRT-24.10.21/擅长文学类和艺术类/SteamID：1151422332/红警2&心灵终结/CR&COC/明日方舟/原神/GTA/生化危机/COD/CS&HL/梦想是成为酷酷的大姐头/愿意奉献自我/九年最佳劳委/已退学/希望大家也可以变成自己心中的样子/烹饪和烘焙/人格解体现实解体/",
+        "id": "1870022570353012736",
+        "location": "山西",
+        "name": "贾西贝",
+        "pinned_tweet_id": "1875448484817764757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870022689844539392/_d-1PSQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 144,
+          "like_count": 480,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 181
+        },
+        "username": "kukudejiaxibei",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T15:03:44.000Z",
+        "description": "男娘确诊/尽量不键政……/性少数友好/高三在读，回复不及时请谅解🥺/绝赞赛博🐦‍⬛饲养中/想被忍者·soul凭依",
+        "id": "1831709757406666753",
+        "location": "地球联邦 月面都市冯·布朗",
+        "name": "赛博🐦‍⬛绝赞秋洺饲养中",
+        "pinned_tweet_id": "1863149365218709870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869054712831705088/ARExVmwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 413,
+          "like_count": 4784,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1150
+        },
+        "username": "QiuMing_74",
+        "verified": false
+      }
+    ]
+  }
+}
