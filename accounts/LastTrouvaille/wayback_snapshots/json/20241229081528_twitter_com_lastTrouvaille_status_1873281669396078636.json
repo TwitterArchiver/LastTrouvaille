@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1873266313147154571",
+    "created_at": "2024-12-29T08:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T09:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873281669396078636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1750804799031824384",
+          "start": 0,
+          "username": "lizi4202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873281669396078636",
+    "in_reply_to_user_id": "1750804799031824384",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873266313147154571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizi4202 qaq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1873266313147154571",
+        "created_at": "2024-12-29T08:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T09:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873281669396078636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1750804799031824384",
+              "start": 0,
+              "username": "lizi4202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873281669396078636",
+        "in_reply_to_user_id": "1750804799031824384",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873266313147154571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizi4202 qaq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873266308457893888"
+          ]
+        },
+        "author_id": "1750804799031824384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1873266313147154571",
+        "created_at": "2024-12-29T07:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T08:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873266313147154571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1873033238882504704/2pscbQsT?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1873033238882504704/2pscbQsT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/bikP1RhS5F"
+            },
+            {
+              "display_url": "pic.x.com/o2hWZ04t4D",
+              "end": 64,
+              "expanded_url": "https://x.com/lizi4202/status/1873266313147154571/photo/1",
+              "media_key": "3_1873266308457893888",
+              "start": 41,
+              "url": "https://t.co/o2hWZ04t4D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873266313147154571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/bikP1RhS5F https://t.co/o2hWZ04t4D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 1770,
+          "like_count": 7815,
+          "listed_count": 4,
+          "media_count": 161,
+          "tweet_count": 1949
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T08:56:14.000Z",
+        "description": "左下🚩🏴/阿棄喵@Ak1raQ_love 瑞士钟表匠@GravitySwiss CC @lastTrouvaille 向日葵@saksamalah2nd 好邻居@HANABIRIKAJIANG 拉萨革委会主任@akina_seyume 青兰@ArtoriaLydx 和知 綰@SatoxiWati",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Ak1raQ_love"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "GravitySwiss"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "lastTrouvaille"
+              },
+              {
+                "end": 76,
+                "start": 62,
+                "username": "saksamalah2nd"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "HANABIRIKAJIANG"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "akina_seyume"
+              },
+              {
+                "end": 132,
+                "start": 120,
+                "username": "ArtoriaLydx"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "username": "SatoxiWati"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys.mihoyo.com",
+                "end": 23,
+                "expanded_url": "http://ys.mihoyo.com",
+                "start": 0,
+                "url": "https://t.co/PHunJq3mbx"
+              }
+            ]
+          }
+        },
+        "id": "1750804799031824384",
+        "name": "漓梓（go一辈子）",
+        "pinned_tweet_id": "1872944227119972674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870709592155619328/TM8eQYzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 955,
+          "like_count": 7461,
+          "listed_count": 3,
+          "media_count": 245,
+          "tweet_count": 2647
+        },
+        "url": "https://t.co/PHunJq3mbx",
+        "username": "lizi4202",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1873760427278295075",
+    "created_at": "2024-12-30T16:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T17:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873773536801939723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1590305737997107200",
+          "start": 0,
+          "username": "ITC_Idoit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873773536801939723",
+    "in_reply_to_user_id": "1590305737997107200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873771483035820458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ITC_Idoit 这个早就实现啦\n笨蛋雀雀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1873760427278295075",
+        "created_at": "2024-12-30T16:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T17:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873773536801939723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1590305737997107200",
+              "start": 0,
+              "username": "ITC_Idoit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873773536801939723",
+        "in_reply_to_user_id": "1590305737997107200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873771483035820458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ITC_Idoit 这个早就实现啦\n笨蛋雀雀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590305737997107200",
+        "conversation_id": "1873760427278295075",
+        "created_at": "2024-12-30T16:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T17:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873771483035820458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873771483035820458",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873760427278295075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 想被你喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 1789,
+          "like_count": 8178,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 2015
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-09T11:30:32.000Z",
+        "description": "希望在看简介的你天天开心！｜未知性别｜喜欢可爱的大家！｜希望能给可爱的大家带去温柔和爱～希望你们可以喜欢我！｜提问箱在下面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bdqq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bdqq",
+                "start": 0,
+                "url": "https://t.co/AB2z0MtZxj"
+              }
+            ]
+          }
+        },
+        "id": "1590305737997107200",
+        "location": "翻斗花园",
+        "name": "笨蛋雀雀",
+        "pinned_tweet_id": "1863635886874955989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820089791771463680/x6QZdKoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 138,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 253
+        },
+        "url": "https://t.co/AB2z0MtZxj",
+        "username": "ITC_Idoit",
+        "verified": false
+      }
+    ]
+  }
+}

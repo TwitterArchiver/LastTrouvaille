@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1873288304235610546",
+    "created_at": "2024-12-29T08:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T09:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873291027882352685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1845037497589669888",
+          "start": 0,
+          "username": "enjiang666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873291027882352685",
+    "in_reply_to_user_id": "1845037497589669888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873288304235610546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enjiang666 纯粹是为了体现某种不知道从哪来的优越感的话，这样的还是尽早制止比较好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1873288304235610546",
+        "created_at": "2024-12-29T08:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T09:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873291027882352685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1845037497589669888",
+              "start": 0,
+              "username": "enjiang666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873291027882352685",
+        "in_reply_to_user_id": "1845037497589669888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873288304235610546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enjiang666 纯粹是为了体现某种不知道从哪来的优越感的话，这样的还是尽早制止比较好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845037497589669888",
+        "conversation_id": "1873288304235610546",
+        "created_at": "2024-12-29T08:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T09:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873288304235610546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873288304235610546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得早恋没什么 正确的恋爱很美好 但是有很多心理不成熟的小孩把早恋当成一种炫耀的方式 很多年纪小的人对于谈恋爱的概念并不是很深 大多都是随大流 而且除了小孩 还是会有很多成年人将自己的情史 比如上学的时候亲个嘴或过早性行为 来当成炫耀的资本挺难评的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 1770,
+          "like_count": 7825,
+          "listed_count": 4,
+          "media_count": 162,
+          "tweet_count": 1951
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T09:43:23.000Z",
+        "description": "わくわく",
+        "id": "1845037497589669888",
+        "name": "初五",
+        "pinned_tweet_id": "1855882803822371263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863926799182213120/FbeRDZNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 271,
+          "like_count": 23454,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1366
+        },
+        "username": "enjiang666",
+        "verified": false
+      }
+    ]
+  }
+}

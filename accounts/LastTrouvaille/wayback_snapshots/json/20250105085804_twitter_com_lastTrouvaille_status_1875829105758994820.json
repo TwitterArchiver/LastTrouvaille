@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1875824417168896086",
+    "created_at": "2025-01-05T08:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T09:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875829105758994820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1305129071563534337",
+          "start": 0,
+          "username": "ikyozi_SiYou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875829105758994820",
+    "in_reply_to_user_id": "1305129071563534337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875826557182411162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ikyozi_SiYou 第一次玩，啥都没加嘞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1875824417168896086",
+        "created_at": "2025-01-05T08:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T09:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875829105758994820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1305129071563534337",
+              "start": 0,
+              "username": "ikyozi_SiYou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875829105758994820",
+        "in_reply_to_user_id": "1305129071563534337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875826557182411162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ikyozi_SiYou 第一次玩，啥都没加嘞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1305129071563534337",
+        "conversation_id": "1875824417168896086",
+        "created_at": "2025-01-05T08:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T09:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875826557182411162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875826557182411162",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875824417168896086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 咱也在玩CSL哦（虽然说路网很杂鱼就是了）CC要尝试加点mod嘛？感觉会更方便一些呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 1901,
+          "like_count": 8980,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 2186
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-13T13:00:03.000Z",
+        "description": "无奈被些名利缚，无奈被他情担阁！可惜风流总闲却!| ISFJ-T|男|16 y.o.|目前正在学习HTML&CSS|友🏳️‍⚧️🏳️‍🌈|聊天小群https://t.co/9nNtYTIJGs |头像画师pid为25760573 |有过一些互动(回复、私信？)的都会fo！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+dst2VpSk7ptkN…",
+                "end": 96,
+                "expanded_url": "https://t.me/+dst2VpSk7ptkNjBk",
+                "start": 73,
+                "url": "https://t.co/9nNtYTIJGs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikyozi.cn",
+                "end": 23,
+                "expanded_url": "http://ikyozi.cn",
+                "start": 0,
+                "url": "https://t.co/d67kbsss1N"
+              }
+            ]
+          }
+        },
+        "id": "1305129071563534337",
+        "location": "Tianjin",
+        "name": "一颗柚子Ikyozi",
+        "pinned_tweet_id": "1842221470791213291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853445784232144898/FfsWgOMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 212,
+          "like_count": 3214,
+          "listed_count": 2,
+          "media_count": 403,
+          "tweet_count": 1392
+        },
+        "url": "https://t.co/d67kbsss1N",
+        "username": "ikyozi_SiYou",
+        "verified": true
+      }
+    ]
+  }
+}

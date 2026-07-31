@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1873914907034607617"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "1873914909836337462",
+    "created_at": "2024-12-31T02:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T03:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873914909836337462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8QQag6spic",
+          "end": 139,
+          "expanded_url": "https://x.com/lastTrouvaille/status/1873914909836337462/photo/1",
+          "media_key": "3_1873914907034607617",
+          "start": 116,
+          "url": "https://t.co/8QQag6spic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873914909836337462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有时候想，如果能把意识上传变成赛博意识体的话感觉也挺好的，游走于数据之间，或者随便拿个U盘也能把咱copy走，大好河山还是能看到，烦恼感觉也少了很多\n可惜现实里是2024年最后一天咱还要考概率论，为了不挂科在拼命复习\n哎，令人感慨 https://t.co/8QQag6spic"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1637,
+        "media_key": "3_1873914907034607617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgF7rfUbYAEZ8Mt.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873914907034607617"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "1873914909836337462",
+        "created_at": "2024-12-31T02:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T03:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873914909836337462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8QQag6spic",
+              "end": 139,
+              "expanded_url": "https://x.com/lastTrouvaille/status/1873914909836337462/photo/1",
+              "media_key": "3_1873914907034607617",
+              "start": 116,
+              "url": "https://t.co/8QQag6spic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873914909836337462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候想，如果能把意识上传变成赛博意识体的话感觉也挺好的，游走于数据之间，或者随便拿个U盘也能把咱copy走，大好河山还是能看到，烦恼感觉也少了很多\n可惜现实里是2024年最后一天咱还要考概率论，为了不挂科在拼命复习\n哎，令人感慨 https://t.co/8QQag6spic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 1788,
+          "like_count": 8210,
+          "listed_count": 4,
+          "media_count": 167,
+          "tweet_count": 2023
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

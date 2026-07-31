@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1873249717192397049",
+    "created_at": "2024-12-29T12:31:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T13:31:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873346116143726636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1711055420285181952",
+          "start": 0,
+          "username": "CreAmeSuda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873346116143726636",
+    "in_reply_to_user_id": "1711055420285181952",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873343911122592043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CreAmeSuda 😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1873249717192397049",
+        "created_at": "2024-12-29T12:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T13:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873346116143726636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1711055420285181952",
+              "start": 0,
+              "username": "CreAmeSuda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873346116143726636",
+        "in_reply_to_user_id": "1711055420285181952",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873343911122592043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CreAmeSuda 😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711055420285181952",
+        "conversation_id": "1873249717192397049",
+        "created_at": "2024-12-29T12:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T13:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873343911122592043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "lastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873343911122592043",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873249717192397049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lastTrouvaille 好诶！居然有我🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC，叫妈妈姐姐也行(小声)丨INFP丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但温柔细腻(?)富有爱心(?)而且话痨(雾)丨常驻上海两假驻广州丨包容力极强毋忧踩雷丨偶尔emo丨键政🚫中粤英👌🏻日语机翻(?)丨说话爱带括号勿怪)丨刷屏致歉丨互fo私信，顺便聊几句呀😉3Q(鞠躬)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku.sci-fifans.net",
+                "end": 23,
+                "expanded_url": "https://miku.sci-fifans.net/",
+                "start": 0,
+                "url": "https://t.co/AORoEmQDfk"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866103109585690624/cLx2vxpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 1777,
+          "like_count": 7910,
+          "listed_count": 4,
+          "media_count": 162,
+          "tweet_count": 1965
+        },
+        "url": "https://t.co/AORoEmQDfk",
+        "username": "lastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T16:26:40.000Z",
+        "description": "一块黄油饼干\n语言模块严重故障\n把想说的话说出来",
+        "id": "1711055420285181952",
+        "name": "黄油饼干狗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867308942696886273/ED8u8rTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 799,
+          "like_count": 7679,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1257
+        },
+        "username": "CreAmeSuda",
+        "verified": false
+      }
+    ]
+  }
+}
