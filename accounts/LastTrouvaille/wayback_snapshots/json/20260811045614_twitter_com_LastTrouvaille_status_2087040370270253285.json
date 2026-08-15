@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087040352087846912",
+        "3_2087040362259070976"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087040370270253285",
+    "created_at": "2026-08-11T04:56:14.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T05:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087040370270253285"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4EdGagkgh1",
+          "end": 35,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2087040370270253285/photo/1",
+          "media_key": "3_2087040352087846912",
+          "start": 12,
+          "url": "https://t.co/4EdGagkgh1"
+        },
+        {
+          "display_url": "pic.x.com/4EdGagkgh1",
+          "end": 35,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2087040370270253285/photo/1",
+          "media_key": "3_2087040362259070976",
+          "start": 12,
+          "url": "https://t.co/4EdGagkgh1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087040370270253285",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087040352087846912"
+      },
+      {
+        "media_key": "3_2087040362259070976"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "海猫你过来，我问你个事 https://t.co/4EdGagkgh1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2158,
+        "media_key": "3_2087040352087846912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPaoJIIaMAAAgOB.jpg",
+        "width": 1618
+      },
+      {
+        "height": 608,
+        "media_key": "3_2087040362259070976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPaoJuBawAAFBpf.jpg",
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087040352087846912",
+            "3_2087040362259070976"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087040370270253285",
+        "created_at": "2026-08-11T04:56:14.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087040370270253285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4EdGagkgh1",
+              "end": 35,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2087040370270253285/photo/1",
+              "media_key": "3_2087040352087846912",
+              "start": 12,
+              "url": "https://t.co/4EdGagkgh1"
+            },
+            {
+              "display_url": "pic.x.com/4EdGagkgh1",
+              "end": 35,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2087040370270253285/photo/1",
+              "media_key": "3_2087040362259070976",
+              "start": 12,
+              "url": "https://t.co/4EdGagkgh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087040370270253285",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087040352087846912"
+          },
+          {
+            "media_key": "3_2087040362259070976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "海猫你过来，我问你个事 https://t.co/4EdGagkgh1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2087040370270253285",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4812,
+          "following_count": 2945,
+          "like_count": 51741,
+          "listed_count": 14,
+          "media_count": 1040,
+          "tweet_count": 9579
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

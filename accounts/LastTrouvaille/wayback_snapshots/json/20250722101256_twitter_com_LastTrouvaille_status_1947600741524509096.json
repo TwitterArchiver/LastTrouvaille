@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "1947545170167091631",
+    "created_at": "2025-07-22T10:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T11:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947600741524509096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1542745105899339776",
+          "start": 0,
+          "username": "eriri41383917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947600741524509096",
+    "in_reply_to_user_id": "1542745105899339776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947547050880733540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eriri41383917 刚好多了一根吸管w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1947545170167091631",
+        "created_at": "2025-07-22T10:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T11:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947600741524509096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1542745105899339776",
+              "start": 0,
+              "username": "eriri41383917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947600741524509096",
+        "in_reply_to_user_id": "1542745105899339776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947547050880733540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eriri41383917 刚好多了一根吸管w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542745105899339776",
+        "conversation_id": "1947545170167091631",
+        "created_at": "2025-07-22T06:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T07:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947547050880733540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947547050880733540",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947545170167091631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille （偷喝）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖句尾括号是微表情‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3203,
+          "following_count": 2680,
+          "like_count": 29323,
+          "listed_count": 12,
+          "media_count": 613,
+          "tweet_count": 6756
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T05:41:23.000Z",
+        "description": "infp/欢迎扩列喵/不时消失/怪猎、方舟、pjsk、apex，是鬼批/我们来组一辈子的乐队吧！/提问箱https://t.co/CFhFswTahh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eriri32418",
+                "end": 75,
+                "expanded_url": "https://ngl.link/eriri32418",
+                "start": 52,
+                "url": "https://t.co/CFhFswTahh"
+              }
+            ]
+          }
+        },
+        "id": "1542745105899339776",
+        "name": "eriri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852566883603755008/z6-0qvch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 87,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 210
+        },
+        "username": "eriri41383917",
+        "verified": false
+      }
+    ]
+  }
+}

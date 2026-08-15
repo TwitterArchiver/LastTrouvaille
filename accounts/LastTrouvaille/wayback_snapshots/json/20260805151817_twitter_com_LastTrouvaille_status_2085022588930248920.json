@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2084231869181174153",
+    "created_at": "2026-08-05T15:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T16:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085022588930248920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "789711049259831296",
+          "start": 0,
+          "username": "tigerqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085022588930248920",
+    "in_reply_to_user_id": "789711049259831296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084995952356757759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tigerqwq 空调真的是最伟大的发明..🙏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2084231869181174153",
+        "created_at": "2026-08-05T15:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085022588930248920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "789711049259831296",
+              "start": 0,
+              "username": "tigerqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085022588930248920",
+        "in_reply_to_user_id": "789711049259831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084995952356757759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tigerqwq 空调真的是最伟大的发明..🙏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "789711049259831296",
+        "conversation_id": "2084231869181174153",
+        "created_at": "2026-08-05T13:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084995952356757759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084995952356757759",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084231869181174153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 上海今年夏天不是人呆的好吗…\n离了空调真的会死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4721,
+          "following_count": 2925,
+          "like_count": 51432,
+          "listed_count": 14,
+          "media_count": 1035,
+          "tweet_count": 9558
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-22T06:12:41.000Z",
+        "description": "INFJ\namateur guitarist / amateur music producer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tdeh.top",
+                "end": 23,
+                "expanded_url": "http://tdeh.top",
+                "start": 0,
+                "url": "https://t.co/bNN5Ng41UA"
+              }
+            ]
+          }
+        },
+        "id": "789711049259831296",
+        "location": "神圣圆桌领域,ShangHai",
+        "name": "TIGER",
+        "pinned_tweet_id": "1931325651954413619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960202330244313088/pjOc10aA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 51,
+          "like_count": 1521,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 123
+        },
+        "url": "https://t.co/bNN5Ng41UA",
+        "username": "tigerqwq",
+        "verified": false
+      }
+    ]
+  }
+}

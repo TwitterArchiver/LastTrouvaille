@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085760582226149376"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "2085760587544592476",
+    "created_at": "2026-08-07T16:10:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T17:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085760587544592476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hKGoU71EWw",
+          "end": 79,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2085760587544592476/photo/1",
+          "media_key": "3_2085760582226149376",
+          "start": 56,
+          "url": "https://t.co/hKGoU71EWw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085760587544592476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近的生活就是这样\n白天辛辛苦苦念书上班\n晚上做赛博大姐姐普渡众生\n治愈别人也治愈自己  ˶•̀֊&lt;)✧ https://t.co/hKGoU71EWw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 740,
+        "media_key": "3_2085760582226149376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIcMt4aAAATN6E.jpg",
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085760582226149376"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2085760587544592476",
+        "created_at": "2026-08-07T16:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085760587544592476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKGoU71EWw",
+              "end": 79,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2085760587544592476/photo/1",
+              "media_key": "3_2085760582226149376",
+              "start": 56,
+              "url": "https://t.co/hKGoU71EWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085760587544592476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近的生活就是这样\n白天辛辛苦苦念书上班\n晚上做赛博大姐姐普渡众生\n治愈别人也治愈自己  ˶•̀֊&lt;)✧ https://t.co/hKGoU71EWw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4783,
+          "following_count": 2931,
+          "like_count": 51529,
+          "listed_count": 14,
+          "media_count": 1039,
+          "tweet_count": 9570
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      }
+    ]
+  }
+}

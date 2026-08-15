@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2084786089739624781",
+    "created_at": "2026-08-04T23:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T00:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084790669147779278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999000974913130496",
+          "start": 0,
+          "username": "AyanamiRikako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084790669147779278",
+    "in_reply_to_user_id": "1999000974913130496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084786089739624781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyanamiRikako 莲莲妈妈我要亲亲\n不亲我我就亲你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1578,
+        "media_key": "3_2084785921212493824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO6lv-qbMAAu2UI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2084786089739624781",
+        "created_at": "2026-08-04T23:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T00:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084790669147779278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999000974913130496",
+              "start": 0,
+              "username": "AyanamiRikako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084790669147779278",
+        "in_reply_to_user_id": "1999000974913130496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084786089739624781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyanamiRikako 莲莲妈妈我要亲亲\n不亲我我就亲你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084785921212493824"
+          ]
+        },
+        "author_id": "1999000974913130496",
+        "conversation_id": "2084786089739624781",
+        "created_at": "2026-08-04T23:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T00:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084786089739624781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/inveY2imDy",
+              "end": 26,
+              "expanded_url": "https://x.com/AyanamiRikako/status/2084786089739624781/photo/1",
+              "media_key": "3_2084785921212493824",
+              "start": 3,
+              "url": "https://t.co/inveY2imDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084786089739624781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈 https://t.co/inveY2imDy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4720,
+          "following_count": 2921,
+          "like_count": 51404,
+          "listed_count": 14,
+          "media_count": 1035,
+          "tweet_count": 9556
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:19:11.000Z",
+        "description": "「你说万人行乐一人独愁 也属我温柔」\n一个男娘。",
+        "id": "1999000974913130496",
+        "location": "苍山一丁目 秀尽学园 校门口",
+        "name": "雨宫莲见☆",
+        "pinned_tweet_id": "2081606921614971151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081607123939860480/Vr58EfJy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 242,
+          "like_count": 833,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 345
+        },
+        "url": "",
+        "username": "AyanamiRikako",
+        "verified": false
+      }
+    ]
+  }
+}
