@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2089711667513024816",
+    "created_at": "2026-08-18T22:23:39.000Z",
+    "display_text_range": [
+      16,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T23:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089840675798102216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1270308255667912704",
+          "start": 0,
+          "username": "TAICHI09880187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089840675798102216",
+    "in_reply_to_user_id": "1270308255667912704",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089740616725147951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TAICHI09880187 yeeeeees！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2089711667513024816",
+        "created_at": "2026-08-18T22:23:39.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T23:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089840675798102216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1270308255667912704",
+              "start": 0,
+              "username": "TAICHI09880187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089840675798102216",
+        "in_reply_to_user_id": "1270308255667912704",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089740616725147951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TAICHI09880187 yeeeeees！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1270308255667912704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Design",
+              "id": "847872720331079681",
+              "name": "Design"
+            }
+          }
+        ],
+        "conversation_id": "2089711667513024816",
+        "created_at": "2026-08-18T15:46:03.000Z",
+        "display_text_range": [
+          16,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089740616725147951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089740616725147951",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089725914083172782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille Such a cool collabᥫᩣ \nLove the design and they fit me perfectly too！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‼️‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2089840675798102216",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4814,
+          "following_count": 2943,
+          "like_count": 52273,
+          "listed_count": 14,
+          "media_count": 1049,
+          "tweet_count": 9611
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-09T10:54:47.000Z",
+        "description": "｢The Fragrant Flower Blooms with Dignity｣🫖🍰｢Blue Box｣*↟⍋*↟𖡺𐂂𖡺❅*.*↟⍋*↟*↟⍋*↟☃︎.*⋆̩ ꊛ໋@TAICHI339494 #アオのハコ #薫る花は凛と咲く@ushio_reira/@_mikami_saka_/@Amzk0303",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 97,
+                "tag": "アオのハコ"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "tag": "薫る花は凛と咲く"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "TAICHI339494"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "ushio_reira"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "_mikami_saka_"
+              },
+              {
+                "end": 150,
+                "start": 141,
+                "username": "Amzk0303"
+              }
+            ]
+          }
+        },
+        "id": "1270308255667912704",
+        "is_identity_verified": false,
+        "location": "🇯🇵-Age 24+",
+        "most_recent_tweet_id": "2089741651535425878",
+        "name": "TAICHI",
+        "pinned_tweet_id": "2076308557709107539",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1270308255667912704/1770740828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056025327357644800/PfY345Uy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11640,
+          "following_count": 10598,
+          "like_count": 98192,
+          "listed_count": 17,
+          "media_count": 1204,
+          "tweet_count": 8370
+        },
+        "url": "",
+        "username": "TAICHI09880187",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

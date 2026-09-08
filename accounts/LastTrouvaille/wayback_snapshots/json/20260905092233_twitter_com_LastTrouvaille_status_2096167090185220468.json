@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2096121040023994440",
+    "created_at": "2026-09-05T09:22:33.000Z",
+    "display_text_range": [
+      9,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T10:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096167090185220468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1263965073510367245",
+          "start": 0,
+          "username": "T886102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096167090185220468",
+    "in_reply_to_user_id": "1263965073510367245",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096121040023994440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T886102 羨ましすぎる！！\nすぐにでも何千キロも飛び越えて見に行きたいよ...🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2096121032323317760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbq-SHbQAADwsj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1701,
+        "media_key": "3_2096121032331649024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbq-SJaYAAhE9D.jpg",
+        "width": 1652
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2096121040023994440",
+        "created_at": "2026-09-05T09:22:33.000Z",
+        "display_text_range": [
+          9,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096167090185220468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1263965073510367245",
+              "start": 0,
+              "username": "T886102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096167090185220468",
+        "in_reply_to_user_id": "1263965073510367245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096121040023994440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T886102 羨ましすぎる！！\nすぐにでも何千キロも飛び越えて見に行きたいよ...🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096121032323317760",
+            "3_2096121032331649024"
+          ]
+        },
+        "author_id": "1263965073510367245",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "2096121040023994440",
+        "created_at": "2026-09-05T06:19:34.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T07:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096121040023994440"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "アオのハコ"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "聖地"
+            },
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "川越東高校"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "翔鷺祭"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "千夏先輩"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ctoOaP4bFV",
+              "end": 73,
+              "expanded_url": "https://x.com/T886102/status/2096121040023994440/photo/1",
+              "media_key": "3_2096121032323317760",
+              "start": 50,
+              "url": "https://t.co/ctoOaP4bFV"
+            },
+            {
+              "display_url": "pic.x.com/ctoOaP4bFV",
+              "end": 73,
+              "expanded_url": "https://x.com/T886102/status/2096121040023994440/photo/1",
+              "media_key": "3_2096121032331649024",
+              "start": 50,
+              "url": "https://t.co/ctoOaP4bFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096121040023994440",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096121032323317760"
+          },
+          {
+            "media_key": "3_2096121032331649024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1149,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "千夏先輩が座っていた体育館前の階段で！\n\n#アオのハコ #聖地 #川越東高校 #翔鷺祭 #千夏先輩 https://t.co/ctoOaP4bFV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖中粤英‖日常垢‖不许键政🚫‼️",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2096167090185220468",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4955,
+          "following_count": 2972,
+          "like_count": 54202,
+          "listed_count": 14,
+          "media_count": 1067,
+          "tweet_count": 9698
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-22T22:49:00.000Z",
+        "description": "30代｜🟦アオのハコ🟦にハマってます！ 『アオのハコ』にハマり過ぎて、ポストは『アオのハコ』bot化していますw『千夏先輩🏀』推しで、人生捧げてますw『千夏先輩』のためなら、いくらでも貢ぎますw 『アオのハコ』好きな方、仲良くして下さい！推し活全般はこっちのアカでポストしてます！→@togetoge_mymuji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 141,
+                "username": "togetoge_mymuji"
+              }
+            ]
+          }
+        },
+        "id": "1263965073510367245",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096124640599179625",
+        "name": "あっくん@アオのハコ",
+        "pinned_tweet_id": "2002713240732836186",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1263965073510367245/1788104917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872951783678758912/cL-Aq4jC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 1607,
+          "like_count": 23621,
+          "listed_count": 2,
+          "media_count": 1009,
+          "tweet_count": 4203
+        },
+        "url": "",
+        "username": "T886102",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

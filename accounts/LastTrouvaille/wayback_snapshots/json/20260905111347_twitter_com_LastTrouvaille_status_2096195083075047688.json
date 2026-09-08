@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2096187288925745434",
+    "created_at": "2026-09-05T11:13:47.000Z",
+    "display_text_range": [
+      15,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T12:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096195083075047688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1702909417702776832",
+          "start": 0,
+          "username": "sorainbetween"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096195083075047688",
+    "in_reply_to_user_id": "1702909417702776832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096188051684798671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sorainbetween 不行不行\n标准的广东人，几乎不吃辣（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2096187288925745434",
+        "created_at": "2026-09-05T11:13:47.000Z",
+        "display_text_range": [
+          15,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096195083075047688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1702909417702776832",
+              "start": 0,
+              "username": "sorainbetween"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096195083075047688",
+        "in_reply_to_user_id": "1702909417702776832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096188051684798671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sorainbetween 不行不行\n标准的广东人，几乎不吃辣（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702909417702776832",
+        "conversation_id": "2096187288925745434",
+        "created_at": "2026-09-05T10:45:51.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096188051684798671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096188051684798671",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096187288925745434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 这种就得辣辣的才有感觉！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖中粤英‖日常垢‖不许键政🚫‼️",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2096195083075047688",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4957,
+          "following_count": 2978,
+          "like_count": 54230,
+          "listed_count": 14,
+          "media_count": 1068,
+          "tweet_count": 9701
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-16T04:57:05.000Z",
+        "description": "i was only temporary 2 u\n匿名提问：https://t.co/sf0rOGLy5a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorainbetween",
+                "end": 53,
+                "expanded_url": "https://ngl.link/sorainbetween",
+                "start": 30,
+                "url": "https://t.co/sf0rOGLy5a"
+              }
+            ]
+          }
+        },
+        "id": "1702909417702776832",
+        "is_identity_verified": false,
+        "location": "Infernal",
+        "most_recent_tweet_id": "2096189469074354312",
+        "name": "sora",
+        "pinned_tweet_id": "2094310261104484438",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1702909417702776832/1787774747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095989950340587521/4Fvg_7Fm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 540,
+          "like_count": 3217,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2097
+        },
+        "url": "",
+        "username": "sorainbetween",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

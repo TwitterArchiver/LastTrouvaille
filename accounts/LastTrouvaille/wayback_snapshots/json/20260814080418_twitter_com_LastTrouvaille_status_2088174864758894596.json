@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2087946673188372814",
+    "created_at": "2026-08-14T08:04:18.000Z",
+    "display_text_range": [
+      10,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T09:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088174864758894596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1985671338397483010",
+          "start": 0,
+          "username": "kur16274"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088174864758894596",
+    "in_reply_to_user_id": "1985671338397483010",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088141374248165818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kur16274 あの時、起き抜けに真っ先に美味しそうなメロンパンが目に入って、一気に腹ペコになっちゃったの...😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2087946673188372814",
+        "created_at": "2026-08-14T08:04:18.000Z",
+        "display_text_range": [
+          10,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088174864758894596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1985671338397483010",
+              "start": 0,
+              "username": "kur16274"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088174864758894596",
+        "in_reply_to_user_id": "1985671338397483010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088141374248165818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kur16274 あの時、起き抜けに真っ先に美味しそうなメロンパンが目に入って、一気に腹ペコになっちゃったの...😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985671338397483010",
+        "conversation_id": "2087946673188372814",
+        "created_at": "2026-08-14T05:51:14.000Z",
+        "display_text_range": [
+          16,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088141374248165818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088141374248165818",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088028504193741067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille めっちゃ美味しかった\n飯テロ返しできたかな？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‼️‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2088174864758894596",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4811,
+          "following_count": 2942,
+          "like_count": 51911,
+          "listed_count": 14,
+          "media_count": 1040,
+          "tweet_count": 9582
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-04T11:33:06.000Z",
+        "description": "ただのアニメ好きかも　20↑\n\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　相棒@asino_15sao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 52,
+                "username": "asino_15sao"
+              }
+            ]
+          }
+        },
+        "id": "1985671338397483010",
+        "is_identity_verified": false,
+        "location": "海底のどっか",
+        "most_recent_tweet_id": "2088153395156938838",
+        "name": "やまちゃん　低浮上",
+        "pinned_tweet_id": "2067261003616985294",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1985671338397483010/1784891023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088161336484339712/azkaJ0oe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 400,
+          "like_count": 10342,
+          "listed_count": 4,
+          "media_count": 511,
+          "tweet_count": 6254
+        },
+        "url": "",
+        "username": "kur16274",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2095099579607982452",
+    "created_at": "2026-09-02T10:58:27.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T11:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095104060311679231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1345181115884032000",
+          "start": 0,
+          "username": "qcoitn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095104060311679231",
+    "in_reply_to_user_id": "1345181115884032000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095099579607982452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qcoitn 最高だ！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2997,
+        "media_key": "3_2095099568375627776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNJ9QYagAANmjq.jpg",
+        "width": 3977
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2095099579607982452",
+        "created_at": "2026-09-02T10:58:27.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T11:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095104060311679231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1345181115884032000",
+              "start": 0,
+              "username": "qcoitn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095104060311679231",
+        "in_reply_to_user_id": "1345181115884032000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095099579607982452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qcoitn 最高だ！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095099568375627776"
+          ]
+        },
+        "author_id": "1345181115884032000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          }
+        ],
+        "conversation_id": "2095099579607982452",
+        "created_at": "2026-09-02T10:40:39.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T11:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095099579607982452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vgjw5DHeji",
+              "end": 40,
+              "expanded_url": "https://x.com/qcoitn/status/2095099579607982452/photo/1",
+              "media_key": "3_2095099568375627776",
+              "start": 17,
+              "url": "https://t.co/Vgjw5DHeji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095099579607982452",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095099568375627776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "仕事帰りのラーメンは美味しいね〜 https://t.co/Vgjw5DHeji"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖中粤英‖日常垢‖不许键政🚫‼️",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2095104060311679231",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4952,
+          "following_count": 2955,
+          "like_count": 53912,
+          "listed_count": 14,
+          "media_count": 1064,
+          "tweet_count": 9675
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-02T01:32:33.000Z",
+        "description": "好きなキャラ/上伊那ぼたん/高木さん/和栗薫子/久保渚咲/椎名真昼/伊地知虹夏/喜多郁代/牧之原翔子/錦木千束/八奈見杏菜/山田杏奈/紬ヴェンダース/酒寄彩葉/自由に呟いていきます！",
+        "id": "1345181115884032000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095104066011697183",
+        "name": "ハク",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1345181115884032000/1788036657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095051972953153536/RgmKMHhd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26441,
+          "following_count": 15370,
+          "like_count": 544191,
+          "listed_count": 76,
+          "media_count": 5601,
+          "tweet_count": 181341
+        },
+        "url": "",
+        "username": "qcoitn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

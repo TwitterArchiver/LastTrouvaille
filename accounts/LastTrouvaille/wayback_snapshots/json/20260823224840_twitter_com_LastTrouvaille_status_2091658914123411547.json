@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2091486912469172381",
+    "created_at": "2026-08-23T22:48:40.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T23:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091658914123411547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1985671338397483010",
+          "start": 0,
+          "username": "kur16274"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091658914123411547",
+    "in_reply_to_user_id": "1985671338397483010",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091486912469172381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kur16274 だよねだよねw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2091486903732486144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZ0Qf1bQAABQQA.jpg",
+        "width": 640
+      },
+      {
+        "height": 720,
+        "media_key": "3_2091486907989635072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZ0QvsaMAA7dBv.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2091486912469172381",
+        "created_at": "2026-08-23T22:48:40.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T23:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091658914123411547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1985671338397483010",
+              "start": 0,
+              "username": "kur16274"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091658914123411547",
+        "in_reply_to_user_id": "1985671338397483010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091486912469172381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kur16274 だよねだよねw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091486903732486144",
+            "3_2091486907989635072"
+          ]
+        },
+        "author_id": "1985671338397483010",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2091486912469172381",
+        "created_at": "2026-08-23T11:25:12.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091486912469172381"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 54,
+              "tag": "アニメ好きと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XwFyXXpOK6",
+              "end": 90,
+              "expanded_url": "https://x.com/kur16274/status/2091486912469172381/photo/1",
+              "media_key": "3_2091486903732486144",
+              "start": 67,
+              "url": "https://t.co/XwFyXXpOK6"
+            },
+            {
+              "display_url": "pic.x.com/XwFyXXpOK6",
+              "end": 90,
+              "expanded_url": "https://x.com/kur16274/status/2091486912469172381/photo/1",
+              "media_key": "3_2091486907989635072",
+              "start": 67,
+              "url": "https://t.co/XwFyXXpOK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091486912469172381",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091486903732486144"
+          },
+          {
+            "media_key": "3_2091486907989635072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 934,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "けいおんってまじで見やすいよな\nキャラ全員個性的で可愛いし\nあずゆいコンビ最高すぎる\n歌が本当レベチなんよ\n#アニメ好きと繋がりたい https://t.co/XwFyXXpOK6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‼️‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2091658914123411547",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4818,
+          "following_count": 2960,
+          "like_count": 52738,
+          "listed_count": 14,
+          "media_count": 1054,
+          "tweet_count": 9628
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-04T11:33:06.000Z",
+        "description": "ただのアニメ好きかも　20↑\n\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　相棒@@aku_1521",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "aku_1521"
+              }
+            ]
+          }
+        },
+        "id": "1985671338397483010",
+        "is_identity_verified": false,
+        "location": "海底のどっか",
+        "most_recent_tweet_id": "2091624274989875281",
+        "name": "やまちゃん　低浮上",
+        "pinned_tweet_id": "2067261003616985294",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1985671338397483010/1784891023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088205214579032064/agvledDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 404,
+          "like_count": 10657,
+          "listed_count": 4,
+          "media_count": 521,
+          "tweet_count": 6390
+        },
+        "url": "",
+        "username": "kur16274",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

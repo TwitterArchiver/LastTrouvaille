@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2096100926448967972",
+    "created_at": "2026-09-05T09:16:51.000Z",
+    "display_text_range": [
+      9,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T10:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096165654600790372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1263965073510367245",
+          "start": 0,
+          "username": "T886102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096165654600790372",
+    "in_reply_to_user_id": "1263965073510367245",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096100926448967972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T886102 え——どこどこ！？😳\nまさか本当にモデルがいるの！？\nめっちゃ羨ましい！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096100917385068544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbYrcIbgAA3Fys.jpg",
+        "width": 1537
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2096100917384998912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbYrcIacAArIGY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2096100926448967972",
+        "created_at": "2026-09-05T09:16:51.000Z",
+        "display_text_range": [
+          9,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096165654600790372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1263965073510367245",
+              "start": 0,
+              "username": "T886102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096165654600790372",
+        "in_reply_to_user_id": "1263965073510367245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096100926448967972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T886102 え——どこどこ！？😳\nまさか本当にモデルがいるの！？\nめっちゃ羨ましい！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096100917385068544",
+            "3_2096100917384998912"
+          ]
+        },
+        "author_id": "1263965073510367245",
+        "conversation_id": "2096100926448967972",
+        "created_at": "2026-09-05T04:59:39.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T05:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096100926448967972"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "アオのハコ"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "聖地"
+            },
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "川越東高校"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "翔鷺祭"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jno0vNKTL3",
+              "end": 57,
+              "expanded_url": "https://x.com/T886102/status/2096100926448967972/photo/1",
+              "media_key": "3_2096100917385068544",
+              "start": 34,
+              "url": "https://t.co/Jno0vNKTL3"
+            },
+            {
+              "display_url": "pic.x.com/Jno0vNKTL3",
+              "end": 57,
+              "expanded_url": "https://x.com/T886102/status/2096100926448967972/photo/1",
+              "media_key": "3_2096100917384998912",
+              "start": 34,
+              "url": "https://t.co/Jno0vNKTL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096100926448967972",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096100917385068544"
+          },
+          {
+            "media_key": "3_2096100917384998912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5033,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "聖地！川越東高校！\n\n#アオのハコ #聖地 #川越東高校 #翔鷺祭 https://t.co/Jno0vNKTL3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖中粤英‖日常垢‖不许键政🚫‼️",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2096165654600790372",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4955,
+          "following_count": 2969,
+          "like_count": 54197,
+          "listed_count": 14,
+          "media_count": 1067,
+          "tweet_count": 9697
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-22T22:49:00.000Z",
+        "description": "30代｜🟦アオのハコ🟦にハマってます！ 『アオのハコ』にハマり過ぎて、ポストは『アオのハコ』bot化していますw『千夏先輩🏀』推しで、人生捧げてますw『千夏先輩』のためなら、いくらでも貢ぎますw 『アオのハコ』好きな方、仲良くして下さい！推し活全般はこっちのアカでポストしてます！→@togetoge_mymuji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 141,
+                "username": "togetoge_mymuji"
+              }
+            ]
+          }
+        },
+        "id": "1263965073510367245",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096124640599179625",
+        "name": "あっくん@アオのハコ",
+        "pinned_tweet_id": "2002713240732836186",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1263965073510367245/1788104917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872951783678758912/cL-Aq4jC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 1607,
+          "like_count": 23621,
+          "listed_count": 2,
+          "media_count": 1009,
+          "tweet_count": 4203
+        },
+        "url": "",
+        "username": "T886102",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

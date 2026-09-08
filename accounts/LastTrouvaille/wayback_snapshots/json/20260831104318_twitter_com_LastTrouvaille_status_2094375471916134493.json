@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2094009464978624561",
+    "created_at": "2026-08-31T10:43:18.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T11:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094375471916134493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1567903529943339009",
+          "start": 0,
+          "username": "_gray_dust_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094375471916134493",
+    "in_reply_to_user_id": "1567903529943339009",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094096777029009551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_gray_dust_ 🫨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2094009464978624561",
+        "created_at": "2026-08-31T10:43:18.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094375471916134493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1567903529943339009",
+              "start": 0,
+              "username": "_gray_dust_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094375471916134493",
+        "in_reply_to_user_id": "1567903529943339009",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094096777029009551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_gray_dust_ 🫨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567903529943339009",
+        "conversation_id": "2094009464978624561",
+        "created_at": "2026-08-30T16:15:52.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T17:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094096777029009551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094096777029009551",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094009464978624561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 你要食物中毒了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‼️",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2094375471916134493",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4948,
+          "following_count": 2976,
+          "like_count": 53619,
+          "listed_count": 14,
+          "media_count": 1063,
+          "tweet_count": 9671
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-08T15:52:12.000Z",
+        "description": "❗❗❗❗本账号含有🔞❗❗❗❗\nFGO牢玩家。混杂大量日常/吐槽/黑泥/抽象擦边文案/偶尔还会传个一两张cos照❗但主要还是拿来看涩涩的号，请务必分辨清楚闲聊完全OK！虽然本人有点社恐很难主动开启话题（）点了follow的话可能会来视坚你👁️👁️（？）可爱男孩子请和我互fo🤤🤤🤤",
+        "id": "1567903529943339009",
+        "is_identity_verified": false,
+        "location": "南极洲迦勒底",
+        "most_recent_tweet_id": "2094336218095829185",
+        "name": "Dust",
+        "pinned_tweet_id": "2073396009158283636",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567903529943339009/1735826394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073769169997180928/POzDFuHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 387,
+          "like_count": 45326,
+          "listed_count": 4,
+          "media_count": 396,
+          "tweet_count": 16449
+        },
+        "url": "",
+        "username": "_gray_dust_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2096121040023994440",
+    "created_at": "2026-09-05T14:09:09.000Z",
+    "display_text_range": [
+      9,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T15:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096239212358189192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1263965073510367245",
+          "start": 0,
+          "username": "T886102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096239212358189192",
+    "in_reply_to_user_id": "1263965073510367245",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096238879292711391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T886102 はい！~\nこれから日本に遊びに行く機会があれば必ず見に行きます！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2096121040023994440",
+        "created_at": "2026-09-05T14:09:09.000Z",
+        "display_text_range": [
+          9,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096239212358189192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1263965073510367245",
+              "start": 0,
+              "username": "T886102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096239212358189192",
+        "in_reply_to_user_id": "1263965073510367245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096238879292711391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T886102 はい！~\nこれから日本に遊びに行く機会があれば必ず見に行きます！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1263965073510367245",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324127674575450113",
+              "name": "School festivals"
+            }
+          }
+        ],
+        "conversation_id": "2096121040023994440",
+        "created_at": "2026-09-05T14:07:49.000Z",
+        "display_text_range": [
+          16,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096238879292711391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096238879292711391",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096167090185220468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille ぜひぜひ、機会があれば行ってみて下さい！文化祭の時とかしか体育館まで入れないので、気をつけて下さいね！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖中粤英‖日常垢‖不许键政🚫‼️",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2096239212358189192",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4955,
+          "following_count": 2978,
+          "like_count": 54246,
+          "listed_count": 14,
+          "media_count": 1068,
+          "tweet_count": 9703
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-22T22:49:00.000Z",
+        "description": "30代｜🟦アオのハコ🟦にハマってます！ 『アオのハコ』にハマり過ぎて、ポストは『アオのハコ』bot化していますw『千夏先輩🏀』推しで、人生捧げてますw『千夏先輩』のためなら、いくらでも貢ぎますw 『アオのハコ』好きな方、仲良くして下さい！推し活全般はこっちのアカでポストしてます！→@togetoge_mymuji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 141,
+                "username": "togetoge_mymuji"
+              }
+            ]
+          }
+        },
+        "id": "1263965073510367245",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096238879292711391",
+        "name": "あっくん@アオのハコ",
+        "pinned_tweet_id": "2002713240732836186",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1263965073510367245/1788104917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872951783678758912/cL-Aq4jC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 1607,
+          "like_count": 23635,
+          "listed_count": 2,
+          "media_count": 1009,
+          "tweet_count": 4212
+        },
+        "url": "",
+        "username": "T886102",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

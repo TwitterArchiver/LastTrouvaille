@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095297817065742336",
+        "3_2095297822723850240"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2095297828860158124",
+    "created_at": "2026-09-02T23:48:25.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T00:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095297828860158124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5KNmZoI9K3",
+          "end": 104,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2095297828860158124/photo/1",
+          "media_key": "3_2095297817065742336",
+          "start": 81,
+          "url": "https://t.co/5KNmZoI9K3"
+        },
+        {
+          "display_url": "pic.x.com/5KNmZoI9K3",
+          "end": 104,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2095297828860158124/photo/1",
+          "media_key": "3_2095297822723850240",
+          "start": 81,
+          "url": "https://t.co/5KNmZoI9K3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095297828860158124",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095297817065742336"
+      },
+      {
+        "media_key": "3_2095297822723850240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "漫画补完计划，推进中！~\n说起来彻夜之歌的番剧对高三时的自己\n也有着特殊的重要的意义呢\n果然还是想要有小荠那种自由和洒脱..\n不管怎么说，“让我们亲密相处吧”~ https://t.co/5KNmZoI9K3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 999,
+        "media_key": "3_2095297817065742336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRP-Q2Ta4AA-Ta7.jpg",
+        "width": 636
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2095297822723850240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRP-RLYawAAI3Rt.jpg",
+        "width": 857
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095297817065742336",
+            "3_2095297822723850240"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2095297828860158124",
+        "created_at": "2026-09-02T23:48:25.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T00:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095297828860158124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5KNmZoI9K3",
+              "end": 104,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2095297828860158124/photo/1",
+              "media_key": "3_2095297817065742336",
+              "start": 81,
+              "url": "https://t.co/5KNmZoI9K3"
+            },
+            {
+              "display_url": "pic.x.com/5KNmZoI9K3",
+              "end": 104,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2095297828860158124/photo/1",
+              "media_key": "3_2095297822723850240",
+              "start": 81,
+              "url": "https://t.co/5KNmZoI9K3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095297828860158124",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095297817065742336"
+          },
+          {
+            "media_key": "3_2095297822723850240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "漫画补完计划，推进中！~\n说起来彻夜之歌的番剧对高三时的自己\n也有着特殊的重要的意义呢\n果然还是想要有小荠那种自由和洒脱..\n不管怎么说，“让我们亲密相处吧”~ https://t.co/5KNmZoI9K3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖中粤英‖日常垢‖不许键政🚫‼️",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2095297828860158124",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4953,
+          "following_count": 2966,
+          "like_count": 53962,
+          "listed_count": 14,
+          "media_count": 1066,
+          "tweet_count": 9679
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

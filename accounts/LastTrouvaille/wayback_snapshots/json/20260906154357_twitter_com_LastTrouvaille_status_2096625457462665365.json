@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2096461654565544070",
+    "created_at": "2026-09-06T15:43:57.000Z",
+    "display_text_range": [
+      7,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T16:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096625457462665365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2094379790358974464",
+          "start": 0,
+          "username": "0mzf4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096625457462665365",
+    "in_reply_to_user_id": "2094379790358974464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096462891327348765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0mzf4 日本が一番本格的です🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2096461654565544070",
+        "created_at": "2026-09-06T15:43:57.000Z",
+        "display_text_range": [
+          7,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096625457462665365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2094379790358974464",
+              "start": 0,
+              "username": "0mzf4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096625457462665365",
+        "in_reply_to_user_id": "2094379790358974464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096462891327348765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0mzf4 日本が一番本格的です🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094379790358974464",
+        "conversation_id": "2096461654565544070",
+        "created_at": "2026-09-06T04:57:58.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T05:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096462891327348765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096462891327348765",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096461654565544070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 飯テロ〜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖中粤英‖日常垢‖不许键政🚫‼️",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2096625457462665365",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4958,
+          "following_count": 2991,
+          "like_count": 54348,
+          "listed_count": 14,
+          "media_count": 1070,
+          "tweet_count": 9712
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-31T11:02:02.000Z",
+        "description": "絡みまくるかも？",
+        "id": "2094379790358974464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096463339836575883",
+        "name": "やまちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094379790358974464/1788359017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094381353777475584/Yf0diQ6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 28,
+          "like_count": 156,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "0mzf4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090058435111124993"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "2090058441020817629",
+    "created_at": "2026-08-19T12:48:58.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T13:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090058441020817629"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qVRDDDNOR9",
+          "end": 74,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2090058441020817629/photo/1",
+          "media_key": "3_2090058435111124993",
+          "start": 51,
+          "url": "https://t.co/qVRDDDNOR9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090058441020817629",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090058435111124993"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说起来上班盯着壁纸里的韩小妹傻笑\n然后领导走过来问你怎么了（）\n今天也是被曜怡姐姐迷晕的一天👉🏻👈🏻 https://t.co/qVRDDDNOR9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1001,
+        "media_key": "3_2090058435111124993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFhEribgAEu-S3.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090058435111124993"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2090058441020817629",
+        "created_at": "2026-08-19T12:48:58.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090058441020817629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qVRDDDNOR9",
+              "end": 74,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2090058441020817629/photo/1",
+              "media_key": "3_2090058435111124993",
+              "start": 51,
+              "url": "https://t.co/qVRDDDNOR9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090058441020817629",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090058435111124993"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来上班盯着壁纸里的韩小妹傻笑\n然后领导走过来问你怎么了（）\n今天也是被曜怡姐姐迷晕的一天👉🏻👈🏻 https://t.co/qVRDDDNOR9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‼️‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2090058441020817629",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4818,
+          "following_count": 2970,
+          "like_count": 52456,
+          "listed_count": 14,
+          "media_count": 1051,
+          "tweet_count": 9619
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095555038697635840"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Romantic Relationships",
+          "id": "1491098889121718275",
+          "name": "Relationships"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Romantic Relationships",
+          "id": "1491098889121718275",
+          "name": "Relationships"
+        }
+      }
+    ],
+    "conversation_id": "2095555043344957905",
+    "created_at": "2026-09-03T16:50:30.000Z",
+    "display_text_range": [
+      0,
+      156
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T17:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095555043344957905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/udgvjfvjr5",
+          "end": 180,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2095555043344957905/photo/1",
+          "media_key": "3_2095555038697635840",
+          "start": 157,
+          "url": "https://t.co/udgvjfvjr5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095555043344957905",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095555038697635840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和闺闺聊天的时候自己也思考了下\n有时与其说想要找对象谈恋爱\n不如说是想要个能一直陪着自己的朋友\n“恋爱”“对象”之类的头衔，都不如能被坚定的选择\n然后一起走过四季的平庸与灿烂\n而不是被romantic relationship所束缚\n至于这种感情最后被叫做爱情还是友谊\n细想下似乎也没那么重要\n双方都能被滋养就好 https://t.co/udgvjfvjr5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 354,
+        "media_key": "3_2095555038697635840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRToNHjaQAAL_F6.jpg",
+        "width": 354
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095555038697635840"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Romantic Relationships",
+              "id": "1491098889121718275",
+              "name": "Relationships"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Romantic Relationships",
+              "id": "1491098889121718275",
+              "name": "Relationships"
+            }
+          }
+        ],
+        "conversation_id": "2095555043344957905",
+        "created_at": "2026-09-03T16:50:30.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T17:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095555043344957905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/udgvjfvjr5",
+              "end": 180,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2095555043344957905/photo/1",
+              "media_key": "3_2095555038697635840",
+              "start": 157,
+              "url": "https://t.co/udgvjfvjr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095555043344957905",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095555038697635840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和闺闺聊天的时候自己也思考了下\n有时与其说想要找对象谈恋爱\n不如说是想要个能一直陪着自己的朋友\n“恋爱”“对象”之类的头衔，都不如能被坚定的选择\n然后一起走过四季的平庸与灿烂\n而不是被romantic relationship所束缚\n至于这种感情最后被叫做爱情还是友谊\n细想下似乎也没那么重要\n双方都能被滋养就好 https://t.co/udgvjfvjr5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖中粤英‖日常垢‖不许键政🚫‼️",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2095555043344957905",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4954,
+          "following_count": 2979,
+          "like_count": 54027,
+          "listed_count": 14,
+          "media_count": 1067,
+          "tweet_count": 9681
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

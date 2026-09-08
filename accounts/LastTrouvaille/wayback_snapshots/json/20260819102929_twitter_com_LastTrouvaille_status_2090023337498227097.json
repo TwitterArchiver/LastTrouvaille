@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2089655418070999318",
+    "created_at": "2026-08-19T10:29:29.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T11:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090023337498227097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1414414212948889610",
+          "start": 0,
+          "username": "jjwnbahhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090023337498227097",
+    "in_reply_to_user_id": "1414414212948889610",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090005437751910739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jjwnbahhh 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2089655418070999318",
+        "created_at": "2026-08-19T10:29:29.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090023337498227097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1414414212948889610",
+              "start": 0,
+              "username": "jjwnbahhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090023337498227097",
+        "in_reply_to_user_id": "1414414212948889610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090005437751910739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jjwnbahhh 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414414212948889610",
+        "conversation_id": "2089655418070999318",
+        "created_at": "2026-08-19T09:18:21.000Z",
+        "display_text_range": [
+          16,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090005437751910739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090005437751910739",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089655418070999318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 跳槽日志（不过现在和反转练习生一样等待第二季中）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‼️‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2090023337498227097",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4817,
+          "following_count": 2968,
+          "like_count": 52424,
+          "listed_count": 14,
+          "media_count": 1050,
+          "tweet_count": 9617
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-12T02:40:11.000Z",
+        "description": "日本のアニメが大好き。\nただのオタク。\nJP ⭕️ / CN ⭕️ / EN ⭕️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jjwnb.top",
+                "end": 23,
+                "expanded_url": "http://www.jjwnb.top",
+                "start": 0,
+                "url": "https://t.co/vZKPsDIHPL"
+              }
+            ]
+          }
+        },
+        "id": "1414414212948889610",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2090013071506801104",
+        "name": "jjw",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414414212948889610/1674829110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751241533582651392/xcWFj6x__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 954,
+          "like_count": 970,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1047
+        },
+        "url": "https://t.co/vZKPsDIHPL",
+        "username": "jjwnbahhh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

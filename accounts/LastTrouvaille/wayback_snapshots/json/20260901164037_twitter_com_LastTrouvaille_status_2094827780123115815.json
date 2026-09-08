@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094827758052646912",
+        "3_2094827763748536320",
+        "3_2094827769196949504",
+        "3_2094827774569857024"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094827780123115815",
+    "created_at": "2026-09-01T16:40:37.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T17:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094827780123115815"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3vJzYt49zO",
+          "end": 98,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2094827780123115815/photo/1",
+          "media_key": "3_2094827758052646912",
+          "start": 75,
+          "url": "https://t.co/3vJzYt49zO"
+        },
+        {
+          "display_url": "pic.x.com/3vJzYt49zO",
+          "end": 98,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2094827780123115815/photo/1",
+          "media_key": "3_2094827763748536320",
+          "start": 75,
+          "url": "https://t.co/3vJzYt49zO"
+        },
+        {
+          "display_url": "pic.x.com/3vJzYt49zO",
+          "end": 98,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2094827780123115815/photo/1",
+          "media_key": "3_2094827769196949504",
+          "start": 75,
+          "url": "https://t.co/3vJzYt49zO"
+        },
+        {
+          "display_url": "pic.x.com/3vJzYt49zO",
+          "end": 98,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2094827780123115815/photo/1",
+          "media_key": "3_2094827774569857024",
+          "start": 75,
+          "url": "https://t.co/3vJzYt49zO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094827780123115815",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094827758052646912"
+      },
+      {
+        "media_key": "3_2094827763748536320"
+      },
+      {
+        "media_key": "3_2094827769196949504"
+      },
+      {
+        "media_key": "3_2094827774569857024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "剧场版，也看完了..！！\n就是为了这一吻和这一曲ww\n“总之只想见你啊🎶~我只想见你🎶~”\n如果有兴趣的话\n还请一定多多关注《我心里危险的东西》！~ https://t.co/3vJzYt49zO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 805,
+        "media_key": "3_2094827758052646912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJSv0BbIAAHEqC.jpg",
+        "width": 1440
+      },
+      {
+        "height": 798,
+        "media_key": "3_2094827763748536320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJSwJPbgAANSeC.jpg",
+        "width": 1440
+      },
+      {
+        "height": 795,
+        "media_key": "3_2094827769196949504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJSwdibsAAvWv5.jpg",
+        "width": 1440
+      },
+      {
+        "height": 790,
+        "media_key": "3_2094827774569857024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJSwxjbwAADdxv.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094827758052646912",
+            "3_2094827763748536320",
+            "3_2094827769196949504",
+            "3_2094827774569857024"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094827780123115815",
+        "created_at": "2026-09-01T16:40:37.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T17:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094827780123115815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3vJzYt49zO",
+              "end": 98,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2094827780123115815/photo/1",
+              "media_key": "3_2094827758052646912",
+              "start": 75,
+              "url": "https://t.co/3vJzYt49zO"
+            },
+            {
+              "display_url": "pic.x.com/3vJzYt49zO",
+              "end": 98,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2094827780123115815/photo/1",
+              "media_key": "3_2094827763748536320",
+              "start": 75,
+              "url": "https://t.co/3vJzYt49zO"
+            },
+            {
+              "display_url": "pic.x.com/3vJzYt49zO",
+              "end": 98,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2094827780123115815/photo/1",
+              "media_key": "3_2094827769196949504",
+              "start": 75,
+              "url": "https://t.co/3vJzYt49zO"
+            },
+            {
+              "display_url": "pic.x.com/3vJzYt49zO",
+              "end": 98,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2094827780123115815/photo/1",
+              "media_key": "3_2094827774569857024",
+              "start": 75,
+              "url": "https://t.co/3vJzYt49zO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094827780123115815",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094827758052646912"
+          },
+          {
+            "media_key": "3_2094827763748536320"
+          },
+          {
+            "media_key": "3_2094827769196949504"
+          },
+          {
+            "media_key": "3_2094827774569857024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剧场版，也看完了..！！\n就是为了这一吻和这一曲ww\n“总之只想见你啊🎶~我只想见你🎶~”\n如果有兴趣的话\n还请一定多多关注《我心里危险的东西》！~ https://t.co/3vJzYt49zO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖中粤英‖日常垢‖不许键政🚫‼️",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2094827780123115815",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4951,
+          "following_count": 2955,
+          "like_count": 53825,
+          "listed_count": 14,
+          "media_count": 1064,
+          "tweet_count": 9673
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

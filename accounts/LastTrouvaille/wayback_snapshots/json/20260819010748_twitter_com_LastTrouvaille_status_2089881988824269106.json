@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2089737283796906302",
+    "created_at": "2026-08-19T01:07:48.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T02:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089881988824269106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1967234748704862208",
+          "start": 0,
+          "username": "yuri__ono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089881988824269106",
+    "in_reply_to_user_id": "1967234748704862208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089737283796906302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuri__ono 冷脸萌ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2089737270383562752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQA8-bsbUAAICp9.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1560,
+        "media_key": "3_2089737270387720192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQA8-btawAAFfp4.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2089737283796906302",
+        "created_at": "2026-08-19T01:07:48.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T02:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089881988824269106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967234748704862208",
+              "start": 0,
+              "username": "yuri__ono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089881988824269106",
+        "in_reply_to_user_id": "1967234748704862208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089737283796906302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri__ono 冷脸萌ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089737270383562752",
+            "3_2089737270387720192"
+          ]
+        },
+        "author_id": "1967234748704862208",
+        "conversation_id": "2089737283796906302",
+        "created_at": "2026-08-18T15:32:48.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089737283796906302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AY3JWVfMJi",
+              "end": 53,
+              "expanded_url": "https://x.com/yuri__ono/status/2089737283796906302/photo/1",
+              "media_key": "3_2089737270383562752",
+              "start": 30,
+              "url": "https://t.co/AY3JWVfMJi"
+            },
+            {
+              "display_url": "pic.x.com/AY3JWVfMJi",
+              "end": 53,
+              "expanded_url": "https://x.com/yuri__ono/status/2089737283796906302/photo/1",
+              "media_key": "3_2089737270387720192",
+              "start": 30,
+              "url": "https://t.co/AY3JWVfMJi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089737283796906302",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089737270383562752"
+          },
+          {
+            "media_key": "3_2089737270387720192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3910,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想了半天伤感文案 算了忧郁不起来\n我不想开学啊啊啊啊啊啊啊 https://t.co/AY3JWVfMJi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖穗&沪‖中粤英‖日常垢‖不许键政🚫‼️‖提问箱和miku↓",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2089881988824269106",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4814,
+          "following_count": 2955,
+          "like_count": 52339,
+          "listed_count": 14,
+          "media_count": 1050,
+          "tweet_count": 9614
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T14:31:42.000Z",
+        "description": "欢迎互fo 11年 当朋友圈刷 发碎碎念 喜欢有礼貌的人 不聊黄不线下 喜欢有礼貌的人 查成分回关 发泄号@Yuri__ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Yuri__ovo"
+              }
+            ]
+          }
+        },
+        "id": "1967234748704862208",
+        "is_identity_verified": false,
+        "location": "你又来看我啦(*･ω･)ﾉ 今天开心吗",
+        "most_recent_tweet_id": "2089771198376980558",
+        "name": "yuri",
+        "pinned_tweet_id": "2020195394265969020",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967234748704862208/1758988593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061096463300722689/xs50LU9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 1022,
+          "like_count": 6591,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2780
+        },
+        "url": "",
+        "username": "yuri__ono",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
