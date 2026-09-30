@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2102606354586456261",
+    "created_at": "2026-09-23T04:49:30.000Z",
+    "display_text_range": [
+      15,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T05:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102621355942482214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1249196140936884224",
+          "start": 0,
+          "username": "sumeng_kelami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102621355942482214",
+    "in_reply_to_user_id": "1249196140936884224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102606354586456261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sumeng_kelami 我会...一直盯着..."
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2102606354586456261].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2102606354586456261",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2102606354586456261"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2102606354586456261",
+        "created_at": "2026-09-23T04:49:30.000Z",
+        "display_text_range": [
+          15,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T05:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102621355942482214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1249196140936884224",
+              "start": 0,
+              "username": "sumeng_kelami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102621355942482214",
+        "in_reply_to_user_id": "1249196140936884224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102606354586456261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sumeng_kelami 我会...一直盯着..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）聊久了会容易黏着（x）‖中粤英日👌🏻‖日常垢‖友好的私信会回哦\n----------\n谢谢您看到这里🙂‍↕\n光芒乘着风，如果可以到达，就将飞向你的明天~*.+゜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille525",
+                "start": 0,
+                "url": "https://t.co/1wvTNp1EJZ"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2102621355942482214",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5053,
+          "following_count": 2923,
+          "like_count": 56242,
+          "listed_count": 13,
+          "media_count": 1090,
+          "tweet_count": 9872
+        },
+        "url": "https://t.co/1wvTNp1EJZ",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-12T04:42:35.000Z",
+        "description": "总有人间一两风，填我十万八个梦",
+        "id": "1249196140936884224",
+        "is_identity_verified": false,
+        "location": "百灶",
+        "most_recent_tweet_id": "2093026481714982995",
+        "name": "熟睡中的小小兰",
+        "pinned_tweet_id": "1970071180213379520",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249196140936884224/1784378346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101687279551152129/1OaN0kqG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 0,
+          "like_count": 6306,
+          "listed_count": 1,
+          "media_count": 780,
+          "tweet_count": 3894
+        },
+        "url": "",
+        "username": "sumeng_kelami",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

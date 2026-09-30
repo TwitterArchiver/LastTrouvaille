@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2101051622495572048",
+    "created_at": "2026-09-19T04:02:14.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T05:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101159910214164761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1783437153101561856",
+          "start": 0,
+          "username": "SalaryKoki4581"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101159910214164761",
+    "in_reply_to_user_id": "1783437153101561856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101051622495572048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalaryKoki4581 お疲れ様！~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 565,
+        "media_key": "3_2101051617944780800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HShvUI5bwAAENmH.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2101051622495572048",
+        "created_at": "2026-09-19T04:02:14.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T05:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101159910214164761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1783437153101561856",
+              "start": 0,
+              "username": "SalaryKoki4581"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101159910214164761",
+        "in_reply_to_user_id": "1783437153101561856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101051622495572048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalaryKoki4581 お疲れ様！~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101051617944780800"
+          ]
+        },
+        "author_id": "1783437153101561856",
+        "conversation_id": "2101051622495572048",
+        "created_at": "2026-09-18T20:51:57.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T21:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101051622495572048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0pmZzsGc0",
+              "end": 53,
+              "expanded_url": "https://x.com/SalaryKoki4581/status/2101051622495572048/photo/1",
+              "media_key": "3_2101051617944780800",
+              "start": 30,
+              "url": "https://t.co/F0pmZzsGc0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101051622495572048",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101051617944780800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 919,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "おはよー\nシルバーウィークが楽しみで早起きの自分を褒めたい https://t.co/F0pmZzsGc0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖中粤英日👌🏻‖日常垢‖友好的私信会回哦\n--------\n谢谢小可爱看到这里w\n光芒乘着风，如果可以到达，就将飞向你的明天~*.+゜",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2101159910214164761",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4996,
+          "following_count": 2927,
+          "like_count": 55518,
+          "listed_count": 13,
+          "media_count": 1083,
+          "tweet_count": 9793
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-25T10:05:45.000Z",
+        "description": "♂｜カリフォルニア出身｜ゲーム・映画・アニメ・スポーツ観戦が好き！\nまおりゅう、イナイレ、プロスピAが好きです！\n最推しは『アオのハコ』の鹿野千夏❤️\n気軽に絡んでください！🙌 タメ口も大歓迎！\n無言フォロー○｜アニメ垢フォロバ100",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sunq.me/t73aao6kap",
+                "end": 23,
+                "expanded_url": "https://sunq.me/t73aao6kap",
+                "start": 0,
+                "url": "https://t.co/iWTFOaUD69"
+              }
+            ]
+          }
+        },
+        "id": "1783437153101561856",
+        "is_identity_verified": false,
+        "location": "日本",
+        "most_recent_tweet_id": "2101096075109257332",
+        "name": "ほえい＠千夏先輩推し",
+        "pinned_tweet_id": "2094410041726292471",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1783437153101561856/1785373604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082633914997510144/3L7v9Hck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 431,
+          "like_count": 4613,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 1180
+        },
+        "url": "https://t.co/iWTFOaUD69",
+        "username": "SalaryKoki4581",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

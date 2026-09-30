@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2101342674293063792",
+    "created_at": "2026-09-20T03:43:11.000Z",
+    "display_text_range": [
+      24,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T04:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101517502916460947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1530170745816354819",
+          "start": 0,
+          "username": "YuYan_Boom"
+        },
+        {
+          "end": 23,
+          "id": "1514956074549448712",
+          "start": 12,
+          "username": "GlunekiKCA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101517502916460947",
+    "in_reply_to_user_id": "1530170745816354819",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101512181447897533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuYan_Boom @GlunekiKCA 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2101342674293063792",
+        "created_at": "2026-09-20T03:43:11.000Z",
+        "display_text_range": [
+          24,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T04:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101517502916460947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1530170745816354819",
+              "start": 0,
+              "username": "YuYan_Boom"
+            },
+            {
+              "end": 23,
+              "id": "1514956074549448712",
+              "start": 12,
+              "username": "GlunekiKCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101517502916460947",
+        "in_reply_to_user_id": "1530170745816354819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101512181447897533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuYan_Boom @GlunekiKCA 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530170745816354819",
+        "conversation_id": "2101342674293063792",
+        "created_at": "2026-09-20T03:22:02.000Z",
+        "display_text_range": [
+          28,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T04:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101512181447897533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            },
+            {
+              "end": 27,
+              "id": "1514956074549448712",
+              "start": 16,
+              "username": "GlunekiKCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101512181447897533",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101469894311350320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille @GlunekiKCA 揍他🤭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖中粤英日👌🏻‖日常垢‖友好的私信会回哦\n--------\n谢谢小可爱看到这里w\n光芒乘着风，如果可以到达，就将飞向你的明天~*.+゜",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2101517502916460947",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5024,
+          "following_count": 2928,
+          "like_count": 55737,
+          "listed_count": 13,
+          "media_count": 1086,
+          "tweet_count": 9815
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-27T12:55:22.000Z",
+        "description": "我不喜欢所有争端，对立。所以谢谢，让我在自己的小世界里自high就好了 需要交流直接推文，私信基本不回 另自用的达蒙vpn：https://t.co/091PdhCBWu 挺好用的，需要的话可以试试",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tw03.damoplane1.com/#/register?cod…",
+                "end": 85,
+                "expanded_url": "https://tw03.damoplane1.com/#/register?code=Ff1h5YaM",
+                "start": 62,
+                "url": "https://t.co/091PdhCBWu"
+              }
+            ]
+          }
+        },
+        "id": "1530170745816354819",
+        "is_identity_verified": false,
+        "location": "Anaheim, CA",
+        "most_recent_tweet_id": "2101512181447897533",
+        "name": "羽砚🐾（睡不醒版",
+        "pinned_tweet_id": "2067749952902824379",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1530170745816354819/1771590668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024824090364887040/m9z-AiYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17866,
+          "following_count": 1371,
+          "like_count": 100845,
+          "listed_count": 47,
+          "media_count": 6794,
+          "tweet_count": 100207
+        },
+        "url": "",
+        "username": "YuYan_Boom",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-15T13:17:41.000Z",
+        "description": "你好，远道而来的朋友～这里是江朝,是无情的发图机器/偶尔碎碎念注意⚠️   |绿咪@lamte15072|可爱黍黍@_Shu_official|老登@KiminTW_Offical |小账@sumeng_kelami",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "lamte15072"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "_Shu_official"
+              },
+              {
+                "end": 90,
+                "start": 74,
+                "username": "KiminTW_Offical"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "sumeng_kelami"
+              }
+            ]
+          }
+        },
+        "id": "1514956074549448712",
+        "is_identity_verified": false,
+        "location": "永夏之梦",
+        "most_recent_tweet_id": "2101511442486960483",
+        "name": "江朝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1514956074549448712/1785171644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063618248851456/VdnNmWC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6552,
+          "following_count": 1537,
+          "like_count": 97461,
+          "listed_count": 30,
+          "media_count": 4962,
+          "tweet_count": 42267
+        },
+        "url": "",
+        "username": "GlunekiKCA",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

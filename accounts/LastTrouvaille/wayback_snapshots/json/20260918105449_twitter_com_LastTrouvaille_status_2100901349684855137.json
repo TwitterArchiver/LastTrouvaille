@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100901332505051137",
+        "3_2100901344890810368"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2100901349684855137",
+    "created_at": "2026-09-18T10:54:49.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T11:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100901349684855137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YNMR7yaJZH",
+          "end": 60,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2100901349684855137/photo/1",
+          "media_key": "3_2100901332505051137",
+          "start": 37,
+          "url": "https://t.co/YNMR7yaJZH"
+        },
+        {
+          "display_url": "pic.x.com/YNMR7yaJZH",
+          "end": 60,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2100901349684855137/photo/1",
+          "media_key": "3_2100901344890810368",
+          "start": 37,
+          "url": "https://t.co/YNMR7yaJZH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100901349684855137",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100901332505051137"
+      },
+      {
+        "media_key": "3_2100901344890810368"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "（讲了一些描述自己晚饭有多好吃的话）\n（讲了一些想让大家好好吃晚饭的话） https://t.co/YNMR7yaJZH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2100901332505051137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSfmoYAbwAE_Zsk.jpg",
+        "width": 4096
+      },
+      {
+        "height": 752,
+        "media_key": "3_2100901344890810368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSfmpGJbcAAxQua.jpg",
+        "width": 785
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100901332505051137",
+            "3_2100901344890810368"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2100901349684855137",
+        "created_at": "2026-09-18T10:54:49.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100901349684855137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YNMR7yaJZH",
+              "end": 60,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2100901349684855137/photo/1",
+              "media_key": "3_2100901332505051137",
+              "start": 37,
+              "url": "https://t.co/YNMR7yaJZH"
+            },
+            {
+              "display_url": "pic.x.com/YNMR7yaJZH",
+              "end": 60,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2100901349684855137/photo/1",
+              "media_key": "3_2100901344890810368",
+              "start": 37,
+              "url": "https://t.co/YNMR7yaJZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100901349684855137",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100901332505051137"
+          },
+          {
+            "media_key": "3_2100901344890810368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（讲了一些描述自己晚饭有多好吃的话）\n（讲了一些想让大家好好吃晚饭的话） https://t.co/YNMR7yaJZH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖中粤英日👌🏻‖日常垢‖可以发DM哦\n---------\n谢谢小可爱看到这里ww\n光芒乘着风，如果可以到达，就将飞向你的明天~*.+゜",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2100901349684855137",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4992,
+          "following_count": 2932,
+          "like_count": 55429,
+          "listed_count": 13,
+          "media_count": 1082,
+          "tweet_count": 9783
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

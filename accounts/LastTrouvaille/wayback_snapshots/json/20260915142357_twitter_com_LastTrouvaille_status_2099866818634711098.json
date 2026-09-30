@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2099866779728400386"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "2099866818634711098",
+    "created_at": "2026-09-15T14:23:57.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T15:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099866818634711098"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7jeiZvlZ3q",
+          "end": 68,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2099866818634711098/video/1",
+          "media_key": "13_2099866779728400386",
+          "start": 45,
+          "url": "https://t.co/7jeiZvlZ3q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099866818634711098",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2099866779728400386"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【sky光遇】《诀别书》 邓垚 光遇钢琴（练习）\n山盟历历\n共我初倾\n锦水汤汤\n与君长诀 https://t.co/7jeiZvlZ3q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 105057,
+        "height": 720,
+        "media_key": "13_2099866779728400386",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099866779728400386/img/Ku7bTdGE5QdF22Yz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099866779728400386/vid/avc1/404x270/V4zyjfPYx4JY9SgU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099866779728400386/vid/avc1/538x360/TUQggKwWtM1q6GQi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099866779728400386/vid/avc1/1078x720/IPChauZiq6pbZQ50.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099866779728400386/pl/LAl_IkDoKA6Cwl0b.m3u8"
+          }
+        ],
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099866779728400386"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2099866818634711098",
+        "created_at": "2026-09-15T14:23:57.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099866818634711098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jeiZvlZ3q",
+              "end": 68,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2099866818634711098/video/1",
+              "media_key": "13_2099866779728400386",
+              "start": 45,
+              "url": "https://t.co/7jeiZvlZ3q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099866818634711098",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099866779728400386"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【sky光遇】《诀别书》 邓垚 光遇钢琴（练习）\n山盟历历\n共我初倾\n锦水汤汤\n与君长诀 https://t.co/7jeiZvlZ3q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖中粤英日👌🏻‖日常垢‖请再多爱我一点\n------------\n光芒乘着风，如果可以到达，就将飞向你的明天",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2099866818634711098",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4983,
+          "following_count": 2935,
+          "like_count": 55121,
+          "listed_count": 13,
+          "media_count": 1083,
+          "tweet_count": 9771
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

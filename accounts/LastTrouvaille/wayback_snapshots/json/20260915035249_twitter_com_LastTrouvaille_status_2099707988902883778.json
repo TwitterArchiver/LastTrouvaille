@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2099688494654452196",
+    "created_at": "2026-09-15T03:52:49.000Z",
+    "display_text_range": [
+      12,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T04:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099707988902883778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "807520879580020736",
+          "start": 0,
+          "username": "0__ayanami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099707988902883778",
+    "in_reply_to_user_id": "807520879580020736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099693351469822017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0__ayanami でも、頑張ったこと自体が、自分がちゃんと向き合ってきた証拠だもんね\nって、いつもそうやって自分を励ましてる...😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2099688494654452196",
+        "created_at": "2026-09-15T03:52:49.000Z",
+        "display_text_range": [
+          12,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099707988902883778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "807520879580020736",
+              "start": 0,
+              "username": "0__ayanami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099707988902883778",
+        "in_reply_to_user_id": "807520879580020736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099693351469822017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0__ayanami でも、頑張ったこと自体が、自分がちゃんと向き合ってきた証拠だもんね\nって、いつもそうやって自分を励ましてる...😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "807520879580020736",
+        "conversation_id": "2099688494654452196",
+        "created_at": "2026-09-15T02:54:40.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T03:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099693351469822017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1590964686328954881",
+              "start": 0,
+              "username": "imukaonashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099693351469822017",
+        "in_reply_to_user_id": "1590964686328954881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099692386834436443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imukaonashi 本当にそう。誰もが報われて欲しい"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖中粤英日👌🏻‖日常垢‖请再多爱我一点\n------------\n光芒乘着风，如果可以到达，就将飞向你的明天",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2099707988902883778",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4984,
+          "following_count": 2930,
+          "like_count": 55043,
+          "listed_count": 13,
+          "media_count": 1081,
+          "tweet_count": 9766
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-12-10T09:42:35.000Z",
+        "description": "ケモ耳が好き│ 超重加工 写真の無断転載×",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/datenchan",
+                "end": 23,
+                "expanded_url": "https://lit.link/datenchan",
+                "start": 0,
+                "url": "https://t.co/raYoDCwADt"
+              }
+            ]
+          }
+        },
+        "id": "807520879580020736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099700836742070685",
+        "name": "daten",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/807520879580020736/1756634047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099693053661663233/bX-y6Xnn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41040,
+          "following_count": 315,
+          "like_count": 193226,
+          "listed_count": 198,
+          "media_count": 2566,
+          "tweet_count": 43095
+        },
+        "url": "https://t.co/raYoDCwADt",
+        "username": "0__ayanami",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-11T07:08:44.000Z",
+        "description": "烏森大黒推し\n時々音ゲー",
+        "id": "1590964686328954881",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099692386834436443",
+        "name": "いむ",
+        "pinned_tweet_id": "1973637973624365342",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1590964686328954881/1761610831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023408049101447168/cMKqXUKj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 376,
+          "like_count": 9236,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 931
+        },
+        "url": "",
+        "username": "imukaonashi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

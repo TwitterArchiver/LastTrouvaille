@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2102098344273383511",
+    "created_at": "2026-09-22T07:28:03.000Z",
+    "display_text_range": [
+      11,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T08:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102298866137919667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1153921233445986304",
+          "start": 0,
+          "username": "shirumesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102298866137919667",
+    "in_reply_to_user_id": "1153921233445986304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102293189008978277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shirumesu 我也不知道为什么ww\ntl一直不推\n果然还是很怀念以前认识的那一批推友啊😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2102098344273383511",
+        "created_at": "2026-09-22T07:28:03.000Z",
+        "display_text_range": [
+          11,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T08:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102298866137919667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1153921233445986304",
+              "start": 0,
+              "username": "shirumesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102298866137919667",
+        "in_reply_to_user_id": "1153921233445986304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102293189008978277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirumesu 我也不知道为什么ww\ntl一直不推\n果然还是很怀念以前认识的那一批推友啊😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153921233445986304",
+        "conversation_id": "2102098344273383511",
+        "created_at": "2026-09-22T07:05:29.000Z",
+        "display_text_range": [
+          16,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T08:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102293189008978277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102293189008978277",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102199942056128631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille cc 老师～总感觉好久不见了 x 怎么回事一直刷不到（）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）聊久了会容易黏着（x）‖中粤英日👌🏻‖日常垢‖友好的私信会回哦\n----------\n谢谢您看到这里🙂‍↕\n光芒乘着风，如果可以到达，就将飞向你的明天~*.+゜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille525",
+                "start": 0,
+                "url": "https://t.co/1wvTNp1EJZ"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2102298866137919667",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5047,
+          "following_count": 2919,
+          "like_count": 56095,
+          "listed_count": 13,
+          "media_count": 1087,
+          "tweet_count": 9838
+        },
+        "url": "https://t.co/1wvTNp1EJZ",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-24T06:53:55.000Z",
+        "description": "我oc: 希露梅斯·莉莉丝·菲利欧露 · 巡礼魔女 ~ 愿歌赫姆的星光永不消逝\ninfp，我不友好，也不坏，说白了我爱干嘛干嘛\n需要正在关注时间线，所以默认不回 fo 致歉\n总而言之祝你开心 ~✧\n\n马斯克你终于发现大伙需要简介换行功能了",
+        "id": "1153921233445986304",
+        "is_identity_verified": false,
+        "location": "致以挚爱的露希尔",
+        "most_recent_tweet_id": "2102293847648899552",
+        "name": "希露梅斯",
+        "pinned_tweet_id": "1936780239897870805",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1153921233445986304/1749159444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085428096594030592/QnFHqptu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 31,
+          "like_count": 31776,
+          "listed_count": 6,
+          "media_count": 587,
+          "tweet_count": 19824
+        },
+        "url": "",
+        "username": "shirumesu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

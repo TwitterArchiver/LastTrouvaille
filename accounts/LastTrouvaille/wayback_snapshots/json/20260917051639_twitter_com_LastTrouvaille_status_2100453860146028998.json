@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100453846246133760",
+        "3_2100453852046831616"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "2100453860146028998",
+    "created_at": "2026-09-17T05:16:39.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T06:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100453860146028998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Fl55RkPUa",
+          "end": 170,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2100453860146028998/photo/1",
+          "media_key": "3_2100453846246133760",
+          "start": 147,
+          "url": "https://t.co/6Fl55RkPUa"
+        },
+        {
+          "display_url": "pic.x.com/6Fl55RkPUa",
+          "end": 170,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2100453860146028998/photo/1",
+          "media_key": "3_2100453852046831616",
+          "start": 147,
+          "url": "https://t.co/6Fl55RkPUa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100453860146028998",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100453846246133760"
+      },
+      {
+        "media_key": "3_2100453852046831616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不是天生爱喝咖啡\n一开始只觉得又苦又涩\n之后爱喝甜的类咖啡饮品\n渐渐又喜欢拿铁那些\n等反应过来早就习惯冰美式了\n其实咖啡一直都那么苦涩\n只是有些东西变得比它更苦涩\n这才尝出那种淡香\n以前喝是想像大人\n现在除了提神，又为了什么呢\n味蕾习惯了，心也习惯了\n抿一口吧，然后去忙\n杯底的苦，回来再喝 https://t.co/6Fl55RkPUa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 478,
+        "media_key": "3_2100453846246133760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZPpPyakAAIy_B.jpg",
+        "width": 613
+      },
+      {
+        "height": 1611,
+        "media_key": "3_2100453852046831616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZPplZaMAAc6yV.jpg",
+        "width": 2039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100453846246133760",
+            "3_2100453852046831616"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2100453860146028998",
+        "created_at": "2026-09-17T05:16:39.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T06:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100453860146028998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Fl55RkPUa",
+              "end": 170,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2100453860146028998/photo/1",
+              "media_key": "3_2100453846246133760",
+              "start": 147,
+              "url": "https://t.co/6Fl55RkPUa"
+            },
+            {
+              "display_url": "pic.x.com/6Fl55RkPUa",
+              "end": 170,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2100453860146028998/photo/1",
+              "media_key": "3_2100453852046831616",
+              "start": 147,
+              "url": "https://t.co/6Fl55RkPUa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100453860146028998",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100453846246133760"
+          },
+          {
+            "media_key": "3_2100453852046831616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不是天生爱喝咖啡\n一开始只觉得又苦又涩\n之后爱喝甜的类咖啡饮品\n渐渐又喜欢拿铁那些\n等反应过来早就习惯冰美式了\n其实咖啡一直都那么苦涩\n只是有些东西变得比它更苦涩\n这才尝出那种淡香\n以前喝是想像大人\n现在除了提神，又为了什么呢\n味蕾习惯了，心也习惯了\n抿一口吧，然后去忙\n杯底的苦，回来再喝 https://t.co/6Fl55RkPUa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖中粤英日👌🏻‖日常垢‖请再多爱我一点\n------------\n光芒乘着风，如果可以到达，就将飞向你的明天",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2100453860146028998",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4987,
+          "following_count": 2932,
+          "like_count": 55263,
+          "listed_count": 13,
+          "media_count": 1085,
+          "tweet_count": 9783
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

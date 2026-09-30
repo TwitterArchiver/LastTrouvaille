@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101335441291325441",
+        "3_2101335449033977856"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "2101335454247473388",
+    "created_at": "2026-09-19T15:39:47.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T16:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101335454247473388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ceMMXoG1iZ",
+          "end": 105,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2101335454247473388/photo/1",
+          "media_key": "3_2101335441291325441",
+          "start": 82,
+          "url": "https://t.co/ceMMXoG1iZ"
+        },
+        {
+          "display_url": "pic.x.com/ceMMXoG1iZ",
+          "end": 105,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2101335454247473388/photo/1",
+          "media_key": "3_2101335449033977856",
+          "start": 82,
+          "url": "https://t.co/ceMMXoG1iZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101335454247473388",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101335441291325441"
+      },
+      {
+        "media_key": "3_2101335449033977856"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "等等等等，大事！大事！！\n已经5千fo了吗原来！！\n完全没有留意👉🏻👈🏻\n谢谢支持咪www\n突然一下子很开心，不知道要说什么好（咳\n总之总之，一个都不许离开我（盯 https://t.co/ceMMXoG1iZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2752,
+        "media_key": "3_2101335441291325441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSlxc1QbsAEJTqs.jpg",
+        "width": 1440
+      },
+      {
+        "height": 252,
+        "media_key": "3_2101335449033977856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSlxdSGbMAATSqO.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101335441291325441",
+            "3_2101335449033977856"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2101335454247473388",
+        "created_at": "2026-09-19T15:39:47.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101335454247473388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ceMMXoG1iZ",
+              "end": 105,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2101335454247473388/photo/1",
+              "media_key": "3_2101335441291325441",
+              "start": 82,
+              "url": "https://t.co/ceMMXoG1iZ"
+            },
+            {
+              "display_url": "pic.x.com/ceMMXoG1iZ",
+              "end": 105,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2101335454247473388/photo/1",
+              "media_key": "3_2101335449033977856",
+              "start": 82,
+              "url": "https://t.co/ceMMXoG1iZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101335454247473388",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101335441291325441"
+          },
+          {
+            "media_key": "3_2101335449033977856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等等等等，大事！大事！！\n已经5千fo了吗原来！！\n完全没有留意👉🏻👈🏻\n谢谢支持咪www\n突然一下子很开心，不知道要说什么好（咳\n总之总之，一个都不许离开我（盯 https://t.co/ceMMXoG1iZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖中粤英日👌🏻‖日常垢‖友好的私信会回哦\n--------\n谢谢小可爱看到这里w\n光芒乘着风，如果可以到达，就将飞向你的明天~*.+゜",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2101335454247473388",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5000,
+          "following_count": 2927,
+          "like_count": 55656,
+          "listed_count": 13,
+          "media_count": 1085,
+          "tweet_count": 9800
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

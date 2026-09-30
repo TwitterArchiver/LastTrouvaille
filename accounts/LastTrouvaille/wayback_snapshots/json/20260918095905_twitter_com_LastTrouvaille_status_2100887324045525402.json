@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2100436341624541495",
+    "created_at": "2026-09-18T09:59:05.000Z",
+    "display_text_range": [
+      7,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T10:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100887324045525402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2710670984",
+          "start": 0,
+          "username": "_k256"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100887324045525402",
+    "in_reply_to_user_id": "2710670984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100436341624541495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_k256 可愛い先生が描いた可愛いキャラ…\n最高だよ*.+゜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2100436341624541495",
+        "created_at": "2026-09-18T09:59:05.000Z",
+        "display_text_range": [
+          7,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T10:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100887324045525402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2710670984",
+              "start": 0,
+              "username": "_k256"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100887324045525402",
+        "in_reply_to_user_id": "2710670984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100436341624541495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_k256 可愛い先生が描いた可愛いキャラ…\n最高だよ*.+゜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2710670984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2100436341624541495",
+        "created_at": "2026-09-17T04:07:02.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T05:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100436341624541495"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100436341624541495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1423,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "たまに自分の絵を見返すと描いていく度に顔が可愛くなっていて良い"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖中粤英日👌🏻‖日常垢‖可以发DM哦\n---------\n谢谢小可爱看到这里ww\n光芒乘着风，如果可以到达，就将飞向你的明天~*.+゜",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2100887324045525402",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4991,
+          "following_count": 2933,
+          "like_count": 55424,
+          "listed_count": 13,
+          "media_count": 1081,
+          "tweet_count": 9782
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-08-06T00:31:45.000Z",
+        "description": "k.a.256 (Kaito Ariga) ⋮ DM× ⋮ Contact→https://t.co/TUOWXmKc5P ⋮ fa→#ka2co6_4rt ⋮ https://t.co/80fMeq293U ⋮ 🩹⚗️ ⋮ ☁🐈🩵 ⋮",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 67,
+                "tag": "ka2co6_4rt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ka256.jp",
+                "end": 61,
+                "expanded_url": "https://ka256.jp",
+                "start": 38,
+                "url": "https://t.co/TUOWXmKc5P"
+              },
+              {
+                "display_url": "skeb.jp/@_k256",
+                "end": 104,
+                "expanded_url": "https://skeb.jp/@_k256",
+                "start": 81,
+                "url": "https://t.co/80fMeq293U"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ka256.jp",
+                "end": 23,
+                "expanded_url": "https://ka256.jp",
+                "start": 0,
+                "url": "https://t.co/TUOWXmKc5P"
+              }
+            ]
+          }
+        },
+        "id": "2710670984",
+        "is_identity_verified": true,
+        "location": "Japan",
+        "most_recent_tweet_id": "2100799956206662033",
+        "name": "k.a.256 / 10/8-14 TCM2 渋谷",
+        "pinned_tweet_id": "2086739339980206486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2710670984/1748479232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549425302769664/YsJ-YLMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40141,
+          "following_count": 1395,
+          "like_count": 83547,
+          "listed_count": 417,
+          "media_count": 5909,
+          "tweet_count": 125785
+        },
+        "url": "https://t.co/TUOWXmKc5P",
+        "username": "_k256",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

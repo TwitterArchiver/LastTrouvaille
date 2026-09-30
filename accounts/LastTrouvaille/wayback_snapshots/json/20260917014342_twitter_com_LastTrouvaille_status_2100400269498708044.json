@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2100378774013637004",
+    "created_at": "2026-09-17T01:43:42.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T02:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100400269498708044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1643785305533874177",
+          "start": 0,
+          "username": "MeraK_Rinchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100400269498708044",
+    "in_reply_to_user_id": "1643785305533874177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100381580661596546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeraK_Rinchi 吃！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2100378774013637004",
+        "created_at": "2026-09-17T01:43:42.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T02:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100400269498708044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1643785305533874177",
+              "start": 0,
+              "username": "MeraK_Rinchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100400269498708044",
+        "in_reply_to_user_id": "1643785305533874177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100381580661596546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeraK_Rinchi 吃！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643785305533874177",
+        "conversation_id": "2100378774013637004",
+        "created_at": "2026-09-17T00:29:26.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T01:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100381580661596546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100381580661596546",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100378774013637004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 好好吃饭！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖中粤英日👌🏻‖日常垢‖请再多爱我一点\n------------\n光芒乘着风，如果可以到达，就将飞向你的明天",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2100400269498708044",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4985,
+          "following_count": 2930,
+          "like_count": 55252,
+          "listed_count": 13,
+          "media_count": 1084,
+          "tweet_count": 9779
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-06T01:19:01.000Z",
+        "description": "旧名凛柒 ——「君の傷を叫んでよ」\n120第一男高音 & 704第一狙击手 | 最好的Ashley：@hmj404；巫女sama：@se_hui33649；绫小洛：@AspiLin0；哥哥：@Matsuki_Shr1veL；逃生舱：@Hoshi_MeraK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 50,
+                "username": "hmj404"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "se_hui33649"
+              },
+              {
+                "end": 91,
+                "start": 82,
+                "username": "AspiLin0"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Matsuki_Shr1veL"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "Hoshi_MeraK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/karagawa_roku2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/karagawa_roku2",
+                "start": 0,
+                "url": "https://t.co/H1yqKwcN6p"
+              }
+            ]
+          }
+        },
+        "id": "1643785305533874177",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2100381580661596546",
+        "name": "༺空川🎇陸🎆༻",
+        "pinned_tweet_id": "2086979027253006375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643785305533874177/1765846893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065261866943913984/o-XegWu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 417,
+          "like_count": 27958,
+          "listed_count": 0,
+          "media_count": 324,
+          "tweet_count": 2413
+        },
+        "url": "https://t.co/H1yqKwcN6p",
+        "username": "MeraK_Rinchi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

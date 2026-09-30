@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097505818979770368"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "2097505824285553145",
+    "created_at": "2026-09-09T02:02:12.000Z",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T03:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097505824285553145"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YszT9D47sV",
+          "end": 131,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2097505824285553145/photo/1",
+          "media_key": "3_2097505818979770368",
+          "start": 108,
+          "url": "https://t.co/YszT9D47sV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097505824285553145",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097505818979770368"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近经常有这种情况\n朋友给我发消息，点开来看了看\n然后大脑想了下要回什么就以为已经回了\n过了相当一段时间发现对方没回才感觉不对劲\n已经退化（？）到使用脑电波交流了（\n看来我的呆毛还得再长一点）\n全域发送信号ing📶 https://t.co/YszT9D47sV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 717,
+        "media_key": "3_2097505818979770368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRvWbeaaoAA7_t5.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097505818979770368"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2097505824285553145",
+        "created_at": "2026-09-09T02:02:12.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T03:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097505824285553145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YszT9D47sV",
+              "end": 131,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2097505824285553145/photo/1",
+              "media_key": "3_2097505818979770368",
+              "start": 108,
+              "url": "https://t.co/YszT9D47sV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097505824285553145",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097505818979770368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近经常有这种情况\n朋友给我发消息，点开来看了看\n然后大脑想了下要回什么就以为已经回了\n过了相当一段时间发现对方没回才感觉不对劲\n已经退化（？）到使用脑电波交流了（\n看来我的呆毛还得再长一点）\n全域发送信号ing📶 https://t.co/YszT9D47sV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好啦‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）很熟很熟的话会话痨（划掉）‖中粤英‖日常垢",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2097505824285553145",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4957,
+          "following_count": 2991,
+          "like_count": 54570,
+          "listed_count": 14,
+          "media_count": 1073,
+          "tweet_count": 9721
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
