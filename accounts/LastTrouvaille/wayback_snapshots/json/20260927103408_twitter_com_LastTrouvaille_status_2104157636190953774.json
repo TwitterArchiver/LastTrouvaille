@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104157600518643712",
+        "3_2104157627194503168"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2104157636190953774",
+    "created_at": "2026-09-27T10:34:08.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T11:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104157636190953774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8ikcz0UMNu",
+          "end": 41,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2104157636190953774/photo/1",
+          "media_key": "3_2104157600518643712",
+          "start": 18,
+          "url": "https://t.co/8ikcz0UMNu"
+        },
+        {
+          "display_url": "pic.x.com/8ikcz0UMNu",
+          "end": 41,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2104157636190953774/photo/1",
+          "media_key": "3_2104157627194503168",
+          "start": 18,
+          "url": "https://t.co/8ikcz0UMNu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104157636190953774",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104157600518643712"
+      },
+      {
+        "media_key": "3_2104157627194503168"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天的晚饭是鳗鱼拼照烧鸡~*.+゜ https://t.co/8ikcz0UMNu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2104157600518643712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTN4MHpaIAAXxOe.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2104157627194503168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTN4NrBbcAAiSTq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104157600518643712",
+            "3_2104157627194503168"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2104157636190953774",
+        "created_at": "2026-09-27T10:34:08.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T11:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104157636190953774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ikcz0UMNu",
+              "end": 41,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2104157636190953774/photo/1",
+              "media_key": "3_2104157600518643712",
+              "start": 18,
+              "url": "https://t.co/8ikcz0UMNu"
+            },
+            {
+              "display_url": "pic.x.com/8ikcz0UMNu",
+              "end": 41,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2104157636190953774/photo/1",
+              "media_key": "3_2104157627194503168",
+              "start": 18,
+              "url": "https://t.co/8ikcz0UMNu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104157636190953774",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104157600518643712"
+          },
+          {
+            "media_key": "3_2104157627194503168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天的晚饭是鳗鱼拼照烧鸡~*.+゜ https://t.co/8ikcz0UMNu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）聊久了容易黏人（x）‖中粤英日👌🏻‖日常垢‖友好私信会回哦\n---------\n谢谢您看到这里🙂‍↕\n光芒乘着风，如果可以到达，就将飞向你的明天~*.+゜",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2104157636190953774",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5084,
+          "following_count": 2940,
+          "like_count": 56312,
+          "listed_count": 13,
+          "media_count": 1098,
+          "tweet_count": 9912
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2104613096128135324",
+    "created_at": "2026-09-29T01:44:54.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T02:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104749226139996372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597157388330536960",
+          "start": 0,
+          "username": "Praesepe_F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104749226139996372",
+    "in_reply_to_user_id": "1597157388330536960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104613096128135324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Praesepe_F 阿p生日快乐！！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2104613096128135324].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2104613096128135324",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2104613096128135324"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2104613096128135324",
+        "created_at": "2026-09-29T01:44:54.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T02:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104749226139996372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597157388330536960",
+              "start": 0,
+              "username": "Praesepe_F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104749226139996372",
+        "in_reply_to_user_id": "1597157388330536960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104613096128135324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Praesepe_F 阿p生日快乐！！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）聊久了容易黏人（x）‖中粤英日👌🏻‖日常垢\n---------\n谢谢您看到这里🙂‍↕\n光芒乘着风，如果可以到达，就将飞向你的明天~*.+゜",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2104749226139996372",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5091,
+          "following_count": 2928,
+          "like_count": 56502,
+          "listed_count": 13,
+          "media_count": 1099,
+          "tweet_count": 9923
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T09:16:20.000Z",
+        "description": "红雨瓢泼泛起了回忆怎么潜，你美目如当年， 流转我心间，渡口边最后一面洒下了句点，与你若只如初见，何须感伤离别。",
+        "id": "1597157388330536960",
+        "is_identity_verified": false,
+        "location": "阿戈尔水世界",
+        "most_recent_tweet_id": "2036809135388565874",
+        "name": "椰椰斯卡蒂",
+        "pinned_tweet_id": "1953680922894569957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597157388330536960/1758818418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012899254558248961/3ilz9Cko_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7300,
+          "following_count": 576,
+          "like_count": 10459,
+          "listed_count": 18,
+          "media_count": 75,
+          "tweet_count": 3063
+        },
+        "url": "",
+        "username": "Praesepe_F",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

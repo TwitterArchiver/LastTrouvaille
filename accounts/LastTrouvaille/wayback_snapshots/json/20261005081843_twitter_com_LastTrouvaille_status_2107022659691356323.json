@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2106993407860334978",
+    "created_at": "2026-10-05T08:18:43.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T09:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107022659691356323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1596887209835388928",
+          "start": 0,
+          "username": "Kuruolyuuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107022659691356323",
+    "in_reply_to_user_id": "1596887209835388928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106993407860334978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuruolyuuki 好像啊！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106993401627607040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT2LVeAbAAAhM4e.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2106993407860334978",
+        "created_at": "2026-10-05T08:18:43.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T09:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107022659691356323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1596887209835388928",
+              "start": 0,
+              "username": "Kuruolyuuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107022659691356323",
+        "in_reply_to_user_id": "1596887209835388928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106993407860334978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuruolyuuki 好像啊！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106993401627607040"
+          ]
+        },
+        "author_id": "1596887209835388928",
+        "conversation_id": "2106993407860334978",
+        "created_at": "2026-10-05T06:22:29.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T07:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106993407860334978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jOGIJm97W5",
+              "end": 53,
+              "expanded_url": "https://x.com/Kuruolyuuki/status/2106993407860334978/photo/1",
+              "media_key": "3_2106993401627607040",
+              "start": 30,
+              "url": "https://t.co/jOGIJm97W5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106993407860334978",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106993401627607040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 509,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我拍了一百多张，打算一天发一张\n（其实只是每个角度都拍了） https://t.co/jOGIJm97W5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）聊天的话不用担心踩雷‖中粤英日👌🏻‖日常垢\n-------------\n谢谢您看到这里🙂‍↕\n光芒乘着风，如果可以到达，就将飞向你的明天~*.+゜",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2107022659691356323",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5119,
+          "following_count": 2942,
+          "like_count": 57097,
+          "listed_count": 13,
+          "media_count": 1107,
+          "tweet_count": 9902
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-27T15:22:45.000Z",
+        "description": "ちょっとした独り言と、好きなデザインと、私のかけら",
+        "id": "1596887209835388928",
+        "is_identity_verified": false,
+        "location": "Chiyoda-ku, Tokyo",
+        "most_recent_tweet_id": "2107000730049724789",
+        "name": "Zeconky",
+        "pinned_tweet_id": "1935325553655169244",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596887209835388928/1682617367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050842125416476672/ZIgsjXNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3817,
+          "following_count": 552,
+          "like_count": 6135,
+          "listed_count": 4,
+          "media_count": 1856,
+          "tweet_count": 11276
+        },
+        "url": "",
+        "username": "Kuruolyuuki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

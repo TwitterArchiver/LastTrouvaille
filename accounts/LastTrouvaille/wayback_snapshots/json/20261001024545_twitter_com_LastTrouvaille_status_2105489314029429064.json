@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1691242509815754754",
+    "conversation_id": "2105140446955753690",
+    "created_at": "2026-10-01T02:45:45.000Z",
+    "display_text_range": [
+      10,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T03:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105489314029429064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1491832400661209088",
+          "start": 0,
+          "username": "Nomia755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105489314029429064",
+    "in_reply_to_user_id": "1491832400661209088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105488703309406244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nomia755 因为喜欢和热爱吧😌\n是自己青春的一部分\n想要好好的纪念一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "2105140446955753690",
+        "created_at": "2026-10-01T02:45:45.000Z",
+        "display_text_range": [
+          10,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T03:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105489314029429064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1491832400661209088",
+              "start": 0,
+              "username": "Nomia755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105489314029429064",
+        "in_reply_to_user_id": "1491832400661209088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105488703309406244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nomia755 因为喜欢和热爱吧😌\n是自己青春的一部分\n想要好好的纪念一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491832400661209088",
+        "conversation_id": "2105140446955753690",
+        "created_at": "2026-10-01T02:43:19.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T03:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105488703309406244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105488703309406244",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105140446955753690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille 好有实力！！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）聊天的话不用担心踩雷‖中粤英日👌🏻‖日常垢\n-------------\n谢谢您看到这里🙂‍↕\n光芒乘着风，如果可以到达，就将飞向你的明天~*.+゜",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2105489314029429064",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5092,
+          "following_count": 2926,
+          "like_count": 56684,
+          "listed_count": 13,
+          "media_count": 1103,
+          "tweet_count": 9936
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-10T17:52:26.000Z",
+        "description": "糯米鸭冰皮月饼（扩充互关中）@idtNothinglose 冷宝终极无敌单推人 ！！！！！小号更新恋爱日常@yummy1551",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "idtNothinglose"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "yummy1551"
+              }
+            ]
+          }
+        },
+        "id": "1491832400661209088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105488703309406244",
+        "name": "糯米鸭🐣",
+        "pinned_tweet_id": "2104656525545632022",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491832400661209088/1644555314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005833465527427074/MgihHdsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2975,
+          "following_count": 1736,
+          "like_count": 39240,
+          "listed_count": 11,
+          "media_count": 134,
+          "tweet_count": 7559
+        },
+        "url": "",
+        "username": "Nomia755",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

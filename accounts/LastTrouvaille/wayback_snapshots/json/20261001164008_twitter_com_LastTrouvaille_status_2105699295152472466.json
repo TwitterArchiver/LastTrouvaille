@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105699276567568384",
+        "3_2105699286822649856"
+      ]
+    },
+    "author_id": "1691242509815754754",
+    "conversation_id": "2105699295152472466",
+    "created_at": "2026-10-01T16:40:08.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T17:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105699295152472466"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6z3hU7JCoJ",
+          "end": 39,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2105699295152472466/photo/1",
+          "media_key": "3_2105699276567568384",
+          "start": 16,
+          "url": "https://t.co/6z3hU7JCoJ"
+        },
+        {
+          "display_url": "pic.x.com/6z3hU7JCoJ",
+          "end": 39,
+          "expanded_url": "https://x.com/LastTrouvaille/status/2105699295152472466/photo/1",
+          "media_key": "3_2105699286822649856",
+          "start": 16,
+          "url": "https://t.co/6z3hU7JCoJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105699295152472466",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105699276567568384"
+      },
+      {
+        "media_key": "3_2105699286822649856"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那一天，我向你，起誓了永恒的爱 https://t.co/6z3hU7JCoJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1813,
+        "media_key": "3_2105699276567568384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTjyVeebYAA81qB.jpg",
+        "width": 1367
+      },
+      {
+        "height": 1822,
+        "media_key": "3_2105699286822649856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTjyWErbgAAmSxT.jpg",
+        "width": 1352
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105699276567568384",
+            "3_2105699286822649856"
+          ]
+        },
+        "author_id": "1691242509815754754",
+        "conversation_id": "2105699295152472466",
+        "created_at": "2026-10-01T16:40:08.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T17:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105699295152472466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6z3hU7JCoJ",
+              "end": 39,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2105699295152472466/photo/1",
+              "media_key": "3_2105699276567568384",
+              "start": 16,
+              "url": "https://t.co/6z3hU7JCoJ"
+            },
+            {
+              "display_url": "pic.x.com/6z3hU7JCoJ",
+              "end": 39,
+              "expanded_url": "https://x.com/LastTrouvaille/status/2105699295152472466/photo/1",
+              "media_key": "3_2105699286822649856",
+              "start": 16,
+              "url": "https://t.co/6z3hU7JCoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105699295152472466",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105699276567568384"
+          },
+          {
+            "media_key": "3_2105699286822649856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那一天，我向你，起誓了永恒的爱 https://t.co/6z3hU7JCoJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）聊天的话不用担心踩雷‖中粤英日👌🏻‖日常垢\n-------------\n谢谢您看到这里🙂‍↕\n光芒乘着风，如果可以到达，就将飞向你的明天~*.+゜",
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2105699295152472466",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5092,
+          "following_count": 2933,
+          "like_count": 56798,
+          "listed_count": 13,
+          "media_count": 1105,
+          "tweet_count": 9942
+        },
+        "url": "",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
